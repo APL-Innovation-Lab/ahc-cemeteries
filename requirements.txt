@@ -1,0 +1,3 @@
+datasette
+datasette-cluster-map
+# Add any other dependencies here

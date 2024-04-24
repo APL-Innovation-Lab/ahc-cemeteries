@@ -1,0 +1,16 @@
+{
+  "name": "Datasette with SpatiaLite",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.9",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-python.python"
+  ],
+  "forwardPorts": [8001],
+  "postCreateCommand": "pip install datasette && pip install datasette-cluster-map",
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached"
+  ],
+  "remoteUser": "vscode"
+}
