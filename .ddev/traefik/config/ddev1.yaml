@@ -1,0 +1,86 @@
+#ddev-generated
+
+http:
+  routers:
+    
+    
+    ddev1-web-80-http:
+      
+      rule: HostRegexp(`ddev1.ddev.site`)
+      
+      service: "ddev1-web-80-http"
+      tls: false
+      entrypoints:
+        - http-80
+    
+    
+    ddev1-web-8025-http:
+      
+      rule: HostRegexp(`ddev1.ddev.site`)
+      
+      service: "ddev1-web-8025-http"
+      tls: false
+      entrypoints:
+        - http-8025
+    
+    
+    
+    
+    
+    
+    ddev1-web-80-https:
+      
+      rule: HostRegexp(`ddev1.ddev.site`)
+      
+      service: "ddev1-web-80-https"
+      
+      tls: true
+      
+      entrypoints:
+        - http-443
+    
+    
+    ddev1-web-8025-https:
+      
+      rule: HostRegexp(`ddev1.ddev.site`)
+      
+      service: "ddev1-web-8025-https"
+      
+      tls: true
+      
+      entrypoints:
+        - http-8026
+    
+    
+
+  services:
+    
+    ddev1-web-80-http:
+      loadbalancer:
+        servers:
+          - url: http://ddev-ddev1-web:80
+    
+    ddev1-web-8025-http:
+      loadbalancer:
+        servers:
+          - url: http://ddev-ddev1-web:8025
+    
+    ddev1-web-80-https:
+    
+      loadbalancer:
+        servers:
+          - url: http://ddev-ddev1-web:80
+    
+    ddev1-web-8025-https:
+    
+      loadbalancer:
+        servers:
+          - url: http://ddev-ddev1-web:8025
+    
+
+
+tls:
+  certificates:
+    - certFile: /mnt/ddev-global-cache/traefik/certs/ddev1.crt
+      keyFile: /mnt/ddev-global-cache/traefik/certs/ddev1.key
+
