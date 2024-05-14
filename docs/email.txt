@@ -1,0 +1,98 @@
+Ok, I am on a mission to finish this up so we can get rid of the server. Sorry have taken so long to follow up on your email. Move planning took over my life.
+ 
+Some of the comments below are to you but many of them are to myself as things to do.
+ 
+Normalized entries - I am looking at the files in the zip folder and your steps below and I am bit confused as to what I need to do – are you asking in step #5 below that I look at the csv files in \cemeteries-ahc.zip\cemeteries-ahc\normalized records to confirm that the results were as expected?  I hope so, because that is what I did!
+Normalized_birthplace
+These all look good
+Molly to clean-up one off weirdness
+Normalized_cemetery
+Pauper grounds looks good
+Normalized_hospital
+Molly to manually fix the repeat “Austin”
+Normalized_name
+Soooo, my request to move names in parenthesis backfired here – I didn’t realize that so many of them were going to be “Mrs.” and “Infant of”. I will fix the ones I want moved over manually so we can skip this normalization
+Normalized_names­_unknown
+This looks good - there are only 127 of these entries – I can manually adjust the situations where the first and last name combination or where the “name” is actually an ethnicity that needs to be moved to appropriate column
+Update to “Unknown first and/or last name” – there are some cases that both are unknown
+Molly to update manually names with “Negro” City of Austin Cemetery Database | Austin Public Library (austintexas.gov)
+Normalized_whereburied
+Previous normalization - Missed normalization in “Where Buried” to Historic “Colored Grounds” (Molly didn’t list these names originally) – Molly can also update these manually
+colored grave yard
+colored cemetery
+Colored ground
+Colored grounds
+Colored lot
+Negro burying ground
+Negro grave yard
+Molly to fix random State Cemetery oddities
+Molly to normalize Stranger’s Grounds
+Molly to normalize Catholic
+Molly to normalize Hebrew and Jewish Grounds variations
+Search function            
+Not sure where we landed on this – currently there is name and place of burial search capability but we need to be able to search all the fields – did we decide we were just going to add a generic “keyword” search box? Year search box? Most likely keyword would be fine.
+I think we decided against filtering since this database is just a temporary stop gap until PARD gets their database completed it will be more comprehensive than ours – not worth the trouble
+Extra columns
+Name updates (community input)
+Cause of Death updates (community input)
+Additional research (community input)
+Link to ASpace – update this sentence in the introduction with hyperlink
+Information about accessing the original ledgers and other information regarding the Oakwood Cemetery, and other City-owned cemeteries, including maps, clippings, and photographs is available in the Guide to the Collection
+Feedback form - ​docx icon FeedbackForm.docx
+Generic feedback form for all websites (ASpace, Preservica, Cemeteries, etc.)
+I received an email from the contact form so that works but the email should go to austin.historycenter@austintexas.gov
+Database of responses to track?
+How to edit?
+Where to link – replace
+ 
+In looking at the our meeting notes (Bryce – 2023 April  (Web view) and Bryce – 2022 September 27  (Web view)) I think these are all the remaining issues. Please let me know if I have missed anything or misunderstood what I was supposed to do.
+ 
+ 
+Thanks,
+Molly Hults | Collections Manager
+Austin History Center | Austin Public Library
+molly.hults@austintexas.gov | 512 974 7382
+she/her/hers
+A picture containing text
+
+Description automatically generatedsignature_1022817601  LIBRARY FOR ALL! 
+  aplaopp:APL_Graphic_Design:APL:Social Media:social media icons:plus_social_media-05.png  aplaopp:APL_Graphic_Design:APL:Social Media:icons:social media icons:plus_social_media-10.png  social_media_square2-01.jpg  aplaopp:APL_Graphic_Design:APL:Social Media:social media icons:plus_social_media-06.png    
+MISSION: Inspiring all to discover, learn, and create.
+VISION: Austin Public Library: A model of equity, inclusion, access, and diversity
+ 
+From: Benton, Bryce <Bryce.Benton@austintexas.gov>
+Sent: Friday, May 19, 2023 11:48 AM
+To: Hults, Molly <Molly.Hults@austintexas.gov>
+Subject: Update on Data Export and Normalization Process
+ 
+(apologies for the robot-created message to follow.. it was an easy way for me to explain some stuff, and orient you to the .zip file that I’m including. It has some CSV files that you can look over, if you want, however I think the data is just fine.. I’ve been combing through it a lot in various ways…)
+
+I’m going to import the normalized records this afternoon. Do let me know if you see any issues, but I think it will be okay and/or we can recover easily. --bryce
+
+~~~
+Dear Molly,
+ 
+I hope this email finds you well. I wanted to provide you with an update on the recent progress we've made regarding the data export and normalization process for the Oakwood database. Firstly, I would like to apologize for the extended duration it took to complete this task. With over 16,000 records to process, it turned out to be quite an interesting and challenging endeavor.
+ 
+Here's a summary of the steps we have taken so far:
+ 
+1. Exported the eight Oakwood CSV files (oakwood1.csv to oakwood8.csv) from Drupal, which contained the raw data we needed for the normalization process.
+ 
+2. Merged these individual CSV files into a single consolidated file called "combined.csv" to streamline the data manipulation process.
+ 
+3. Prior to proceeding with any modifications, we created a backup of the "combined.csv" file, ensuring we have a safeguard in case any unforeseen issues arise. The backup is timestamped with the current date.
+ 
+4. We made manual edits to the "combined.csv" file to rectify apparent column mismatches. These changes have been meticulously documented in the "diff.txt" file, which outlines the modifications made and the reasoning behind them.
+ 
+5. To facilitate data sorting, analysis, and correction, we utilized both bash (.sh) and Python3 (.py) scripts. These scripts have been designed to normalize the data and generate separate "normalized_*.csv" files for each specific category. These files can now be inspected to verify the accuracy and coverage of the changes made. This step ensures that we have accounted for all necessary modifications and mitigates the risk of inadvertent overwriting or incorrect additions/removals.
+ 
+6. Assuming that the normalized CSV files accurately reflect the desired changes, Bryce will be importing these modifications into the database on Friday afternoon. It's important to note that, if needed, we have the capability to rollback or edit the records to rectify any unforeseen issues that may arise during the import process.
+ 
+Moving forward, we kindly request your assistance with testing out the contact form and reviewing the wording or any other aspects that may require adjustments. Your feedback is crucial in ensuring that the user experience is optimal. Please don't hesitate to reach out to Bryce if you have any suggestions or concerns.
+ 
+Once again, we apologize for the extended timeline, but we are confident that the results will be worth the effort invested. If you have any questions or require further clarification, please feel free to ask. We greatly appreciate your patience and cooperation throughout this process.
+ 
+Thank you for your understanding and support.
+ 
+Best regards,
+Bryce
