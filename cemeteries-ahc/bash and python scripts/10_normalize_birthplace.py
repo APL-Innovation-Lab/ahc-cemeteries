@@ -1,7 +1,5 @@
 import csv
 
-import csv
-
 def normalize_birthplace(field):
     if field == "AK":
         return "Alaska"
