@@ -1,1 +1,9 @@
 .DS_Store
+# Editor configurations
+.editorconfig
+.gitattributes
+
+# Specific directories
+cemeteries-ahc/bash and python scripts/myenv/
+html/
+vendor/

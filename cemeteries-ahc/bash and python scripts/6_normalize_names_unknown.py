@@ -6,7 +6,7 @@ with open('combined.csv', 'r') as infile, open('normalized_names_unknown.csv', '
     writer = csv.writer(outfile)
 
     # Write the header to the destination file
-    writer.writerow(['pkoakwood', 'firstname', 'lastname', 'name_archival_and_communit'])
+    writer.writerow(['pkoakwood', 'firstname', 'lastname', 'name_contribution'])
 
     # Process each row from the source file
     for row in reader:

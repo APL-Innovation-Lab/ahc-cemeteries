@@ -6,6 +6,9 @@ with open('combined.csv', 'r') as infile, open('normalized_whereburied.csv', 'w'
     reader = csv.reader(infile, delimiter=',', quotechar='"')
     writer = csv.writer(outfile, delimiter=',', quotechar='"')
 
+    # Write the header to the destination file
+    writer.writerow(['pkoakwood', 'whereburied'])
+
     # Define the regex pattern
     pattern = re.compile(r'Negro cemetery|Negro grave yarad|Negro grave yard|Negro  cemetery|Negro burial grounds?|burying ground on block|Negro grounds|Negro new cemetery')
 

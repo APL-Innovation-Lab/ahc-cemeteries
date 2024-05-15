@@ -34,6 +34,6 @@ def merge_csv_files_in_directory(directory_path, primary_key, base_file_name, ou
 # Example usage
 directory_path = '.'  # Current directory
 primary_key = 'pkoakwood'
-base_file_name = 'cemeteries.csv'
+base_file_name = 'ahc-cemeteries.csv'
 output_file_path = 'updated_cemeteries.csv'
 merge_csv_files_in_directory(directory_path, primary_key, base_file_name, output_file_path)
