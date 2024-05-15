@@ -1,0 +1,40 @@
+12314c12314
+< 12338,Thelma Lee (Infant),Chinn,,001-06-00,F,W,Texas,,S.A. Woolsey,,Old Grounds,,,,5/6/14
+---
+> 12338,Thelma Lee (Infant),Chinn,,001-06-00, ,F,W,Texas,S.A. Woolsey,,Old Grounds,,,,5/6/14
+12982c12982
+< 13007,Dorothy Louise,Jones,,000-03-12,F,White,,Tex,R V Murray,,834,,,,6/10/15
+---
+> 13007,Dorothy Louise,Jones,,000-03-12,F,White,Tex,,R V Murray,,834,,,,6/10/15
+13148c13148
+< 13173,Oddie,Pool,,022-10-01,M,White,,"Homer L Wilson, San Antonio",,,918 1/2,,,,11/5/15
+---
+> 13173,Oddie,Pool,,022-10-01,M,White,,,"Homer L Wilson, San Antonio",,918 1/2,,,,11/5/15
+13410c13410
+< 13435,J Gordon,Brown,,068-00-00,M,White,,Scotland,Joe S Wooten,,771,,,,3/6/16
+---
+> 13435,J Gordon,Brown,,068-00-00,M,White,Scotland,,Joe S Wooten,,771,,,,3/6/16
+13412c13412
+< 13437,W B,Brush,,063-00-00,M,White,,NJ,F P McLaughlin,,361,,,,3/6/16
+---
+> 13437,W B,Brush,,063-00-00,M,White,NJ,,F P McLaughlin,,361,,,,3/6/16
+13579c13579
+< 13604,Inft,Martinez,,000-00-04,,African American,,W E Watt,,,993,,,,9/27/16
+---
+> 13604,Inft,Martinez,,000-00-04,,African American,,,W E Watt,,993,,,,9/27/16
+13599c13599
+< 13624,Louis,Selleh,,000-06-03,M,White,,Dr Wooten,,Mount Calvary,,,,,10/6/16
+---
+> 13624,Louis,Selleh,,000-06-03,M,White,,,Dr Wooten,Mount Calvary,,,,,10/6/16
+13850c13850
+< 13875,Martha Jane,Parker,,086-05-24,F,White,Alabama,P McLaughlin,Oakwood,992,,,,,8/8/18
+---
+> 13875,Martha Jane,Parker,,086-05-24,F,White,Alabama,,P McLaughlin,Oakwood,992,,,,8/8/18
+14281c14281
+< 14309,Juan,Romero,,021-00-00,M,Mexican,,Dr Radkey,Oakwood Annex,"Sec D, lot 240",,,,,10/16/18
+---
+> 14309,Juan,Romero,,021-00-00,M,Mexican,,,Dr Radkey,Oakwood Annex,"Sec D, lot 240",,,,10/16/18
+14755c14755
+< 14791,Miss Doratha,Neuman,,025-11-00,F,White,Ireland,Loving,Oakwood Annex,"Sec B, sec 79",,,,,12/21/18
+---
+> 14791,Miss Doratha,Neuman,,025-11-00,F,White,Ireland,,Loving,Oakwood Annex,"Sec B, sec 79",,,,12/21/18

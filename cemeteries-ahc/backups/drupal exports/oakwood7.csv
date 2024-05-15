@@ -1,0 +1,2001 @@
+﻿pkoakwood,firstname,lastname,name_archival_and_communit,yearsmonthsdays,sex,color,nativity,disease,attendingphysician,whereburied,seclotspace,bywhomburied,profession,remarks,oakwood_date
+12026,Oscar,Cunningham,,034-05-20,M,White,Tex.,,"R.M. Wickline",,"915 1/2",Friends,,,1912-12-31
+12027,Chas.,Luck,,000-01-10,M,White,,,"R.M. Wicklin",,"1008 1/2",Friends,,,1912-12-31
+12028,"Wm. B.",Dunham,,064-09-06,M,White,Germ.,,"R.M. Wickline",,"366 Sec. 1",Friends,,,1912-12-04
+12029,L.,Chapman,,065-00-00,M,White,"No Record",,"S.A. Woolsey",,"904 1/2 No. 1",,,,1914-01-01
+12030,"H.P. (Mrs.)",Lodge,,086-00-00,F,White,,,"S.A. Woolsey",,482,,,,1914-01-03
+12031,Juan,Gonzales,,N,M,Mexican,,,"S.A. Woolsey",,"901 1/2 No.2",,,,1914-01-04
+12032,"Chas E.",Reeves,,046-08-17,M,White,Texas,,"S.A. Woolsey",,"904 1/2 No.5",,,,1914-01-04
+12033,C.Q.,Horton,,055-00-00,M,White,,,"S.A. Woolsey",,498,,,,1914-01-05
+12034,"Cora Comean",Bailette,,074-08-15,F,White,La.,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-01-04
+12035,"Chas. L.",Dorbandt,,083-04-14,M,White,Denmark,,"S.A. Woolsey",,"1150 1/2 No.1",,,,1914-01-06
+12036,"E.B. (Rev.)",Wright,,075-08-04,M,White,Ohio,,"S.A. Woolsey",,11,,,,1914-01-06
+12037,"Juan Videas",Comtocas,,028-00-00,M,Mexican,"Not Known",,"S.A. Woolsey",,"902 1/2 No. 2",,,,1914-01-07
+12038,"Elizabeth E.",Schneider,,000-03-11,F,White,Austin,,"S.A. Woolsey",,"916 1/2",,,,1914-01-07
+12039,Mary,Solis,,000-03-00,F,Mexican,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-01-09
+12040,Bruce,Lewis,,045-00-00,M,White,"No Record",,"S.A. Woolsey",,"902 1/2 No. 1",,,,1914-01-11
+12041,Sarah,Sibley,,080-00-00,F,White,Texas,,"S.A. Woolsey",,906,,,,1914-01-12
+12042,"Joe (Mrs.)",Isherwood,,052-04-08,F,White,England,,"S.A. Woolsey",,32,,,,1914-01-12
+12043,S.A.,Pryor,,059-03-07,M,White,Texas,,"S.A. Woolsey",,"904 1/2 N. 6",,,,1914-01-12
+12044,"Mr. & Mrs. (Infant of)",Fazzitto,,N,M,Mexican,Austin,,"S.A. Woolsey",,"905 1/2 N. 6",,,,1914-01-12
+12045,Jonathan,Douglas,,N,M,White,,,"S.A. Woolsey",,"914 1/2",,,"""Removed from Colorado School House.""  There is also a date of 1873 in the ""month"" column of the ledger.",1914-01-12
+12046,Frank,Douglas,,N,M,White,,,"S.A. Woolsey",,"914 1/2",,,"""Removed from Colorado School House.""  There is a date of 1883 in the ""month"" column of the ledger.",1914-01-12
+12047,C.R.,Cunningham,,N,M,White,,,"S.A. Woolsey",,"914 1/2",,,"""Removed from Live Oak Cem.""  There is a date of 1883 in the ""month"" column of the ledger.",1914-01-12
+12048,"Hannibal H.",Cook,,055-02-04,M,White,"New York",,"S.A. Woolsey",,976,,,,1914-01-13
+12049,Roy,Benavides,,000-00-07,M,Mexican,Austin,,"S.A. Woolsey",,"902 1/2 No. 4",,,,1914-01-14
+12050,M.,Villegas,,N,M,Mexican,"Not Known",,"S.A. Woolsey",,"903 1/2 No. 7",,,,1914-01-14
+12051,Martha,Woodburn,,080-04-11,F,White,N.C.,,"S.A. Woolsey",,"904 1/2 No. 2",,,,1914-01-14
+12052,"Walter Patrick",Reilly,,048-03-18,M,White,Ill.,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-01-15
+12053,Patty,Mason,,060-00-00,F,"African American",,,"S.A. Woolsey",,"Colored Grounds",,,,1914-01-16
+12054,"Frank M.",Kain,,060-02-22,M,White,Ireland,,"S.A. Woolsey",,403,,,,1914-01-18
+12055,"Felix (Infant of)",Arechiaga,,000-00-00,M,Mexican,Austin,Stillborn,"S.A. Woolsey",,"903 1/2 No. 6",,,,1914-01-21
+12056,Christ,Renhart,,060-00-00,M,White,Germ,,"S.A. Woolsey",,"903 1/2 No. 5",,,,1914-01-23
+12057,Silas,Perrez,,N,M,Mexican,Unknown,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-01-26
+12058,Adele,Shipe,,076-00-00,F,White,Switzerland,,"S.A. Woolsey",,"Old Grounds",,,,1914-01-27
+12059,John,Carson,,073-07-23,M,White,Ireland,,"S.A. Woolsey",,980,,,,1914-01-29
+12060,Mary,Risher,,076-00-00,F,"African American",Ala.,,"S.A. Woolsey",,"Colored Grounds",,,,1914-01-29
+12061,Hermann,Delfs,,035-06-28,M,Mexican,Texas,,"S.A. Woolsey",,808,,,,1914-02-01
+12062,"Naomi P. (Mrs.)",Stowe,,044-05-27,F,White,Texas,,"S.A. Woolsey",,775,,,,1914-02-01
+12063,"Frank (Dr.)",Rainey,,078-00-00,M,White,Ala.,,"S.A. Woolsey",,865,,,,1914-02-03
+12064,J.W.,Cook,,038-00-00,M,White,Georgia,,"S.A. Woolsey",,"888 (See note below.)",,,"09/11/1914 -- ""Removed body of J.W. Cook from lot 888 to lot 405 in Oakwood Cemetery"".",1914-02-04
+12065,"M.E. (Mrs.)",Howard,,N,F,White,Ga.,,"S.A. Woolsey",,"904 1/2 No.3",,,,1914-02-05
+12066,"Enoch Wm.",Robinson,,047-00-14,M,White,Texas,,"S.A. Woolsey",,1032,,,,1914-02-05
+12067,"Allen D. (Mrs.)",Ellis,,063-10-00,F,White,Pa.,,"S.A. Woolsey",,"904 1/2 No. 7",,,,1914-02-06
+12068,"Chas. J.B.",Payne,,038-11-09,M,White,Tenn,,"S.A. Woolsey",,1089,,,,1914-02-08
+12069,"Katie Gibson",Kunze,,030-00-00,F,White,Tex.,,"S.A. Woolsey",,874,,,,1914-02-08
+12070,"L.M. (Mrs.)",Berry,,079-05-00,F,White,Tenn.,,"S.A. Woolsey",,509,,,,1914-02-09
+12071,Juan,Arispe,,002-00-00,M,Mexican,Tex.,,"S.A. Woolsey",,"903 1/2 No. 6",,,,1914-02-09
+12072,"Charlie Louis",Koch,,N,M,White,France,,"S.A. Woolsey",,"Old Grounds",,,,1914-02-12
+12073,Dave,Scroggins,,093-00-00,M,"African American",Alabama,,"S.A. Woolsey",,"Colored Grounds",,,,1914-02-12
+12074,Virginia,Brak,,002-00-00,F,White,"San Antonio",,"S.A. Woolsey",,830,,,,1914-02-12
+12075,"Sallie (Mrs.)",Patterson,,031-10-18,F,White,Texas,,"S.A. Woolsey",,884,,,,1914-02-19
+12076,"Sisto (Infant of)",Zapata,,N,M,Mexican,Texas,,"S.A. Woolsey",,"903 1/2 N. 4",,,,1914-02-19
+12077,"Laura (Mrs.)",Tucker,,025-06-10,F,White,Texas,,"S.A. Woolsey",,"903 1/2 N. 1",,,,1914-02-21
+12078,Jerome,Burnes,,037-00-00,M,"African American",Texas,,"S.A. Woolsey",,"Colored Grounds",,,,1914-02-20
+12079,Polk,McFall,,036-00-00,M,White,Tenn.,,"S.A. Woolsey",,"Old Grounds",,,,1914-02-22
+12080,"Geo. H.",Eatwell,,017-08-04,M,White,Texas,,"S.A. Woolsey",,"903 1/2 No. 2",,,,1914-02-23
+12081,"Morris M.",Givens,,054-00-00,M,"African American",,,"S.A. Woolsey",,"Colored Grounds",,,,1914-02-23
+12082,"Alice E.",Hudson,,046-01-20,F,White,Texas,,"S.A. Woolsey",,"903 1/2 N. 3",,,,1914-02-24
+12083,Margarita,Glenn,,068-00-00,F,White,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-02-25
+12084,Olga,"Von Gehren",,073-00-00,F,White,Germany,,"S.A. Woolsey",,79,,,,1914-02-26
+12085,Aniza,Martinez,,042-00-00,F,Mexican,Texas,,"S.A. Woolsey",,"Pauper Strip",,,,1914-02-26
+12086,"J. Early",Skeen,,038-00-00,M,White,,,"S.A. Woolsey",,"1150 1/2 No. 6",,,,1914-02-26
+12087,"Rosa Cantu",Zapata,,019-01-20,F,Mexican,Mexico,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-02-28
+12088,"Helen E.",Bohn,,000-06-05,F,White,"Austin, Tex",,"R. M. Wickline",,,,,,1911-11-15
+12089,Infant,Wuertle,,000-04-09,M,White,"Austin, Tex",,"R. M. Wickline",,,,,,1911-11-15
+12090,"A. R.",Smith,,028-00-00,M,White,Tex,,"R. M. Wickline",,,,,,1911-11-17
+12091,"D. M.",Bogles,,050-10-16,M,White,Miss,,"R. M. Wickline",,"sec 2, 813 1/2",,,,1911-11-17
+12092,Wm,Earnest,,088-00-00,M,White,Alabama,,"R. M. Wickline",,,,,,1911-11-18
+12093,Henry,Ribbock,,070-02-00,M,White,Germany,,"R. M. Wickline",,,,,,1911-11-19
+12094,Mike,Oats,,060-00-00,M,White,Unknown,,"R. M. Wickline",,,city,,,1911-11-19
+12095,"Mrs. Jennie",Lester,,044-02-26,F,White,Ga.,,"R. M. Wickline",,1131,,,,1911-11-20
+12096,Ruth,Bailey,,024-01-21,F,White,Tex,,"R. M. Wickline",,"800 1/2",,,,1911-11-20
+12097,Laura,Wilson,,083-00-00,F,White,Sweden,,"R. M. Wickline",,,,,,1911-11-20
+12098,"Mrs. M. A.",Cottrell,,067-08-03,F,White,Miss,,"R. M. Wickline",,,,,,1911-11-21
+12099,G.,Garcos,,038-00-00,F,Mexican,Mexico,,"R. M. Wickline",,,city,,,1911-11-21
+12100,"J. M",Earnest,,062-06-02,M,White,Tenn.,,"R. M. Wickline",,,,,,1911-11-22
+12101,"Mrs. F.",Moore,,070-04-10,F,White,England,,"R. M. Wickline",,,,,,1911-11-22
+12102,Bessie,Leser,,036-00-00,F,White,Texas,,"R. M. Wickline",,,,,,1911-11-23
+12103,"J. W.",Patzelt,,030-03-25,M,White,Germany,,"R. M. Wickline",,,,,,1911-11-24
+12104,"S. L.",Moffett,,066-01-14,M,White,"North C.",,"R. M. Wickline",,,,,,1911-11-26
+12105,Mary,Simpson,,070-07-09,F,White,Ken.,,"R. M. Wickline",,,,,,1911-11-27
+12106,Mary,Kennerly,,055-00-28,F,White,"South C.",,"R. M. Wickline",,,,,,1911-11-27
+12107,Betsy,Madison,,096-00-00,F,"African American",Tenn.,,"R. M. Wickline",,"Col. gr",,,,1911-11-28
+12108,"Infant  S. L.",Dailey,,000-04-10,M,White,Texas,,"R. M. Wickline",,,,,,1911-11-29
+12109,Rhodes,"Fisher, Jr.",,032-00-00,M,White,"Not known",,"R. M. Wickline",,,,,,1911-11-25
+12110,Robert,Innes,,083-10-14,M,White,Va.,,"R. M. Wickline",,,,,,1911-11-25
+12111,Feliciana,Garcia,,N,M,Mexican,Mexico,,"R. M. Wickline",,Cath.,,,,1911-12-02
+12112,Vincent,Dooley,,069-00-00,M,White,Ireland,,"R. M. Wickline",,Cath.,,,,1911-12-03
+12113,Fritz,Loeschmann,,071-00-00,M,White,Germany,,"R. M. Wickline",,,,,,1911-12-04
+12114,"J. S.",Bowles,,069-02-12,M,White,Texas,,"R. M. Wickline",,"lot 290",,,,1911-12-05
+12115,"S. J.",Pittman,,078-04-00,F,White,Ga.,,"R. M. Wickline",,,,,,1911-12-05
+12116,Chas.,Hoeble,,062-00-00,M,White,Germany,,"R. M. Wickline",,,city,,,1911-12-03
+12117,"Infant of A.",Dalton,,000-00-00,F,White,"Austin, Tex.",Stillborn,"R. M. Wickline",,,,,,1911-12-07
+12118,"Leah Bell",Copes,,055-05-18,F,White,Texas,,"R. M. Wickline",,,,,,1911-12-08
+12119,"G. M.",Myler,,062-11-11,M,White,Kansas/Iowa?,,"R. M. Wickline",,,,,,1911-12-08
+12120,"Ida May",Clinefelter,,N,F,White,Ohio,,"R. M. Wickline",,,,,,1911-12-10
+12121,Margareto,Gayton,,055-00-00,F,Mexican,Mex.,,"R. M. Wickline",,,city,,,1911-12-11
+12122,"S. W.",Eisold,,070-05-15,M,White,Germany,,"R. M. Wickline",,,,,,1911-12-11
+12123,Tony,Wicks,,044-11-00,,"African American","Gonzales Co.",,"R. M. Wickline",,"Colored Grounds",,,,1911-12-14
+12124,Inez,Frick,,028-08-27,F,White,Texas,,"R. M. Wickline",,979,,,,1911-12-14
+12125,Mr.,Huppertz,,062-03-27,M,White,Germany,,"R. M. Wickline",,,city,,,1911-12-15
+12126,"E. G.",Ferrell,,018-00-00,M,White,Texas,,"R. M. Wickline",,,city,,,1911-12-17
+12127,Claude,Sibley,,N,M,White,,,"R. M. Wickline",,,,,,1911-12-19
+12128,Ada,Vanuxem,,083-10-09,F,White,Ohio,,"R. M. Wickline",,,,,,1911-12-21
+12129,Helen,Powell,,030-10-24,F,White,Texas,,"R. M. Wickline",,,,,,1911-12-23
+12130,N,Unknown,,N,,"African American",,,"R. M. Wickline",,"Colored Grounds",,,"(no other information given)",1911-12-24
+12131,"Mrs. M. A.",McClure,,078-06-24,F,White,Germany,,"R. M. Wickline",,,,,,1911-12-25
+12132,"Harriett A.",McCrilles,,074-09-05,F,White,Ill.,,"R. M. Wickline",,,,,,1911-12-25
+12133,Fred,Sterzing,,027-06-01,M,White,"Austin, Tex.",,"R. M. Wicklne",,,,,,1911-12-26
+12134,Thomas,McWhorter,,027-00-00,M,White,Texas,,"R. M. Wickline",,,,,,1911-12-26
+12135,"J. C.",McKee,,059-01-23,M,White,Texas,,"R. M. Wickline",,,,,,1911-12-28
+12136,Alexander,Morgan,,098-00-00,M,White,Unknown,,"R. M. Wickline",,,county,,,1911-12-28
+12137,"Mrs. L.",Gerhard,,060-00-00,F,White,Ohio,,"R. M. Wickline",,,,,,1911-12-29
+12138,J.B.,Clawson,,078-00-00,M,White,Ark.,,"S.A. Woolsey",,"North Fence 1150 1/2 No. 5",,,,1914-03-01
+12139,"George (Mrs.)",Thornton,,032-06-17,F,White,Mo.,,"S.A. Woolsey",,823,,,,1914-03-01
+12140,"Chas. G.",Caldwell,,073-10-07,M,White,Texas,,"S.A. Woolsey",,557,,,,1914-03-02
+12141,"Rosa A. (Mrs.)",Lackey,,049-02-06,F,White,Ind.,,"S.A. Woolsey",,161,,,,1914-03-03
+12142,"Ella (Mrs.)",Kretzschmar,,034-06-25,F,White,Germany,,"S.A. Woolsey",,909,,,,1914-03-06
+12143,"Edward (Infant of)",Owens,,000-01-21,M,"African American",Austin,,"S.A. Woolsey",,"Colored Grounds",,,,1914-03-07
+12144,Elizorio,Martinez,,000-00-01,M,Mexican,Austin,,"S.A. Woolsey","Catholic Cemetery",,,,"Age is actually given as 1/2 day.  Name is spelled ""Marinez"" in ledger.",1914-03-07
+12145,"Hulda Amelia",Borg,,027-03-14,F,White,Texas,,"S.A. Woolsey",,890,,,,1914-03-08
+12146,Paul,Valdez,,034-05-00,M,Mexican,Mexico,,"S.A. Woolsey",,890,,,,1914-03-09
+12147,Anita,Hernandez,,000-05-00,F,Mexican,Texas,,"S.A. Woolsey",,"903 1/2 No. 4",,,,1914-03-09
+12148,"Mary (Sister)",Gustava,,042-06-05,F,White,Ind.,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-03-13
+12149,Joe,Barbosa,,034-00-00,M,Mexican,Mexico,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-03-13
+12150,"Sarah E. (Mrs.)",McElroy,,057-00-00,F,White,Texas,,"S.A. Woolsey",,"Old Grounds",,,,1914-03-15
+12151,C.L.,Boes,,082-00-00,M,White,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-03-16
+12152,Joe,Espinosa,,001-04-00,M,Mexican,Texas,,"S.A. Woolsey","Catholic Cemetery",,,,"Part of name is illegible.  Appears to be Joe Ma Espinosa or Joe Mu Espinosa.",1914-03-16
+12153,Erlenda,Castello,,003-02-00,F,Mexican,Texas,,"S.A. Woolsey",,"North Fence 1162 1/2 No. 6",,,,1914-03-19
+12154,Pascual,Martinez,,001-01-09,M,Mexican,"Laredo, Tex.",,"S.A. Woolsey",,"North Fence 1162 1/2 No. 5",,,,1914-03-16
+12155,"Thomas E.",Smith,,054-02-29,M,White,Ky.,,"S.A. Woolsey",,374,,,,1914-03-17
+12156,Dennis,Murray,,066-00-0,M,White,,,"S.A. Woolsey",,896,,,,1914-03-18
+12157,"O. (Infant of)",Rodolfo,,000-00-00,M,Mexican,Austin,Stillborn,"S.A. Woolsey",,"North Fence 1162 1/2 No. 4",,,,1914-03-18
+12158,"John H.",Hansen,,084-06-18,M,Mexican,Germany,,"S.A. Woolsey",,376,,,,1914-03-19
+12159,"Mary (Mrs.)",Johnson,,077-08-22,F,White,Sweden,,"S.A. Woolsey",,814,,,,1914-03-19
+12160,"Carl A.",Peterson,,066-00-00,M,White,Sweden,,"S.A. Woolsey",,"North Fence 1151 1/2 No. 2",,,,1914-03-20
+12161,Isador,Lazarus,,035-00-00,M,White,Ala.,,"S.A. Woolsey","Jewish Cemetery",,,,,1914-03-22
+12162,"Olivia (Infant)",Sisk,,002-06-00,F,White,Texas,,"S.A. Woolsey",,1096,,,,1914-03-22
+12163,Christ,Connelly,,084-00-00,M,White,Ireland,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-03-25
+12164,Domie,Reyes,,001-00-00,F,Mexican,Austin,,"S.A. Woolsey",,"North Fence 1162 1/2 No. 3",,,,1914-03-25
+12165,J.W.,Patterson,,069-00-00,M,White,Texas,,"S.A. Woolsey",,925,,,,1914-03-25
+12166,Josephine,Pena,,001-00-00,F,Mexican,Austin,,"S.A. Woolsey",,"North Fence 1162 1/2 No. 2",,,,1914-03-25
+12167,J.W.,Phillips,,084-00-00,M,White,,,"S.A. Woolsey",,858,,,,1914-03-27
+12168,George,Gooden,,098-00-00,M,"African American",Arkansas,,"S.A. Woolsey",,"Colored Grounds",,,,1914-03-27
+12169,"Nicolasa (Infant)",Mancilla,,000-05-16,F,Mexican,Mexico,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-03-27
+12170,"Irene (Mrs.)",Miller,,022-00-00,F,White,Texas,,"S.A. Woolsey",,859,,,,1914-03-28
+12171,"Elizabeth (Mrs.)",Cawlfield,,065-00-00,F,White,Texas,,"S.A. Woosley",,"Old Grounds",,,,1914-03-29
+12172,Hans,Assman,,056-01-26,M,White,Germany,,"S.A. Woosley",,"Old Grounds",,,,1914-03-29
+12173,"Carrie E. (Mrs.)",Porter,,064-07-25,F,White,,,"S.A. Woosley",,902,,,,1914-03-29
+12174,"Hen. (Infant)",Fork,,001-01-00,M,Mexican,Texas,,"S.A. Woosley",,"North Fence Pauper",,,,1914-03-29
+12175,E.H.,Loughery,,052-00-00,M,White,"Not Given",,"S.A. Woolsey",,"1151 1/2 No. 1",,,,1914-04-02
+12176,"Mary E.",Begley,,065-00-00,F,White,Miss.,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-04-03
+12177,"Jess (Mr. & Mrs. Infant of)",Wilson,,000-00-00,M,White,Texas,,"S.A. Woolsey",,295,,,"Age is give as ""1/4 day"".",1914-04-03
+12178,E.P.,Main,,053-00-00,M,White,"Not Given",,"S.A. Woolsey",,"1151 1/2 No. 4",,,,1914-04-06
+12179,"Lucinda (Mrs.)",Vogel,,040-00-00,F,White,"Not Given",,"S.A. Woolsey",,904,,,,1914-04-06
+12180,"Gerson B.",Frank,,039-08-06,M,White,Gonzales,,"S.A. Woolsey",,"Jewish Yard",,,,1914-04-09
+12181,Wm.,Holden,,091-00-00,M,"African American","Not Given",,"S.A. Woolsey",,"Colored Grounds",,,,1914-04-12
+12182,C.T.,Horton,,085-11-26,M,Mexican,Ohio,,"S.A. Woolsey",,498,,,,1914-04-12
+12183,Katherine,Hickey,,078-18-00,F,White,Ireland,,"S.A. Woolsey",,343,,,,1914-04-13
+12184,W.R.,Mumford,,070-11-15,M,White,Maryland,,"S.A. Woolsey",,"1151 1/2 No. 3",,,,1914-04-14
+12185,"Genettie (Mrs.)",Lock,,066-00-00,F,White,Kentucky,,"S.A. Woolsey",,1129,,,,1914-04-16
+12186,Florencio,Caballero,,000-04-11,F,Mexican,Austin,,"S.A. Woolsey",,"Pauper Gr.",,,,1914-04-17
+12187,Nicolas,Valdez,,049-00-00,M,Mexican,Mexico,,"S.A. Woolsey",,"Pauper Gr.",,,,1914-04-17
+12188,"A. (Mrs.)",Needham,,031-00-00,F,White,Texas,,"S.A. Woolsey",,"Pauper Strip",,,,1914-04-20
+12189,Estelle,Baggett,,000-00-05,F,White,Austin,,"S.A. Woolsey",,901,,,,1914-04-21
+12190,Elenteri,Imurio,,000-00-04,M,Mexican,Austin,,"S.A. Woolsey",,"1162 1/2 No. 1",,,,1914-04-23
+12191,"Sallie J.",Sullivan,,063-04-28,F,White,Miss.,,"S.A. Woolsey",,"1151 1/2 No. 6",,,,1914-04-24
+12192,"Carolina (Mrs.)",Stein,,077-00-00,F,White,Germany,,"S.A. Woolsey",,542,,,,1914-04-27
+12193,"Theo H.",Klein,,069-00-00,M,White,Germany,,"S.A. Woolsey",,141,,,,1914-04-28
+12194,"Arthur (Mr. & Mrs., Infant of)",Jones,,000-05-00,F,White,Texas,,"S.A. Woolsey",,834,,,,1914-04-29
+12195,Infant,Allison,,000-00-00,M,White,Austin,Stillborn,"S.A. Woolsey",,1084,,,,1914-04-30
+12196,Infant,McInnis,,002-00-00,F,White,Austin,,"S.A. Woolsey",,161,,,,1914-04-30
+12197,Infant,Haigler,,000-00-00,M,White,Tex.,Stillborn,"R. M. Wickline",,,,,,1913-01-02
+12198,Simon,Valdez,,082-00-00,M,Mexican,Mex.,,"R. M. Wickline",,,City,,,1913-01-05
+12199,"G. H.",Carlson,,024-00-00,M,White,Tex.,,"R. M. Wickline",,,,,,1913-01-06
+12200,"Mexican Infant",N,,000-00-08,M,Mexican,Tex.,,"R. M. Wickline",,,city,,,1913-01-07
+12201,Curry,Robinson,,001-01-00,M,White,Tex.,,"R. M. Wickline",,,,,,1913-01-07
+12202,"Isabella A.",Stellfox,,076-00-00,F,White,Ireland,,"R. M. Wickline",,,,,,1913-01-07
+12203,Roman,Hernandez,,022-00-00,M,Mexican,Mex.,,"R. M. Wickline",,,city,,,1913-01-08
+12204,Infant,Folts,,000-00-00,M,White,Tex.,Stillborn,"R. M. Wickline",,,,,,1913-01-08
+12205,Anna,Clarke,,088-00-00,F,White,Ky,,"R. M. Wickline",,,,,,1913-01-09
+12206,Geurbeba,Quintero,,000-00-08,F,Mexican,Tex,,"R. M. Wickline",,,city,,,1913-01-10
+12207,Frank,Petmecky,,078-00-00,M,White,Germany,,"R. M. Wickline",,"Sec 3, lot 1007 NE 1/4",,,,1913-01-11
+12208,Mrs.,Pennington,,N,F,"African American","Not Known",,"R. M. Wickline",,"Colored Grounds",,,,1913-01-12
+12209,"R. L.",Murff,,040-00-00,M,White,Tex.,,"R. M. Wickline",,,,,,1913-01-12
+12210,Sarah,Schultz,,070-00-00,F,White,Tex.,,"R. M. Wickline",,,,,,1913-01-12
+12211,Oscar,Blomquist,,036-00-00,M,White,Tex.,,"R. M. Wickline",,,,,,1913-01-13
+12212,"Cynthia A.",Maxwell,,088-04-18,F,White,Tenn.,,"R. M. Wickline",,,,,,1913-01-14
+12213,"Infant of V.",Ridolfe,,000-00-00,F,Mexican,Tex.,Stillborn,"R. M. Wickline",,,,,,1913-01-13
+12214,Tom,Rodriguiz,,016-00-00,M,Mexican,Tex.,,"R. M. Wickline",,,,,,1913-01-14
+12215,Cornelius,Burke,,065-00-00,F,White,Tex.,,"R. M. Wickline",,,,,,1913-01-14
+12216,F.,Fares,,045-00-00,F,Mexican,Tex.,,"R. M. Wickline",,,,,,1913-01-15
+12217,"J. H.",Edwards,,056-00-00,F,White,Tex.,,"R. M. Wickline",,,,,,1913-01-15
+12218,Quinoverea,Duarete,,000-00-03,F,Mexican,Tex.,,"R. M. Wickline",,Cath.,city,,pauper,1913-01-15
+12219,"David R.",Widerstrom,,025-02-05,M,White,Tex.,,"R. M. Wickline",,"Sec 3, lot 956",,,,1913-01-19
+12220,Baby,Cloud,,000-00-06,M,White,Tex.,,"R. M. Wickline",,,,,,1913-01-19
+12221,"J. E.",Read,,084-00-00,F,White,"Not Known",,"R. M. Wickline",,,,,,1913-01-20
+12222,Josephine,Adzine,,038-00-00,F,Mexican,"Not Known",,"R. M. Wicklinne",,Cath.,,,,1913-01-20
+12223,"Charlie E.",Roberts,,018-00-00,M,White,Tex.,,"R. M. Wickline",,,,,,1913-01-21
+12224,"Geo. W.",Kern,,065-07-18,M,White,La.,,"R. M. Wickline",,,,,"Removed to lot 44, Sec A Annex",1913-01-22
+12225,"Annie B.",Routon,,002-05-04,F,White,Tex.,,"R. M. Wickline",,,,,,1913-01-23
+12226,M.,Rodrade,,034-00-00,M,Mexican,Mex.,,"R. M. Wickline",,,,,,1913-01-23
+12227,"John S.",Boyd,,041-01-27,M,White,Tex.,,"R. M. Wickline",,,,,,1913-01-23
+12228,Baby,Cox,,000-00-00,M,White,Tex.,stillborn,"R. M. Wickline",,,,,,1913-01-21
+12229,Preston,Howell,,005-00-00,M,White,Tex.,,"R. M. Wickline",,"Sec 3, east of 1167",,,,1913-01-28
+12230,Frank,Brown,,079-00-00,M,White,Tenn.,,"R. M. Wickline",,,,,,1913-01-28
+12231,George,Nessour,,000-08-00,M,Mexican,Tex.,,"R. M. Wickline",,Cath,,,"under Color-Syr.",1913-01-29
+12232,Cecil,Moses,,027-07-23,f,White,Tex.,,"R. M. Wickline",,"new Jew yard",,,,1913-01-29
+12233,"J. A.",Harris,,030-00-00,M,White,"Not Known",,"R. M. Wickline",,,,,,1913-01-30
+12234,"H. E.",Jones,,058-07-13,M,White,Mo.,,"R. M. Wickline",,,,,"Note added to ledger on 10/19/1914 reads: ""Removed the body of H.E. Jones from between 1090-1093 to lot 1155 1/2 #3 in Oakwood Cemetery"".",1913-01-30
+12235,"Infant of Mrs.",Maurfis,,N,,"African American",,,,,,,,Removal,1913-01-14
+12236,Infant,Maxwell,,N,,"African American",,,,,,,,Removal,1913-01-15
+12237,Christabel,Cameron,,014-03-05,F,White,Texas,,"R. M. Wickline",,,,,,1913-02-02
+12238,Infant,Lee,,000-00-11,F,White,Texas,,"R. M. Wickline",,,,,,1913-02-03
+12239,Alfonza,Lopex,,000-03-03,F,Mexican,Texas,,"R. M. Wickline",,,city,,,1913-02-04
+12240,L.,Reilley,,030-00-00,F,Mexican,Mex.,,"R. M. Wickline",,,city,,,1913-02-03
+12241,Samuel,Arrendo,,002-00-00,M,Mexican,Tex.,,"R. M. Wickline",,,city,,,1913-02-04
+12242,T.,Siker,,003-00-00,M,Mexican,Tex.,,"R. M. Wickline",,,,,,1913-02-05
+12243,Minna,Schrader,,022-30-00,F,White,,,"R. M. Wickline",,,,,,1913-02-07
+12244,Petri,Hernandez,,052-00-00,F,Mexican,Mex.,,"R. M. Wickline",,,,,,1913-02-08
+12245,N,Unknown,,N,,"African American",,,"R. M. Wickline",,,,,,1913-02-08
+12246,A.,Wanderlin,,040-00-00,F,White,,,"R. M. Wickline",,,,,,1913-02-09
+12247,"F. M.",Grizzard,,067-00-00,M,White,Miss,,"R. M. Wickline",,,,,,1913-02-10
+12248,Pedro,Martinez,,025-00-00,M,Mexican,Mex.,,"R. M. Wickline",,,city,,,1913-02-09
+12249,Mildred,Kuehne,,001-03-25,F,White,Tex.,,"R. M. Wickline",,,,,,1913-02-10
+12250,Charles,Smith,,084-00-00,M,White,Ger.,,"R. M. Wickline",,Cath,,,,1913-02-11
+12251,"R. W.",Mills,,077-00-00,M,White,Ind.,,"R. M. Wickline",,,,,,1913-02-12
+12252,"Myrtle J.",Salyer,,036-09-18,F,White,Ill.,,"R. M. Wickline",,,,,,1913-02-13
+12253,M.,Tometa,,N,F,Mexican,,,"R. M. Wickline",,Cath,,,,1913-02-13
+12254,Billie,Anderson,,075-00-00,M,White,,,"R. M. Wickline",,,,,,1913-02-15
+12255,Felipe,Flores,,004-00-00,M,Mexican,Tex.,,"R. M. Wickline",,,,,,1913-02-16
+12256,Emma,Engdahl,,061-00-00,F,White,Sweden,,"R. M. Wickline",,,,,,1913-02-16
+12257,"Milton C.",Kern,,033-00-00,M,White,,,"R. M. Wickline",,,,,,1913-02-16
+12258,M.,Danley,,059-00-00,F,White,Tex.,,"R. M. Wickline",,,,,,1913-02-16
+12259,"Cora L.",Hawles,,001-02-19,F,White,Tex.,,"R. M. Wickline",,,,,,1913-02-15
+12260,"Cora L.",Hawles,,001-02-19,F,White,Tex.,,"R. M. Wickline",,,,,,1913-02-15
+12261,"S. E.",Mueller,,001-06-00,M,White,Tex.,,"R. M. Wickline",,,,,,1913-02-18
+12262,Infant,Slawson,,000-00-01,M,White,Tex.,,"R. M. Wickline",,,,,,1913-02-19
+12263,"James P.",Graves,,040-00-00,M,White,Mo.,,"R. M. Wickline",,,,,,1913-02-20
+12264,John,Costley,,086-02-04,M,White,Mo.,,"R. M. Wickline",,,,,,1913-02-21
+12265,Junita,Hernandez,,045-00-00,F,Mexican,Mex.,,"R. M. Wickline",,,,,,1913-02-21
+12266,Pedro,Mendosa,,N,M,White,,,"R. M. Wickline",,,,,,1913-02-22
+12267,Gus,Doerntge,,007-00-00,M,White,Tex.,,"R. M. Wickline",,,,,,1913-02-23
+12268,Anna,Buckley,,031-03-01,F,White,Tex.,,"R. M. Wickline",,,,,,1913-02-24
+12269,Sam,Wilson,,N,M,"African American",,,"R. M. Wickline",,"Col. gr",,,,1913-02-24
+12270,"John E.",Jones,,060-00-00,M,White,Ala.,,"R. M. Wickline",,,,,,1913-02-25
+12271,Mrs.,Lawson,,N,F,White,,,"R. M. Wickline",,,,,,1913-02-24
+12272,"R. E.",Granger,,N,M,White,,,"R. M. Wickline",,,,,,1913-02-27
+12273,Eugenia,Crosthwait,,067-00-00,F,White,Ala.,,"R. M. Wickline",,,,,,1913-02-27
+12274,Infant,Lipscomb,,N,,"African American",,,"R. M. Wickline",,,,,,1913-02-27
+12275,J.,Troutman,,N,F,White,,,"R. M. Wickline",,,,,,1913-02-24
+12276,Geo.,Mathews,,N,M,"African American",,,"R. M. Wickline",,"Colored Grounds",,,,1913-02-28
+12277,"L. H.",Edwards,,N,,"African American",,,,,,,,"removed body from lot 322 to 1082 Oakwood Annex",1913-03-16
+12278,"Mrs. L. H.",Edwards,,N,,"African American",,,,,,,,"Removed body from lot 322 to 1082 Oakwood Annex",1913-03-16
+12279,John,Edwards,,N,,"African American",,,,,,,,"Removed body from lot 322 to 1082 Oakwood Annex",1913-03-16
+12280,"Mrs. Elnor N.",Edwards,,N,,"African American",,,,,,,,"Remove body from lot 300 to lot 1082 Oakwood Annex",1913-03-16
+12281,"Martha T.",Pannell,,063-05-17,F,White,Miss.,,"R. M. Wickline",,919,friends,,,1913-03-03
+12282,Pearl,Miller,,037-05-12,F,White,Md.,,"R. M. Wickline",,858,friends,,,1913-03-03
+12283,N.,Salinis,,N,,"African American",,,"R. M. Wickline",,"city gr.",,,,1913-03-04
+12284,John,Phillips,,063-28-03,M,"African American",,,"R. M. Wickline",,,friends,,,1913-03-05
+12285,"Laura P.",Duval,,N,F,White,,,"R. M. Wickline",,,friends,,,1913-03-06
+12286,Van,Anderson,,N,M,White,,,"R. M. Wickline",,"south of 912 1/2",friends,,,1913-03-17
+12287,Abe,Myron,,N,M,White,,,"R. M. Wickline",,849,friends,,,1913-03-06
+12288,"Mary M.",Henry,,N,F,White,,,"R. M. Wickline",,,friends,,,1913-03-10
+12289,A.,Valdez,,N,M,Mexican,,,"R. M. Wickline",,"city gr.",city,,,1913-03-10
+12290,"Edgar J.",Phillips,,N,M,White,,,"R. M. Wickline",,"1090 & 1092",friends,,,1913-03-11
+12291,Infant,Watts,,N,M,White,,,"R. M. Wickline",,"Old Grounds",friends,,,1913-03-11
+12292,"Joseph Leroy",Hume,,077-02-09,M,White,,,"R. M. Wickline",,,friends,,,1913-03-12
+12293,Henry,Gobel,,032-05-02,M,White,,,"R. M. Wickline",,978,friends,,,1913-03-12
+12294,"Ida E.",Watt,,033-00-00,F,White,,,"R. M. Wickline",,"Old Grounds",friends,,,1913-03-12
+12295,"Mary Jane",King,,N,F,White,,,"R. M. Wickline",,"city gr.",friends,,,1913-03-13
+12296,Mrs.,Torchstone,,N,F,White,,,"R. M. Wickline",,"south of 912 1/2",friends,,,1913-03-17
+12297,"E. (Infant)",Lopez,,000-00-12,M,Mexican,Texas,,"S.A. Woolsey",,"1161 1/2 N. 6",,,,1914-05-02
+12298,August,Hilsberg,,075-01-15,M,Mexican,Germany,,"S.A. Woolsey",,"1152 1/2 N. 2",,,,1914-05-04
+12299,"James Albert",Cook,,001-06-00,M,White,Texas,,"S.A. Woolsey",,856,,,,1914-05-05
+12300,"Louise (Mrs.)",Merchant,,076-00-00,F,White,Ala.,,"S.A. Woolsey",,939,,,"Note added to ledger on 10/21/1914 reads: ""Removed the body of Mrs. Louise Merchant from lot 939 in Oakwood Cemetery to The State Cemetery.""",1914-05-06
+12301,Simon,Frithiof,,035-00-10,M,White,Sweden,,"S.A. Woolsey",,"1152 1/2 N. 3",,,,1914-05-07
+12302,"Mary E.",McClain,,N,F,White,,,"S.A. Woolsey",,947,,,,1914-05-07
+12303,Ricardo,"Tugillo (Trujillo?)",,001-06-00,M,Mexican,Texas,,"S.A. Woolsey",,"1161 1/2 N. 5",,,,1914-05-07
+12304,August,Bammert,,083-00-00,M,White,Germany,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-05-09
+12305,E.C.,Fallwell,,077-04-00,M,White,Ky.,,"S.A. Woolsey",,784,,,,1914-05-09
+12306,W.R.,Lewis,,070-00-00,M,"African American",Ohio,,"S.A. Woosley",,925,,,,1914-05-10
+12307,"John W.",Maddox,,N,M,White,,,"S.A. Woolsey",,311,,,,1914-05-10
+12308,"Chas. H.",Pollard,,044-00-23,M,"African American",Texas,,"S.A. Woolsey",,"Colored Grounds",,,,1914-05-10
+12309,"Eugene B.",Cook,,005-08-00,M,White,Texas,,"S.A. Woolsey",,856,,,,1914-05-12
+12310,Pearl,Dillard,,N,F,White,,,"S.A. Woosley",,"City Gr.",,,,1914-05-13
+12311,"Frank (Infant)",Prado,,N,M,Mexican,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-05-13
+12312,Francisco,Polanco,,024-00-00,F,Mexican,Texas,,"S.A. Woolsey",,"1160 1/2 No. 2",,,,1914-05-14
+12313,"F.E. (Dr.)",Daniel,,074-10-14,M,White,Va.,,"S.A. Woolsey",,"406 SE 1/4",,,"496 has been crossed out as burial location and 406 SE 1/4 has been pencilled in.",1914-05-15
+12314,Maggie,O'Rourke,,088-00-00,F,White,Ireland,,"S.A. Woosley","Catholic Cemetery",,,,,1914-05-16
+12315,Farrell,Hawkins,,004-00-22,M,White,Texas,,"S.A. Woolsey",,"1150 1/2 No. 4",,,,1914-05-16
+12316,"May Belle",Perryman,,001-03-12,F,White,Texas,,"S.A. Woolsey",,297,,,,1914-05-16
+12317,Ida,Oyervides,,029-00-00,F,Mexican,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-05-20
+12318,Mrs.,Myland,,N,F,White,,,"S.A. Woolsey",,"1150 1/2 No. 3",,,,1914-05-20
+12319,"John R.",Brizendine,,086-06-16,M,White,,,"S.A. Woolsey",,121,,,,1914-05-22
+12320,"Charlotte A.",Crawford,,N,,"African American",,,"S.A. Woolsey",,"Old Grounds",,,,1914-05-22
+12321,"Elizabeth (Mrs.)",Weaver,,N,F,White,,,"S.A. Woolsey",,939,,,"Note added to ledger on 10/21/1914 reads: ""Removed body of Elizabeth Weaver from lot 939 in Oakwood Cemetery to The State Cemetery.""",1914-05-22
+12322,"No First Name Given",Cortez,,N,M,Mexican,,,"S.A. Woolsey",,"City Gr.",,,,1914-05-23
+12323,"No First Name Given",Robertson,,N,M,White,,,"S.A. Woolsey",,1005,,,,1914-05-23
+12324,Vicente,Salinas,,000-02-19,M,Mexican,Texas,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-05-23
+12325,Infant,Perry,,000-00-00,F,White,Texas,Stillborn,"S.A. Woolsey",,775,,,,1914-05-23
+12326,"Claude A.",Nuckols,,039-00-12,M,White,Virginia,,"S.A. Woolsey",,819,,,,1914-05-25
+12327,Amy,Butler,,080-00-00,F,"African American",Tennessee,,"S.A. Woolsey",,"Colored Grounds",,,,1914-05-27
+12328,"Gustave E.",Aubery,,N,M,White,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-05-28
+12329,"Emmett (Infant)",Bowles,,N,F,White,,,"S.A. Woolsey",,"1152 1/2 No. 6",,,,1914-05-29
+12330,Birdie,Johnson,,N,,"African American",,,,,"Colored Grounds",,,"This information is from at note at the bottom of the ledger page for May, 1914. It reads:  May 11 - Removed the body of Birdie Johnson from the Bethany Cemetery to Oakwood Cemetery Col. Gr.""",1914-05-11
+12331,Earnest,Bowles,,000-03-29,M,White,Texas,,"S.A. Woosley",,"1152 N. 5",,,,1914-06-01
+12332,"Eliza Jane",Moffitt,,071-02-21,F,White,Arkansas,,"S.A. Woolsey",,919,,,,1914-06-02
+12333,Robert,Bargas,,045-01-00,M,Mexican,Texas,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-06-04
+12334,"Jalisco O.","Bunsen (?)",,011-00-00,M,Mexican,Mexico,,"S.A. Woolsey",,165,,,,1914-06-05
+12335,"M.A. (Mrs.)",Lindemann,,075-03-09,F,White,Ga.,,"S.A. Woolsey",,905,,,,1914-06-05
+12336,Sarah,Miller,,063-00-26,F,White,Ind.,,"S.A. Woolsey",,893,,,,1914-06-06
+12337,Etta,Lovelace,,053-04-05,F,White,Mo.,,"S.A. Woolsey",,"Old Grounds",,,,1914-05-06
+12338,"Thelma Lee (Infant)",Chinn,,001-06-00,,F,W,Texas,"S.A. Woolsey",,"Old Grounds",,,,1914-05-06
+12339,Mexican,Unknown,,N,,"African American",,,"S.A. Woolsey",,"City Gr.",,,,1914-06-07
+12340,"L. (Infant)",Owen,,N,,"African American",,,"S.A. Woolsey",,"Colored Grounds",,,,1914-06-08
+12341,Henry,Isensee,,070-06-21,M,White,Germany,,"S.A. Woolsey",,833,,,,1914-06-08
+12342,Louis,Link,,046-00-00,M,White,Texas,,"S.A. Woolsey",,995,,,,1914-06-09
+12343,Infant,Morriss,,000-00-03,M,White,,,"S.A. Woolsey",,943,,,,1914-06-09
+12344,"Mary Ann Nash",Chambers,,071-00-00,F,White,Miss.,,"S.A. Woolsey",,939,,,"Note added to ledger on 10/21/1914 reads: ""Removed the body of Mrs. M.A. Chambers from lot 939 in Oakwood Cemetery to The State Cemetery.""",1914-06-10
+12345,"Paul (Mr. & Mrs., Infant of)",Juergens,,000-00-00,F,White,Austin,Stillborn,"S.A. Woolsey",,"1150 1/2 N. 8",,,,1914-06-10
+12346,Willie,Fizer,,030-00-00,F,White,Austin,,"S.A. Woolsey",,"908 1/2 N. 1",,,,1914-06-10
+12347,"John D.",Peterson,,036-00-00,M,White,Austin,,"S.A. Woolsey",,173,,,,1914-06-14
+12348,Infant,Stasswender,,000-00-00,M,White,Austin,Stillborn,"S.A. Woolsey",,"1150 1/2 N. 7",,,,1914-06-15
+12349,"M. Burr",Moreland,,000-04-18,M,White,Austin,,"S.A. Woolsey",,548,,,,1914-06-16
+12350,Theodore,Wuertele,,006-00-00,M,White,Austin,,"S.A. Woolsey",,"1152 1/2 N. 8",,,,1914-06-17
+12351,F.O.,Swenson,,071-00-00,M,White,Sweden,,"S.A. Woolsey",,"1153 1/2 N. 7",,,,1914-06-18
+12352,"William A.",Smith,,023-00-00,M,White,Austin,,"S.A. Woolsey",,374,,,,1914-06-19
+12353,George,Twining,,067-01-04,M,White,Mich.,,"S.A. Woolsey",,"Old Grounds",,,,1914-06-20
+12354,"Annie A.",Moreland,,045-10-23,F,White,Texas,,"S.A. Woolsey",,1114,,,,1914-06-20
+12355,William,Givens,,N,M,"African American",,,"S.A. Woolsey",,"Colored Grounds",,,,1914-06-21
+12356,Morgan,Dickerson,,000-11-11,M,White,,,"S.A. Woolsey",834,,,,,1914-06-24
+12357,Antonie,Rodriguez,,N,M,Mexican,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-06-24
+12358,"Chas. Monroe",Carpenter,,001-07-00,M,White,Austin,,"S.A. Woolsey",,1050,,,,1914-06-24
+12359,"Wm. (Mrs.)",Walton,,N,F,White,,,"S.A. Woolsey",,"Old Grounds",,,,1914-06-24
+12360,"Minnie Olivia",Miller,,000-11-00,F,White,,,"S.A. Woolsey",,"917 Sec. 3",,,,1914-06-29
+12361,"Werner A.",Rosentritt,,N,M,White,,,"S.A. Woolsey",,88,,,,1914-06-29
+12362,"Martin (Inf Mex.)","Hefar (?)",,N,M,Mexican,,,"S.A. Woolsey",,"1161 1/2 N. 4",,,,1914-06-29
+12363,"Ann E.",Swenson,,078-10-13,F,White,Sweden,,"S.A. Woolsey",,808,,,,1914-06-30
+12364,"Frank E.",Morales,,001-04-25,M,Mexican,Texas,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-06-06
+12365,Mrs.,Acosta,,N,M,Mexican,,,"R. M. Wickline",,"1090 & 1092",friends,,,1913-03-18
+12366,"Infant of L. B.",McGee,,N,M,White,,,"R. M. Wickline",,"Catholic cemetery",friends,,,1913-03-19
+12367,"Hattie Maud",Mosley,,N,F,White,,,"R. M. Wicklne",,904,friends,,,1913-03-19
+12368,Inf,Lloyd,,N,M,White,,,"R. M. Wickline",,963,friends,,,1913-03-20
+12369,Oswald,Glazer,,N,M,White,,,"R. M. Wickline",,919,,friends,,1913-03-19
+12370,"C. G.",Lucy,,N,M,White,,,"R. M. Wickline",,1011,friends,,,1913-03-22
+12371,"Paul Earl",McFadden,,N,M,White,,,"R. M. Wickline",,993,friends,,,1913-03-23
+12372,"Louise C.",Scarbrough,,N,F,White,,,"R. M. Wickline",,"Old Grounds",friends,,,1913-03-24
+12373,Susan,McWellborn,,N,F,White,,,"R. M. Wickline",,"Old Grounds",friends,,,1913-03-25
+12374,Washington,Craven,,N,M,White,,,"R. M. Wickling",,1162,friends,,,1913-03-27
+12375,Wm.,Johnson,,N,M,White,,,"R. M. Wickline",,817,friends,,,1913-03-27
+12376,Agnes,Jones,,N,F,White,England,,"R. M. Wickling",,"Old Grounds",friends,,,1913-03-31
+12377,"H. K.",Hargrave,,N,,"African American",,,"R. M. Wicklne",,971,friends,,,1913-04-02
+12378,August,Wolf,,N,,"African American",,,"R. M. Wickline",,-,friends,,,1913-04-03
+12380,Inf,Petri,,N,,"African American",,,"R. M. Wicklinne",,1079,friends,,,1913-04-05
+12381,"J. R.",Smith,,N,,"African American",,,"R. M. Wickline",,"Old Grounds",friends,,,1913-03-07
+12382,Tom,Sargent,,N,,"African American",,,"R. M. Wicklinne",,"S912 1/2",friends,,,1913-04-08
+12383,Saba,Balagria,,N,,"African American",,,"R. M. Wickline",,"Catholic Cemetery",friends,,,1913-04-09
+12384,Bennie,Ramos,,N,,"African American",,,"R. M. Wickline",,Cath.,friends,,,1913-04-12
+12385,M.,Cruz,,N,,"African American",,,"R. M. Wicklinne",,"City Gr.",friends,,,1913-04-13
+12386,"Mrs. Eliza",Allen,,N,,"African American",,,"R. M. Wicklne",,"Old Grounds",friends,,,1913-04-13
+12387,Frank,Sisk,,N,,"African American",,,"R. M. Wicline",,"S 912 1/2",friends,,,1913-04-12
+12388,Marie,Bramlett,,N,,"African American",,,"R. M. Wickline",,"Colored Grounds",friends,,,1913-04-13
+12389,"Cecilio M.",Prado,,N,,"African American",,,"R. M. Wicline",,"City Gr.",friends,,,1913-04-15
+12390,"R. A.",Pearl,,N,,"African American",,,"R. M. Wicklinne",,808,friends,,,1913-04-16
+12391,Francisco,Mata,,N,,"African American",,,"R. M. Wicklne",,"city gr",friends,,,1913-04-19
+12392,Tom,"Gonzales Jr.",,N,,"African American",,,"R. M. Wickline",,"city gr.",city,,,1913-04-20
+12393,"Infant  Reginald",Haag,,N,,"African American",,,"R. M. Wicklinne",,"Old Grounds",friends,,,1913-04-20
+12394,D.,McDaniel,,N,,"African American",,,"R. M. Wicline",,"S 912 1/2",friends,,,1913-04-21
+12395,"Mrs. R. A.",Douglas,,N,,"African American",,,"R. M. Wickline",,1013,friends,,,1913-04-22
+12396,Mike,Flores,,N,,"African American",,,"R. M. Wicklinne",,"Catholic Cemetery",friends,,,1913-04-23
+12397,J.,Martinez,,N,,"African American",,,"R. M. Wicklinne",,"city gr",friends,,,1913-04-24
+12398,Lottie,Ekstrom,,N,,"African American",,,"R. M. Wicklinne",,"city gr",friends,,,1913-04-24
+12399,"John L.",Leonard,,N,,"African American",,,"R. M. Wicklne",,"Catholic Cemetery",friends,,,1913-04-25
+12400,"R. E.",Carter,,N,,"African American",,,"R. M. Wickling",,"Old Grounds",friends,,,1913-04-27
+12401,Amanda,Carlson,,N,,"African American",,,"R. M. Wickline",,809,friends,,,1913-04-27
+12402,Inf,Lehman,,N,,"African American",,,"R. M. Wickline",,1090,friends,,,1913-04-27
+12403,John,Faulk,,N,,"African American",,,"R. M. Wicline",,"S 912 1/2",friends,,,1913-04-28
+12404,Mary,Hunter,,N,,"African American",,,"R. M. Wickline",,1029,friends,,,1913-04-28
+12405,Augusta,Villariel,,N,,"African American",,,"R. M. Wickline",,"city gr",city,,,1913-04-04
+12406,Caroline,Lopez,,N,,"African American",,,"R. M. Wickline",,"city gr",city,,,1913-04-25
+12407,"John C.",Preston,,N,,"African American",,,"R. M. Wicklinne",,1029,friends,,,1913-04-29
+12408,"J. M.",Cameron,,075-00-00,M,White,Ala,,"S. A. Woolsey",,1124,friends,,,1913-05-01
+12409,"John Barclay",Armstrong,,063-04-00,M,White,,,"S. Milton",,777,friends,,,1913-05-02
+12410,Euphima,Walker,,N,F,White,,,"S. A. Woolsey",,-,friends,,,1913-05-03
+12411,Charles,Carlson,,073-09-22,M,White,Sweden,,"S.A. Woosley",,-,friends,,,1913-05-02
+12412,F.,Rodriquez,,067-00-00,M,Mexican,Mex,,"S.A. Woolsey",,"city gr",city,,,1913-05-04
+12413,"Inf of C. C.",Truitt,,N,M,White,Tex,,"S.A. Woolsey",,"911 1/2",friends,,,1913-05-04
+12414,Llbrado,Prado,,000-03-04,M,Mexican,Tex,,"S.A. Woolsey",,"city gr",city/county,,,1913-05-05
+12415,Nancy,Payne,,067-05-24,F,White,Tenn,,"S. Milton",,1089,friends,,,1913-05-06
+12416,Rudolph,Bruck,,081-08-20,M,White,Ger,,"S.A. Woolsey",,"841 1/2",friends,,,1913-05-08
+12417,Esperanza,Peralis,,000-04-20,F,Mexican,Austin,,"S. Milton",,"city gr",city,,,1913-05-10
+12418,Eugene,Hambry,,022-00-00,M,White,Texas,,"S.A. Woolsey",,"911 1/2",firends,,,1913-05-11
+12419,Edward,Battersby,,024-00-00,M,White,Texas,,"S.A. Woolsey",,845,friends,,,1913-05-11
+12420,"L. B.",Fontain,,N,,"African American",,,"S.A. Woolsey",,968,friends,,,1913-05-12
+12421,"Mary G.",Archer,,078-00-00,F,White,Indiana,,"S. A. Woolsey",,1015,friends,,,1913-05-14
+12422,Chas,Wolf,,069-03-07,M,White,Germany,,"S.A. Woosley",,321,friends,,,1913-05-14
+12423,"B. H.",Anderson,,034-00-00,M,White,,,"S.A. Woosley",,"984 1/2",friends,,,1913-05-16
+12424,Juaquin,Kermitz,,022-08-23,M,White,"San Atonio",,"S.A. Woolsey",,"911 1/2",friends,,,1913-05-17
+12425,Wm.,Lloyd,,078-05-29,M,E,Alabama,,"S.A. Woosley",,890,friends,,,1913-05-19
+12426,Peter,Vargas,,006-07-10,M,Mexican,"San Marcos",,"S.A. Woolsey",,"Catholic Cemetery",friends,,,1913-05-19
+12427,"J. E.",Harris,,N,,"African American",,,"S.A. Woosley",,911,friends,,,1913-05-20
+12428,Marcelio,Mezia,,080-00-00,M,Mexican,Mex,,"S.A. Woosley",,"city gr",city,,,1913-05-21
+12429,Marie,Gramsho,,058-09-13,F,White,,,"S.A. Woolsey",,840,friends,,,1913-05-23
+12430,Garrett,Gibson,,002-05-08,M,White,"Austin, Tex",,"S.A. Woolsey",,874,friends,,,1913-05-24
+12431,"A. C.",Hall,,000-09-06,M,White,"Austin, Tex",,"S.A. Woolsey",,"910 1/2",friends,,,1913-05-25
+12432,"Pearl C.",Bock,,031-09-08,F,White,"Austin, Tex",,"S.A. Woolsey",,187,friends,,,1913-05-26
+12433,Sarah,Duglas,,081-01-15,F,White,"Austin, Tex",,"S.A. Woosley",,"914 1/2",friends,,,1913-05-27
+12434,Sarah,Duglas,,081-01-15,F,White,"Austin, Tex",,"S.A. Woosley",,"914 1/2",friends,,,1913-05-27
+12435,Eugene,Sanberg,,018-00-00,M,White,Ky,,"S.A. Woolsey",,785,friends,,,1913-05-28
+12436,S.,E[emasas,,036-00-00,M,Mexican,Tex,,"S.A. Woolsey",,"Catholic Cemetery",friends,,,1913-05-28
+12437,B.,Alvis,,032-00-00,M,Mexican,Texarkana,,"S.A. Woosley",,"Catholic Cemetery",friends,,,1913-05-28
+12438,"P. C.",Wells,,057-04-03,M,White,Tex,,"S.A. Woolsey",,811,friends,,,1913-05-31
+12439,Henry,Brock,,050-00-00,M,White,Tex,,"S.A. Woosley",,"910 1/2",friends,,,1913-05-31
+12440,Levi,Scott,,086-06-19,M,White,Tex,,"S.A. Woolsey",,"Old Grounds",friends,,,1913-05-31
+12441,Virginia,Nalle,,073-00-00,F,White,,,"S.A. Woolsey",,1156,friends,,,1913-06-01
+12442,"J. B.",Hardwick,,083-00-00,F,White,,,"S.A. Woolsey",,867,friends,,,1913-06-03
+12443,Caroline,Traugott,,070-04-06,F,White,Germany,,"S.A. Woosley",,1123,friends,,,1913-06-04
+12444,"Fannie C.",Rutherford,,063-00-00,F,White,,,"S. Milton",,1075,friends,,,1913-06-06
+12445,Sarah,Scott,,064-00-00,F,"African American",,,"S. A. Woolsey",,"Colored Grounds",friends,,,1913-06-06
+12446,Lorrie,Montgomery,,040-07-26,M,White,Mich,,"S.A. Woosley",,"910 1/2",friends,,,1913-06-06
+12447,"J. O.",O'Banion,,N,F,White,,,"S.A. Woosley",,"909 1/2",friends,,,1913-06-07
+12448,Fritz,Merscher,,055-04-07,M,White,Germany,,"S.A. Woosley",,810,friends,,,1913-06-07
+12449,Monroe,Sargent,,000-01-13,M,White,"Austin, Tex",,"S.A. Woolsey",,"911 1/2",friends,,,1913-06-02
+12450,Lawrence,Black,,025-00-00,M,"African American","Austin, Tex",,"S.A. Woolsey",,"Colored Grounds",friends,,,1913-06-03
+12451,"J. Wilson","Burke Jr.",,028-00-00,M,White,,,"S. A. Woolsey",,190,friends,,,1913-06-07
+12452,Delores,Luna,,040-00-00,F,Mexican,Tex,,"S.A. Woosley",,"city gr.",city,,,1913-06-08
+12453,"B. J.",Smith,,095-00-00,F,White,,,"S.A. Woosley",,426,friends,,,1913-06-08
+12454,Dora,Walsh,,062-11-19,,"African American",,,"S.A. Woosley",,426,friends,,,
+12455,Baby,West,,000-00-03,F,White,,,"S.A. Woosley",,977,friends,,,
+12456,Florence,Unknown,,N,,Mexican,,,"S.A. Woolsey",,"city gr.",city,,,1913-06-11
+12457,"Jno D.",Aden,,067-00-00,M,White,,,"S.A. Woolsey",,823,friends,,,1913-06-13
+12458,B.,Martinez,,018-00-00,M,Mexican,,,"S.A. Woolsey",,"city gr",city,,,1913-06-14
+12459,"Agnes A.",Dahlich,,064-00-00,F,White,Germany,,S,,1037,friends,,,1913-06-15
+12460,"M. S.",Reynolds,,010-03-08,M,White,,,"S. A. Woolsey",,"909 1/2",friends,,,1913-06-15
+12461,"Abner H.",Cook,,068-10-06,M,White,"Austin, Tex",,"S. A. Woolsey",,158,friends,,"Cook first white boy child born in Austin, Tex",1913-06-16
+12462,Lulu,Doughy,,040-00-00,F,White,Ky,,"S. A. Woolsey",,434,friends,,,1913-06-18
+12463,"Felix Andrew",Austin,,031-04-00,M,White,Tex,,"S. A. Woolsey",,"910 1/2",friends,,,1913-06-19
+12464,Lulu,Dunn,,041-08-18,F,White,Tex,,"S. A. Woolsey",,896,friends,,,1913-06-20
+12465,"Inf Lucas",Vargas,,000-00-14,F,Mexican,,,"S. A. Woolsey",,"Catholic Cemetery",friends,,,1913-06-22
+12466,Marcelino,Morales,,000-13-00,M,Mexican,,,"S. A. Woolsey",,"Catholic Cemetery",friends,,,1913-06-22
+12467,Agnes,Campbell,,054-00-00,F,White,,,"S. A. Woolsey",,446,friends,,,1913-06-22
+12468,Gertrude,Haschke,,084-00-00,F,White,,,"S.A. Woolsey",,1122,friends,,,1913-06-23
+12469,Francis,Nunn,,000-00-24,F,White,,,"S. Milton",,783,friends,,,1913-06-24
+12470,Francis,Bissell,,055-00-00,F,White,,,"S.A. Woolsey",,842,friends,,,1913-06-25
+12471,"Inf of M & G",Villard,,000-00-00,F,Mexican,,stillborn,"S.A. Woolsey",,"city gr",county,,,1913-06-28
+12472,"infant Ben",Garcia,,000-05-00,F,Mexican,,,"S.A. Woolsey",,"910 1/2",friends,,,1913-06-28
+12473,A,Bargas,,033-00-00,M,Mexican,,,"S.A. Woolsey",,"city gr",county,,,1913-06-28
+12474,Jacy,Wyard,,063-00-00,M,White,,,"S.A. Woosley",,"city gr",county,,,1913-06-13
+12475,Christoford,Carrions,,004-00-00,M,Mexican,"Austin, Tex",,"S. A. Woolsey",,"Mex gr",friends,,,1913-07-01
+12476,Luiza,Prado,,000-00-8,F,Mexican,"Austin, Tex",,"S. A. Woolsey",,"Catholic Cemetery",friends,,,1913-07-01
+12477,Victoria,Sanchez,,056-03-04,F,Mexican,Mex,,"S.A. Woolsey",,"city gr",city,,,1913-07-01
+12478,Marcelino,Peres,,023-00-00,M,Mexican,Mex,,"S.A. Woolsey",,"city gr",city,,,1913-07-03
+12479,"Lucy Catherine",Metterheimer,,076-05-00,F,White,Ky,,S,,"Old Grounds",friends,,,1913-07-04
+12480,Ada,Garza,,020-01-02,F,Mexican,,,"S. A. Woolsey",,"Catholic Cemetery",friends,,,1913-07-05
+12481,Maria,Martinez,,000-05-19,F,Mexican,Austin,,"S.A. Woosley",,"city gr",city,,,1913-07-06
+12482,Elwood,Burnett,,017-11-15,M,White,Texas,,"S. A. Woolsey",,1159,friends,,,1913-07-11
+12483,Inf,Ruiz,,N,M,Mexican,Austin,,"S. A. Woolsey",,"Mex gr",friends,,,1913-07-11
+12484,"Ianta D.",Dedrick,,006-04-22,F,"African American",Austin,,"S.A. Woolsey",,"Colored Grounds",friends,,,1913-07-12
+12485,"Mrs. J. A.",Smith,,062-00-02,F,White,England,,"S.A. Woosley",,959,friends,,,1913-07-13
+12486,M,Bayley,,057-06-19,F,White,England,,"S.A. Woosley",,907,friends,,,1913-07-14
+12487,A,Nauntfolio,,N,M,Mexican,,,"S.A. Woosley",,"Mex gr",friends,,,1913-07-17
+12488,"John S.",Myrick,,065-00-00,M,White,,,"S. A. Woolsey",,928,friends,,,1913-07-18
+12489,Rubin,Lanterstein,,011-00-00,M,White,Texas,,"S. Milton",,"Jewish Cemetery",friends,,,1913-07-18
+12490,Gabriel,Morales,,001-05-00,M,Mexican,Austin,,"S.A. Woolsey",,"mex gr",friends,,,1913-07-18
+12491,"John A",Kotter,,070-00-00,M,White,Germany,,"S.A. Woolsey",,"909 1/2",friends,,,1913-07-19
+12492,"Inf of Mr & Mrs Fritz",Naschke,,000-00-00,M,White,Austin,,"S.A. Woolsey",,"909 1/2",friends,,,1913-07-19
+12493,"Dora Iona",Crump,,001-03-00,F,White,Texas,,"S. A. Woolsey",,"908 1/2",friends,,,1913-07-21
+12494,"Inf of Mr & Mrs H",Nygard,,000-00-00,F,White,Texas,,"S.A. Woolsey",,"910 1/2",friends,,,1913-07-21
+12495,Nancy,Pollard,,002-09-22,F,White,Texas,,"S. A. Woolsey",,1127,friends,,,1913-07-23
+12496,Florence,Dominic,,026-00-00,F,White,Texas,,"S.A. Woolsey",,"Catholic Cemetery",friends,,,1913-07-23
+12497,"Gus A",Martin,,060-00-00,M,White,Texas,,"S.A. Woolsey",,"909 1/2",friends,,,1913-07-24
+12498,"D. D.",Saurez,,073-00-00,F,Mexican,La,,"S. A. Woolsey",,"Mex gr",friends,,,1913-07-26
+12499,"Thomas B",Cochran,,054-10-18,M,White,Texas,,"S. Milton",,826,friends,,,1913-07-26
+12500,Cruz,Hernandez,,001-04-23,M,Mexican,Texas,,"S. A. Woolsey",,"city gr",city,,,1913-07-27
+12501,E,Gonzales,,008-00-07,M,Mexican,Texas,,"S. A. Woolsey",,"Mex gr",friends,,,1913-07-27
+12502,Geo,McCall,,026-01-17,M,Mexican,Texas,,"S.A. Woosley",,929,friends,,,1913-07-30
+12503,Jossi,Nygard,,023-03-04,F,White,Texas,,"S. A. Woolsey",,"909 1/2",friends,,,1913-07-31
+12504,"Mrs Cora",Bryant,,N,,"African American",,,,,854,,,"removed from lot 45 to S.E. Qt 854",1913-07-09
+12505,"Olivia Cleveland",Kinney,,077-02-00,F,White,Mo,,"S. A. Woolsey",,"Old Grounds",friends,,,1913-08-02
+12506,"William J.",Sutor,,059-09-21,M,White,"Austin, Tex",,"S. A. Woolsey",,845,Friends/City,,,1913-08-02
+12507,"Mrs. John",Kelly,,057-00-00,F,White,,,"S. A. Woolsey",,"Catholic Cemetery",friends,,,1913-08-03
+12508,Tom,McMullin,,029-22-22,M,White,Texas,,"S. Milton",,"908 1/2",friends,,,1913-08-06
+12509,John,Dahler,,061-00-00,M,White,Bavaria,,"S.A. Woolsey",S,509,friends,,,1913-08-07
+12510,Juoqunia,Lopez,,030-00-00,m,m,tEXAS,,"S. Milton",,"city gr",city,,,1913-08-07
+12511,"Josephine M",Smith,,039-08-00,F,White,Texas,,"S. Milton",,862,friends,,,1913-08-08
+12512,"Maria Lula",Benavidas,,008-11-00,F,Mexican,Texas,,"S.A. Woosley",,"city gr",city,,,1913-08-08
+12513,"Carl G.",Palm,,075-05-24,M,White,Sweden,,"S.E. Hudson",,72,friends,,,1913-08-09
+12514,Marie,Lopez,,014-02-02,F,Mexican,Texas,,"S.A. Woosley",,"city gr",friends,,,1913-08-09
+12515,"Mrs Kate",Patterson,,048-08-22,F,White,Ill,,"S.A. Woolsey",,1055,friends,,,1913-08-10
+12516,"Geo E",Scott,,000-10-14,M,White,Austin,,"S. Milton",,282,friends,,,1913-08-10
+12517,Ben,Morris,,020-00-00,M,Mexican,Austin,,"S.A. Woosley",,"910 1/2",friends,,,1913-08-13
+12518,"T H",Edwards,,N,M,White,Austin,,"S.A. Woolsey",,1082,friends,,,1913-08-14
+12519,Ysidia,Uyon,,050-00-00,F,Mexican,Mex,,"S.A. Woolsey",,"Catholic Cemetery",friends,,,1913-08-14
+12520,Jesus,Rodriguiz,,057-09-14,M,Mexican,Mex,,"S.A. Woolsey",,"908 1/2",friends,,,1913-08-15
+12521,A,Martinez,,024-00-00,M,Mexican,Mex,,"S.A. Woosley",,"901 1/2",friends,,,1913-08-15
+12522,Alice,DeVere,,038-00-00,F,White,,,"S.A. Woosley",,736,friends,,,1913-08-16
+12523,Paul,Miller,,032-10-00,M,White,,,"S. A. Woolsey",,"Old Grounds",friend,,(drowned),1913-08-17
+12524,"Miss Bleuford",Sanders,,030-10-16,F,White,Tex,,"S.A. Woolsey",,857,friends,,(drowned),1913-08-17
+12525,"Joseph G",Franklin,,064-00-00,M,White,R.I.,,"S.A. Woosley",,"909 1/2",friends,,,1913-08-18
+12526,Fannie,Register,,052-03-00,F,White,Ark,,"S.A. Woolsey",,883,friends,,,1913-08-18
+12527,"Mrs. Herminia",Giesecki,,066-00-00,F,White,,,"S.A. Woosley",,1124,friends,,,1913-08-18
+12528,"Mrs. Dorothy",Hornberger,,077-04-14,F,White,,,"S. Milton",,929,friends,,,1913-08-19
+12529,Theo,Hillyer,,055-00-00,M,White,Tex,,"S.A. Woolsey",,925,friends,,,1913-08-19
+12530,Roberta,Shults,,004-11-16,F,White,Tex,,"S.A. Woolsey",,977,friends,,,1913-08-20
+12531,Robt,Scheiffer,,066-00-00,M,White,Germany,,"S.A. Woosley",,294,friends,,,1913-08-23
+12532,Mary,Buehner,,075-05-13,F,White,Germany,,"S.A. Woolsey",,88,friends,,,1913-08-24
+12533,Paul,Mayfield,,N,M,White,,,"S.A. Woosley",,,"908 1/2",friends,,1913-08-26
+12534,"Mrs. Maud",William,,045-00-00,F,White,,,"S.A. Woolsey",,357,friends,,,1913-08-26
+12535,J,Johnson,,059-08-19,M,White,Miss,,"S. A. Woolsey",,"Old Grounds",friends,,,1913-08-29
+12536,Clara,Vanderlas,,060-00-00,F,White,,,"S.A. Woolsey",,800,friends,,,1913-08-29
+12537,John,Vanderlas,,035-00-00,M,White,,,"S.A. Woolsey",,800,friends,,,1913-08-29
+12538,"Inf of Mr & Mrs E R",Bomar,,N,M,White,"Austin, Tex",,"S.A. Woolsey",,"908 1/2",friends,,,1913-09-02
+12539,Mellia,Thomas,,N,F,White,Syria,,"S.A. Woolsey",,"Cath Cemetery",friends,,,1913-09-02
+12540,Elizabeth,Horton,,053-00-00,F,White,,,"S.A. Woolsey",,498,friends,,,1913-09-03
+12541,"Lillie May",Shelton,,033-00-00,F,White,Texas,,"S.A. Woolsey",,1135,friends,,,1913-09-03
+12542,Dorothea,Bassist,,085-02-02,F,White,Germany,,"S.A. Woolsey",,"Jewish Cemetery",friends,,,1913-09-03
+12543,Inf,Gonzales,,000-00-06,M,Mexican,Texas,,"S.A. Woosley",,"city gr",friends,,,1913-09-07
+12544,"Mrs Millie",Johnson,,058-00-00,F,White,Ala,,S.A.,,"S 2, 907 1/2",friends,,,1913-09-07
+12545,Emmett,Borho,,005-01-02,M,White,Texas,,"S.A. Woolsey",,804,,,,1914-07-01
+12546,Phillip,Zamora,,060-00-15,M,Mexican,Mexico,,"S.A. Woolsey",,"1161 1/2 N.3",,,,1914-07-02
+12547,"Jno. Thos.",Anderson,,000-00-05,M,White,Texas,,"S.A. Woolsey",,859,,,"10/3/1968.  Disinterred to Forest Oaks, Oak Hill, Texas.",1914-07-02
+12548,G.B.,Mitchell,,N,M,White,,,"S.A. Woolsey",,335,,,,1914-07-03
+12549,W.M.,Shuford,,068-00-00,M,White,,,"S.A. Woolsey",,"Old Grounds",,,,1914-07-04
+12550,"Henry C.",Fincher,,035-07-11,M,White,Texas,,"S.A. Woolsey",,195,,,,1914-07-04
+12551,Minnie,Grell,,057-11-26,F,White,Texas,,"S.A. Woolsey",,"1153 1/2 No.1",,,,1914-07-05
+12552,"Levi (Mrs.)",Scott,,085-01-25,F,White,,,"S.A. Woolsey",,"Old Grounds",,,,1914-07-08
+12553,Augusta,Dietzel,,063-11-01,F,White,"New Braunfels",,"S.A. Woolsey",,846,,,,1914-07-08
+12554,"Nannie Morton",Rice,,053-10-06,F,White,Va.,,"S.A. Woolsey",,887,,,,1914-07-08
+12555,"Ed R. (Mrs.)",Smith,,055-00-00,F,White,,,"S.A. Woolsey",,966,,,,1914-07-10
+12556,"Joe (Infant of)",Morales,,000-00-01,M,Mexican,Texas,,"S.A. Woolsey",,Cath.,,,,1914-07-11
+12557,"Theo W.",Himrichs,,035-00-00,M,White,,,"S.A. Woolsey",,213,,,"Name may be Hinrichs.",1914-07-14
+12558,Nattie,Curry,,027-00-00,M,"African American",,,"S.A. Woolsey",,"Colored Grounds",,,,1914-07-14
+12559,"Julia (Mrs.)",Stolle,,074-00-00,F,White,,,"S.A. Woolsey",,448,,,"Name is spelled ""Stolley"" in City Directory.",1914-07-17
+12560,"Minnie E.",Kincaid,,018-09-10,F,White,,,"S.A. Woolsey",,"1152 1/2 N. 7",,,,1914-07-17
+12561,Annie,Suarez,,020-00-00,F,Mexican,Texas,,"S.A. Woolsey",,"1158 1/2 N.4",,,,1914-07-17
+12562,"James P.",Hart,,066-05-06,M,White,Tenn.,,"S.A. Woolsey",,2,,,,1914-07-18
+12563,H.R.,Carruth,,026-04-17,M,White,,,"S.A. Woolsey",,1059,,,,1914-07-18
+12564,Henry,Rosenberger,,077-00-00,M,White,Germany,,"S.A. Woolsey","Jewish Cemetery",,,,,1914-07-21
+12565,Sista,Acosta,,030-00-00,M,Mexican,,,"S.A. Woolsey",,"City Gr.",,,,1914-07-22
+12566,R.C.,Walker,,N,M,White,,,"S.A. Woolsey",,"Old Grounds",,,,1914-07-27
+12567,H.G.,Williams,,074-05-12,M,White,Texas,,"S.A. Woolsey",,"Old Grounds",,,,1914-07-28
+12568,Augustin,Garcia,,000-10-00,M,Mexican,Texas,,"S.A. Woosley",,Cath.,,,,1914-07-30
+12569,"Ethel Juanita",Milton,,000-00-00,F,White,Austin,,"S. A. Woolsey",,,,,,1913-09-08
+12570,"Inf of Mr & Mrs L P",Piper,,000-00-00,F,White,Austin,,"S. A. Woolsey",,498,,,,1913-09-10
+12571,"Inf of Mr & Mrs L",Salsola,,N,M,Mexican,Austin,,"S. Milton",,"city gr",city,,,1913-09-10
+12572,"Mrs. Nina",Gevers,,071-09-13,F,White,Germany,,"S. Milton",,473,friends,,,1913-09-10
+12573,Sausfino,Guiterrez,,N,M,Mexican,,"S.A. Woolsey",,,"city gr.",city,,,1913-09-12
+12574,"Inf of Mr & Mrs",Schieffer,,000-00-00,F,White,Austin,,"S.A. Woolsey",,901,friends,,,1913-09-13
+12575,"Helen Loraine",Barclay,,007-02-13,F,White,Texas,,"S.A. Woosley",,1135,friends,,,1913-09-13
+12576,"Robt Clark",Carman,,054-09-27,M,White,La,,"S.A. Woolsey",,"not given",friends,,,1913-09-13
+12577,"Inf of Mr & Mrs W M",Graham,,000-00-00,M,White,Austin,stillborn,"S.A. Woolsey",,751,friends,,,1913-09-14
+12578,"Mrs. Annetta",Harper,,080-00-00,F,"African American",Ala,,"S.A. Woolsey",,"Colored Grounds",friends,,,1913-09-16
+12579,"Mrs. Bertha",Eggling,,034-04-00,F,White,Texas,,"S.A. Woosley",,57,friends,,,1913-09-16
+12580,"Herman T.",Reisner,,N,M,White,Texas,,"S. A. Woolsey",,910,friends,,,1913-09-16
+12581,"W. B.",Davis,,049-09-01,M,White,Texas,,"S. Milton",,763,friends,,,1913-09-19
+12582,B,Juarez,,077-11-19,M,Mexican,Mexico,,"S.A. Woolsey",,"Mex gr",friends,,,1913-09-20
+12583,Inf,Gazer,,N,M,Mexican,Austin,,"S. Milton",,"S #7 907 1/2",friends,,,1913-09-20
+12584,N,Moore,,033-00-00,M,Mexican,Austin,,"S.A. Woolsey",,730,friends,,,1913-09-23
+12585,"Wm Daniel",Patton,,084-00-00,M,White,Miss,,"S.A. Woolsey",,760,friends,,,1913-09-26
+12586,"J. W.",Burke,,068-03-20,M,White,Pa,,"S.A. Woolsey",,190,friends,,,1913-09-27
+12587,"R. F.",Dupey,,075-00-00,M,White,,,"S.A. Woolsey",,732,friends,,,1913-09-27
+12588,"J. C.",Evans,,058-07-27,M,White,Ala,,"S.A. Woolsey",,"907 1/2 #5",friends,,,1913-09-27
+12589,Inf,McLemore,,N,F,White,Tex,,"S.A. Woolsey",,"S #1, 906 1/2",friends,,,1913-09-29
+12590,"J. G.",Walker,,060-00-00,M,White,Tex,,"S.A. Woolsey",,"S 1, 906 1/2",friends,,,1913-09-28
+12591,Esta,Gonzales,,018-00-00,F,Mexican,Tex,,"S.A. Woolsey",,"Mex gr",friends,,,1913-09-29
+12592,Vernon,Haynes,,023-07-23,M,White,Tex,,"S. A. Woolsey",,782,friends,,,1913-09-29
+12593,Cleophas,Siprentas,,N,M,Mexican,Tex,,"S.A. Woolsey",,"city gr",city,,,1913-09-29
+12594,Louis,Loeb,,044-00-00,M,White,Germany,,"S.A. Woolsey",,"Jewish Cemetery",friends,,,1913-09-29
+12595,"Inf Mex",N,,N,F,Mexican,,,"S.A. Woolsey",,Cath,friends,,,1913-09-30
+12596,John,Bock,,037-09-27,M,White,Arkansas,,"S. A. Woolsey",,"Old Grounds",,,,1913-10-02
+12597,Mrs.,Strayhorn,,057-02-01,F,White,,,"S. A. Woolsey",,185,,,,1913-10-03
+12598,"Mrs. Alice D.",Crom,,060-05-13,F,White,Texas,,"S. A. Woolsey",,"No 2, 906 1/2",,,,1913-10-05
+12599,"Inf of Joe",Schneider,,000-00-00,M,White,Texas,stillborn,"S. Milton",,cath,,,,1913-10-05
+12600,Joseph,Johns,,018-00-00,M,White,Texas,,"S.A. Woosley",,Cath,,,,1913-10-06
+12601,"Inf Edward L",Davis,,000-06-21,F,Mexican,Texas,,"S.A. Woolsey",,1010,,,,1913-10-09
+12602,Rose,Silverstein,,000-03-05,F,White,Texas,,"S.A. Woolsey",,"Jewish Cemetery",,,,1913-10-12
+12603,E,Carion,,022-00-00,F,Mexican,Texas,,"S. Milton",,"city gr",,,,1913-10-12
+12604,"Mrs. Emma",Enquist,,054-04-00,F,White,Sweden,,"S.A. Woolsey",,"Old Grounds",,,,1913-10-13
+12605,Inf,Cox,,000-00-00,M,White,"Austin, Tex",stillborn,"S. Milton",,"No 3, 906 1/2",,,,1913-10-13
+12606,"Inf J",Samaripa,,000-03-00,M,Mexican,Texas,,S.A.,,"city gr",,,,1913-10-15
+12607,J,Joseph,,020-00-00,M,White,"Austin, Tex",,S.A.,,Cath,,,color-Syrian,1913-10-19
+12608,Elisha,Pettet,,087-00-00,M,White,Ill,,S.A.,,"No 5, 906 1/2",,,,1913-10-22
+12609,Peter,Hehl,,069-08-03,M,White,Germany,,"S. A. Woolsey",,"90501/2 No 2",,,,1913-10-22
+12610,Miliala,Forster,,079-03-05,F,White,Pa,,S.A.,,1124,,,,1913-10-23
+12611,"Inf Lorrine",Ross,,004-06-06,M,White,Texas,,S.A.,,"905 1/2 No 6",,,,1913-10-22
+12612,Tom,Dietrich,,065-01-19,M,White,,,"S. A. Woolsey",,"Old Grounds",,,,1913-10-25
+12613,R,Hernandez,,000-03-24,F,Mexican,"Austin, Tex",,S.A.,,"city gr",,,,1913-10-25
+12614,Ignacio,Esquibel,,045-00-00,M,Mexican,,,"S.A. Woolsey",,"902 1/2 No 7",,,,1913-10-26
+12615,"Lawrence C",Fagan,,065-00-00,M,White,"New York",,"S. Milton",,Cath,,,,1913-10-27
+12616,"Inf Jannette",January,,000-06-13,F,"African American","Austin, Tex",,"S. Milton",,"Colored Grounds",,,,1913-10-28
+12617,"Norton Givens",Lane,,056-06-11,M,White,Tex,,"S. Milton",,"Old Grounds",,,,1913-10-29
+12618,"Refugia E.",Briones,,074-00-00,F,Mexican,Mexico,,"S. Milton",,"907 12/ No 6",,,,1913-10-29
+12619,Yndalacion,Zamora,,021-00-00,M,Mexican,Mexico,,"S.A. Woolsey",,"956 1/2 N. 6",,,,1914-08-01
+12620,Walter,Palm,,037-04-28,M,White,Texas,,"S.A. Woolsey",,72,,,,1914-08-02
+12621,Conerjo,Castro,,000-03-00,M,Mexican,,,"S.A. Woolsey",Catholic,,,,,1914-08-05
+12622,"Ila Louise",Allen,,000-06-00,F,White,Austin,,"S.A. Woolsey",,"1153 1/2 N.4",,,,1914-08-05
+12623,Edwin,Gray,,064-00-00,M,White,,,"S.A. Woolsey",,209,,,,1914-08-08
+12624,"Mildred Elizabeth",Wolf,,065-05-19,F,White,Arkansas,,"S.A. Woolsey",,798,,,,1914-08-08
+12625,Mexican,Unknown,,N,M,Mexican,,,"S.A. Woolsey",,"City Gr.",,,,1914-08-11
+12626,Allen,Shaw,,050-08-18,M,"African American",Texas,,"S.A. Woolsey",,"Colored Grounds",,,,1914-08-12
+12627,"E.B. (Mrs.)",Harvey,,069-03-26,F,White,England,,"S.A. Woolsey",,"1153 1/2 N.5",,,,1914-08-13
+12628,N.,Blackmore,,056-02-00,M,White,Mo.,,"S.A. Woolsey",,877,,,,1914-08-16
+12629,Morgan,Wells,,055-00-00,M,White,,,"S.A. Woolsey",,924,,,,1914-08-17
+12630,"Mary Elizabeth",Parker,,052-00-00,F,White,Miss.,,"S.A. Woolsey",,992,,,,1914-08-17
+12631,"M. (Mrs.)",Broderick,,076-02-08,F,White,Ireland,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-08-19
+12632,Gus,Sherringhouse,,N,M,White,,,"S.A. Woosley",,"City Gr.",,,,1914-08-19
+12633,"Mary Ann",Benson,,079-00-16,F,White,Ga.,,"S.A. Woolsey",,"Old Gr. (See note below)",,,"Old Gr. is crossed out in pencil and is replaced with ""Annex A #9"".",1914-08-20
+12634,Seth,Mabry,,083-00-00,M,White,,,"S.A. Woolsey",,352,,,,1914-08-24
+12635,"B.C. (Mrs.)",Mollberg,,037-00-00,F,White,,,"S.A. Woolsey",,"1154 1/2 N. 2",,,,1914-08-26
+12636,"Ethel May (Mrs.)",Simpson,,025-01-02,F,White,"New Jersey",,"S.A. Woolsey",,"1154 1/2 N.1",,,,1914-08-26
+12637,"Rodolfo H.",Luna,,N,M,Mexican,Austin,,"S.A. Woolsey",,"City Gr.",,,,1914-08-26
+12638,M.N.,McKinney,,026-00-00,M,White,Texas,,"S.A. Woolsey",,1094,,,,1914-08-27
+12639,Chas.,Davis,,052-00-00,M,White,"New York",,"S.A. Woolsey","Jewish Cemetery (See note below)",,,,"Removed from lot 35 to lot 17 mausoleum no. 2.",1914-08-28
+12640,A.J.,Rennolds,,045-00-00,M,White,,,"S.A. Woolsey",,"1154 1/2 N. 4",,,,1914-08-28
+12641,Victoria,Flores,,035-00-00,F,Mexican,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-08-29
+12642,"Sarah Jane",Izor,,083-02-28,F,White,Ky.,,"S.A. Woolsey",,498,,,,1914-08-29
+12643,"E.O., Mr. & Mrs. (Infant of)",Natzfeld,,N,F,White,Austin,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-08-31
+12644,Peter,Gonzales,,000-00-09,M,Mexican,Texas,,"S. A. Woolsey",,cath,,,,1913-11-01
+12645,"Inft of Mr Joe and Mrs",Oyerides,,000-00-00,M,Mexican,Texas,stillborn,"S.A. Woolsey",,"906 1/2 no 3",,,,1913-11-03
+12646,Macario,Arnidonde,,001-02-00,M,Mexican,Texas,,S.A.,,"905 1/2 no 1",,,,1913-11-03
+12647,"Ift of Mr and Mrs C Z",Gentry,,N,,"African American",Austin,,"S. A. Woolsey",,"905 1/2 no 1",,,,1913-11-04
+12648,Francisco,Polendo,,060-00-00,F,Mexican,Mexico,,"S.A. Woolsey",,"901 1/2 no 1",,,,1913-11-04
+12649,"Maria Biatris",Racllis,,000-00-04,F,Mexican,Texas,,"S.A. Woolsey",,"901 1/2 no 6",,,,1913-11-04
+12650,"Jimmie Bell",Brooker,,000-10-12,M,White,Texas,,"S.A. Woosley",,"901 1/2 no 6",,,,1913-11-05
+12651,"Francis L",Eppes,,001-00-00,M,White,Texas,,S.A.,,cath,,,,1913-11-05
+12652,Andres,Pladozns,,N,M,Mexican,Mexico,,"S.A. Woolsey",,"901 1/2 no 7",,,,1913-11-05
+12653,"Elizabeth Ann",Chambers,,078-11-22,F,White,Tenn,,"S.A. Woolsey",,710,,,,1913-11-06
+12654,"W J",Shaw,,065-00-00,M,White,unknown,,"S. Milton",,"900 1/2 no 1",,,,1913-11-06
+12655,"Frank H",Gildart,,N,M,White,"not known",,S.A.,,316,,,,1913-11-07
+12656,Phillip,Green,,001-02-00,M,White,Austin,,"S. A. Woolsey",,"905 1/2 no 3",,,,1913-11-07
+12657,"Mrs. Adele",Brummett,,078-06-00,F,White,France,,"S. A. Woolsey",,402,,,,1913-11-08
+12658,"Inft of J F & Annie",Walker,,000-00-01,F,White,Austin,,"S. Milton",,146,,,,1913-11-08
+12659,"Fannie H",Costley,,075-00-00,F,White,Austin,,"S. Milton",,944,,,,1913-11-09
+12660,"E E",Stipps,,028-00-25,M,White,Texas,,"S. A. Woolsey",,"900 1/2 no 2",,,,1913-11-09
+12661,"G E",Givens,,048-00-00,F,"African American",,,"S.A. Woolsey",,"Colored Grounds",,,,1913-11-10
+12662,"Thomas N",Jones,,061-06-07,M,White,Texas,,S.A.,,"1067 sec 4",,,,1913-11-13
+12663,"Mrs Eliza",Miller,,084-05-06,F,White,Ill,,"S. A. Woolsey",,307,,,,1913-11-13
+12664,Mr,Swann,,N,M,White,,,"S.A. Woolsey",,"900 1/2 no 3",,,,1913-11-14
+12665,"Baby Jose",Castillo,,000-00-00,M,Mexican,Tex,stillborn,S.A.,,"901 1/2 no 5",,,,1913-11-14
+12666,"A G",Wheeler,,074-07-18,M,White,Ga,,"S.A. Woosley",,448,,,,1913-11-16
+12667,A,Garza,,N,M,Mexican,,,S.A.,,"901 1/2 NO 5",,,,1913-11-20
+12668,Thomas,Fletcher,,005-00-00,M,White,Tex,,"S. Milton",,726,,,,1913-11-20
+12669,"Inft of Mr & Mrs J W",Ezelle,,N,M,White,Tex,,"S. Milton",,"90501/2 no 3",,,,1913-11-21
+12670,Cruz,Martinez,,033-00-00,M,Mexican,,,S.A.,,"901 1/2 no 3",,,,1913-11-23
+12671,Florence,Boston,,042-05-00,,"African American",Tex,,"S. Milton",,"906 1/2 no 4",,,,1913-11-23
+12672,Joseph,Everhard,,069-10-21,M,White,Tex,,"S. A. Woolsey",,"905 1/2 no 4",,,,1913-11-23
+12673,Franpilna,Alvrez,,001-01-11,F,Mexican,Tex,,"S. Milton",,Cath,,,,1913-11-24
+12674,Baby,Gnotelez,,N,M,Mexican,Tex,,"S. Milton",,"902 1/2 no 4",,,,1913-11-25
+12675,"Wilhelmine L",Hanschild,,007-04-00,F,White,Texa,,S.A.,,"905 1/2 no 7",,,,1913-11-26
+12676,"Mrs Mary",Randolph,,067-00-00,F,White,Germany,,"S. A. Woolsey",,503,,,,1913-11-28
+12677,Felina,Dempswoeff,,029-00-00,F,Mexican,Tex,,S.A.,,Cath,,,,1913-11-30
+12678,Chas,Dietzel,,017-00-00,M,White,,,"S.A. Woolsey",,846,,,"Removed from Dallas. Feb 12,1889 (died?)",1913-11-13
+12679,Oscar,Dietzel,,050-00-00,,"African American",,,"S. A. Woolsey",,846,,,"Removed from Dallas. Jan 10,1891 (died?)",1913-11-13
+12680,Max,Maas,,068-01-16,M,White,Germany,,"S. Milton",,"Old Grounds",,,,1913-12-02
+12681,Ruby,Evans,,022-00-00,F,White,Tex,,"S. A. Woolsey",,"902 1/2 no3",,,,1913-12-04
+12682,Mrs,Miller,,066-00-00,F,White,,,"S. Milton",,715,,,,1913-12-08
+12683,Ole,Guldbranson,,070-00-00,M,White,Norway,,"S. Milton",,"904 1/2 no 4",,,,1913-12-08
+12684,"Mrs Mila M",Odom,,045-01-00,F,White,,,"S. Milton",,83,,,,1913-12-09
+12685,N,Acosta,,020-00-00,M,Mexican,Tex,,"S. Milton",,Cath,,,,1913-12-13
+12686,John,Hildebrand,,068-11-03,M,Mexican,Germany,,S.A.,,152,,,,1913-12-14
+12687,"Chas F",Hunter,,070-08-10,M,White,Germany,,"S. Milton",,539,,,,1913-12-16
+12688,Inft,Fitzgerald,,N,M,White,Austin,,S.A.,,858,,,,1913-12-17
+12689,"Mrs W E",Phillips,,077-01-24,F,White,"Raleigh, N C",,"S. Milton",,858,,,,1913-12-17
+12690,"Francis P",Walker,,024-00-24,F,White,Austin,,"S. A. Woolsey",,"970 1/2",,,,1913-12-19
+12691,Geo,Mason,,075-00-00,M,"African American",Tenn,,"S. Milton",,"Colored Grounds",,,,1913-12-22
+12692,M,Marta,,064-00-00,F,Mexican,Mexico,,S.A.,,Cath,,,,1913-12-23
+12693,"Nora V",Burrows,,036-01-09,F,White,Tex,,"S.A. Woosley",,722,,,,1913-12-23
+12694,Sarah,Bolton,,082-00-00,F,White,,,"S. Milton",,462,,,,1913-11-25
+12695,Chas,Schurr,,056-00-00,M,White,,,"S. Milton",,Cath,,,,1913-12-26
+12696,"Lucy J",Robinson,,070-09-11,F,White,Mo,,"S. A. Woolsey",,1005,,,,1913-12-27
+12697,"W J",Martin,,028-00-00,M,White,Tex,,"S. A. Woolsey",,1137,,,,1913-12-28
+12698,"Mary Enda Poole",Moore,,027-02-15,F,White,Tex,,S.A.,,796,,,,1913-12-28
+12699,Joe,Headspeth,,045-00-00,M,"African American",Tex,,"S. A. Woolsey",,"Colored Grounds",,,,1913-12-28
+12700,John,Green,,000-00-01,M,White,Austin,,"S. A. Woolsey",,,,,,1913-12-30
+12701,"Thomas E",Wyche,,017-07-27,M,White,,,"S. Milton",,884,,,,1913-12-31
+12702,"J.J., Mr & Mrs. (Infant of)",Isherwood,,N,,White,Austin,,"S.A. Woolsey",,967,,,,1914-09-02
+12703,Wm.,Bannermann,,N,M,White,,,"S.A. Woolsey",,"1153 1/2 N. 6",,,,1914-09-05
+12704,"M.M. (Mrs.)",Cagle,,051-00-00,F,White,N.C.,,"S.A. Woolsey",,501,,,,1914-09-06
+12705,"A. (Infant)",Campos,,000-01-00,M,Mexican,Austin,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-09-08
+12706,"Minnie Ahrenbeck",Miller,,020-08-22,F,White,Texas,,"S.A. Woolsey",,157,,,,1914-09-09
+12707,Nioma,Sword,,004-00-00,F,White,Miss.,,"S.A. Woolsey",,834,,,,1914-09-11
+12708,Minnie,Freeman,,034-00-00,F,"African American",,,"S.A. Woolsey",,"Colored Grounds",,,,1914-09-11
+12709,"Maria Louise",Parmele,,089-00-00,F,White,N.C.,,"S.A. Woolsey",,"Old Grounds",,,,1914-09-12
+12710,Edwin,Bowen,,055-05-11,M,White,Va.,,"S.A. Woolsey",,145,,,,1914-09-15
+12711,"E.K., Mr. & Mrs. (Infant of)",Gaard,,N,M,White,Austin,,"S.A. Woolsey",,"1153 1/2 N. 9",,,,1914-09-16
+12712,Thos.,Mermurez,,048-00-00,,Mexican,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-09-16
+12713,"Bertha (Mrs.)",Laughlin,,056-08-09,F,White,Penn.,,"S.A. Woolsey",,"Old Grounds",,,,1914-09-19
+12714,"Octaviana & Trinidad (Infant of)",Noriega,,000-00-01,M,Mexican,Tex.,,"S.A. Woolsey",,"956 1/2 N.5",,,"Age is actually given as 1/2 day.",1914-09-21
+12715,Henry,Baumert,,046-11-00,M,White,Germany,,"S.A. Woolsey",,"1149 1/2 N.7",,,,1914-09-21
+12716,Elvira,Humble,,075-00-00,F,"African American",Arkansas,,"S.A. Woolsey",,"Colored Grounds",,,,1914-09-24
+12717,Frankie,Reeves,,008-00-00,M,White,Austin,,"S.A. Woolsey",,"1149 1/2 N. 9",,,,1914-09-25
+12718,H.C.,Norton,,N,M,White,,,"S.A. Woolsey",,527,,,,1914-09-25
+12719,"Nancy (Mrs.)",Esott,,080-00-00,F,White,N.C.,,"S.A. Woolsey",,1022,,,,1914-09-10
+12720,"J.R. (Mrs.)",Morgan,,056-00-00,F,White,Tenn.,,"S.A. Woolsey",,"1155 1/2 N.2",,,,1914-09-27
+12721,Chas.,Delany,,049-02-24,M,White,,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-09-30
+12722,A.G.,Gannaway,,N,M,White,,,"S.A. Woolsey",,273,,,,1914-09-30
+12723,"Sarah E.",Herbert,,059-00-00,F,"African American",,,"S.A. Woolsey",,"Colored Grounds",,,,1914-10-05
+12724,Katharine,Harris,,055-00-00,F,"African American",Texas,,"S.A. Woolsey",,"Colored Grounds",,,,1914-10-06
+12725,"James Arthur",Meehan,,032-00-00,M,White,"Rhode Island",,"S.A. Woolsey",,"1154 1/2 #3",,,,1914-10-06
+12726,"S. Jackson",Swift,,040-04-02,M,White,Pa.,,"S.A. Woolsey",,723,,,,1914-10-06
+12727,"Bennett (Infant)",Thomas,,001-02-00,F,White,Texas,,"S.A. Woolsey",,"1153 1/2 #2",,,,1914-10-17
+12728,"Alberta (Mrs.)",Jones,,N,F,White,Canada,,"S.A. Woolsey",,"1155 1/2 #4",,,,1914-10-07
+12729,"Sarah A.",Smith,,075-00-00,F,White,Tenn.,,"S.A. Woolsey",,1088,,,,1914-10-08
+12730,"Nancy Ann",Anglin,,048-00-00,F,White,Ky.,,"S.A. Woolsey",,380,,,,1914-10-08
+12731,Charlotte,Wolter,,063-00-00,F,White,Germany,,"S.A. Woolsey",,910,,,,1914-10-08
+12732,Emmett,Rios,,046-00-00,M,Mexican,,,"S.A. Woolsey",,City,,,,1914-10-10
+12733,I.,Marano,,000-04-08,F,Mexican,Tex.,,"S.A. Woolsey",,"956 1/2 #5",,,,1914-10-12
+12734,Sam,East,,050-00-00,M,White,Va.,,"S.A. Woolsey",,"1152 1/2 #1",,,,1914-10-13
+12735,"W.B., Mr. & Mrs. (Infant of)",Potts,,N,F,White,Austin,,"S.A. Woolsey",,"1150 1/2 #9",,,,1914-10-13
+12736,"Guy (Infant)",Bonam,,000-16-00,,White,,,"S.A. Woolsey",,974,,,,1914-10-13
+12737,"Katharine A.",Johnson,,030-00-00,F,White,Austin,,"S.A. Woolsey",,69,,,,1914-10-13
+12738,Julian,Garcia,,046-00-07,M,Mexican,Mexico,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-10-13
+12739,J.A.,Carruth,,N,M,Mexican,Texas,,"S.A. Woolsey",,1059,,,,1914-10-15
+12740,Henriette,Wilke,,081-00-00,F,White,,,"S.A. Woolsey",,1010,,,,1914-10-15
+12741,Louise,Mueller,,063-07-09,F,White,Germany,,"S.A. Woolsey",,870,,,,1914-10-15
+12742,"Reuben Reid",Gaines,,077-11-22,M,White,Ala.,,"S.A. Woolsey",,551,,,,1914-10-16
+12743,G.,Cudo,,060-00-00,M,Mexican,,,"S.A. Woolsey",,"City Gr.",,,,1914-10-17
+12744,Joe,Bonita,,N,M,White,,,"S.A. Woolsey",,"City Gr.",,,,1914-10-18
+12745,"Bettie (Mrs.)",Helm,,059-01-03,F,White,Texas,,"S.A. Woolsey q",,"Old Grounds",,,,1914-10-20
+12746,Infant,Rodriguez,,N,,"African American",,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-10-20
+12747,"Johanna Sophie",Anderson,,078-11-08,F,White,Sweden,,"S.A. Woolsey",,848,,,,1914-10-20
+12748,C.C.,Groce,,061-11-27,M,White,Tex.,,"S.A. Woolsey",,"1155 1/2 #6",,,,1914-10-21
+12749,"Mary (Mrs.)",Keye,,080-01-13,F,White,Germany,,"S.A. Woolsey",,"Old Grounds",,,,1914-10-22
+12750,Vernon,Ballard,,007-04-14,M,White,Tex.,,"S.A. Woolsey",,"1155 1/2 #8",,,,1914-10-22
+12751,"Albie George (Infant)",Bones,,003-11-00,M,White,Tex.,,"S.A. Woolsey",,06400000,,,,1914-10-25
+12752,Infant,Greathouse,,000-00-00,M,White,Tenn.,Stillborn,"S.A. Woolsey",,908,,,,1914-10-25
+12753,Rosa,Guerra,,042-00-00,F,Mexican,Mexico,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-10-25
+12754,Mexican,Unknown,,037-00-00,M,Mexican,,,"S.A. Woolsey",,"City Gr.",,,,1914-10-30
+12755,"Sallie M.",Aden,,065-07-19,F,White,Tenn.,,"S.A. Woolsey",,823,,,,1914-10-31
+12756,Maud,Jones,,025-00-00,F,White,Austin,,"S. A. Woolsey",,769,,,,1915-01-01
+12757,Baby,Salas,,001-02-00,M,Mexican,Tex,,"S. A. Woolsey",,"1169 1/2 lot 2",,,,1915-01-01
+12758,"Mrs. E. C.",Rutledge,,072-00-00,F,White,,,"S. A. Woolsey",,203,,,,1915-01-03
+12759,Anita,Peralis,,022-00-00,F,White,Tex,,S.A.,,cath,,,,1915-01-03
+12760,"John Peter",Lovgren,,082-00-00,M,White,Sweden,,"S. A. Woolsey",,"1157 1/2 #1",,,,1915-01-06
+12761,"Mrs. Martha D.",Kelly,,084-00-00,F,White,Miss,,"S. Milton",,796,,,,1915-01-06
+12762,Eugenio,Chabiro,,020-00-00,M,Mexican,Tex,,"S. Milton","Oakwood Annex","D 444",,,,1915-01-07
+12763,"N R",Townes,,055-00-00,M,White,,,"S. A. Woolsey",,126,,,,1915-01-09
+12764,"Geo A",Proctor,,076-00-00,M,White,,,"S.A. Woolsey",,1046,,,,1915-01-10
+12765,Lizzie,Mains,,028-00-00,F,Mexican,Tex,,S.A.,,"1158 1/2 #3",,,,1915-01-11
+12766,N,Cassey,,084-00-00,F,White,,,"S. Milton","Oakwood Annex","D 519",,,,1915-01-11
+12767,Callitana,Quintero,,004-05-03,F,Mexican,Tex,,"S. A. Woolsey","Oakwood Annex","D 443",,,,1915-01-11
+12768,Geo,Jenkins,,030-00-00,M,White,,,S.A.,,976,,,,1915-01-12
+12769,"Pauline W",Vollett,,043-02-19,F,White,Germany,,"S. A. Woolsey",,"1157 1/2 #2",,,,1915-01-13
+12770,"Thomas Green",Buttery,,046-03-22,M,White,Tex,,S.A.,,800,,,,1915-01-14
+12771,"Inft of Mary",Decinney,,000-00-06,F,White,Austin,,"S. A. Woolsey",,,,,,1915-01-14
+12772,Rebecca,Jenkins,,074-00-00,F,White,Tex,,S.A.,,"1157 1/2 #3",,,,1915-01-16
+12773,"Friedrick Wilhelm",Bittinghaus,,026-00-00,M,White,Westphalia,,"S.A. Woolsey",,"1159 1/2 #2",,,,1915-01-16
+12774,"Teoflia S",Lopez,,065-00-00,F,Mexican,Mexico,,"S. A. Woolsey",,"1159 1/2 #1",,,,1915-01-19
+12775,"Karl Gustav",Frenzel,,061-00-00,M,White,Germany,,"S. A. Woolsey",,720,,,,1915-01-19
+12776,"Inf of Mr & Mrs",Escaber,,000-01-07,M,Mexican,Tex,,"S.A. Woolsey",,"1169 1/2 #3",,,,1915-01-20
+12777,"Mrs J M",Gregory,,068-00-00,F,White,,,"S. A. Woolsey",,926,,,,1915-01-21
+12778,"Gen W R",Hamby,,070-00-00,M,White,Tenn,,"S. A. Woolsey",,Cath,,,,1915-01-25
+12779,Thomas,McKeever,,014-05-00,M,White,Wis,,"S. Milton",,,,,"(possibly Cath)",1915-01-27
+12780,John,Williams,,041-05-14,M,White,Tex,,"S. Milton","Oakwood Annex","D 520",,,,1915-01-30
+12781,"Pearl Smith",Williams,,025-00-00,F,White,Tex,,"S. A. Woolsey","Oakwood Annex","D 521",,,,1915-01-30
+12782,Victor,Frithief,,038-00-00,M,White,Sweden,,"S. A. Woolsey",,"956 1/2",,,,1915-01-31
+12783,Henry,Schroeder,,035-11-17,M,White,Tex,,"S.A. Woolsey",,418,,,,1915-01-31
+12784,Inft,Green,,000-00-00,M,White,,stillborn,"S. A. Woolsey",,141,,,,1915-01-28
+12785,"Inft Mexican F",Garava,,000-06-00,M,Mexican,,,"S.A. Woolsey",,cath,,,,1915-01-28
+12786,Mrs,Wishert,,N,,"African American",,,,,879,,,"removed body of Mrs. Wishert from lot 907 to lot 879",1915-01-08
+12787,"H C",Fisher,,N,,"African American",,,,,,,,"removed body of H C Fisher from lot 195 in Oakwood to San Antonio",1915-01-29
+12788,"Val C",Giles,,073-00-05,M,White,Tenn,,"S. A. Woolsey",,249,,,,1915-02-01
+12789,"Mrs Archie",Wallace,,028-01-27,F,White,Tex,,"S. A. Woolsey",,"1153 1/2 #1",,,,1915-02-01
+12790,"Mrs Mary",West,,072-07-20,F,White,La,,"S. A. Woolsey",,822,,,,1915-02-02
+12791,"H G",Wicks,,058-02-00,M,White,"New jersey",,"S. A. Woolsey",,399,,,,1915-02-03
+12792,Rafael,Gonzales,,000-01-02,M,Mexican,Tex,,"S. A. Woolsey",,"1169 12/ # 1 1/2",,,,1915-02-04
+12793,Jannette,Wooldridge,,006-07-17,F,White,Tex,,"S. Milton",,961,,,,1915-02-05
+12794,"E C",Ratliff,,044-01-02,M,White,Tex,,S.A.,,"863 Sec 3",,,,1915-02-04
+12795,C,Baumgartner,,070-00-00,M,White,,,"S. A. Woolsey",,Cath,,,,1915-02-05
+12796,"Col Thos",Cumings,,062-00-00,M,White,Nebraska,,"S. A. Woolsey",,"1159 1/2 #3",,,,1915-02-06
+12797,"W E",Russell,,052-00-00,M,White,"New York",,"S. A. Woolsey",,Cath,,,,1915-02-17
+12798,Robert,Heflin,,025-00-00,M,White,,,"S. A. Woolsey",,986,,,,1915-02-08
+12799,Jessie,Scott,,065-00-00,M,"African American",,,"S. A. Woolsey",,"Colored Grounds",,,,1915-02-08
+12800,Mary,Gessrein,,062-07-08,F,White,Tex,,"S. A. Woolsey",,"Old Grounds",,,,1915-02-11
+12801,"Mary Catherine",Earnest,,033-04-24,F,White,Tenn,,"S. Milton",,1013,,,,1915-02-13
+12802,"J M",Hopkins,,029-08-05,M,White,,,"S. Milton",,109,,,,1915-02-15
+12803,Gustav,Peterson,,076-00-00,M,White,Switzerland,,"S.A. Woosley",,761,,,,1915-02-15
+12804,"Annie VIrginia",Gordon,,040-00-27,F,White,"Harris Co Tex",,"S. A. Woolsey",,838,,,,1915-02-20
+12805,Toribo,Sanchez,,028-00-00,M,Mexican,Mexico,,"S. A. Woolsey","Oakwood Annex","D 442",,,,1915-02-20
+12806,Henry,Vogel,,076-00-00,M,White,,,"S. Milton",,904,,,,1915-02-21
+12807,Catarino,Reyns,,000-00-15,M,Mexican,Austin,,"S. A. Woolsey",,"1161 12, # 5 1/2",,,,1915-02-22
+12808,"Giles Horace",Sullivan,,069-11-24,M,White,Tenn,,"S. A. Woolsey",,"1151 1/2 #5",,,,1915-02-23
+12809,"Mrs Fannie",Lankford,,088-00-00,F,White,,,"S. A. Woolsey",,1018,,,,1915-02-23
+12810,Geo,Mitchell,,N,M,White,Kentucky,,"S. A. Woolsey","Oakwood Annex",D522,,,,1915-02-24
+12811,Philip,Seawright,,033-00-00,M,White,Miss,,"S. Milton",,833,,,,1915-02-25
+12812,Inft,Miller,,N,M,White,,,"S. A. Woolsey",,"Sec 3 917",,,,1915-02-26
+12813,Inft,Garcia,,001-01-01,F,Mexican,,,"S. A. Woolsey",,Cath,,,,1915-02-28
+12814,"J C",Townsend,,N,M,White,,,"S.A. Woolsey",,,,,"(location not given)",1915-02-28
+12815,"Mrs Martha L",Graves,,074-00-00,F,White,Tex,,"S. A. Woolsey",,1039,,,,1915-02-28
+12816,P,Thompson,,N,M,White,,,"S. Milton",,381,,,,1915-02-28
+12817,Felipe,Gutierrez,,050-00-00,M,Mexican,Mexico,,"S.A. Woolsey",,"City Gr.",,,,1914-11-01
+12818,"Helem Abraham",Nassour,,001-01-00,M,White,Austin,,"S.A. Woolsey","Catholic Cemetery",,,,"Color is actually given as ""Syr."" Syrian.",1914-11-01
+12819,"Sue Church",Goff,,081-08-23,F,White,,,"S.A. Woolsey",,498,,,,1914-11-02
+12820,Martha,Kullenberg,,076-01-21,F,White,Sweden,,"S.A. Woolsey",,"1156 1/2 #2",,,,1914-11-02
+12821,Stephan,Burland,,040-07-19,M,White,Texas,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-11-02
+12822,"T.D. (Infant of)",Mason,,000-00-00,M,White,,,"S.A. Woolsey",,"1151 1/2 bet. #3-5",,,,1914-11-04
+12823,Antonio,Gonzales,,016-11-16,M,White,Mexico,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-11-04
+12824,"Lucian A.",Hill,,056-08-06,M,White,Ohio,,"S.A. Woolsey",,959,,,,1914-11-05
+12825,"Patrick Henry (Dr.)",Fitzhugh,,047-00-00,M,White,Austin,,"S.A. Woolsey",,740,,,,1914-11-06
+12826,"Cora Myrtle",Cordell,,034-00-00,F,White,Ind.,,"S.A. Woolsey",,901,,,,1914-11-10
+12827,Beatrice,Rios,,000-00-06,F,Mexican,Austin,,"S.A. Woolsey",,"956 1/2 #2",,,,1914-11-13
+12828,"Susie Anna",Reynolds,,054-08-01,F,White,Texas,,"S.A. Woolsey",,1057,,,,1914-11-13
+12829,"Marcelina (Infant)",Gallegos,,000-04-26,F,Mexican,Texas,,"S.A. Woolsey",,"City Gr.",,,,1914-11-15
+12830,Sam,Jacobson,,027-06-21,M,White,Denmark,,"S.A. Woolsey",,"Old Grounds",,,,1914-11-12
+12831,E.F.A.,Martin,,062-07-06,M,White,Germany,,"S.A. Woolsey",,724,,,,1914-11-17
+12832,"D.C., Mr. & Mrs. (Infant of)",Clark,,000-00-01,M,White,Texas,,"S.A. Woolsey",,"1150 1/2 bet. #4-6",,,,1914-11-17
+12833,"Emma (Mrs.)",Skaggs,,078-04-00,F,White,La.,,"S.A. Woolsey",,"1122 1/2",,,,1914-11-18
+12834,"Florence Collins",Matthews,,053-05-00,F,White,Wis.,,"S.A. Woolsey",,"Old Grounds",,,,1914-11-18
+12835,Infan,"Jukin (Junkin?)",,000-00-00,M,White,Austin,Stillborn,"S.A. Woolsey",,887,,,,1914-11-20
+12836,Bertha,Lindgren,,023-00-00,F,White,Texas,,"S.A. Woolsey",,1047,,,,1914-11-22
+12837,"Allie (Mrs.)",Turner,,064-00-00,F,White,Mo.,,"S.A. Woolsey",,412,,,,1914-11-23
+12838,Olaf,Olson,,050-06-00,M,White,Norway,,"S.A. Woolsey",,"Old Grounds",,,,1914-11-23
+12839,Richard,Cocke,,005-07-00,M,White,Texas,,"S.A. Woolsey",,"Old Grounds",,,,1914-11-24
+12840,"Beulah Allen",Wishart,,031-10-16,F,White,Texas,,"S.A. Woolsey",,907,,,,1914-11-24
+12841,Paulo,Villareal,,022-00-00,M,Mexican,Mexico,,"S.A. Woolsey","Oakwood Annex",449D,,,,1914-11-24
+12842,Inteno,Castillo,,001-08-29,M,Mexican,Texas,,"S.A. Woolsey",,"City Gr.",,,,1914-11-25
+12843,"Richard Milton",Johnston,,093-10-25,M,White,Tenn.,,"S.A. Woolsey",,122,,,,1914-11-27
+12844,Mary,Garcia,,039-00-00,F,Mexican,Mexico,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-11-28
+12845,"Mollie (Mrs.)",Williams,,044-00-00,F,White,,,"S.A. Woolsey",,"1156 1/2 #3",,,,1914-11-29
+12846,Mexican,Unknown,,N,M,Mexican,,,"S.A. Woolsey","Oakwood Annex",448D,,,,1914-11-29
+12847,Arnold,Calvert,,021-01-25,M,White,Oklahoma,,"S.A. Woolsey",,"1156 1/2 #4",,,,1914-11-29
+12848,James,Tompson,,062-03-03,M,White,Scotland,,"S.A. Woolsey",,"Old Grounds",,,,1914-12-01
+12849,E.,Olivez,,067-00-02,F,White,Mex.,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-12-03
+12850,"Max Suder",Collins,,056-00-00,M,White,Tex.,,"S.A. Woolsey",,"1169 1/2 #1",,,,1914-12-03
+12851,Franquitino,Solis,,035-00-00,M,Mexican,Mexico,,"S.A. Woolsey","Oakwood Annex",447D,,,,1914-12-04
+12852,M.B.,King,,074-06-01,M,White,N.C.,,"S.A. Woolsey",,558,,,,1914-12-06
+12853,Louise,Yaeger,,002-08-11,F,White,Tex.,,"S.A. Woolsey",,794,,,,1914-12-06
+12854,Infant,Davis,,000-00-00,,White,Tex,Stillborn,"S.A. Woolsey",,"1152 1/2",,,,1914-12-07
+12855,Charlie,Pitts,,016-02-01,M,White,Tex.,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-12-08
+12856,"Lena M. (Mrs.)",Curtis,,035-10-00,F,White,,,"S.A. Woolsey",,893,,,,1914-12-11
+12857,"John E.",Noack,,080-00-00,M,White,Sweden,,"S.A. Woolsey",,434,,,,1914-12-11
+12858,"Margaret V.",Parry,,007-00-00,F,White,Austin,,"S.A. Woolsey",,"Jewish Yard",,,,1914-12-11
+12859,"Celia A. (Mrs.)",Murray,,081-09-26,F,White,Missouri,,"S.A. Woolsey",,751,,,,1914-12-14
+12860,"Mary (Mrs.)",Oberwetter,,089-09-07,F,White,Germany,,"S.A. Woolsey",,467,,,,1914-12-15
+12861,Vernaldo,"De Leon",,003-00-00,M,Mexican,Texas,,"S.A. Woolsey","Catholic Cemetery",,,,,1914-12-15
+12862,"Luella (Infant of)",Owen,,000-00-00,F,"African American",Texas,Stillborn,"S.A. Woolsey",,"Colored Grounds",,,,1914-12-17
+12863,Max,Rosenberg,,038-05-28,M,White,Texas,,"S.A. Woolsey",,919,,,,1914-12-17
+12864,Louise,Kuehlhorn,,085-09-01,F,White,Germany,,"S.A. Woolsey",,379,,,,1914-12-18
+12865,Bonnett,Cleveland,,018-01-00,F,"African American",Texas,,"S.A. Woolsey",,"Colored Grounds",,,,1914-12-18
+12866,"J.W. (Dr.)",Carhart,,080-06-04,m,White,,,"S.A. Woolsey",,911,,,,1914-12-23
+12867,"D.E. (Infant)",Tobin,,000-09-11,M,White,Austin,,"S.A. Woolsey",,"1152 1/2",,,,1914-12-23
+12868,"No First Name Given",Ranez,,103-00-00,M,Mexican,,,"S.A. Woolsey","Oakwood Annex",446D,,,,1914-12-27
+12869,Vol,Harnez,,021-00-00,M,Mexican,Texas,,"S.A. Woolsey","Oakwood Annex",450D,,,,1914-12-27
+12870,Huetta,Warmouth,,000-00-20,F,"African American",Austin,,"S.A. Woolsey",,"Colored Grounds",,,,1914-12-27
+12871,Santos,Dominguez,,007-00-00,M,Mexican,Tex.,,"S.A. Woolsey","Oakwood Annex",445D,,,,1914-12-28
+12872,Juanita,Carmonia,,000-00-01,F,Mexican,Tex.,,"S.A. Woolsey","Catholic Cemetery",,,,"Age is actually give as ""1/2 day"".",1914-12-28
+12873,Katharina,Gustafson,,023-00-00,F,White,Tex.,,"S.A. Woolsey",,3,,,,1914-12-30
+12874,"Carl J.",Eckmann,,048-07-11,M,White,Sweden,,"S.A. Woolsey",,790,,,,1914-12-31
+12875,Infant.,Lindy,,N,M,White,Sweden,,"S.A. Woolsey",,"1156 1/2 #5",,,,1914-12-31
+12876,"Ida Alma",Leschow,,065-00-00,F,White,Germany,,"S. A. Woolsey",,120,,,,1915-03-01
+12877,Margaret,Pollard,,082-09-00,F,"African American",Ala,,"S. Milton",,"Colored Grounds",,,,1915-03-02
+12878,Domingo,Berntal,,002-00-00,M,Mexican,Tex,,S.A.,,cath,,,,1915-03-02
+12879,"Mary G",Garcia,,000-00-00,F,Mexican,Tex,,S.A.,,"1161 1/2, #6 1/2",,,"lived a few minutes",1915-03-03
+12880,Jesus,Sabello,,065-00-00,M,Mexican,Mexico,,"S. A. Woolsey",,Annex,"Sec D, 392",,,1915-03-05
+12881,Juan,Rogelis,,065-00-00,M,Mexican,Austin,,"S. A. Woolsey",,cath,,,,1915-03-04
+12882,Elizabeth,Thoreson,,037-00-00,F,White,Tex,,"S. A. Woolsey",,cath,,,,1915-03-07
+12883,Placido,Hernandez,,015-00-00,F,Mexican,Mexico,,"S. A. Woolsey","Oakwood Annex","Sec D, 393",,,,1915-03-08
+12884,"W D",Laurie,,032-00-00,M,White,,,"S. A. Woolsey",,904,,,,1915-03-09
+12885,Susana,Moralez,,035-00-00,F,Mexican,Mexico,,"S. Milton",,cath,,,,1915-03-11
+12886,"S Baker",Mallett,,030-00-00,M,White,Tex,,"S. A. Woolsey",,282,,,,1915-03-11
+12887,"Nathan G",Proctor,,052-00-25,M,White,Tex,,S.A.,,844,,,,1915-03-12
+12888,Alvin,Eck,,006-00-00,M,White,Tex,,"S. Milton",,466,,,,1915-03-13
+12889,"Mattie M",Smith,,001-07-00,F,White,Texarkana,,"S. Milton",,953,,,,1915-03-14
+12890,"Henry M",Sears,,078-05-27,M,White,Tenn,,"S. A. Woolsey",,1039,,,,1915-03-14
+12891,Jose,Vega,,000-00-07,M,Mexican,Tex,,"S. Milton",,"1162 1/2 # 1 1/2",,,,1915-03-16
+12892,Gonzales,Salinas,,008-00-00,M,Mexican,Tex,,"S. A. Woolsey","Oakwood Annex","Sec D,  394",,,,1915-03-17
+12893,"Ham M",Metz,,074-03-14,M,Mexican,SC,,"S. A. Woolsey",,"Old Grounds",,,,1915-03-18
+12894,"A J",Johnson,,055-00-00,M,White,Sweden,,S.A.,,818,,,,1915-03-19
+12895,"A T",Roshall,,085-00-00,M,"African American",,,"S. Milton",,"Colored Grounds",,,,1915-03-20
+12896,Henry,Swisher,,052-00-00,M,"African American",Tex,,S.A.,,"Colored Grounds",,,,1915-03-22
+12897,Minnie,Erzkus,,082-00-00,F,White,Germany,,"S. A. Woolsey",,563,,,,1915-03-23
+12898,"H A",Juergerson,,067-00-00,M,White,Germany,,"S. Milton",,"Old Grounds",,,,1915-03-24
+12899,"John T",Bius,,069-00-00,M,White,,,"S. A. Woolsey","Oakwood Annex","Sec A, 60",,,,1915-03-26
+12900,"Mrs John",Gattin,,079-00-00,F,White,Tex,,"S. Milton",,"Old Grounds",,,,1915-03-28
+12901,E,Hernandez,,N,M,Mexican,,,"S. A. Woolsey","Oakwood Annex","Sec D, 395",,,,1915-03-28
+12902,"Inft of Mr & Mrs",Graham,,N,M,White,Austin,,"S. A. Woolsey",,751,,,,1915-03-29
+12903,Adelina,Angle,,069-00-00,F,White,Tex,,"S. Milton",,cath,,,,1915-03-30
+12904,Chas,Ewing,,037-00-00,M,Mexican,Tex,,"S. A. Woolsey","Oakwood Annex","Sec A, 52",,,,1915-03-30
+12905,"E K",Black,,050-00-00,M,White,SC,,"S. Milton","Oakwood Annex","Sec A, 62",,,,1915-03-31
+12906,"M C",Miller,,064-00-00,M,White,Ky,,S.A.,,701,,,,1915-03-31
+12907,"Mrs S W",Wood,,071-00-00,F,White,Ark,,S.A.,"Oakwood Annex","Sec A, 75",,,,1915-03-31
+12908,Tom,Burkett,,N,,"African American",,,,,434,,,"removed body from Burnett,to Oakwood",1915-03-15
+12909,"Rev H M",Sears,,N,,"African American",,,,"Oakwood Annex","Sec A, #64",,,"removed body from 1039 in Oakwood to Annex",1915-04-19
+12910,"John J",Muskgrove,,N,,"African American",,,,,932,,,"removed body from 1016 to 932",1915-04-08
+12911,"N G",Proctor,,N,,"African American",,,,,879,,,"removed body from 844 to 879",1915-04-21
+12912,"Unknown stillborn",Infant,,000-00-00,F,White,Texas,,"S. Milton",,"city gr",,,,1915-03-28
+12913,"Mrs Marcia R",Vine,,038-00-00,F,White,,,"S. Milton",,1038,,,,1915-04-02
+12914,"Mrs J P",Kennedy,,070-00-00,F,White,Ga,,"S. Milton",,905,,,,1915-04-02
+12915,Carl,Stacy,,036-06-09,M,White,,,S.A.,,1153,,,,1915-04-02
+12916,Mennia,Hernandez,,030-01-00,F,Mexican,Texas,,"S. A. Woolsey","Oakwood Annex","Sec D, 396",,,,1915-04-02
+12917,"Mrs Henrietta C",Hubbard,,069-00-00,F,White,Missouri,,"S. A. Woolsey",,802,,,,1915-04-03
+12918,Oscar,Moeckel,,077-00-00,M,White,Germany,,"S. A. Woolsey","Oakwood Annex","Sec A, 54",,,,1915-04-04
+12919,Nora,Moreland,,030-00-00,F,White,Austin,,"S. A. Woolsey",,1114,,,,1915-04-04
+12920,Emil,Johnson,,044-02-29,M,White,,,"S. Milton",,934,,,,1915-04-04
+12921,Frankie,Baytes,,008-00-00,M,White,Tex,,"S. A. Woolsey",,"915 1/2",,,,1915-04-08
+12922,"D J",Murchison,,073-00-00,M,White,,,"S. A. Woolsey",,548,,,,1915-04-06
+12923,"Inft Julia Maurine",Clements,,N,F,White,Austin,,"S. A. Woolsey",,"Sec 4, 915 1/2, #1",,,,1915-04-08
+12924,"Mrs Jennie",Lloyd,,059-05-17,F,White,,,"S. A. Woolsey",,890,,,,1915-04-08
+12925,"Thos H","Gildart Sr",,083-05-25,M,White,Miss,,"S. Milton",,316,,,,1915-04-10
+12926,"H Elston",Ford,,035-04-25,M,White,Mo,,"S. A. Woolsey",,1077,,,,1915-04-11
+12927,"Inft of Mr & Mrs",Futah,,N,F,White,Austin,,"S. Milton",,1090,,,,1915-04-12
+12928,"Mrs Sophie",Staeheley,,053-01-21,F,White,Tex,,"S.A. Woolsey",,510,,,,1915-04-15
+12929,"Inft of Mr",Cantlon,,000-00-00,M,White,Austin,stillborn,"S. A. Woolsey",,890,,,,1915-04-18
+12930,Daniel,Alvaras,,001-03-14,M,Mexican,Tex,,"S. A. Woolsey",,"city gr",,,,1915-04-19
+12931,"Mrs E J",Byrne,,053-00-00,F,White,Tex,,"S. A. Woolsey",,341,,,,1915-04-20
+12932,"J E",Vollett,,045-00-00,M,White,Tex,,"S. A. Woolsey",,"915 1/2",,,,1915-04-21
+12933,Sam,Houston,,044-00-00,M,White,Tex,,"S. A. Woolsey","Oakwood Annex","Sec A, 99",,,,1915-04-21
+12934,Maggie,Ward,,037-00-00,F,"African American",Tex,,"S. A. Woolsey",,"Colored Grounds",,,,1915-04-22
+12935,"Inft of N R",Nagilles,,N,F,White,Austin,,S.A.,,"1156 1/2",,,,1915-04-23
+12936,"Cooper C",Campbell,,N,F,White,,,"S. A. Woolsey",,"915 1/2",,,,1915-04-23
+12937,Seinuza,Espinoza,,036-00-00,F,Mexican,,,"S. Milton","Oakwood Annex","Sec D, 397",,,,1915-04-23
+12938,Cerrista,Espinoza,,005-00-00,F,Mexican,Tex,,"S. A. Woolsey","Oakwood Annex","Sec D, 441",,,,1915-04-23
+12939,M,Santos,,N,,Mexican,,,S.A.,,"1159 1/2",,,,1915-04-24
+12940,"Geo B",Holmes,,072-00-00,M,White,Ala,,"S. Milton",,"915 1/2",,,,1915-04-24
+12941,Earl,Jenny,,021-08-00,M,White,,,"S. A. Woolsey","Oakwood Annex","Sec A, 92",,,,1915-04-24
+12942,Martha,Ezelle,,005-00-00,F,White,Tex,,"S. A. Woolsey","Oakwood Annex","Sec A, 98",,,,1915-04-25
+12943,Geneveva,Nunez,,019-00-00,F,Mexican,,,"S. A. Woolsey",,"912 1/2",,,,1915-04-25
+12944,"Mrs Louise",Winkler,,073-00-00,F,White,,,"S. A. Woolsey",,"915 1/2",,,,1915-04-25
+12945,Tom,Quinn,,032-00-00,M,White,England,,"S. A. Woolsey",,cath,,,,1915-04-26
+12946,"Mrs John",Barton,,053-10-04,F,White,Tex,,"S. A. Woolsey",,cath,,,,1915-04-26
+12947,"J H",Webb,,033-06-01,M,White,Tex,,"S. A. Woolsey",,1105,,,,1915-04-27
+12948,"Albert M",Ezelle,,008-00-00,M,White,Tex,,"S. Milton","Oakwood Annex","Sec A, 98",,,,1915-04-28
+12949,"Inft of R",Hernandez,,001-08-00,M,Mexican,"Travis Co",,"S. Milton",,"912 1/2",,,,1915-04-28
+12950,Lina,List,,041-00-00,F,White,Germany,,"S. A. Woolsey",,"913 1/2",,,,1915-04-29
+12951,Nelson,Darden,,050-02-19,M,White,,,"S.A. Woolsey",,155,,,,1915-04-29
+12952,Victor,Sandberg,,053-00-00,M,White,Sweden,,"M. M. Johnson",,"913 1/2",,,,1915-05-01
+12953,Unknown,Boy,,007-00-00,M,White,,,"G W Mondell JP","Oakwood Annex","Sec D, 523",,,,1915-05-01
+12954,"Thomas A",King,,063-00-00,M,White,Ark,,"G W Mondell JP",,"913 1/2",,,,1915-05-04
+12955,"C R",Winkler,,N,M,White,,,"G.H. Wooten",,"915 1/2",,,,1915-05-05
+12956,"J G",Cawlfield,,N,M,White,,,,,"Old Grounds",,,,1915-05-05
+12957,Esperanter,"Perres (Perez)",,000-04-09,F,Mexican,Tex,,"S. A. Woolsey","Oakwood Annex","Sec D, 319 nw",,,,1915-05-07
+12958,Virginia,Spalding,,084-09-30,F,White,Virginia,,"F.A. Wood",,715,,,,1915-05-07
+12959,Mike,Hello,,006-00-00,M,White,Texas,,"G W Mondell JP",,cath,,,,1915-05-08
+12960,Marcus,Pineda,,000-08-00,M,Mexican,Texas,,"G H Gilbert","Oakwood Annex","Sec D, 319 sw",,,,1915-05-09
+12961,Gertrude,Rodriguez,,075-00-00,F,Mexican,Mexico,,"James M Loving",,"912 1/2",,,,1915-05-11
+12962,"Francis Townsend",Robertson,,000-01-00,F,White,Tex,,"Margaret Holliday",,38,,,,1915-05-16
+12963,"A E",Carlson,,042-00-00,F,White,,,"R L Himmon","Oakwood Annex","Sec A, 77",,,"shipped from Temple",1915-05-16
+12964,"Mrs J L",Andrewartha,,073-00-00,F,White,"Portsmouth, Eng",,"J R Pettway",,850,,,,1915-05-16
+12965,Ynes,Gonzales,,034-00-26,M,Mexican,Mexico,,"James Loving",,cath,,,,1915-05-16
+12966,"Annie S",White,,079-02-26,F,White,"S Carolina",,"S E Hudson",,485,,,,1915-05-17
+12967,Sotero,Soto,,058-00-00,M,Mexican,Mexico,,"R S Graves","Oakwood Annex","Sec D, 398",,,,1915-05-18
+12968,"Laura Elizabeth",Grist,,002-03-18,F,White,Austin,,"Homer Hill",,873,,,,1915-05-19
+12969,"Robert H",Mayers,,053-07-06,M,"African American","Waco, Tex",,"W H Crawford",,"Colored Grounds",,,,1915-05-20
+12970,James,Lilienhrem,,070-00-00,M,White,Louisiana,,"A.F. Beverly","State Cemetery",,,,,1915-05-22
+12971,"C L",Jordan,,080-00-00,M,White,Virginia,,"A.F. Beverly","State Cemetery",,,,,1915-05-22
+12972,"Peter Henry",Oberwetter,,085-04-13,M,White,Germany,,"H.F. Sterzing",,467,,,,1915-05-22
+12973,Cassie,Johns,,006-06-03,M,"African American","San Marcos",,"S L Brown",,"Colored Grounds",,,,1915-05-23
+12974,"John Mike",Whitten,,065-00-00,M,White,Tenn,,"S E Hudson",,"913 1/2",,,,1915-05-23
+12975,Joe,"Samrez Jr",,000-05-00,M,Mexican,Austin,,"G H Gilbert",,"912 1/2",,,,1915-05-23
+12976,"H G",Wicks,,N,,"African American",,,,"Oakwood Annex","Sec A, 32",,,"Removed body from lot 399 to annex",1915-05-10
+12977,Edwardo,Samaripa,,000-11-00,M,Mexican,Austin,,"R S Graves",,"912 1/2",,,,1915-05-24
+12978,Angelina,Cross,,068-11-21,F,White,,,"F. McLaughlin",,297,,,,1915-05-25
+12979,"Mrs. Annie P",Norton,,052-06-14,F,White,Miss,,"Homer Hill",,527,,,,1915-05-25
+12980,Jeff,Shahan,,069-00-00,M,White,"Millerville, Ga",,"S. A. Woolsey","Oakwood Annex","Sec D, 524",,,,1915-05-26
+12981,"Inft of Tom",Anticinto,,000-11-01,M,Mexican,Austin,,"Frank Litten",,"912 1/2",,,,1915-05-26
+12982,Madora,McGregor,,033-11-11,F,White,Texas,,"F P McLaughlin",,1061,,,,1915-05-27
+12983,Thelma,Kingston,,001-10-06,F,White,Texas,,"S. A. Woolsey",,"913 1/2",,,,1915-05-27
+12984,Jacob,Hufford,,081-00-00,M,White,Ind,,"F P McLaughlin",,"925 1/2",,,,1915-05-28
+12985,Inft,Rozell,,000-05-24,M,White,Austin,,"Ben F. Jones",,"913 1/2",,,,1915-05-29
+12986,Ben,Lewis,,029-05-18,M,"African American",,,,,"Colored Grounds",,,shipped,1915-05-30
+12987,Frank,Alvarez,,027-11-01,M,Mexican,Tex,,"E Krueger",,cath,,,,1915-05-30
+12988,"Julian Hugh",Eis,,002-10-05,M,White,Austin,,"Robt W Shipp",,156,,,,1915-05-30
+12989,Dora,Parado,,000-09-23,F,Mexican,Tex,,"Frank McLaughlin",,"913 1/2",,,,1915-05-31
+12990,"Mrs. Nelley",Reilley,,075-00-00,F,White,Fla,,"F. McLaughlin",,cath,,,,1915-06-02
+12991,"F F",O'Brien,,080-00-0,M,White,,,"W A King",,cath,,,shipped,1915-06-03
+12992,"Mrs. Henrietta",Mickelson,,065-10-15,F,White,,,"M S Baker",,"Jewish Yard",,,shipped,1915-06-03
+12993,A,Achilles,,069-02-12,M,White,Germany,,"Robt Shipp",,863,,,,1915-06-04
+12994,"Kate Wildbahn",Townes,,062-04-17,F,White,Ala,,"G Wooten",,739,,,,1915-06-05
+12995,Mary,Attalla,,053-00-00,F,White,Syria,,"S. A. Woolsey",,cath,,,,1915-06-05
+12996,Casaria,Morran,,058-08-00,M,Mexican,Mex,,"H.B. Granberry",,cath,,,,1915-06-05
+12997,"Mrs C S",Ezelle,,040-00-00,F,White,Tex,,"G W Mondell JP","Oakwood Annex","Sec A, 98",,,,1915-06-06
+12998,Fannie,Tucker,,088-05-03,F,"African American",Virginia,,Maxwell,,"Colored Grounds",,,,1915-06-06
+12999,"Geo B",Jones,,068-00-00,M,White,Ohio,,"F B Scott",,902,,,,1915-06-07
+13000,Inft,Winn,,000-02-00,F,White,Tex,,"F P McLaughlin",,308,,,,1915-06-07
+13001,"Inft of Mr and Mrs J M",McSwein,,N,,"African American",Austin,,"Homer Hill",,"1149 1/2 #10",,,"3 hours old",1915-06-08
+13002,"Lydia N",Bins,,076-08-22,F,White,SC,,"Frank Litten","Oakwood Annex","Sec A, 60",,,,1915-06-08
+13003,Unknown,Baby,,000-00-00,M,White,Tex,Stillborn,"G W Mondell JP","Oakwood Annex","Sec D, 557",,,,1916-06-08
+13004,"Mary S",Eggleston,,068-00-00,F,White,,,Krueger,,385,,,,1915-06-09
+13005,"Robt T",Burdett,,032-00-00,M,White,,,"J M Dearer",,cath,,,,1915-06-10
+13006,"Mrs A",Miller,,029-00-00,F,"African American",Tex,,"J W Gibson",,"Colored Grounds",,,,1915-06-10
+13007,"Dorothy Louise",Jones,,000-03-12,F,White,,Tex,"R V Murray",,834,,,,1915-06-10
+13008,Emil,Grapes,,024-06-04,M,White,Germany,,"F McLaughlin",,"between 912 1/2 & 913 1/2",,,,1916-06-12
+13009,Richard,Allen,,071-00-00,M,White,Tenn,,Moore,"State Cemetery",,,,,1915-06-14
+13010,Rachel,Truillo,,000-08-00,F,Mexican,Austin,,"Frank Litten",,"912 1/2",,,,1915-06-15
+13011,"Christopher W",Harris,,084-00-00,M,White,Tenn,,Moore,"State Cemetery",,,,,1915-06-15
+13012,"Clara Barron T",Rios,,043-09-00,F,Mexican,Mex,,"Homer Hill",,cath,,,,1915-06-16
+13013,"James P",Dunn,,055-00-00,M,White,Ala,,"M M Johnson",,887,,,,1915-06-17
+13014,"Chas W",McCarty,,041-00-00,M,White,unknown,,"J M Ray",,178,,,"shipped from Houston",1915-06-18
+13015,"Mrs M",Oatman,,064-11-00,F,White,Tex,,"R V Murray","Oakwood Annex","Sec A, 56",,,,1915-06-19
+13016,Gordon,Rumph,,010-01-03,M,White,Taylor,,"R W King","Oakwood Annex","Sec D, 134",,,,1915-06-19
+13017,Juanita,Martinez,,000-00-00,F,Mexican,Austin,stillborn,"Mrs A Kriemke",,,,,"(location not given)",1915-06-20
+13018,"Bess John",Zimmerman,,000-11-21,F,White,Tex,,"R V Murray",,720,,,,1915-06-20
+13019,"F A",Scanlan,,081-00-00,M,White,,,Moore,"State Cemetery",,,,,1915-06-21
+13020,"Bessie Lee",Spiller,,002-11-14,F,White,Tex,,"R V Murray",,"913 1/2",,,,1915-06-22
+13021,William,Keys,,089-00-00,M,White,Germany,,"James Loving",,"Old Grounds",,,,1915-06-22
+13022,Daniel,Garza,,000-00-09,M,Mexican,Tex,,"J Gullette","Oakwood Annex",319,,,,1915-06-24
+13023,"John A",Gann,,070-00-00,M,White,Ky,,"Joe Wooten",,1097,,,,1915-06-25
+13024,Maryie,Parres,,039-00-00,F,Mexican,Mex,,"Frank Litten",,cath,,,,1915-06-29
+13025,"Joseph A",Keeley,,069-00-00,M,White,Ala,,Moore,"State Cemetery",,,,,1915-06-30
+13026,"Mrs Agnes W",Sandahl,,030-00-00,F,White,Sweden,,"H B Granberry",,815,,,,1915-06-30
+13027,"Dwight B",Reedy,,N,,"African American",,,,,,,,"Removed body from 959 and shipped to Springfield, Ill.",1915-06-30
+13028,"Mrs Charlotte G",Reedy,,N,,"African American",,,,,,,,"removed body from lot 500 and shipped to Springfield, Ill",1915-06-30
+13029,Emma,Gannaway,,N,,"African American",,,,,,,,"removed body from Oakwood 345 to Annex, Sec A,lot 6",1915-07-02
+13030,"A. G.",Gannaway,,N,,"African American",,,,,,,,"removed body from Fiskville Cemetery to Block E, lot 310, Catholic Cemetery",1915-07-02
+13031,Ed,Harrison,,N,,"African American",,,,,,,,"Removed body from lot 832 to lot 459 in Oakwood",1915-07-07
+13032,Ada,Harrison,,N,,"African American",,,,,,,,"Removed body from lot 500 to lot 459 in Oakwood",1915-07-07
+13033,"Chas R",Ewing,,N,,"African American",,,,,,,,"removed body from lot 52 in Annex to lot 1105 in Oakwood Cemetery",1915-07-20
+13034,"Mrs Miles",Byrnes,,049-00-00,F,White,Tex,,"Joe Wooten",,Cath,,,,1915-07-01
+13035,"J C",Fink,,042-00-00,M,White,Ohio,,"M M Johnson",,751,,,,1915-07-01
+13036,Clark,Alexander,,011-00-00,M,White,Austin,,"L.B. Bibb",,cath,,,,1915-07-01
+13037,Inft,Flores,,N,F,"African American",Tex,,"Robt W Shipp",,"913 1/2",,,,1915-07-01
+13038,Julio,Sedillo,,015-01-07,M,Mexican,Tex,,"S. A. Woolsey","Oakwood Annex","Sec D, 399",,,,1915-07-02
+13039,"Major W M",Walton,,083-00-00,M,White,,,"Joe Wooten",,"Old Grounds",,,,1915-07-03
+13040,"W L",Shepps,,027-00-00,M,White,Tex,,"W N Watt",,983,,,,1915-07-04
+13041,Frank,Seny,,056-00-00,M,White,Ireland,,"R V Murray",,375,,,,1915-07-04
+13042,Willie,Wollfley,,021-07-14,F,White,"Bastrop Co",,"W.B. Black",,907,,,,1915-07-04
+13043,Pat,McCabe,,070-00-00,M,White,Ireland,,"Joe Wooten",,Cath,,,,1915-07-06
+13044,"Mrs J N",Taylor,,047-11-13,F,White,Ark,,"H B Granberry","Oakwood Annex","Sec A, lot 49",,,,1915-07-06
+13045,"Mrs D H",Hart,,023-05-07,F,White,Tex,,McLaughlin,"Oakwood Annex","Sec A, lot 93",,,,1915-07-07
+13046,Pedro,Blandine,,075-00-00,M,White,Italy,,"F McLaughlin",,Cath,,,,1915-07-07
+13047,Harris,Lown,,050-00-00,M,White,Russia,,"F McLaughlin",,"Jewish yard",,,,1915-07-08
+13048,"Hermine H",Howell,,000-03-03,M,White,Texas,,"L.B. Bibb",,8,,,,1915-07-09
+13049,"Lucian Washington",Costley,,052-00-00,M,White,Texas,,"Joe Wooten",,944,,,,1915-07-09
+13050,Mrs,Harrison,,N,F,White,,,,,459,,,,1915-07-09
+13051,"Inft of Mr and Mrs chas",Wood,,N,M,White,Austin,,"Joe Wooten",,cath,,,,1915-07-11
+13052,Richard,Adams,,077-00-00,M,White,Ark,,Moore,"State Cemetery",,,,,1915-07-14
+13053,Juanita,Sanchez,,050-00-00,F,Mexican,Mexico,,"Joe Wooten",,Cath,,,,1915-07-15
+13054,Rudolph,Lopez,,005-00-00,M,White,Austin,,"T.R. Pettway",,500,,,,1915-07-16
+13055,"Inft of W N",Buckner,,000-00-00,M,"African American",Austin,stillborn,McLaughlin,,"Colored Grounds",,,,1915-07-15
+13056,"Otto Charlie",Grein,,001-00-00,M,White,Dallas,,"H B Granberry",,484,,,,1915-07-18
+13057,Inft,Garcia,,N,,Mexican,,,,,832,,,,1915-07-18
+13058,"Elizabeth R",Haldeman,,045-06-24,F,White,Texas,,"F. Litten",,"Old Grounds",,,,1915-07-19
+13059,Sam,Elliott,,044-00-00,M,White,Scotland,,"M M Johnson",,899,,,,1915-07-20
+13060,"Clayton A",Webb,,017-00-00,M,White,Texas,,"M M Johnson",,809,,,,1915-07-20
+13061,Sophia,Salinas,,000-00-07,M,Mexican,Austin,,"T.R. Pettway",,832,,,,1915-07-20
+13062,Sophia,Salinas,,000-00-07,M,Mexican,Austin,,"T.R. Pettway",,832,,,,1915-07-20
+13063,"Mrs Emma",Rogers,,041-00-00,F,White,Texas,,"Robt. E. Moss",,1009,,,,1915-07-24
+13064,"Joe G",Petmecky,,033-00-00,M,White,,,"Dr Joe Gilbert",,"Sec 3, 1007 NE 1/4",,,,1915-07-24
+13065,Fidel,Acevedo,,002-05-09,M,Mexican,,,"James Loving",,Cath,,,,1915-07-26
+13066,"E W G",Mackey,,000-02-09,M,"African American",,,"E W D Alison",,"Colored Grounds",,,,1915-07-26
+13067,Homer,Grooms,,009-08-15,M,White,Tex,,"R. M. Wickline","Oakwood Annex","Sec A, lot 58",,,,1915-07-29
+13068,"Mrs M",Coleman,,083-00-00,F,White,,,,"State Cemetery",,,,,1915-07-30
+13069,Inft,Scverns,,,M,White,,,"S. A. Woolsey","Oakwood Annex","Sec D, lot 557",,,,1915-07-30
+13070,N,Hamond,,075-00-00,M,White,,,,"State Cemetery",,,,,1915-07-31
+13071,Alfonso,Gonzales,,001-06-00,M,Mexican,Tex,,"R V Murray",,cath,,,,1915-08-01
+13072,R,Segivia,,064-00-00,M,Mexican,,,,,cath,,,,1915-08-02
+13073,Mordimo,Castillo,,000-00-25,M,Mexican,Austin,,"Ben P Jones",,"912 1/2",,,,1915-08-03
+13074,"Inft of Mr & Mrs J B",Mantooth,,000-00-01,M,White,Austin,,"S A Woolsey","Oakwood Annex","Sec D, 557 nw",,,,1915-08-03
+13075,Elizabeth,Sander,,077-00-00,F,White,,,"S A Woolsey",,1039,,,,1915-08-03
+13076,"Bess May",Sibley,,000-01-02,F,White,Austin,,"S A Woolsey",,906,,,,1915-08-03
+13077,Martin,Parando,,030-00-00,M,Mexican,unknown,,"G W Wendell","Oakwood Annex","Sec D, 440",,,,1915-08-04
+13078,Lowvan,Delgado,,030-00-00,M,Mexican,Mexico,,"G W Wendell","Oakwood Annex","Sec D, 400",,,,1915-08-04
+13079,"Henrietta A",Blane,,071-09-03,F,White,Ala,,"F P McLaughlin",,874,,,,1915-08-05
+13080,Thomas,Pena,,000-07-06,M,Mexican,Texas,,"S A Woolsey","Oakwood Annex","Sec D, 319 se",,,,1915-08-06
+13081,Inft,Murray,,N,,White,Texas,,"E B Bailey",,789,,,,1915-08-07
+13082,C,Torres,,001-00-00,M,Mexican,,,"S A Woolsey",,Cath,,,,1915-08-08
+13083,"Eva Vickers",Dickens,,048-07-00,F,White,Miss,,"Joe GIlbert","Oakwood Annex","Sec A, 55",,,,1915-08-08
+13084,"Chas Battle",Winn,,048-03-24,M,White,Miss,,"F P McLaughlin",,308,,,,1915-08-09
+13085,Tomara,Olvera,,000-08-00,F,Mexican,Austin,,"R V Murray","Oakwood Annex","Sec D, 320 nw",,,,1915-08-11
+13086,Herbert,Perkins,,077-00-00,M,White,Germany,,,,Cath,,,,1915-08-11
+13087,Mary,Lewright,,073-03-10,F,White,Mo,,"Homer Hill",,756,,,,1915-08-14
+13088,Hannah,Ashworth,,N,F,White,,,,,755,,,,1915-08-14
+13089,"Claude D",Foster,,012-00-00,M,White,,,"R M Wickline","Oakwood Annex","Sec A, 103",,,,1915-08-14
+13090,Tom,Ferres,,040-00-00,M,Mexican,Houston,,"S A Woolsey","Oakwood Annex","Sec D, 401",,,,1915-08-14
+13091,"Mrs. Rosa",Williams,,034-00-05,F,"African American",,,"Robt Shipp",,"Colored Grounds",,,,1915-08-15
+13092,"Jack Allen",Carrroll,,000-05-15,M,White,Texas,,"E B Bailey",,"913 1/2",,,,1915-08-16
+13093,Genetton,Watts,,000-00-09,F,White,Austin,,"W M Watt","Oakwood Annex","Sec D, 238 sw",,,,1915-08-19
+13094,Ernest,"von Rosenberg",,N,M,White,Germany,,"N O Brenizer",,151,,,,1915-08-20
+13095,"Margie L",Addison,,001-00-00,F,"African American",Austin,,"Joe Wooten",,"Colored Grounds",,,,1915-08-24
+13096,"John J",Bauer,,039-00-18,M,White,Texas,,"J W McLaughlin",,Cath,,,,1915-08-26
+13097,Benjamin,Kilgore,,079-00-00,M,White,Ga,,"T F Moore","State Cemetery",,,,,1915-08-27
+13098,"Dr James H",Grant,,058-00-00,M,White,,,,,475,,,"shipped from Palestine",1915-08-28
+13099,"Inft of Mr & Mrs H",French,,000-00-01,M,White,Tex,,"A F Beverly",,81,,,,1915-08-29
+13100,Oliver,Millican,,006-07-28,M,White,Austin,,"S E Hudson",,816,,,,1915-08-29
+13101,"Mrs Maggie",Oliver,,039-00-00,F,White,Texas,,"S A Woolsey","Oakwood Annex","Sec D, 525",,,,1915-09-03
+13102,Mary,Madison,,042-00-00,F,"African American","Washington, D C",,"J H Stevens",,"Colored Grounds",,,,1915-09-05
+13103,"J W",Norford,,073-00-00,M,White,Texas,,"T F Moore","State Cemetery",,,,,1915-09-06
+13104,"O E",Nitschke,,064-00-00,M,White,"Mobile, Ala",,"F P McLaughlin",,464,,,,1915-09-06
+13105,"J W",Raleigh,,082-00-00,M,White,Ala,,"T F Moore","State Cemetery",,,,,1915-09-07
+13106,"Mrs L Watson",Robinson,,062-01-05,F,White,,,"W D King",,556,,,,1915-09-07
+13107,"Miss Jessie May",Nelson,,022-01-08,F,White,Texas,,"A F Beverly",,467,,,,1915-09-09
+13108,"Branch B",Wilson,,079-00-00,M,White,Va,,"T F Moore","State Cemetery",,,,,1915-09-09
+13109,"J Weldon",Yancey,,015-00-00,M,White,"Liberty Hill",,"J P GIllette","Oakwood Annex","Sec A, 131",,,,1915-09-10
+13110,"Merrill Marie",Bond,,010-62-2,F,White,Austin,,"E B Bailey","Oakwood Annex","Sec A, 51",,,,1915-09-10
+13111,Inft,Lafuente,,N,M,Mexican,Texas,,"Alma Kruemke",,cath,,,,1915-09-11
+13112,Eliza,Staunton,,097-00-00,M,White,"Atlanic Ocean",,"T F Moore","State Cemetery",,,,"Sex listed as M",1915-09-14
+13113,"Mrs. A H",Coates,,033-02-07,F,White,,,"T T Jackson, San Antonio",,803,,,,1915-09-14
+13114,"William A",Mayne,,064-00-00,M,White,Ala,,"Jas McLaughlin","Oakwood Annex","Sec D, 133",,,,1915-09-14
+13115,John,Schubert,,062-00-00,M,White,,,"M M Johnson","Oakwood Annex","Sec D, 133",,,,1915-09-18
+13116,James,Byrnes,,066-00-00,M,White,Ireland,,"F P McLaughlin",,Cath,,,,1915-09-19
+13117,"Mrs Rosine M",Bailey,,038-10-08,F,White,,,"E L Appersen",,1074,,,,1915-09-19
+13118,Frank,Pattillo,,035-00-00,M,Mexican,,,"Geo W Wendell","Oakwood Annex","Sec D, 402",,,,1915-09-23
+13119,"Inft of Mr & Mrs D",Girad,,N,F,White,Austin,,"E Krueger",,871,,,,1915-09-27
+13120,Berryman,Wells,,073-00-00,M,White,Tenn,,,"State Cemetery",,,,,1915-09-27
+13121,Mary,Allen,,010-00-24,F,White,"Taylor, Tex",,"C A Matthews",,Cath,,,,1915-09-30
+13122,"Edgar Hale",Phipps,,N,,"African American",,,,,,,,"Removed body from lot 1090 & 1093 to lot 876 in Oakwood.",1915-10-20
+13123,"Walter J",Martin,,N,,"African American",,,,,,,,"Removed body from lot 1138 in Oakwood to lot 5, sec A in the Oakwood Annex",1915-10-22
+13124,Pauline,Johnson,,023-00-11,F,White,Texas,,"S A Woolsey",,980,,,,1915-10-02
+13125,Anna,Mayer,,054-09-00,F,White,Texas,,"F P McLaughlin",,262,,,,1915-10-03
+13126,Frank,Fredrick,,042-06-23,M,White,Bohemia,,"C B Welles",,Cath,,,,1915-10-03
+13127,"J W",Hamby,,024-00-00,M,White,Texas,,"C W Weber, Round Rock",,Cath,,,,1915-10-03
+13128,"Hester L",Dare,,084-06-03,F,White,Tenn,,"N O Brenizer",,528,,,,1915-10-05
+13129,"August H",Goebel,,066-00-00,M,White,"Atlantic Ocean",,"Joe Gilbert",,978,,,,1915-10-06
+13130,"George E",Brown,,044-00-24,M,White,Tex,,"M M Johnson",,826,,,,1915-10-06
+13131,C,Torris,,007-00-00,M,Mexican,Tex,,"Alberto G",,Cath,,,,1915-10-07
+13132,Margaret,White,,054-00-00,F,"African American",Miss,,"F P McLaughlin",,"Colored Grounds",,,,1915-10-07
+13133,"C H",Price,,047-00-00,M,White,Tenn,,"S A Woolsey","Oakwood Annex","Sec D, 526",,,,1915-10-12
+13134,"Edna Lucile",Hamilton,,002-00-00,F,White,Tex,,"C A Matthews","Oakwood Annex","Sec A, 108",,,,1915-10-15
+13135,"J C",Peay,,065-08-00,M,White,Mich,,"H B Granberry",,572,,,,1915-10-15
+13136,"Rosa Emma",Roll,,019-03-13,F,White,Tex,,"J E Henze","Oakwood Annex","Sec D, 132",,,,1915-10-16
+13137,"Jno T",McCarty,,081-00-00,M,White,Tenn,,"J M F Gill","State Cemetery",,,,,1915-10-17
+13138,"Mrs Addie May",Massoy,,061-01-23,F,White,Tex,,"F P McLaughlin","Oakwood Annex","Sec A, 48",,,,1915-10-17
+13139,Henry,Cain,,093-09-00,M,White,Ireland,,"Joe Gilbert",,Cath,,,,1915-10-17
+13140,Eugena,Hernandez,,030-00-00,M,Mexican,Mexico,,"James M Loving","Oakwood Annex","Sec D, 439",,,,1915-10-17
+13141,"Mary Ann C",Polk,,063-00-00,F,White,Tex,,"F P McLaughlin","Oakwood Annex","Sec A, 48",,,,0195-10-18
+13142,"Mrs D",Medrano,,085-00-00,F,Mexican,Mexico,,Litten,,Cath,,,,1915-10-18
+13143,Unknown,Mexican,,025-00-00,M,Mexican,,,"S A Woolsey","Oakwood Annex","Sec D, 438",,,,1915-10-19
+13144,"A L",Moore,,076-00-00,M,"African American",Miss,,"H B Granberry",,"Colored Grounds",,,,1915-10-20
+13145,"Thos G",Moss,,079-00-00,M,White,Tenn,,"J M Gill","State Cemetery",,,,,1915-10-21
+13146,"Salome E",Stillwell,,059-00-00,F,White,Ark,,"H B Granberry","Oakwood Annex","Sec A, 97",,,,1915-10-21
+13147,Mary,Spencer,,046-00-00,F,White,,,"S A Woolsey","Oakwood Annex","Sec D, 131",,,,1915-10-21
+13148,Guane,Hernandez,,000-09-00,F,Mexican,Austin,,"C A Matthews",,Cath,,,,1915-10-21
+13149,Dorothy,Francis,,N,F,White,Austin,,"H B Granberry",,832,,,,1915-10-22
+13150,Ferrmin,Correa,,004-00-00,M,Mexican,Laredo,,Murray,"Oakwood Annex","Sec D, 437",,,,1915-10-22
+13151,Frank,Vickery,,072-00-00,M,White,Tex,,"Joe Wooten","Oakwood Annex","Sec A, 57",,,,1915-10-24
+13152,Mannola,Hernandez,,040-00-00,F,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, 436",,,,1915-10-24
+13153,Annie,Carrington,,073-00-00,F,"African American",Alabama,,"J H Stevens",,"Colored Grounds",,,,1915-10-24
+13154,Nellie,Plambeck,,028-08-00,F,White,La,,"R S Graves","Oakwood Annex","Sec D, 130",,,,1915-10-26
+13155,"Maggie Gomez",LaFuente,,017-05-00,F,White,Mexico,,"E Krueger",,Cath,,,,1915-10-27
+13156,"Julius Frenzel",Thiele,,001-00-00,M,White,"Travis Co., Tex",,"N O Brenizer",,720,,,,1915-10-27
+13157,William,Hardin,,079-00-00,M,White,England,,"J M F Gill","State Cemetery",,,,,1915-10-28
+13158,Jno,Montraso,,050-00-00,M,Mexican,,Mexico,"H B Granberry","Oakwood Annex","Sec D, 435",,,,1916-10-28
+13159,Mrs,Schlochaner,,066-00-00,F,White,Germany,,"F P McLaughlin",,"Jewish Cemetery",,,,1915-10-29
+13160,"Mrs. Ellen",Frazer,,088-11-02,F,White,Pa,,"T J Bennett",,930,,,,1915-10-30
+13161,"Saml Jefferson",Downs,,075-00-00,M,White,Tex,,"J M F Gill","State Cemetery",,,,,1915-10-30
+13162,"Jose O",Castillo,,029-00-00,M,Mexican,Mexico,,"S A Woolsey",,"912 1/2",,,,1915-10-31
+13163,N,Thompson,,N,M,White,,,"S A Woolsey","Oakwood Annex","Sec D, 527",,,,1915-10-31
+13164,"F A",Schiken,,046-00-00,M,White,Ill,,"F L Griffith",,889,,,,1915-10-31
+13165,"Frank R",Wilson,,078-00-00,M,White,Ga,,"J M F Gill","State Cemetery",,,,,1915-11-01
+13166,Willis,Fogle,,076-00-00,M,White,Ark,,"J M F Gill","State Cemetery",,,,,1915-11-01
+13167,Ascencion,Segovia,,045-00-00,F,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, lot 434",,,,1915-11-02
+13168,Galberta,Syaba,,054-00-00,F,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, lot 406",,,,1915-11-02
+13169,"Mrs Emma M",Hammer,,028-00-00,F,White,,,"W M Schultz, Georgetown",,908,,,,1915-11-02
+13170,Patsy,Lewis,,055-00-00,F,"African American",,,,,"Colored Grounds",,,"shipped from Taylor",1915-11-02
+13171,Ida,Ludwig,,024-00-00,F,White,Texas,,"Robt W Shipp","Oakwood Annex","Sec D, lot 115",,,,1915-11-03
+13172,"Mrs Stuart",Francis,,041-01-26,F,White,La,,"H B Granberry",,Catholic,,,,1915-11-04
+13173,Oddie,Pool,,022-10-01,M,White,,"Homer L Wilson, San Antonio",,,"918 1/2",,,,1915-11-05
+13174,Henry,Pohl,,069-00-10,M,White,Germany,,"E Krueger",,1127,,,,1915-11-05
+13175,"Norma Wood",Simonds,,060-11-09,F,White,"New York",,"F L Griffith",,825,,,,1915-11-07
+13176,Mary,Benavides,,000-05-02,F,Mexican,Tex,,"R V Murray","Oakwood Annex","Sec D, lot 320  NE",,,,1915-11-09
+13177,"F H",Pfaefflin,,002-07-21,M,White,Tex,,"Homer Hill",,173,,,,1915-11-08
+13178,Oscar,"De Blanc",,076-00-00,M,White,La,,"J M F Gill","State Cemetery",,,,,1915-11-09
+13179,Carl,Jarl,,068-00-00,M,White,Sweden,,"S E Hudson",,791,,,,1915-11-11
+13180,"John Albert",McCuiston,,068-00-25,M,White,Mo,,"C B Weller",,803,,,,1915-11-11
+13181,Ignacia,Rojes,,026-00-00,F,Mexican,,,"R V Murray","Oakwood Annex","Sec D lot 407",,,,1915-11-12
+13182,"Florence Alberta",Hart,,000-10-07,F,White,Mo,,"Joe Gilbert",,catholic,,,,1915-11-12
+13183,"Asher G",Smoot,,046-02-11,M,White,Ky,,"F P McLaughlin",,1044,,,,1915-11-13
+13184,"Albert S",Freeland,,048-05-16,M,White,Ala,,"S A Woolsey",,,,,"(location not given)",1915-11-13
+13185,"James Sylvester",Goldman,,001-02-00,M,White,Austin,,"M F Kreisle","Oakwood Annex","Sec D, lot 238",,,,1915-11-13
+13186,Henry,Kupfermagel,,055-01-02,M,White,Africa,,"S A Woolsey",,128,,,,1915-11-15
+13187,"Wm Vogles",Carlick,,082-00-00,M,White,Mo,,"J M F Gill","State Cemetery",,,,,1915-11-15
+13188,"Pragidis Trevino",Mendoza,,053-00-00,F,Mexican,Mexico,,"Alberto G Garcia","Oakwood Annex","Sec D, lot 408",,,,1915-11-17
+13189,"Archie Lindsey",Jones,,004-01-07,M,White,"Kaufman Co",,"S A Woolsey","Oakwood Annex","Sec D, lot 239",,,,1915-11-17
+13190,Sidroma,Hernandez,,047-00-00,F,Mexican,Mexico,,"Frank Litten","Oakwood Annex","Sec D, lot 433",,,,1915-11-18
+13191,"Frank I",Ilsey,,,M,White,,,"W E McBride, New Mexico",,299,,,,1915-11-18
+13192,"Laura J",Moore,,073-04-19,F,White,Georgia,,"Joe Gilbert",,111,,,,1915-11-19
+13193,"W A R",Smith,,086-00-00,M,White,Ala,,"J M F Gill","State Cemetery",,,,,1915-11-22
+13194,"Charles A",Kuse,,065-00-00,M,White,Germany,,"G W Wooten",,752,,,,1915-11-22
+13195,"Inft of Mr and Mrs",Wupperman,,000-00-04,F,White,Texas,,"N O Brenzier",,99,,,,1915-11-22
+13196,Nickie,Luck,,045-00-00,F,White,Texas,,"S Haigler",,995,,,,1915-11-23
+13197,"Annie Laura",Koehm,,011-00-00,F,White,"Travis Co",,"R V Murray","Oakwood Annex","Sec D, lot 94",,,,1915-11-24
+13198,"Sylvia Francis",Quilliams,,010-03-28,F,White,Colorado,,"S Haigler",,506,,,,1915-11-25
+13199,"Infnt of Mr and Mrs I D",Dodge,,N,M,White,Austin,,Granberry,"Oakwood Annex","Sec D, lot 238",,,,1915-11-25
+13200,"Martha M",Joyner,,N,F,White,,,,"State Cemetery",,,,,1915-11-26
+13201,Wm,Preston,,089-00-00,M,White,Miss,,"J M F GIll","State Cemetery",,,,,1915-11-26
+13202,"M G",Longley,,041-00-00,M,White,Tex,,"F P McLaughlin",,112,,,,1915-11-26
+13203,"Mary B",McLeod,,008-00-00,F,White,Tex,,Granberry,"Oakwood Annex","Sec A, lot 86",,,,1915-11-28
+13204,"Mrs Pauline Elizabeth",Murray,,038-06-13,F,White,,,"J B Hunter",,Catholic,,,,1915-11-30
+13205,"Mrs B K",Benson,,N,,"African American",,,,"Oakwood Annex","Sec A, lot 9",,,"Removed body from old part in Oakwood to Annex",1915-11-10
+13206,"Carl F Wm",Brinckner,,057-06-29,M,White,Germany,,"S E Hudson",,1052,,,,1915-12-28
+13207,"I N",George,,085-00-00,M,White,Tenn,,"J M F Gill","State Cemetery",,,,,1916-01-03
+13208,"Robt Franklin",GIbson,,080-00-00,M,White,Mo,,"J M F Gill","State Cemetery",,,,,1915-12-29
+13209,"Mrs L",Ledbetter,,N,F,White,,,,"Oakwood Annex","Sec D, lot 125",,,,1915-12-31
+13210,"Mrs Mary Jane",Hubbell,,086-00-00,F,White,Ky,,"R W Shipp",,808,,,,1915-12-31
+13211,"William M",Gilmore,,N,M,White,,,,"State Cemetery",,,,,1915-12-31
+13212,"Sarah A",Sorrillo,,092-00-00,F,White,,,"Joe Ekhardt","State Cemetery",,,,,1915-12-01
+13213,"Margaret L",Andrew,,082-04-22,F,White,Miss,,"Margaret Holliday",,354,,,,1915-12-01
+13214,"C M",Lucas,,077-00-00,M,White,Tenn,,"Joe Gilbert",,922,,,,1915-12-03
+13215,Louis,Solis,,005-00-00,M,Mexican,Mexico,,"Frank Litten","Oakwood Annex","Sec D, lot 409",,,,1915-12-03
+13216,"John P",Jones,,072-00-00,M,White,GA,,"J M F Gill","State Cemetery",,,,,1915-12-05
+13217,Patrick,Rail,,065-00-00,M,White,Ireland,,"J M F Gill",,"Catholic cemetery",,,,1915-12-05
+13218,"G E",McConnell,,048-00-00,M,White,,,"W D Lightfott","Oakwood Annex","Sec D, lot 127",,,,1915-12-06
+13219,Sophia,Hankins,,043-00-00,F,"African American",Austin,,"W H Crawford",,"Colored Grounds",,,,1915-12-07
+13220,"Chas Joseph",Thiele,,028-06-02,M,White,"Travis Co",,"C B Wellwe",,"lot 893",,,,1915-12-07
+13221,Alexander,McDonald,,079-00-00,M,White,Alabama,,"J M F Gill","State Cemetery",,,,,1915-12-08
+13222,"Ann Ro",Philipps,,058-11-15,F,White,Tenn,,"S E Hudson",,"lot 876",,,,1915-12-08
+13223,Infnt,Morris,,000-00-05,M,Mexican,Tex,,"S A Woolsey","Oakwood Annex","Sec  D, lot 320 SE",,,,1915-12-08
+13224,"John W",Campbell,,088-00-00,M,White,Georgia,,"Homer Hill","State Cemetery",,,,,1915-12-09
+13225,"Inft of Ella",Smith,,N,M,White,Tex,,"E G Mathis","Oakwood Annex","Dec D, lot 240 W",,,,1915-12-09
+13226,Erna,Rodriguis,,003-00-00,F,Mexican,Tex,,"Ralph Steiner",,"Catholic cemetery",,,,1915-12-10
+13227,"Anna M",Kirshwink,,085-00-00,F,White,Germany,,"Joe Wooten",,"Catholic cemetery",,,,1915-12-11
+13228,"Geo Travis",Dooley,,078-00-00,M,White,Texas,,"J M F Gill","State Cemetery",,,,,1915-12-11
+13229,"Annie L",Conley,,001-09-00,F,"African American",Texas,,"W Neal Watt",,"Colored Grounds",,,,1915-12-11
+13230,"Lee Dee",Edwards,,071-00-00,M,White,Tenn,,"J M F Gill","State Cemetery",,,,,1915-12-11
+13231,Jesus,Torez,,004-11-19,M,White,Texas,,"C H Matthews",,"Catholic cemetery",,,,1915-12-13
+13232,"Mrs. E. C.",Gaines,,043-00-00,F,White,,,,"Oakwood Annex","Sec A, lot 100",,,,1915-12-14
+13233,Inft,Goodman,,000-00-00,F,White,,stillborn,"H S Lillman, Llano",,"Jewish Cemetery",,,,1915-12-14
+13234,"F L",Kirkpatrick,,047-00-00,M,"African American",,,"G Starnes, San Antonio",,"Colored Grounds",,,,1915-12-15
+13235,"Geo W",Loney,,068-01-25,M,White,Mo,,"H B Black",,"lot 945",,,,1915-12-16
+13236,"Grace Greenwood",Houston,,058-00-00,F,White,Tex,,"S E Hudson",,"lot 875",,,,1915-12-16
+13237,"Jesse Lee",Sibley,,007-00-00,F,White,Tex,,"J C A Eckhart",,"lot 974",,,,1915-12-16
+13238,"James E",Hutchison,,079-00-00,M,White,SC,,"J M F Gill","State Cemetery",,,,,1915-12-17
+13239,"James C",Sibley,,055-00-00,M,White,,,,,"lot 906",,,,1915-12-21
+13240,"Mary J",Wende,,080-00-00,F,White,Germany,,"E Krueger",,"lot 1080",,,,1915-12-21
+13241,"John H",Carson,,071-00-00,M,White,Sweden,,"W B Black",,"lot 472",,,,1915-12-22
+13242,"James Westlmy",Barford,,001-09-28,M,White,,,"E B Strother, Dallas, Tex",,"lot 1087",,,,1915-12-22
+13243,"Andrew O",Hanna,,071-00-00,M,White,,,"J M F Gill","State Cemetery",,,,,1915-12-22
+13244,"Inft of",Malbissio,,000-00-00,F,Mexican,Austin,stillborn,"S A Woolsey","Oakwood Annex","Sec D, lot 321 NW",,,,1915-12-22
+13245,Joseph,Gerson,,076-00-00,M,White,,,"W E Loving, Laredo, Tex",,"Old Jewish Cem",,,,1915-12-24
+13246,"Inft of Wm L",Barrett,,000-00-00,F,White,Tex,stillborn,"N O Brenizer","Oakwood Annex","sec D, lot 239",,,,1915-12-25
+13247,"J A",Ledbetter,,N,M,White,,,,"Oakwood Annex","Sec D, lot 126",,,,1915-12-26
+13248,"Willie Parmelia",Smith,,050-00-00,F,White,Tenn,,"Frank Litten",,"lot 374",,,,1915-12-26
+13249,Fred,Green,,082-00-00,M,White,Germany,,"J M F Gill","State Cemetery",,,,,1915-12-27
+13250,Ophemia,Lopez,,N,,"African American",,,,"Oakwood Annex","Sec D, lot 432",,,,1915-12-27
+13251,"Thos J",Calhoun,,079-00-00,M,White,SC,,"J M Ray","State Cemetery",,,,,1916-01-02
+13252,Carl,Johnson,,070-00-00,M,White,Sweden,,"J W Gibson",,"lot 793",,,,1916-01-02
+13253,Juan,Otis,,050-00-00,M,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, lot 413",,,,1916-02-29
+13254,"Wm R",Storey,,066-04-18,M,White,Georgia,,"C B Weller",,"lot 458",,,,1916-01-01
+13255,"Fielding Scott",Pressley,,083-00-00,M,White,Ga,,"J M F Gill","State Cemetery",,,,,1915-12-29
+13256,"Carl F Wm",Brickner,,057-06-29,M,White,Germany,,"S E Hudson",,"lot 1052",,,,1915-12-28
+13257,Bertha,Wahrenberger,,N,,"African American",,,,,,,,"removed body from one place to another place in same lot.",1916-01-19
+13258,"Alma Rhea",Lentz,,026-00-00,F,White,Texas,,"E B Bailey","Oakwood Annex","Sec D, lot 123",,,,1916-01-01
+13259,"John Paul",Hodge,,071-00-00,M,White,Ga,,"J M F Gill","State Cemetery",,,,,1916-01-03
+13260,"Inft of N A",Baker,,N,F,White,Austin,,"Edgar G mathis",,"lot 31",,,,1916-01-03
+13261,"Thos E",Maddox,,079-00-00,M,White,Mo,,"J M F Gill","State Cemetery",,,,,1916-01-04
+13262,Anita,Horton,,019-08-20,M,White,Tex,,"Frank Litten",,"Catholic cemetery",,,,1916-01-04
+13263,Angelo,Rossie,,045-00-00,M,White,Italy,,"C B Weller",,"Catholic cemetery",,,,1916-01-05
+13264,"Miss Addie",Browning,,072-00-00,F,White,Tex,,"J W Bradfield",,1090-1093,,,,1916-01-05
+13265,Arnold,Packemins,,043-00-00,M,White,Germany,,"E Krueger",,"Catholic cemetery",,,,1916-01-06
+13266,"J E",Rocker,,085-00-00,M,White,SC,,"J M F Gill","State Cemetery",,,,,1916-01-06
+13267,"E P",Haigler,,080-00-00,M,White,"North C",,"Sam H Haigler",,"lot 493",,,,1916-01-07
+13268,"Henry A",Kippenbrock,,083-07-18,M,White,Germany,,"T J Parker, San Antonio","Oakwood Annex","Sec D, lot 119",,,,1916-01-07
+13269,"J H",Dunlap,,073-00-00,M,White,Tex,,"S A Woolsey","Oakwood Annex","Sec D, lor 118",,,,1916-01-07
+13270,Ensabio,Lopez,,065-00-00,M,Mexican,Mex,,"R V Murray","Oakwood Annex","Sec D, lot 410",,,,1916-01-07
+13271,Paul,Martinez,,017-00-00,M,Mexican,Tex,,"S E Hudson","Oakwood Annex","Sec D, lot 410",,,,1916-01-08
+13272,"H P",Hunt,,084-00-00,M,White,Ala,,"J M F Gill","State Cemetery",,,,,1916-01-08
+13273,Adolph,Messer,,049-00-00,M,White,,,"C A Matthews",,"lot 144",,,,1916-01-08
+13274,"L P",Wright,,069-00-00,,Mexican,Miss,,"Sam H Haigler",,,"lot 907",,,1916-01-09
+13275,"W M",Whatley,,079-00-00,M,White,Ala,,"J M F Gill","State Cemetery",,,,,1916-01-09
+13276,Carl,Mayer,,068-00-00,M,White,Germany,,"E Mussina",,"lot 867",,,,1916-01-09
+13277,William,Ziller,,058-00-0,M,White,Austin,,"Drs Watt & Watt",,"lot 268",,,,1916-01-10
+13278,"Samantha C",Crumby,,091-00-00,F,White,Alabama,,"Joe Eckhardt","State Cemetery",,,,,1916-01-10
+13279,"Louis P",Borho,,083-00-00,M,White,Germany,,"E B Bailey",,"lot 804",,,,1916-01-10
+13280,"Wm Riley",Howard,,072-00-00,M,White,Ky,,"J M F Gill",,"lot 891",,,,1916-01-12
+13281,"John J",Johnson,,094-00-00,M,White,Tenn,,"J M F Gill","State Cemetery",,,,,1916-01-12
+13282,"Louisa D",Matthews,,083-05-13,F,White,NC,,"F A Maxwell",,"lot 191",,,,1916-01-13
+13283,"M M",Miller,,076-00-00,F,White,Scotland,,"L B Bibb",,"lot 844",,,,1916-01-14
+13284,"E B",Millican,,N,M,White,,,"E T Moore, Lampasas, Tex",,2,,,"Sec 2 or BI 2?",1916-01-14
+13285,"A W",Garrison,,056-00-00,M,"African American",Austin,,"F P McLaughlin",,"Colored Grounds",,,,1916-01-14
+13286,"O B",Clark,,N,M,White,,,"R V Murray","Oakwood Annex","Sec D, lot 528",,,,1916-01-15
+13287,Margareta,Ginteras,,021-00-00,F,Mexican,Mexico,,"J F Flinn","Oakwood Annex","Sec D, lot 431",,,,1916-01-15
+13288,"Julia Weber",Cousin,,064-00-00,F,White,La,,"Homer Hill",,"lot 924",,,,1916-01-16
+13289,Juan,Villareal,,076-00-00,M,Mexican,Mex,,"S E Hudson","Oakwood Annex","Sec D, lot 430",,,,1916-01-17
+13290,"S A",Anderson,,079-00-22,M,White,Sweden,,"S A Woolsey","Oakwood Annex","Sec D, lot 529",,,,1916-01-17
+13291,"Inft of A",Caldwell,,N,M,White,Austin,,"Joe GIlbert","Oakwood Annex","Sec D, lot 557 NE",,,"lived 3 1/2 hours",1916-01-17
+13292,Tibusio,Puento,,018-00-00,M,Mexican,Mex,,"Alberto G Garcia","Oakwood Annex","Sec D, lot 412",,,,1916-01-19
+13293,Carolina,Wahrenberger,,081-11-20,F,White,Switzerland,,"R Wickline",,"lot 42",,,,1916-01-19
+13294,E,Garcia,,003-00-00,F,Mexican,Tex,,"S E Hudson","Oakwood Annex","Sec D, lot 429",,,,1916-01-20
+13295,"Sarah Loving",Moore,,087-00-00,F,White,Main,,"S A Woolsey",,,,,,1916-01-20
+13296,"Mary Estella",Beaumont,,N,F,White,Miss,,"L L Lacy",,"lot 432",,,,1916-01-20
+13297,roman,Gonzales,,048-00-00,F,Mexican,Mexico,,,"Oakwood Annex","Sec D, lot 451",,,,1916-01-21
+13298,Shelley,Grover,,048-00-00,M,White,"Kansas City, M",,"Joe Wooten",,"Catholic cemetery",,,,1916-01-21
+13299,"Richard R",Gesswein,,037-00-00,M,White,Austin,,"Homer Hill",,"lot 916 1/2",,,,1916-01-23
+13300,Ernest,Dressler,,074-00-00,M,White,Germany,,Eckhardt,"Oakwood Annex","Sec D, lot 87",,,,1916-01-22
+13301,"Mrs Charlotte",Parkinson,,074-00-00,F,White,,,"H B Granberry","Oakwood Annex","Sec A, lot 63",,,,1916-01-23
+13302,"Chas E",Anbert,,036-00-00,M,White,Ark,,"James M Loving","Oakwood Annex","Sec A, lot 52",,,,1916-01-24
+13303,Unknown,Baby,,N,M,White,,,"Geo Mondell","Oakwood Annex","Sec 5, lot 556 SW",,,,1916-01-25
+13304,"Mary Carolina",Schmidby,,000-00-07,F,White,Austin,,"Edgar G Mathis",,Cath,,,,1916-01-26
+13305,Apolinas,Reyes,,060-00-00,M,Mexican,MEx,,"Margaret Holliday","Oakwood Annex","Sec D, lot 452",,,,1916-01-27
+13306,"Carl F",Rampel,,073-00-00,M,White,Germany,,"E Krueger",,"lot 411",,,,1916-01-27
+13307,"Mrs Joe",Gloshrenck,,N,F,White,,,,,"lot 203",,,"and her children, from Mason",1916-01-28
+13308,"Etta Belle",Speights,,002-00-00,F,White,Tex,,"S E Hudson","Oakwood Annex","Sec D, lot 241 W",,,,1916-01-29
+13309,"A B",McCafferty,,091-00-00,M,White,Ireland,,"J M F Gill","State Cemetery",,,,,1916-01-30
+13310,"Wm Z",Swanzy,,073-04-29,M,White,,,"Edgar W Loomis",,"lot 718",,,,1916-01-30
+13311,Henry,Sauer,,070-00-00,M,White,Galveston,,"F P McLaughlin",,"lot 466",,,,1916-01-30
+13312,Sallie,Ferguson,,057-00-00,F,"African American",,,"geo Mondell",,"Colored Grounds",,,,1916-01-30
+13313,Phil,Brinkman,,067-00-00,M,White,Germany,,"J H Gullette",,"lot 394",,,,1916-01-31
+13314,"Harry Joseph",Ketchum,,073-00-00,M,White,"New Braunfels",,"A F Beverly","Oakwood Annex","Sec A, lot 31",,,,1916-01-25
+13315,"J C",Fink,,N,,"African American",,,,,,,,"removed body from lot 751 in Oakwood and sent it to Knoxville, Tenn.",1916-02-12
+13316,"C G",Maillot,,N,,"African American",,,,,,,,"removed body from lot 80 to lot 1070 in Oakwood.",1916-02-22
+13317,"Infant of A",Garcia,,N,M,Mexican,,,"Carmen Gavilian","Oakwood Annex","Section D, lot 321 NE",,,"lived 1/2 day",1916-02-01
+13318,"Mrs Selma",Kunze,,068-00-00,F,White,Germany,,"Joe C A Erkhardt",,1001,,,,1916-02-01
+13319,"E A",Hicks,,078-00-12,M,White,,,"S A Woolsey",,522,,,,1916-02-01
+13320,"Robt E",Bardenverper,,078-00-00,M,White,Germany,,"S E Hudson","Oakwood Annex","Sec D, lot 120",,,,1916-02-02
+13321,Emma,Soderland,,071-00-00,F,White,Sweland,,"Z B Scott",,832,,,,1916-02-03
+13322,"Bronons Tine",Castles,,074-00-00,M,White,SC,,"J M F Gill","State Cemetery",,,,,1916-02-04
+13323,Edward,Novell,,051-11-02,M,White,MO,,"S A Woolsey","Oakwood Annex","Sec D lot 121",,,,1916-02-05
+13324,Elijah,Lockler,,077-00-00,M,White,Ala,,"A C Oliver","State Cemetery",,,,,1916-02-05
+13325,John,Roberts,,077-00-00,M,White,Ireland,,"A C Oliver","State Cemetery",,,,,1916-02-05
+13326,Petro,Romo,,000-02-09,F,Mexican,Texas,,"Ben F Jones",,Catholic,,,,1916-02-05
+13327,"Silas W",Wood,,072-09-00,M,White,Ala,,"F P McLaughlin","Oakwood Annex","Sec A, lot 75",,,,1916-02-06
+13328,"Marion Scott",Loney,,002-02-29,M,White,Austin,,"H B Black","Oakwood Annex","Sec A lot 72",,,,1916-02-06
+13329,"Rev W E",Blackson,,057-00-00,M,"African American",Texas,,"S L Brown",,"Colored Grounds",,,,1916-02-06
+13330,"Franklin P",Preece,,062-00-00,M,White,Texas,,"C A Mathews","Oakwood Annex","Sec D lot 122",,,,1916-02-07
+13331,"Beverly Augustus",Readle,,070-00-00,M,White,SC,,"J M F Gill","State Cemetery",,,,,1916-02-11
+13332,Infant,Anderson,,000-00-00,M,White,Tex,,"E B Bailey","Oakwood Annex","Sec D, lot 240E",,,,1916-02-12
+13333,"C A",Botts,,070-00-00,M,White,Ky,,"W E Holtzclam",,1149,,,,1916-02-12
+13334,"Mary Olivia",Boines,,064-00-00,F,White,,,"J S Kahn, San Antonio",,"north of 0281",,,shipped,1916-02-17
+13335,"Roy Stockman",Dietrich,,015-00-00,M,White,Tex,,"L B Bibb",,29,,,,1916-02-17
+13336,"Mrs Bettie",Elam,,073-11-06,F,White,Ills,,"Robt W Shipp","Oakwood Annex","Sec D, lot 114",,,,1916-02-17
+13337,"Jno Thos",Perkins,,086-00-00,M,White,Ga,,"J M F Gill","State Cemetery",,,,,1916-02-18
+13338,"Sarah Jane",Glover,,074-00-00,F,White,Tex,,"Drs Watt & Watt",,,,,,1916-02-19
+13339,"Mrs Annie M",Lanthan,,062-00-00,F,White,,,"S E Hudson",,437,,,,1916-02-19
+13340,"C W",Peabody,,080-00-00,M,White,,,"J M F Gill","State Cemetery",,,,,1916-02-19
+13341,Laura,Horan,,037-00-00,F,White,Alabama,,"L B Bibb",,Cath,,,,1916-02-20
+13342,Lucia,Varquez,,001-00-00,M,Mexican,Austin,,"Joe Wooten",,Cath,,,,1916-02-21
+13343,"Billy Hudson",Shropshire,,000-01-26,M,White,Austin,,"J F Flinn","Oakwood Annex","Sec A, lot 95",,,,1916-02-23
+13344,"Joseph Albert",Houpes,,076-09-22,M,White,Va,,"F P McLaughlin",,703,,,,1916-02-23
+13345,Thomas,Newman,,079-00-00,M,White,Norway,,"J M F Gill","State Cemetery",,,,,1916-02-24
+13346,Henriette,Williams,,060-00-00,F,"African American",,,"S N Richardson, corner",,"Colored Grounds",,,,1916-02-25
+13347,"Wm Miller",Alsobrock,,083-00-00,M,White,SC,,"J M F Gill","State Cemetery",,,,,1916-02-27
+13348,N,Guitrez,,N,M,Mexican,Austin,,"R V Murray","Oakwood Annex","Sec D, lot 321 SW",,,,1916-02-27
+13349,"Samuel Martin",Smith,,038-00-00,M,White,Tex,,"C B Welles","Oakwood Annex","Sec D, lot 113D",,,,1916-02-27
+13350,Silvester,Perres,,002-09-23,M,Mexican,Tex,,"S A Woolsey","Oakwood Annex","Sec D, lot 321 SE",,,,1916-02-28
+13351,Emma,Ulit,,036-00-00,F,White,Tex,,"Joe GIlbert","Oakwood Annex","Sec A, lot 137 NE",,,,1916-06-02
+13352,"Madeline Jessie",Carson,,023-00-00,F,White,Tex,,"G B Granberry",,Catholic,,,,1916-06-03
+13353,"Montgomery Lorris",White,,045-03-27,M,White,Tex,,"G W Mondall",,779,,,,1916-06-03
+13354,"Wm G",Davis,,069-00-00,M,White,Ala,,"Joe Gilbert","State Cemetery",,,,,1916-06-05
+13355,Juan,Arredondo,,000-14-00,M,Mexican,Austin,,"S A Woolsey",,Catholic,,,,1916-06-06
+13356,"Forrest Quinton",Slawson,,007-00-00,M,White,Tex,,"S A Woolsey","Oakwood Annex","Sec D, lot 101",,,,1916-06-07
+13357,Roco,Cantu,,000-11-00,F,Mexican,Austin,,"B F Jones, M D","Oakwood Annex","SEc D, lot 323 SW",,,,1916-06-11
+13358,"Mrs. Edna A",Marks,,080-04-19,F,White,"New York",,"F P McLaughlin",,999,,,,1916-06-12
+13359,Sadie,Fisk,,041-04-14,F,White,"Travis Co. Tex",,"B Weller","Oakwood Annex","Sec A, lot 78 NE",,,,1916-06-13
+13360,"Inft of Mr & Mrs J H",French,,N,M,White,Austin,,"G A Wooten",,81,,,,1916-06-14
+13361,Matianna,Ayala,,074-00-00,F,Mexican,MExico,,"S A Woolsey","Oakwood Annex","Sec D, lot 455",,,,1916-06-14
+13362,George,Nanyes,,000-03-06,M,Mexican,LA,,"S A Woolsey","Oakwood Annex","Sec D, lot 323SE",,,,1916-06-16
+13363,"Emma Byrd",Chapline,,031-00-22,F,White,Kansas,,"Joe Gilbert","Oakwood Annex","Sec A, lot 76 NE",,,,1916-06-14
+13364,"Sylvia M A",Lindahl,,000-03-16,F,White,Tex,,"George M Dechman",,815,,,,1916-06-17
+13365,George,Mantaricko,,020-00-00,M,White,Greece,,"S A Woolsey","Oakwood Annex","Sec D, lot 99",,,,1916-06-17
+13366,"Geo W",Webb,,070-00-00,M,White,Tex,,"J W F Gill","State Cemetery",,,,,1916-06-19
+13367,Nellie,Monssi,,025-00-00,F,White,,,"B Coopwood, Lockhart",,catholic,,,,1916-06-18
+13368,Salnde,Gonzales,,N,F,Mexican,,,"S A Woolsey",,Catholic,,,,1916-06-19
+13369,"Mrs. Katie",Steiner,,047-11-16,F,White,Iowa,,"Z L Scott",,451,,,,1916-06-20
+13370,"A J",Lloyd,,062-00-00,M,White,Texas,,"Dr Black","Oakwood Annex","Sec D, lot 25",,,,1916-06-20
+13371,"W W",Gump,,086-00-00,M,White,Ohio,,"Frank Litton","Oakwood Annex","Dec D, lot 91",,,,1916-06-24
+13372,John,Milligan,,084-00-00,M,White,Scotland,,"J M F GIll","State Cemetery",,,,,1916-06-25
+13373,"Abraham Edwin",Johnson,,048-06-10,M,White,Ill,,"l B Bibb","Oakwood Annex","Sec A, lot 102 SW",,,,1916-06-27
+13374,John,Blackman,,066-00-00,M,White,La,,"S A Woolsey",,993,,,,1916-06-27
+13375,"B F",Heath,,071-10-00,M,White,Illinois,,"J F Gullett","Oakwood Annex","Sec A, lot 183S",,,,1916-06-27
+13376,"Helen C",Taylor,,083-00-00,F,White,Ala,,"J C A Eckhardt","State Cemetery",,,,,1916-06-28
+13377,"James Hamilton",Collett,,091-05-16,M,White,NC,,"G A Wooten",,489,,,,1916-06-29
+13378,"Jennie Ada",Lucas,,037-05-01,F,White,"Williamson Co",,"E B Bailey",,921,,,,1916-06-29
+13379,"Anna W",Reynolds,,072-00-00,F,White,Miss,,"Joe C A Eckhardt","State Cemetery",,,,,1916-06-30
+13380,"Francis A",Scanlin,,N,,"African American",,,,,,,,"Removed body from State Cemetery and shipped to Philadelphia, Pa.",1916-06-05
+13381,"Mrs E C",Gaines,,N,,"African American",,,,,1109,,,"Removed body from lot 100 in Oakwood Annex Sec A, to lot 1109 in Oakwood Cemetery.",1916-06-16
+13382,"H A",French,,N,,"African American",,,,,,,,"Removed body from lot 45 in Oakwood Cemetery and shipped same to San Antonio, Tex.",1916-06-26
+13383,"James Henry",Roark,,N,M,White,Ky,,"S A Woolsey","Oakwood Annex","Sec A, lot 910 SE",,,,1916-05-01
+13384,Manuel,Lopez,,000-00-04,M,Mexican,Austin,,"R V Murray","Oakwood Annex","Sec D, lot 323 NE",,,,1916-05-01
+13385,John,Mooney,,N,M,White,,,"James Loving",,Catholic,,,,1916-05-01
+13386,"Henry Wm","Rosenberg Jr",,000-03-09,M,White,Tex,,"Sam Haigler",,,919,,,1916-05-01
+13387,Herlinda,Torres,,024-00-00,F,Mexican,"Williamson Co",,"E Kreuger",,Catholic,,,,1916-05-03
+13388,"Ruth Estella",Baldwin,,000-00-04,F,White,Austin,,"H B Granberry",,451,,,,1916-05-04
+13389,"Rosa Lee Seary",Shipplett,,024-00-00,F,White,La,,"J F Flinn",,914,,,,1916-05-05
+13390,John,Carlson,,036-00-00,M,White,,,"Dr Stroberg","Oakwood Annex","Sec A, lot 88 SE",,,,1916-05-08
+13391,"Susan A",Hamilton,,N,F,White,Tenn,,"F P McLaughlin",,898,,,,1916-05-08
+13392,Estora,Riales,,055-00-00,F,Mexican,"Lareda, Tex",,"Frank Litten","Oakwood Annex","Sec D, lot 454",,,,1916-05-09
+13393,"Wm F",O'Donnell,,087-00-00,M,White,,,"Thos M Yett, Marble Falls",,Catholic,,,,1916-05-09
+13394,"G N",McGuist,,022-00-00,M,White,Texas,,"G W Mondell, J P","Oakwood Annex","Sec D, Lot 109",,,,1916-05-10
+13395,"Victoriano I",Rodriguez,,070-00-00,F,White,Mex,,"G Wooten","Oakwood Annex","Sec D, lot 104",,,,1916-05-10
+13396,Felix,Flores,,000-11-22,M,Mexican,Tex,,"Ben F Jones",,catholic,,,,1916-05-11
+13397,Mannie,Funderburk,,000-06-21,F,White,Travis,,"L B Bibb","Oakwood Annex","Sec D, lot 556 NW",,,,1916-05-13
+13398,"Albert Edgar",Stelfox,,045-04-17,M,White,Austin,,"F P McLaughline",,28,,,,1916-05-14
+13399,"Wilber J",Lawler,,000-01-22,M,White,Austin,,"S E Hudson","Oakwood Annex","Sec D, lot 240E",,,,1916-05-15
+13400,Roy,Moore,,001-05-00,M,White,Austin,,"R V Murray","Oakwood Annex","Sec D, lot 556 NE",,,,1916-05-15
+13401,Henry,Ladd,,N,M,White,,,"F S Wilhelm, N York",,529,,,,1916-05-16
+13402,"William T",Caldwell,,073-02-24,M,White,Mo,,"S E Hudson",,422,,,,1916-05-16
+13403,"Martha J",Patterson,,071-00-00,F,White,Ky,,"H B Granberry",,1055,,,,1916-05-16
+13404,Jewell,Thomason,,008-05-01,F,White,Austin,,"E B Bailey","Oakwood Annex","Sec D, 242 W",,,,1916-05-17
+13405,Jennie,Miller,,064-03-16,F,White,Tenn,,"Frank Litten",,920,,,,1916-05-17
+13406,Robt,Rogers,,085-00-00,M,White,England,,"H B Granberry",,1149,,,,1916-05-19
+13407,Jack,Burditt,,043-00-00,M,"African American",Austin,,"R V Murray",,"Colored Grounds",,,,1916-05-20
+13408,Elizabeth,LaRue,,083-00-00,F,White,,,"A M Cleveland, Ft Worth",,794,,,,1916-05-21
+13409,"John C",Yeiser,,078-01-13,M,White,Ky,,"H B Granberry",,1149,,,,1916-05-21
+13410,Pebla,Castro,,000-10-22,F,Mexican,Tex,,"B F Jones",,Catholic,,,,1916-05-22
+13411,"Inft of Mr & Mrs J W",Mitchell,,N,F,White,Austin,,"Joe Gilbert","Oakwood Annex","Sec D, lot 242E",,,,1916-05-24
+13412,Marguerte,Davenport,,001-02-07,F,White,Tex,,"R V Murray",,993,,,,1916-05-24
+13413,"J T",Cone,,085-00-00,M,White,Ga,,"J M F Gill","State Cemetery",,,,,1916-05-25
+13414,"Madison A",Shipp,,028-09-17,M,White,Tex,,"J W McDonnald",,993,,,,1916-05-25
+13415,Eliza,Harrell,,058-11-07,F,White,Tex,,"H B Granberry","Oakwood Annex","Sec A, lot 66 NW",,,,1916-05-28
+13416,Robt,Johns,,033-10-03,M,"African American",Tex,,"G W Mondell J P",,"Colored Grounds",,,,1916-05-28
+13417,Lon,Deach,,036-00-00,M,White,Tex,,"C R Miller","Oakwood Annex","Sec D, lot 102",,,,1916-05-28
+13418,"Inft of Mr & Mrs A",Jackobson,,N,F,White,Austin,,"Robt Shipp","Oakwood Annex","Sec D, lot 243W",,,,1916-05-31
+13419,Inft,Graham,,N,,"African American",,,,,"Colored Grounds",,,,1916-05-31
+13420,Catholena,Martinez,,016-00-00,F,Mexican,,,"S A woolsey",,catholic,,,,1916-05-31
+13421,Christina,Stark,,072-07-10,F,White,Germany,,"J E Gullette","Oakwood Annex","Sec A, lot 138NE",,,,1916-08-01
+13422,Charles,Elanvought,,086-00-00,M,White,Va,,"Dr gill","State Cemetery",,,,,1916-03-01
+13423,"Daniel H",Caswell,,083-03-15,M,White,Maine,,"S E Hudson",,800,,,,1916-03-01
+13424,"Geo W",Walling,,087-05-25,M,White,NJ,,"J W Gibson",,301,,,,1916-03-02
+13425,"David M",Wilson,,076-01-14,M,White,Tenn,,"T J Bennett",,310,,,,1916-03-02
+13426,"A B",Burt,,037-01-04,M,White,Tex,,"S A Woolsey",,Catholic,,,,1916-03-03
+13427,"C H",Wilcox,,065-08-07,M,White,Miss,,"Homr Hill",,534,,,,1916-03-03
+13428,"Mrs Mary B",Fullr,,025-03-25,F,White,,,,,721,,,"shipped from Dallas",1916-03-03
+13429,"N A",Tinney,,071-00-00,M,White,Tex,,"Dr Gill","State Cemetery",,,,,1916-03-03
+13430,Aniseto,Gonzales,,002-09-11,M,Mexican,Austin,,"Joe Eckhardt",,Catholic,,,,1916-03-03
+13431,Henry,Wansley,,044-00-00,M,White,Ga,,"Joe C A Eckhardt","Oakwood Annex",53,,,,1916-03-04
+13432,"Inft of Mr and Mrs E",Samaripa,,N,M,Mexican,Tex,,"E Samaripa",,Catholic,,,,1916-03-04
+13433,"J C",Johnson,,N,M,White,NC,,"S A Woolsey","Oakwood Annex","Sec D, lot 112",,,,1916-03-05
+13434,"J E",Crittenden,,076-00-00,M,White,,,"A F Beverley","Oakwood Annex","Sec D, lot 89",,,,1916-03-05
+13435,"J Gordon",Brown,,068-00-00,M,White,,Scotland,"Joe S Wooten",,771,,,,1916-03-06
+13436,"A G",Mitchell,,083-00-00,M,White,NC,,"Dr GIll","State Cemetery",,,,,1916-03-06
+13437,"W B",Brush,,063-00-00,M,White,,NJ,"F P McLaughlin",,361,,,,1916-03-06
+13438,"A N",Duff,,085-00-00,M,White,Tenn,,"Dr GIll","State Cemetery",,,,,1916-03-06
+13439,"W C",Deike,,057-09-04,M,White,Germany,,"Joe Gilbert","Oakwood Annex","Sec A, lot 74",,,,1916-03-08
+13440,"Edwin Jas",Ledbetter,,076-09-29,M,White,Va,,"F L Griffith",,995,,,,1916-03-10
+13441,Inft,Jones,,N,F,White,Tex,,"Joe Wooten","Oakwood Annex","Sec D, lot 556",,,,1916-03-11
+13442,"Mrs Maggie",Rumley,,044-00-00,F,White,Tex,,"J M Loving","Oakwood Annex","Sec A, lot 96",,,,1916-03-11
+13443,"Jas M",Atkinson,,080-00-00,M,White,Ala,,"J M F GIll","State Cemetery",,,,,1916-03-12
+13444,"E D",Walker,,094-00-00,M,White,"West Va",,"Frank Litten",,384,,,,1916-03-13
+13445,Guesto,Galomo,,007-00-00,F,Mexican,Tex,,"S A Woolsey","Oakwood Annex","Sec D, lot 332 NW",,,"age ""about 7""",1916-03-13
+13446,"Mary Roberta",Dohme,,067-01-22,F,White,Tex,,"N O Brenizer",,270,,,,1916-03-14
+13447,"Mrs. Margaret Elizabeth",Cullin,,024-00-00,F,White,"Memphis, Tenn",,"Dr Shipp",,Catholic,,,,1916-03-16
+13448,"Mrs Katie C",Estill,,056-00-00,F,White,,,"Dr Shipp",,486,,,,1916-03-16
+13449,Jesse,Parales,,023-02-20,F,Mexican,"New Braunfels",,"S A Woolsey",,Catholic,,,,1916-03-16
+13450,"Frank E",Jones,,056-00-00,M,White,Tex,,"H B Granberry",,161,,,,1916-03-17
+13451,"Mary Van Buren",Paul,,048-00-00,F,White,,,"Jno D Blake Maryland",,34,,,,1916-03-17
+13452,Mary,Carlson,,066-00-00,F,White,Sweden,,"W B Black",,"N E Corner",,,,1916-03-18
+13453,Florence,Brown,,048-00-00,F,"African American","Williamson Co",,"S L Brown",,"Colored Grounds",,,,1916-03-19
+13454,Salvado,Pines,,003-00-00,M,Mexican,Austin,,"R V Murray","Oakwood Annex","Sec D, lot 322 NE",,,,1916-03-19
+13455,Esparanza,Barrera,,001-04-00,M,Mexican,Tex,,"Frank Litten",,catholic,,,,1916-03-20
+13456,"M S",Dunn,,076-00-00,M,White,,,"P A Boze (Mason, Tex)",,"Old Grounds",,,,1916-03-20
+13457,Lynn,Secor,,021-00-00,M,White,Iowa,,"R V Murray",,866,,,,1916-03-20
+13458,"Rev Father Wm A",Marr,,044-00-00,M,White,"New York",,"C A Matthews",,Catholic,,,,1916-03-20
+13459,"Inft of C F",Diehl,,N,M,White,Austin,,"Alma Krinke",,544,,,,1916-03-20
+13460,"Geo W",Boyd,,017-11-07,M,White,Tex,,"R V Murray",,1016,,,(drowned),1916-03-20
+13461,Andrew,Sibley,,021-00-00,M,White,Tex,,,,943,,,(drowned),1916-03-21
+13462,"L L",Bryan,,070-00-00,M,White,,,"Dr GIll","State Cemetery",,,,,1916-03-22
+13463,"Thomas J",Allred,,076-00-00,M,White,La,,"Dr Gill","State Cemetery",,,,,1916-03-22
+13464,"Daniel Webster",Martin,,045-05-24,M,White,Ala,,"F P McLaughlin",,"Sec 4, lot 884",,,,1916-03-22
+13465,"Inft of B",Molino,,N,M,Mexican,Austin,,"Joe C A Eckhardt",,Catholic,,,,1916-03-23
+13466,"Jno Calvin",Sutton,,069-00-00,M,White,,,"J M F GIll","State Cemetery",,,,,1916-03-23
+13467,"Margaret Caldwell",Michelson,,035-04-17,F,White,Austin,,"Drs Watt & Watt",,"Old Grounds",,,,1916-03-24
+13468,Gus,Newman,,059-00-00,M,White,La,,"Drs Watt & Watt",,"Old Grounds",,,,1916-03-26
+13469,"Jessie Noyes",Shofner,,043-01-05,F,White,Lampasas,,"G H Wooten",,725,,,,1916-03-27
+13470,"Mrs Hattie",Delno,,077-09-02,F,White,,,"J M Goss (Houston, Tex)",,1005,,,,1916-03-27
+13471,"Mrs. Jennie",Neill,,076-00-00,F,White,,,"O L Norsworthy (Houston)",,65,,,,1916-03-29
+13472,Katie,Overstreet,,058-00-00,F,White,Tex,,"F P McLaughlin",,508,,,,1916-03-29
+13473,"Will A",Smith,,N,,"African American",,,,,1080,,,"removed body from lot 725 to 1080 (also that of A L Flinn)",1916-03-13
+13474,"A L",Flinn,,N,,"African American",,,,,1080,,,"removed body from lot 725 to lot 1080 (also that of Will A Smith)",1916-03-13
+13475,"Mrs Sallie Loden",Patterson,,N,,"African American",,,,,,,,"removed body from lot 884 to lot between 1053 and 1054",1916-03-23
+13476,"Inft child of William",Ziller,,N,,"African American",,,,,268,,,"removed body from one spot to another on same lot 268",1916-03-28
+13477,Misceola,Escondon,,080-00-00,F,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, lot 453",,,,1916-04-02
+13478,Inft,Sovalle,,000-00-00,F,Mexican,Texas,stillborn,,"Oakwood Annex","Dec D, lot 322 SW",,,,1916-04-02
+13479,"John T",Depew,,057-00-00,M,White,,,"G W GIlbert",,888,,,,1916-04-02
+13480,"Tom J",Lunceford,,051-00-00,M,White,Miss,,"S A Woolsey",,1121,,,,1916-04-03
+13481,Nellie,Haigler,,059-00-00,F,White,,,"W E Watt",,493,,,,1916-04-03
+13482,"Lewis W",Clampitt,,068-00-00,M,White,Texas,,"J M F Gill","State Cemetery",,,,,1916-04-03
+13483,"Dollie May",Elliott,,022-00-00,F,White,Okla,,"R V Murray","Oakwood Annex","Sec D, lot 111",,,,1916-04-03
+13484,"M D",Carr,,043-00-00,M,White,Ill,,"M M Johnson, coroner","Oakwood Annex","Sec A, lot 65 SW",,,,1916-04-04
+13485,"Ida P",Zilker,,053-00-00,F,White,Tex,,"G H Wooten",,858,,,,1916-04-04
+13486,Barta,Attal,,000-03-15,F,White,Tex,,"Homer Hill",,catholic,,,,1916-04-04
+13487,"B Willis",Lucas,,030-00-00,M,White,Tex,,"W J Jenkins (Galveston)","Oakwood Annex","Sec A, lot 13 NE",,,,1916-04-04
+13488,"M M Francis",Quinn,,024-00-00,F,White,"Bastrop Co. Tex",,"E B Bailey","Oakwood Annex","Sec A, lot 67 NW",,,,1916-04-05
+13489,Sallie,Hays,,075-00-00,F,White,La,,"J M Loving","Oakwood Annex","Sec D, lot 110",,,,1916-04-05
+13490,Guadalupe,Fuente,,019-00-00,M,Mexican,Tex,,"S A Woolsey","Oakwood Annex","Sec D, lot 414",,,,1916-04-05
+13491,Iunocenia,Ramirez,,026-00-00,M,Mexican,Mex,,"S A Woolsey","Oakwood Annex","Sec D, lot 428",,,,1916-04-05
+13492,"E B",Hancock,,058-00-00,M,White,Tex,,"F P McLaughlin",,709,,,,1916-04-06
+13493,"W L",Freeman,,040-00-00,M,"African American",Galveston,,"Joe Wooten",,"Colored Grounds",,,,1916-04-06
+13494,Jamie,Mussina,,000-00-03,M,White,Tex,,"E Mussina",,44,,,,1916-04-06
+13495,Debroah,Voytsberger,,032-00-00,F,White,Tex,,"G W Mondell",,900,,,,1916-04-07
+13496,"Inft of Mr and Mrs S J",Loyd,,N,M,White,Austin,,"W B Black",,936,,,,1916-04-08
+13497,James,Brace,,083-00-00,M,White,Canada,,"J M P Gill","State Cemetery",,,,,1916-04-07
+13498,John,Wockehan,,096-00-00,M,White,England,,"J M F Gill","State Cemetery",,,,,1916-04-11
+13499,"Isaac Ross",Warrvick,,051-02-28,M,White,Ohio,,"Frank Litten","Oakwood Annex","Sec A, lot 92 SE",,,,1916-04-11
+13500,Joe,Phelan,,080-00-00,M,White,,,"Jas Loving",,catholic,,,,1916-04-11
+13501,"Mrs Sarah",Cameron,,069-00-00,F,White,,,,,1125,,,,1916-04-12
+13502,"Wm Arnold",Gray,,031-00-12,M,White,Tex,,"F P McLauglin","Oakwood Annex","Sec A, lot 101 SW",,,,1916-04-13
+13503,Helen,Alexander,,N,F,"African American",Belton,,"Robt Shipp",,"Colored Grounds",,,,1916-04-13
+13504,Chas,Bozeth,,069-00-00,M,White,Austin,"cancer of stomach","H B Granberry",,68,,,,1916-04-14
+13505,Della,Philips,,034-00-00,F,"African American",,,"G W Mendel, J of P",,"Colored Grounds",,,,1916-04-14
+13506,Moneca,Carrera,,065-00-00,M,Mexican,Mex,,"R V Murray",,catholic,,,,1916-04-15
+13507,Gillerma,Rios,,035-00-0,M,White,Tex,,"R V Murray",,cath,,,,1916-04-15
+13508,"J H",Bolles,,068-00-00,M,White,Ala,,"J M F Gill","State Cemetery",,,,,1916-04-16
+13509,Lola,Juarez,,000-00-02,F,Mexican,Austin,,"S A Woolsey",,cath,,,,1916-04-17
+13510,"Cas F",Kemp,,N,M,White,La,,"J M F Gill","State Cemetery",,,,,1916-04-17
+13511,Jose,Garcia,,000-11-00,M,Mexican,Tex,,"S A Woolsey","Oakwood Annex","Sec D, lot 322 SE",,,,1916-04-18
+13512,"Henry Clay",Lensing,,069-04-0,M,White,,,"T J Bennett",,31,,,,1416-04-18
+13513,Thomas,Bell,,N,M,White,,,,,"247 (147)",,,,1916-04-20
+13514,Carlo,Franzetti,,049-00-00,M,White,Italy,,"G W Mondell",,cath,,,,1916-04-22
+13515,"Emery S",Hughs,,064-00-00,M,White,Kansas,,"H B Granbery",,967,,,,1916-04-22
+13516,Hazel,McWright,,000-09-00,F,White,Austin,,"C B Weller","Oakwood Annex","Sec A, Lot 68 NE",,,,1916-04-23
+13517,Charlie,Davis,,008-00-00,M,"African American",Austin,,"R V Murray",,"Colored Grounds",,,,1916-04-23
+13518,John,Orr,,075-00-00,M,White,Canada,,"G Wooten",,853,,,,1916-04-24
+13519,N,Ingram,,N,M,White,Tenn,,"J M F Gill","State Cemetery",,,,,1916-04-24
+13520,Enricia,Valdez,,062-00-00,F,Mexican,Mexico,,"Ben F Jones",,cath,,,,1916-04-25
+13521,Garnas,Zapata,,000-02-00,F,Mexican,Austin,,"S A Woolsey","Oakwood Annex","Sec D, lot 323 NW",,,,1916-04-26
+13522,"Wm Arthur",Johnson,,000-02-22,M,White,Tex,,"G H GIlbert",,877,,,,1916-04-26
+13523,"Mary Jane",Hamilton,,088-08-11,F,White,Ga,,"S E Hudson",,73,,,,1916-04-26
+13524,"T M",Miller,,067-05-21,M,White,Tex,,"H B Granbery",,22,,,,1916-04-27
+13525,"G W",Moreland,,079-00-00,M,White,Tenn,,"Homer Hill",,1114,,,,1916-04-28
+13526,Feliciana,Eredia,,070-00-00,F,Mexican,Mex,,"C B Wekker",,cath,,,,1916-04-28
+13527,Domingo,Polanso,,000-03-18,F,Mexican,Tex,,"Frank Litten",,cath,,,,1916-04-29
+13528,Nancy,Scott,,N,F,"African American",,,,,"Colored Grounds",,,,1916-04-30
+13529,Chas,Saldana,,N,,"African American",,,,"Oakwood Annex","Sec D, lot 98",,,"removed body from city ground in Oakwood to Annex lot",1916-04-12
+13530,"Julius C",Allison,,072-00-00,M,White,Miss,,"J M F Gill","State Cemetery",,,,,1916-07-01
+13531,Carlos,Hernandez,,024-00-00,M,Mexican,Martindale,,"C A Mathews","Oakwood Annex","Sec D, lot 456",,,,1916-07-02
+13532,"Margareth I",Lynch,,080-00-00,F,White,Tenn,,"Joe C Eckhardt","State Cemetery",,,,,1916-07-03
+13533,Willie,Blair,,057-00-00,F,"African American","Travis Co",,"J M Loving",,cath,,,,1916-07-03
+13534,"C B",Brady,,066-00-00,M,White,,,"C W LeGrand (Hempstead)",,1150,,,,1916-04-05
+13535,"Chas B",Watt,,066-00-00,M,White,USA,,"J M F Gill","State Cemetery",,,,,1916-04-05
+13536,"Joe F",Wheeles,,000-06-15,M,White,Texas,,"R M Wickline",,900,,,,1916-04-16
+13537,"Wm King",White,,084-00-00,M,White,Tenn,,"J M F Gill","State Cemetery",,,,,1916-04-06
+13538,"Robert Wm",Wright,,031-00-00,M,White,Tex,,"R M Wickline",,722,,,,1916-04-09
+13539,"Geo C",Day,,077-00-00,M,White,,,"J M F GIll","State Cemetery",,,,,1916-04-10
+13540,Thomas,Bannon,,017-05-24,M,White,Missouri,,"H B Granberry","Oakwood Annex","Sec D, lot 92",,,,1916-04-12
+13541,"Inft of Adelia",Castello,,000-00-00,M,Mexican,Texas,stillborn,"Dr Litten","Oakwood Annex","Sec D, lot 318 SW",,,,1916-04-13
+13542,"Mrs Lucie",Miller,,067-11-02,F,White,,,"L E McAdams",,844,,,shipped,1916-04-13
+13543,Guadalupe,Sanchez,,000-00-05,M,Mexican,Tex,,"W Neal Watt","Oakwood Annex","Sec D, lot 405",,,,1916-07-14
+13544,"Mary B",Haralson,,073-00-00,F,White,Pa,,"S E Hudson",,80,,,,1916-07-14
+13545,Martha,Houston,,088-00-00,F,White,Ohio,,"F P McLaughlin",,1113,,,,1916-07-14
+13546,Asencion,Baieras,,004-06-00,M,Mexican,Tex,,,"Oakwood Annex","Sec D, lot 93",,,,1916-07-14
+13547,Frank,Elmquist,,073-00-00,M,White,Sweden,,"G W Mondell","Oakwood Annex","Sex D, lot 93",,,,1916-07-15
+13548,"W L",Bachaman,,070-00-00,M,White,Miss,,"J M F GIll","State Cemetery",,,,,1916-07-15
+13549,"Alfred B",Smith,,038-04-25,M,White,Illinois,,"T J Bennett",,477,,,,1916-07-17
+13550,"Miss Nellie",Brown,,052-00-00,F,White,Tex,,"H B Granberry",,849,,,,1916-07-18
+13551,"Miss Maud",Moore,,N,F,White,"Edwards Co",,"Dr Woolsey","Oakwood Annex","Sec D, lot 96",,,,1916-07-18
+13552,Virgie,Edmington,,022-00-00,F,White,Tex,,"Edward B Bailey","Oakwood Annex","Sec A, lot 108 NE",,,,1916-07-19
+13553,Robt,Rhea,,073-00-00,M,White,Ala,,"J M F Gill","State Cemetery",,,,,1916-07-19
+13554,"Geo Irving",Blocker,,020-07-17,M,White,Tex,,"Joe GIlbert",,61,,,,1916-07-20
+13555,"F S",Eaisa,,023-02-00,F,Mexican,Mexico,,"Z T Scott","Oakwood Annex","Sec D, lot 457",,,,1916-07-21
+13556,Mattie,Willie,,N,F,"African American",,,,,"Colored Grounds",,,shipped,1916-07-21
+13557,"Geo W",Dodson,,076-02-27,M,White,,,"J G Thomas","Oakwood Annex","Sec A, lot 135",,,,1916-07-22
+13558,Feliciana,Hernandez,,001-03-00,F,Mexican,Tex,,"A G Gano","Oakwood Annex","Se D, lot 318",,,,1916-07-24
+13559,Louis,"Del Cuto",,045-03-01,M,White,Italy,,"B F Jones",,cath,,,,1916-07-27
+13560,Amador,Guajardo,,016-01-10,,Mexican,,,,,,,,,1916-07-27
+13561,"Mrs Mary Moore",Carson,,083-09-08,F,White,Ireland,,"G Wooten",,738,,,,1916-07-27
+13562,Philipine,Wilcox,,087-05-02,F,White,Germany,,"G F Flinn",,,,,,1916-07-21
+13563,Carl,Sjoberg,,N,M,White,Sweden,,"W Neal Watt",,785,,,,1916-07-28
+13564,Inft,Wood,,000-00-00,F,White,Tex,stillborn,"Sam Haigler",,1094,,,,1916-07-26
+13565,"Mrs Francis Van Zant",Hutchings,,091-10-28,F,White,Tenn,,"T J Bennett",,204,,,,1916-07-29
+13566,Elviria,Bradford,,063-00-00,F,White,Va,,"Frank Litten","Oakwood Annex","Sec D, lot 277",,,,1916-07-29
+13567,"Lawrence S",Ross,,024-15-00,M,White,Tex,,"R V Murray","Oakwood Annex","Sec D, lot 275",,,,1916-07-30
+13568,"Hugh Nelson",Swain,,046-05-26,M,White,,,,,,,,shipped,1916-07-31
+13569,"Ellen M",Fernandez,,075-00-00,F,White,California,,"F P McLaughlin","Oakwood Annex","Dec D, lot 272",,,,1916-09-01
+13570,"Mary Ann",Sanford,,070-01-26,F,White,La,,"Joe Eckhardt","State Cemetery",,,,,1916-09-01
+13571,Otto,Wulft,,023-11-24,M,White,Denmark,,"Jas Loving",,851,,,,1916-09-03
+13572,M,Frank,,044-00-00,M,White,,,,"Jewish Cemetery",,,,shipped,1916-09-05
+13573,Peter,Rogers,,064-10-08,M,White,England,,"S A Woolsey","Oakwood Annex","Sec D, lot 530",,,,1916-09-05
+13574,"Inft of Mrs. Elizabeth",Maytenn,,N,M,White,,,"Mrs A Kennedy (midwife)",,982,,,,1916-09-05
+13575,"Inft of Mr and Mrs J H",Cane,,N,M,White,Austin,,"Joe Gilbert","Oakwood Annex","Sec D, lot 244W",,,,1916-09-06
+13576,Antonio,Surita,,052-08-05,M,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, lot 415",,,,1916-09-08
+13577,Mary,Duffy,,000-00-07,F,White,Texas,,"Frank Litten",,Catholic,,,,1916-09-08
+13578,Ruth,Madison,,011-03-18,F,"African American","Washington D C",,"S L Brown",,"Colored Grounds",,,,1916-09-07
+13579,Jason,Wilson,,076-00-00,M,White,La,,"J M F Gill","State Cemetery",,,,,1916-09-09
+13580,"Mary C",Williams,,073-00-00,F,White,Ala,,"M F Kreisle","Oakwood Annex","Sec D, lot 251",,,,1916-09-09
+13581,"inft of Mr and Mrs D",Miller,,N,F,White,Austin,,"Homer Hill",,863,,,,1916-09-09
+13582,Manuella,Garcia,,030-00-00,F,Mexican,Texas,,"J F Dean MD","Oakwood Annex","Sec D, lot 426",,,,1916-09-09
+13583,"Park F","Wilson Jr",,N,M,White,Austin,,"Joe Eckhardt","Oakwood Annex","Sec A, lot 5 NW",,,,1916-09-10
+13584,Jose,Estrada,,015-00-00,M,Mexican,Tex,,"W E Watt","Oakwood Annex","Sec D, lot 459",,,,1916-09-11
+13585,"Inft of Mr and Mrs D",Girard,,N,M,White,"Travis Co",,"E Krueger",,871,,,,1916-09-11
+13586,"G W",Campbell,,084-00-00,M,White,,,"J M F Gill","State Cemetery",,,,,1916-09-11
+13587,"Sarah E",Renfroe,,073-07-17,F,White,Ga,,"Joe Eckhardt","State Cemetery",,,,,1916-09-13
+13588,Bertha,Zimmerman,,039-11-01,F,White,Tex,,"R V Murray",,Catholic,,,,1916-09-13
+13589,"John S",Jackson,,060-06-14,M,White,"West Va",,"Joe Eckhardt","Oakwood Annex","Sec A, lot 5 NE",,,,1916-09-13
+13590,"Inft of Louis",Daywood,,N,M,White,Austin,,"H B Granberry",,Catholic,,,,1916-09-14
+13591,"Alfred J",Rains,,086-00-00,M,White,Tenn,,"J M F GIll","State Cemetery",,,,,1916-09-14
+13592,Lucy,Cassiday,,070-00-00,F,White,"Bastrop, Tex",,"C A Matthews",,Catholic,,,,1916-09-18
+13593,Lorenza,Hernandez,,001-00-13,F,Mexican,Texas,,"W B Black","Oakwood Annex","Sec D, lot 318 NE",,,,1916-09-19
+13594,Chas,Cooper,,064-00-00,M,White,,,"W D  Lightfoot",,1007,,,,1916-09-20
+13595,Lupe,Vega,,016-08-15,M,Mexican,"Travis Co",,"R V Murray","Oakwood Annex","Sec D, lot 416",,,,1916-09-20
+13596,"Mary E",Elgin,,094-07-24,F,White,,,"W A King",,"Old Grounds",,,,1916-09-21
+13597,"Wm Yates",Clarke,,049-08-05,M,White,Iowa,,"F P McLauglin",,"Old Grounds",,,,1916-09-21
+13598,John,Domingo,,064-00-00,M,White,Italy,,"S A Woolsey","Oakwood Annex","Sec D, lot 417",,,,1916-09-22
+13599,Wm,Pond,,009-08-28,M,White,"Zavalla Co",,"Edgar Mathis","Oakwood Annex","Sec D, lot 271",,,,1916-09-22
+13600,Ione,Gill,,002-00-00,F,White,,,"Joe Wooten","Oakwood Annex","Sec D, lot 245W",,,,1916-09-24
+13601,Maria,Reeves,,N,F,"African American",Austin,,"R M Wickline",,"Colored Grounds",,,,1916-09-24
+13602,Baby,Reinli,,N,M,White,Travis,,"Robt Shipp","Oakwood Annex","Sec D, lot 244E",,,,1916-09-26
+13603,"Mary T",Broyle,,N,F,White,Tenn,,"Joe Gilbert","Oakwood Annex","Sec A, lot 106 NW",,,,1916-09-26
+13604,Inft,Martinez,,000-00-04,,"African American",,"W E Watt",,,993,,,,1916-09-27
+13605,"Joe C",Carter,,081-00-00,M,White,Tenn,,"J M F GIll","State Cemetery",,,,,1916-09-28
+13606,Joe,Robinson,,030-00-00,M,"African American",Austin,,,,"Old Grounds",,,shipped,1916-09-28
+13607,"James B",Wells,,079-00-00,M,White,Tenn,,"J M F GIll","State Cemetery",,,,,1916-09-30
+13608,"M S",Dunn,,N,,"African American",,,,,250,,,"removed body from one place to another place on lot 250 old gr",1916-09-04
+13609,"Inft child",Schneider,,N,,"African American",,,,"Oakwood Annex","Sec D",,,"removed body from lot 916 1/2 in Oakwood to lot between 105-106 in Annex Sec D",1916-09-09
+13610,Ben,Walker,,N,,"African American",,,,,125,,,"removed body from lot 106 to lot 125 in Oakwood Cemetery",1916-09-10
+13611,Joseph,Gerson,,N,,"African American",,,,"Jewish Cemetery","lot 44",,,"removed body from lot 9 in Beth Israel (Oakwood) to lot 44 in Jewish Ceme (Oakwood)",1916-09-12
+13612,"Wade Smith",Pate,,N,,"African American",,,,"Oakwood Annex","Sec A, lot 34",,,"removed body from lot 1050 in Oakwood to lot 34 Section A in Annex",1916-10-14
+13613,"Mrs Lillie",Smith,,N,,"African American",,,,,958,,,"removed body from lot 1121 to lot 958 in Oakwood",1916-10-17
+13614,"Chas C",Collins,,083-00-00,M,White,Miss,,"J M F Gill","State Cemetery",,,,,1916-10-01
+13615,Elvira,Torres,,N,F,Mexican,"Travis Co Tex",,"Albert G Garcia","Mount Calvary",,,,,1916-10-01
+13616,"Jessie G",Edmundson,,083-00-00,M,White,Miss,,"J M F GIll","State Cemetery",,,,,1916-10-02
+13617,"Wm J",Taylor,,093-00-00,M,White,Miss,,"J M F Gill","State Cemetery",,,,,1916-10-02
+13618,Santos,Rodriguez,,084-00-00,M,Mexican,,,"no doctor","Mount Calvary",,,,,1916-10-03
+13619,"J W",Baxter,,060-00-00,M,White,Ky,,"F O Calamary",,1086,,,,1916-10-03
+13620,"John S",Fayad,,013-00-00,M,White,,,"Joe Wooren","Mount Calvary",,,,,1916-10-05
+13621,Marriana,Jones,,N,M,Mexican,Mexico,,"S A WOolsey","Mount Calvary",,,,,1916-10-05
+13622,Berry,Belyeu,,099-00-00,M,White,Ga,,"J M F GIll","State Cemetery",,,,,1916-10-06
+13623,"C E",Norton,,008-10-04,M,White,Texas,,"H C Morrow","Oakwood Annex","Sec D, lot 267",,,,1916-10-06
+13624,Louis,Selleh,,000-06-03,M,White,,"Dr Wooten",,"Mount Calvary",,,,,1916-10-06
+13625,Scott,Crain,,N,M,White,Austin,,"Joe Gilbert","Oakwood Annex","Sec D, lot 245E",,,,1916-10-07
+13626,Crescente,Simath,,000-06-03,M,White,,,"Dr Wooten","Mount Calvary",,,,,1916-10-06
+13627,"Ed L",Hubbard,,072-00-00,M,White,,,,,,,,shipped,1916-10-09
+13628,"Thos Wm",Rhea,,073-00-00,M,White,Tenn,,"J M F Gill","State Cemetery",,,,,1916-10-09
+13629,"Lonette Virginia",Mask,,001-01-10,F,White,Austin,,"R S Graves",,518,,,,1916-10-11
+13630,"W A",Goodman,,057-02-25,M,White,Tex,,"H B Granberry",,1019,,,,1916-10-12
+13631,Robert,Ashford,,035-00-00,M,White,,,,,,,,shipped,1916-10-13
+13632,Frank,Kempe,,059-00-00,M,White,Germany,,"Dr Loving","Oakwood Annex","Sec D, lot 270",,,,1916-10-13
+13633,"Inft of Mr and Mrs C G",Haskell,,N,F,White,Texas,,"Frank Litten",,494,,,,1916-10-16
+13634,"Wm H",Tobin,,076-00-00,M,White,,,,,,,,shipped,1916-10-19
+13635,John,Carey,,074-00-00,M,White,Ark,,"S A Woolsey","Oakwood Annex","Sec D, lot 531",,,,1916-10-19
+13636,Gregonia,Garcia,,056-00-00,M,Mexican,Mex,,"S A Woolsey","Oakwood Annex","Sec D, lot 531",,,,1916-10-19
+13637,Dolorez,Tugillo,,002-00-22,F,Mexican,Tex,,"E B Bailey","Mount Calvary",,,,,1916-10-21
+13638,G,Ramirez,,016-00-00,M,Mexican,Mex,,"J E Howse","Mount Calvary",,,,,1916-10-21
+13639,Carmel,Colon,,000-06-00,F,Mexican,Tex,,"R V Murray","Oakwood Annex","Sec D, lot 317 SW",,,,1916-10-22
+13640,"John S",Davis,,083-00-00,M,White,Ala,,"J M F GIll","State Cemetery",,,,,1916-10-25
+13641,"J Milling",Norwood,,022-06-20,M,White,Tex,,"G H Gilbert","Mount Calvary",,,,,1916-10-27
+13642,"Thos Rufus",Tindall,,070-00-00,M,White,Ala,,"J M F Gill","State Cemetery",,,,,1916-10-28
+13643,"Inft of Ellena",Martinez,,000-06-00,M,Mexican,,,"James Loving","Oakwood Annex","Sec D, lot 317SE",,,,1916-10-29
+13644,"S c",Townsend,,N,M,White,,,"F O Calaway","State Cemetery",,,,,1916-10-30
+13645,"J C",Greathouse,,083-00-00,M,White,SC,,"J M F Gill","State Cemetery",,,,,1916-10-30
+13646,"Jas Morgan","Cruse Jr",,000-00-00,M,White,Texas,stillborn,"E B Bailey",,993,,,,1916-10-30
+13647,"Paul K","La Fama",,078-00-00,M,White,France,,"C A Mathews","Mount Calvary",,,,,1916-10-30
+13648,"E A",Minter,,083-03-10,F,White,Tenn,,"S E Hudson",,146,,,,1916-10-31
+13649,"C C",Patterson,,000-00-09,M,White,Tex,,"G H GIlbert","Oakwood Annex","Sec D, lot 246W",,,,1916-10-31
+13650,William,Jackson,,070-00-00,M,"African American",,,"C A Mathews",,"Colored Grounds",,,,1916-10-31
+13651,"L C",Holder,,076-06-27,M,White,Tenn,,"G H Wooten",,913,,,,1916-11-28
+13652,"Mary Taylor",Jackson,,046-00-00,F,White,,,"J O'Hara, N O, La",,"Old Grounds",,,,1916-11-29
+13653,Lucy,Bailey,,074-11-27,F,White,Tenn,,"W E Watt",,1114,,,,1916-11-30
+13654,Clara,Friedholm,,065-00-00,F,White,Sweden,,"S A Woolsey","Oakwood Annex","Sec D, lot 253",,,,1916-11-30
+13655,"Randolph G",Clarke,,017-07-26,M,White,Austin,,"S A Woolsey","Oakwood Annex","Sec A, lot 70 SE",,,,1916-11-01
+13656,Louis,Merlo,,058-03-09,M,White,Austin,,"Dr W E Watt","Mount Calvary",,,,,1916-11-01
+13657,"Jno M",Brown,,073-08-05,M,White,Va,,"Clarence Weller",,"lot 477",,,,1916-11-03
+13658,Jules,McGuire,,028-00-00,M,White,Maryland,,"S A Woolsey","Oakwood Annex","Sec 5, lot 532",,,,1916-11-03
+13659,Ben,McCulloch,,N,M,White,,,"Holzgrew (Buda)",,"lot 781",,,,1916-11-03
+13660,Herman,"Weise Sr",,057-00-00,M,White,,,,"Mount Calvary",,,,shipped,1961-11-07
+13661,Jno,Andrewartha,,076-02-12,M,White,England,,"T R Pettway",,"lot 850",,,,1916-11-07
+13662,"E W",Scott,,071-00-00,M,White,SC,,"J M F Gill","State Cemetery",,,,,1916-11-07
+13663,"Inft of F L",Heath,,N,M,White,Austin,,"Jas Loving","Oakwood Annex","Sec D lot 246E",,,,1916-11-07
+13664,"Vance R",Niemtschk,,012-02-04,M,White,Texas,,"H B Granberry","Mount Calvary","Sec D, lot 266",,,,1976-11-08
+13665,Luiza,Gonzalez,,012-00-00,F,Mexican,,,"R S Graves","Mount Calvary",,,,,1916-11-10
+13666,"Pinkney P",Tinnin,,062-00-00,M,White,Tex,,"S E Hudson",,"lot 181",,,,1916-11-11
+13667,"Edith C",Williams,,002-06-17,F,White,Tex,,"Joe Eckhardt","Mount Calvary",,,,,1916-11-11
+13668,Jno,Simon,,000-00-14,M,White,Austin,,"H B Granberry","Mount Calvary",,,,,1916-11-13
+13669,"Mrs Robena",Bins,,N,F,White,,,"S A Woolsey","Oakwood Annex","Sec A, lot 61 NW",,,,1916-11-14
+13670,Beatruce,Warren,,003-00-20,F,"African American",Texas,,"S L Brown",,"col ground",,,,1916-11-14
+13671,Infant,May,,N,M,White,Texas,,"M F Kreisle",,"lot 834",,,,1916-11-16
+13672,Salvador,Morales,,000-03-01,M,Mexican,Texas,,"S A Woolsey","Oakwood Annex","Sec D, lot 317NW",,,,1916-11-16
+13673,"Augustus J",Brooks,,067-04-19,M,White,Va,,"J F Flinn","Oakwood Annex","Sec A, lot 43 SE",,,,1916-11-17
+13674,Geraldyne,Rios,,008-00-24,F,Mexican,Austin,,"Homer Hill","Mount Calvary",,,,,1916-11-18
+13675,Emiliano,Marninez,,001-01-00,M,Mexican,Texas,,"Frank Litten","Oakwood Annex","Sec D, lot 247E",,,,1916-11-19
+13676,Santos,Salina,,032-00-00,M,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, lot 460",,,,1916-11-19
+13677,"Mr J H",Wilson,,029-08-04,F,White,Austin,,"R V Murray",,"lot 863",,,,1916-11-19
+13678,"Harry Wm",Bullian,,000-00-01,M,White,Austin,,"H B Granberry",,"lot 894",,,,1916-11-19
+13679,"Geo W",Cullen,,041-04-05,M,White,Tex,,"H B Granberry","Oakwood Annex","Sec A, lot 90 SE",,,,1916-11-20
+13680,Annie,Welch,,020-04-15,F,White,Tex,,"Frank Litten","Oakwood Annex","Sec D, lot 328",,,,1916-11-20
+13681,Anita,Lopez,,000-06-03,F,Mexican,Tex,,"A G Garcia","Oakwood Annex","Sec D, lot 317 NE",,,,1916-11-21
+13682,May,Bradford,,N,F,White,Tex,,"R V Murray",,"lot 1035",,,,1916-11-21
+13683,"Mary Lou",Grimes,,000-06-09,F,White,Tex,,"S E Hudson","Oakwood Annex","Sec D, lot 247W",,,,1916-11-22
+13684,"Mrs Georgia C",Jones,,020-00-00,F,White,Tex,,"H B Granberry",,"lot 161",,,,1916-11-22
+13685,"Mary A",Costa,,075-00-00,F,White,Italy,,"Joe Gilbert","Mount Calvary",,,,"about 75 years old",1916-11-22
+13686,August,Swarz,,089-00-00,M,White,,,"S A Woolsey","Oakwood Annex","Sec D, lot 252",,,,1916-11-23
+13687,"W A",Lenz,,041-05-00,M,White,German,,"S A Woolsey","Oakwood Annex","Sec D, lot 252",,,,1916-11-24
+13688,"Minnie W",Stanley,,042-00-00,F,White,Tenn,,"J W Bradfield",,"814 1/2",,,,1916-11-25
+13689,"Paul H",Jones,,000-06-00,M,White,Texas,,"M F Kreisle","Oakwood Annex","Sec D, lot 329",,,,1916-11-25
+13690,Ignes,Peres,,086-00-00,M,Mexican,"St Louis, Mo",,"S A Woolsey","Oakwood Annex","Sec D, lot 329",,,,1916-11-26
+13691,"Joel H",Parker,,078-00-00,M,White,SC,,"J M F Gill","State Cemetery",,,,,1916-11-27
+13692,"Mary Ann",Jones,,083-00-00,F,White,Ala,,"Joe Eckhardt","State Cemetery",,,,,1916-11-27
+13693,John,Hannock,,037-00-00,M,White,,,,,"lot 709",,,shipped,1916-11-27
+13694,"James Richard (Pat)",Malone,,050-00-16,M,White,Ala,,"C Buford Weller",,"lot 985",,,,1916-11-27
+13695,Wm,Jones,,076-00-00,M,White,,,"J M F GIll","State Cemetery",,,,,1916-11-28
+13696,Asburg,Scaggs,,072-00-00,M,White,"Ill USA",,"J M F Gill","State Cemetery",,,,,1916-12-02
+13697,E,Salinas,,001-00-01,M,Mexican,Tex,,"S A Woolsey","Mount Calvary",,,,,1916-12-02
+13698,"Fred C",Sawyer,,022-08-06,M,White,"Bell Co Tex",,"Jas Loving",,"lot 1023",,,,1916-12-04
+13699,Jeff,Aber,,038-00-00,M,White,Tex,,"W D Lightfoot","Oakwood Annex","Sec D, lot 265",,,,1916-12-06
+13700,Inantia,Nandina,,036-00-00,F,Mexican,Mex,,"Frank Litten","Oakwood Annex","Sec D, lot 330",,,,1916-12-06
+13701,"Mary Ann",Caldwell,,055-06-19,F,White,Texas,,"S E Hudson",,"lot 422",,,,1916-12-07
+13702,Pedro,Medina,,066-00-00,M,White,Mexico,,"Clarence Weller","Mount Calvary",,,,,1916-12-07
+13703,"Babe of G S",Wray,,000-00-00,M,White,"Austin, Tex",,"S E Hudson",,"lot 442",,,"stillborn, born dead",1916-12-10
+13704,"A C",Earle,,075-00-00,M,White,SC,,"J M F Gill","State Cemetery",,,,,1916-12-11
+13705,"Lois G",Green,,000-04-10,F,White,"Houston, Tex",,"R V Murray","Mount Calvary",,,,,1916-12-11
+13706,"F L",Jones,,000-04-11,M,"African American",,,,,"Colored Grounds",,,shipped,1916-12-13
+13707,"Stella May",Banks,,040-06-26,F,White,Tex,,"A F Beverly","Oakwood Annex","Sec A, lot 10 NW",,,,1916-12-15
+13708,Synonia,Flores,,060-00-00,M,Mexican,Texas,,"C A Mathews","Mount Calvary",,,,,1916-12-16
+13709,Frances,Acosta,,021-02-27,F,Mexican,"Travis Co",,"Dr Holtzclaw","Mount Calvary",,,,,1916-12-16
+13710,"Inft of Mr & Mrs L",Salaz,,N,M,Mexican,Texas,,"E Krueger","Oakwood Annex","Sec D, lot 326SW",,,,1916-12-17
+13711,James,Campbell,,033-00-00,M,White,"Henryitta, Okla",,"W C Sandison","Oakwood Annex","Sec D, lot 264",,,,1916-12-17
+13712,Ona,Overstreet,,020-91-8,M,White,Texas,,"R S Graves","Oakwood Annex","Sec D, lot 289",,,,1916-12-17
+13713,Amanda,Lloyd,,066-10-06,F,White,,,"W B Black","Oakwood Annex","Sec D, lot 276",,,,1916-12-17
+13714,"Marie Espetarion",Santos,,012-11-16,F,Mexican,Mex,,"Alberto G Garcia","Oakwood Annex","Sec D, lot 461",,,,1916-12-17
+13715,"W G",Green,,054-00-00,M,White,"Austin, Tex",,"E Krueger",,"lot 152",,,,1916-12-19
+13716,"Dr R S",Lovinggood,,530-00-00,M,"African American",SC,,"S E Hudson",,"Colored Grounds",,,,1916-12-19
+13717,Elizabeth,Schwammel,,054-00-00,F,White,Germany,,"J W Bradfield","Oakwood Annex","Sec D, lot 261",,,,1916-12-20
+13718,Sam,Rosenberg,,080-00-00,M,White,Austin,,"Sam Haigler",,"lot 919",,,,1916-12-21
+13719,"Archiable D",Houston,,037-01-23,M,White,,,,"lot 875",,,,shipped,1916-12-22
+13720,"W P","Mabson Sr",,072-00-00,M,"African American","Williamton N C",,"Dr R shipp",,"Colored Grounds",,,,1916-12-22
+13721,"Inft of Mr & Mrs A",Tobin,,000-00-09,F,White,Austin,,"J F Gullette",,"Jewish Cemetery",,,,1916-12-22
+13722,Nola,Lindeman,,033-11-13,F,White,Tex,,"L H Kirk",,"lot 905",,,,1916-12-23
+13723,Manuel,Hernandez,,058-00-00,M,Mexican,Mex,,"R V Murray","Oakwood Annex","Sec D, lot 462",,,,1916-12-23
+13724,Dolores,Pena,,026-00-00,F,Mexican,Tex,,"Clarence Weller","Oakwood Annex","Sec D, lot 464",,,,1916-12-23
+13725,J,Caraes,,000-06-00,M,Mexican,"Austin, Tex",,"A G Garcia","Mount Calvary",,,,,1916-12-23
+13726,George,Mecey,,004-00-00,M,White,Tex,,"G H Wooten","Mount Calvary",,,,,1916-12-24
+13727,Bioal,Carmona,,079-08-01,F,White,Mex,,"Homer Hill",,"lot 1044",,,,1916-12-24
+13728,"Salie G",Smoot,,079-08-01,F,White,Ky,,"Homer Hill",,"lot 1044",,,,1916-12-24
+13729,Garland,Chambers,,000-09-07,M,White,Texas,,"Frank Litten","Oakwood Annex","Sec D, lot 103W",,,,1916-12-24
+13730,Infant,Boatman,,000-00-00,M,White,Austin,,"C A Mathews","Oakwood Annex","Sec D, 304W",,,,1916-12-25
+13731,Mary,Altamira,,044-00-00,F,Mexican,Europe,,Granberry,"Mount Calvary",,,,,1916-12-28
+13732,"Helen A",Hearn,,020-00-23,F,White,Texas,,"S E Hudson","Oakwood Annex","Sec D, lot 85NE",,,,1916-12-28
+13733,Infant,Banks,,N,M,White,Texas,,"R V Murray","Oakwood Annex","Sec D, lot 555 SW",,,,1916-12-29
+13734,Jno,O'Neal,,079-00-00,M,White,Md,,"R V Murray","Oakwood Annex","Sec D, lot 533",,,,1916-12-29
+13735,Infant,Wood,,000-00-00,M,White,Texas,,"H B Granberry",,"lot 578",,,,1916-12-30
+13736,Gertrude,Smith,,018-00-00,F,Mexican,Burnette,,"R V Murray","Oakwood Annex","Sec D, lot 534",,,,1916-12-30
+13737,Infant,Pius,,N,,"African American",,,,,,,,"removed body from R S Lovingood lot to lot of Mrs Katherina Jackson",1916-12-19
+13738,Alberto,Esquibel,,045-00-00,M,Mexican,Mex,,"J F Gullette","Oakwood Annex","Sec D, lot 540",,,,1916-12-30
+13739,"Mamie Willimine","De Castillo",,035-00-00,F,Mexican,Mex,,"Alberto G Garcia","Oakwood Annex","Sec D, lot 331",,,,1916-12-30
+13740,Joy,Haffelder,,006-00-00,F,White,Texas,,"R V Murray",,"lot 798",,,,1916-12-31
+13741,Victor,Kleabe,,056-06-17,M,White,Texas,,"C A mathews","Oakwood Annex","Sec A, lot 83 SE",,,,1916-12-31
+13742,"A L",Rector,,035-00-00,M,White,Austin,,"V C Morris J of P",,"lot 996",,,,1916-12-31
+13743,"Annie Elizabeth",Smith,,066-02-23,F,White,Ala.,,"J.B. Horne","Oakwood Annex","Sec A, 107, S6",,,,1917-01-01
+13744,Vinnie,Forehand,,097-00-00,F,"African American",Tenn.,,"P.P. McLaughlin",Oakwood,"Col. Grounds",,,,1917-01-01
+13745,"M. G.",Pena,,059-00-00,M,Mexican,Mex.,,"M. G. Kreisle","Oakwood Annex","Sec. D, 332",,,,1917-01-02
+13746,S.C.,Singleton,,088-00-00,M,White,Ga.,,"J.M.G Gill","State Cemetery",,,,,1917-01-04
+13747,Infant,Gunley,,000-00-00,F,White,Austin,,"J.G. Gillette",Oakwood,1016,,,"lived 45 minutes.",1917-01-06
+13748,"Charles B.",White,,060-02-02,M,White,Tenn.,,"G.W. Wooten","Oakwood Annex","Sec. A, 112, S.E.",,,,1917-01-07
+13749,"Jas. F.",Smith,,084-00-00,M,White,,,"Dr. Gill","State Cemetery",,,,,1917-01-08
+13750,Lorena,Ramos,,058-00-00,F,White,Mex.,,"B. Flores","Mount Calvary",,,,,1917-01-09
+13751,Susan,Easts,,059-00-00,F,"African American",Tex.,,"S. L. Brown",Oakwood,"Col. Grounds.",,,,1917-01-09
+13752,Amieta,Martinez,,008-00-00,F,Mexican,Mex.,,"E. Krueger","Oakwood Annex","Sec. D, 333",,,,1917-01-10
+13753,"Mrs. Natalie",Bastiem,,063-05-05,F,White,Germany,,"F.P. McLaughlin",Oakwood,851,,,,1917-01-10
+13754,Otto,Swenson,,078-05-06,M,White,Sweden,,"G.W. Mendell, J of P.",Oakwood,808,,,"(J. of P. probably means Justice of the Peace).",1917-01-11
+13755,W.C.,Belcher,,066-00-00,M,White,,,"F.O. Calamay",Oakwood,802,,,,1917-01-11
+13756,"Henry B.",Hearn,,049-09-16,M,White,Maryland,,"S.A. Woelsey",Oakwood,1029,,,,1917-01-12
+13757,James,Fullenwider,,017-00-00,M,White,,,,Oakwood,349,,,Shipped.,1917-01-12
+13758,"J H",Eis,,035-06-20,M,White,Nebraska,,"H B Granberry",Oakwood,156,,,,1918-08-20
+13759,Jonas,Cohn,,086-00-00,M,White,Hungaria,,"E. Krueger","Jewish Cemetery",,,,,1917-01-14
+13760,A.,Harwood,,086-00-00,M,White,,,"J.M.F. Gill","State Cemetery",,,,,1917-01-15
+13761,Currey,Ramey,,041-00-00,M,"African American","Austin, Tex.",,"P.M Harrell",,"Colored Grounds",,,"(Attending physician based in Round Rock, Texas)",1917-01-16
+13762,"John W.",Crow,,078-11-23,M,White,,,,Oakwood,"828 1/2",,,Shipped.,1917-01-17
+13763,R.S.,Miller,,079-00-00,M,White,Mo.,,"J.M.F. Gill","State Cemetery",,,,,1917-01-17
+13764,Lucile,Warren,,002-00-00,F,White,Tex.,,"Frank Litten","Oakwood Annex","Sec. D, 304, E.",,,,1917-01-17
+13765,"Mrs. W.",Schmill,,076-00-00,F,White,Mo.,,"J.W. Bradfield",Oakwood,1053,,,,1917-01-17
+13766,"Clarence G.",Houston,,033-00-00,M,White,Tex.,,"Ja. Wilbert",Oakwood,875,,,,1917-01-18
+13767,Joe,Lafuente,,000-00-20,M,White,,,"Frank Litten","Mount Calvary",,,,"(Possibly from Texas)",1917-01-18
+13768,"Lillie Olivia",Friday,,032-08-17,F,White,Georgia,,"W.B. Black","Oakwood Annex","Sec. D, 260",,,,1917-01-18
+13769,"Dan T.",Hoppe,,080-00-00,M,White,Tenn,,"J.M.F. Gill","State Cemetery",,,,,1917-01-19
+13770,Raul,Gonzalez,,000-11-05,M,Mexican,Austin,,"Ben Flores","Oakwood Annex","Sec. D, 316, S.E.",,,,1917-01-19
+13771,Sophia,Flores,,000-00-00,F,Mexican,Tex.,,"S.A. Woolsey","Mount Calvary",,,,,1917-01-20
+13772,"Mrs. C.P.",Layne,,055-00-00,F,White,Tenn.,,"R.M. Wickline","State Cemetery",,,,,1917-01-21
+13773,"Mary Matilda",Lorris,,067-00-00,F,"African American",Miss.,,"Joe Wilbert",Oakwood,925,,,,1917-01-22
+13774,"Julia M.",Lissner,,003-00-00,F,White,Tex.,,"R.V. Murray","Oakwood Annex","Sec. D, 278",,,"(Moved to Annex A)",1917-01-23
+13775,"J. Hooken",Wilson,,077-00-00,M,White,S.C.,,"J.M.F. Gill","State Cemetery",,,,,1917-01-24
+13776,"Lillian Murphy",McKellan,,028-00-00,F,White,,,,Oakwood,1039,,,shipped,1917-01-24
+13777,Carmen,Ramos,,003-02-00,F,Mexican,Mexico,,"Jas. M. Loriney","Mount Calvary",,,,,1917-01-24
+13778,Emily,Lewis,,071-09-18,F,White,,,"Homer Hill",Oakwood,792,,,,1917-01-26
+13779,Lonicia,Gomez,,010-00-00,F,Mexican,Mexico,,"S.A. Woolsey","Mount Calvary",,,,,1917-01-26
+13780,"Mrs. Minnie",Thompson,,035-00-00,F,White,Texas,,"S.E. Hindsen","Oakwood Annex","Sec A, 89, S.E.",,,,1917-01-27
+13781,"Geo. H",Morris,,058-04-19,M,White,Texas,,"S.E. Hindsen","Oakwood Annex","Sec D, 259",,,,1917-01-28
+13782,"Mary E.",Hone,,068-05-00,F,White,Texas,,"W.B. Black","Oakwood Annex","Sec A, 113, NW",,,,1917-01-28
+13783,"Mrs. Minnie",Cooks,,036-04-06,F,White,Texas,,"F.P. McLaughlin","Oakwood Annex","Sec D, 257",,,,1917-01-29
+13784,Henrietta,Steussy,,064-00-00,F,White,Texas,,"Jas. Loving",Oakwood,"Old grounds",,,,1917-01-29
+13785,Frank,Lopez,,000-00-01,M,Mexican,Texas,,S.A.Woolsey,"Oakwood Annex","Sec D, 316 NW",,,"(lived 1 1/2 days)",1917-01-30
+13786,Margareta,Hernandez,,001-00-00,F,Mexican,Texas,,"Alberto G. Garcia","Oakwood Annex","Sec D, 316, NE",,,,1917-01-31
+13787,Infant,Schletzler,,000-00-00,M,White,Texas,,"E. Krueger","Oakwood Annex","Sec D, 305, W",,,,1917-01-31
+13788,Thelcide,Rohichaux,,017-07-23,M,White,La.,,"S.E. Hindson","Mount Calvary",,,,,1917-01-31
+13789,"Mrs. Martha",White,,080-04-14,F,White,Texas,,"H.B. Granberry","Oakwood Annex","Sec D, 256",,,,1917-01-31
+13790,Henry,Wolbrecht,,084-11-04,M,White,Germany,,"Jas. Loving",Oakwood,188,,,,1917-02-02
+13791,"Walter Murphy",McKellan,,000-01-01,M,White,Austin,,"Geo. M. Deckherd",Oakwood,1039,,,,1917-02-02
+13792,J.E.,Grimes,,020-00-00,M,White,,,"J.M.F. Gill","State Cemetery",,,,,1917-02-03
+13793,"Ray D.",Foster,,000-07-14,M,White,Austin,,"Clarence Weller","Oakwood Annex","Sec D, 305, E",,,,1917-02-03
+13794,George,Balagia,,034-00-18,M,White,Syria,,"G.H Wooten","Mount Calvary",,,,,1917-02-04
+13795,C.A.,Nanyes,,073-00-00,M,Mexican,Mex.,,"Z.V. Scott","Oakwood Annex","Sec D, 463",,,"(""Nanyes"" could be ""Nañez"")",1917-02-05
+13796,"Mrs. S.J.",Fimmis,,084-05-21,F,White,Virginia,,"Joe C.A.E. Eckhart","State Cemetery",,,,,1917-02-06
+13797,"Edmond R.",Crockett,,083-00-00,M,White,Ala.,,"Z. Scott",Oakwood,709,,,,1917-02-06
+13798,J.M.,Aday,,N,M,White,,,,Oakwood,807,,,,1917-02-06
+13799,Marcelina,Martinez,,001-01-04,F,Mexican,Austin,,"Alberto G. Garcia","Oakwood Annex","Sec D, 315, SW",,,,1917-02-06
+13800,Eugenio,Mares,,011-00-00,M,Mexican,Tex,,"Roht Shipp","Mount Calvary",,,,,1917-02-06
+13801,Infant,Spome,,000-00-02,M,White,Austin,,"Frank Litten",Oakwood,1001,,,"""Infant of Jmo. Spome""",1917-02-07
+13802,"Mrs. E.L",Estes,,027-11-24,F,White,Tex,,"Joe S. Wooten","Oakwood Annex","Sec A, 82, SE",,,,1917-02-07
+13803,Eulalia,Fernandez,,003-00-00,F,Mexican,"Taylor, Texas",,"Clarence Weller","Oakwood Annex","Sec D, 315, SE.",,,,1917-02-08
+13804,Baby,Casines,,000-00-00,M,Mexican,Austin,,"S.A. Woolsey","Oakwood Annex","Sec D, 315, NW",,,,1917-02-08
+13805,"Magdalene Agnes",Wass,,031-11-21,F,White,Texas,,"Ralph Heiner","Oakwood Annex","Sec A, 118, NE",,,,1917-02-08
+13806,"Martha Elizabeth",Whitten,,025-04-05,F,White,Texas,,"S.A. Woolsey",Oakwood,64,,,,1917-02-10
+13807,"Bessie H.",Ziller,,045-01-19,F,White,Tenn,,"R. Wickline",,"Old Grounds",,,,1917-02-10
+13808,Infant,Carley,,000-00-00,M,White,Texas,,"S.A. Woolsey","Oakwood Annex","Sec D, 555, SE",,,"""Infant of R.E. Carley""",1917-02-10
+13809,"Mrs. H. G.",Wooten,,083-00-00,F,White,Kentucky,,"Joe S. Wooten",Oakwood,440,,,,1917-02-11
+13810,"Mrs. Lena",Lann,,050-00-00,F,White,Germany,,"Joe Gilbert","Jewish Cemetery",,,,,1917-02-11
+13811,"Edgar Stevens",Lockett,,039-00-00,M,White,Texas,,"Joe Gilbert","Mount Calvary",,,,,1917-02-12
+13812,Jeff,Cook,,057-00-00,M,White,Ark.,,"L.L. Lacey",Oakwood,888,,,,1917-02-12
+13813,"Philip Louis",Meyer,,N,M,White,Germany,,"H.B Granberry",Oakwood,956,,,,1917-02-12
+13814,"Mrs Mary West",Moore,,085-07-00,F,White,SC,,"F P McLaughlin",Oakwood,15,,,,1918-01-01
+13815,"W G",Smith,,039-00-00,M,White,Tenn,,"Clarence Wellwe","Oakwood Annex","Sec A, lot 2 SW",,,,1918-01-01
+13816,"Thomas Roy",Taylor,,019-00-00,M,White,,,"Base Hospital, Camp Bowie","Oakwood Annex","Sec A, lot 25 NW",,,,1918-01-01
+13817,"Henry Morrow",Little,,059-00-08,M,White,Pa,,"G W Mondell, J of P",Oakwood,428,,,,1918-01-01
+13818,Amilla,"De Larosa",,014-00-00,F,Mexican,Tex,,"S A Woolsey","Oakwood Annex","Sec D, 384",,,,1918-01-01
+13819,Arthur,Davis,,038-00-00,M,"African American",Tex,,"S A Woolsey",,"Colored Grounds",,,,1918-01-03
+13820,"J T",Hernwell,,077-00-00,M,White,Tex,,"J M F Gill","State Cemetery",,,,,1918-01-03
+13821,"Wm E",Mark,,003-07-12,M,White,Tex,,"Geo M Docherd",Oakwood,518,,,,1918-01-03
+13822,"Mrs E",Wamsley,,075-00-00,F,White,England,,"S A Woolsey",Oakwood,953,,,,1918-01-06
+13823,Peter,Diaz,,070-00-00,M,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, lot 222",,,,1918-01-06
+13824,"E J",Storey,,045-00-00,M,"African American",Tex,,,,"Colored Grounds",,,"shipped from Ljockam (?)",1918-01-06
+13825,Amelio,Torres,,028-05-09,M,Mexican,Tex,,"C A Mathews","Mount Calvary",,,,,1918-01-06
+13826,John,King,,056-05-00,M,White,Ky,,"F P McLaughlin",Oakwood,"884 1/2",,,,1918-01-07
+13827,"Alonzo Carlton",Davis,,048-09-20,M,White,Ind,,"C A Mathews","Oakwood Annex","Sec B, lot 132 SE",,,,1918-01-07
+13828,"Lula W",Vining,,047-04-24,F,White,Texas,,"F P McLaughlin","Oakwood Annex","Sec A, lot 50 NW",,,,1918-01-07
+13829,"Mary Elizabeth",Broylese,,000-00-01,F,White,Texas,,"J F Gullette","Oakwood Annex","Sec S, lot 106 center",,,,1918-01-07
+13830,"Asa Mitchell",Belvin,,061-00-00,M,White,Texas,,"T J Bennett",Oakwood,340,,,,1918-01-08
+13831,"Mrs Mattie A",Smith,,065-02-19,F,White,Tenn,,"G B Granberry",Oakwood,953,,,,1918-01-09
+13832,Marie,Moeckel,,080-04-00,F,White,Germany,,"Joe Wooten",Oakwood,969,,,,1918-01-09
+13833,Nicholas,Gaitron,,066-00-00,M,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, lot 221",,,,1918-01-09
+13834,"Nancy Jane",Bryant,,055-00-21,F,White,Tenn,,"F P McLaughlin","Oakwood Annex","Sec A, lot 24 NW",,,,1918-01-10
+13835,"Dr Edwin Thos",Gazley,,084-00-00,M,White,Tex,,"Joe Wooten","Oakwood Annex","Sec D, lot 61",,,,1918-01-10
+13836,"Mrs Annie",Pressler,,069-08-10,F,White,,,,Oakwood,183,,,shipped,1918-01-11
+13837,"Roy E",Benton,,027-02-13,M,White,Texas,,"Joe Wooten",Oakwood,813,,,,1918-01-11
+13838,"Fannie Virginia",Cloyd,,062-04-16,F,White,Fla,,"S A Woolsey","Oakwood Annex","Sec D, lot 290",,,,1918-01-12
+13839,John,Manst,,076-00-00,M,Mexican,Mexico,,"S A Woolsey","Oakwood Annex","Sec D, lot 220",,,,1919-01-12
+13840,"Robert E",Millwee,,075-03-10,M,White,"S Carolina",,"M M Johndon, corner",Oakwood,877,,,,1918-01-13
+13841,"Dorothy Lucile",Crouch,,000-01-00,F,White,Mo,,"Ben F Jones","Oakwood Annex","Sec D, lot 297",,,,1918-01-14
+13842,Chas,Donahue,,086-00-00,M,White,Ireland,,"J M F Gill","State Cemetery",,,,,1918-01-14
+13843,John,Burns,,076-00-00,M,White,La,,"J M F Gill","State Cemetery",,,,,1918-01-16
+13844,"Jas Madison Allen",Hughes,,067-09-30,M,White,Ark,,"G H Gilbert","Oakwood Annex","Sec A, lot 23 SW",,,,1918-01-17
+13845,"Mrs Annie Nora",Beaty,,050-04-09,F,White,Texas,,"P M McLaughlin","Mount Calvary",,,,,1918-01-17
+13846,Lewis,Riddle,,083-00-00,M,White,,,"J M F Gill","State Cemetery",,,,,1918-01-17
+13847,"John A",Raggio,,075-02-17,M,White,Italy,,"C A Mathews","Mount Calvary",,,,,1918-01-18
+13848,"Jeff Davis",Thompson,,066-00-00,M,White,La,,"F P McLaughlin","Oakwood Annex","Sec D, lot 292",,,,1918-01-19
+13849,"Mrs Lilly M",McCracken,,077-01-30,F,White,"New York",,"N O Brenizer",Oakwood,144,,,,1918-01-19
+13850,"Horace C",Cleveland,,059-02-17,M,White,,,,Oakwood,1086,,,shipped,1918-01-19
+13851,"Mary Jane",Holder,,080-00-00,F,White,Tenn,,"C A Mathews",Oakwood,913,,,,1918-01-20
+13852,"Jas Calvin",Davidson,,054-00-00,M,White,Tex,,"Joe Gilbert","Oakwood Annex","Sec D, lot 296",,,,1918-01-20
+13853,Henry,Nall,,083-00-00,M,White,Germany,,"C A Mathews",Oakwood,834,,,,1918-01-20
+13854,"Julia Maria",Pease,,064-10-05,F,White,Texas,,"N O Brenizer",Oakwood,102,,,,1918-01-21
+13855,"Mrs Elizabeth",Raine,,076-00-00,F,White,,,,Oakwood,595,,,shipped,1918-01-23
+13856,"Nannie M",Price,,N,,"African American",,,,"Oakwood Annex","Sec B, lot 70 NW",,,"removed body from Oakwood lot 877 to Annex location",1918-01-15
+13857,"S A",Renfroe,,078-00-00,M,White,Ala,,"J M F Gill","State Cemetery",,,,,1918-01-23
+13858,"Mrs A C",Mobley,,062-00-00,F,White,,,"Sam Haigler","Oakwood Annex","Sec D, lot 291",,,,1918-01-24
+13859,Wm,Ostleft,,076-00-00,M,White,Germany,,"J M F GIll","State Cemetery",,,,,1918-01-25
+13860,"Infant of Paul",Stramm,,N,F,White,"Austin, Tex",,"J F Gullette",,"Old Grounds",,,,1918-01-25
+13861,"Irwin Lee",Parker,,020-05-12,M,White,Texas,,"M M Johnson, corner",Oakwood,992,,,,1918-01-27
+13862,Alexander,Ledesma,,076-04-11,M,White,Mexico,,"Ben F Jones","Mount Calvary",,,,,1918-01-27
+13863,"Bartlett Van Buren",Ormsby,,077-00-00,M,White,,,"J M F Gill","State Cemetery",,,,,1918-01-28
+13864,"Joseph B",Sappington,,078-00-00,M,White,Tenn,,"R M wickline","Oakwood Annex","Sec B, lot 71 SW",,,,1918-01-28
+13865,Sarah,Yost,,081-02-14,F,White,Pa,,"Robt Shipp",Oakwood,1127,,,,1918-01-29
+13866,"J M",Clinefelter,,052-05-01,M,White,,,,Oakwood,972,,,shipped,1918-01-30
+13867,"Mrs G W","Mendell Sr",,065-09-05,F,White,Kentucky,,"F L Griffith",Oakwood,1060,,,,1918-01-30
+13868,"Harry A",Thornton,,040-03-26,M,White,Texxas,,"John T Moore",Oakwood,741,,,,1918-01-31
+13869,"Jas L",Gannaway,,060-00-04,M,White,Texas,,"Buford Weller","Oakwood Annex","lot 6 SW",,,,1918-08-01
+13870,Carl,Rydell,,090-11-00,M,White,Sweden,,"L H Kirk","Oakwood Annex","Sec D, lot 23 #9",,,,1918-08-01
+13871,"W C",Redd,,060-11-20,M,White,Tex,,"H B Granberry",Oakwood,1119,,,,1918-08-01
+13872,"William A",Davis,,016-00-01,M,White,Tex,,"S A Woolsey","Oakwood Annex","Sec A, lot 18 SE",,,,1918-08-03
+13873,Letha,Thompson,,028-04-08,F,White,Tenn,,"C A Mathews","Oakwood Annex","Sec A, lot 24 NE",,,,1918-08-04
+13874,"W P",Coghan,,067-02-13,M,White,Ohio,,"J F Gullette","Oakwood Annex","Sec D, lot 23 #7",,,,1918-08-08
+13875,"Martha Jane",Parker,,086-05-24,F,White,Alabama,"P McLaughlin",Oakwood,992,,,,,1918-08-08
+13876,"W K",Fuhrman,,036-08-14,M,White,Austin,,"A F Cook, Manor",Oakwood,427,,,,1918-08-09
+13877,Benj,Smith,,N,M,White,,,,"State Cemetery",,,,,1918-08-12
+13879,Christ,Miller,,068-00-00,M,White,,,"M M Johnson","Oakwood Annex","Sec D lot 23 #10",,,,1918-08-16
+13880,Alonzo,Howard,,082-00-00,M,White,,,"Arthur Smith","State Cemetery",,,,,1918-08-16
+13881,Genano,Armiago,,009-00-00,M,Mexican,Mex,,"Dr Garcia","Oakwood Annex","Sec D, lot 155 NW",,,,1918-08-18
+13882,Mrs,Lauderdale,,N,F,White,,,,Oakwood,1195,,,,1918-08-19
+13883,Mary,Luck,,079-00-00,F,White,Germany,,"R M Wickline",Oakwood,995,,,,1918-08-20
+13884,Wm,Bradley,,086-00-00,M,White,Tenn,,"T R Pettway","State Cemetery",,,,,1918-08-20
+13885,Ellen,Lentz,,073-01-23,F,White,Tex,,"W G Lightfoot","Oakwood Annex","Sec D, lot 2 #11",,,,1918-08-20
+13886,Jerry,Brooks,,086-00-00,M,White,Virginia,,"T R Pettway","State Cemetery",,,,,1918-08-21
+13887,Inacento,Hernandez,,000-00-05,F,Mexican,Austin,,"F Litten","Mount Calvary",,,,,1918-08-21
+13888,"Clara V Marshall",Rouzee,,065-11-17,F,White,Va,,"S E Hudson","Oakwood Annex","Sec B, lot 125 W center cen",,,,1918-08-22
+13889,"F A",Schisker,,N,,"African American",,,,Oakwood,889,,,"moved body from SE corner to SW corner of the lot.",1918-08-06
+13890,"J W",Harwood,,N,,"African American",,,,"Oakwood Annex","Sec D, lot 23 #6",,,"remains taken from Oakwood, lot 991 and reinterred in Annex location",1918-08-07
+13891,"Antonio S",Martinez,,085-00-00,M,Mexican,Mexico,,"Dr Litten","Oakwood Annex","Sec D, lot 494",,,,1918-10-26
+13892,"F M",Wilson,,025-06-13,M,White,NC,,"T R Pettway","State Cemetery",,,,,1918-10-26
+13893,"Walter F",Scherding,,025-06-13,M,White,Texas,,,Oakwood,"lot 1106",,,,1918-08-25
+13894,Jno.,Arechingel,,003-00-00,M,Mexican,Tex.,,"Clarence Weller","Mount Calvary",,,,,1917-02-12
+13895,L.B.,Lewis,,081-04-05,M,White,Tenn.,,"J.F. Gullette",Oakwood,983,,,,1917-02-13
+13896,"Joel G.",Newton,,N,M,White,Texas,,"H.B. Granbery","Oakwood Annex","Sec. D, 303, W.",,,,1917-02-13
+13897,S.W.,Routon,,N,M,White,,,,"Oakwood Annex","Sec. D, 254",,,"""shipped"" ""moved to Sec A, Lot 42, Sp.5""",1917-02-13
+13898,"Geo. Washington",Pierce,,074-00-00,M,White,Ga.,,"J.M.F. Gill","State Cemetery",,,,,1917-02-14
+13899,Mrs.,Lopez,,N,F,Mexican,,,"R.V. Murray","Mount Calvary",,,,,1917-02-14
+13900,Lula,Ledesma,,033-00-00,F,Mexican,Mex.,,"S.A. Woolsey","Mount Calvary",,,,,1917-02-15
+13901,James,Gould,,083-00-00,M,White,England,,"T.R. Pothnoy",Oakwood,1086,,,,1917-02-15
+13902,J.C.,Barber,,077-08-04,M,White,Missouri,,"S.G. Hudson",Oakwood,958,,,,1917-02-15
+13903,Leonardo,Guerra,,040-00-00,M,Mexican,Mex.,,"S.A. Woolsey","Oakwood Annex","Sec. D, 334",,,,1917-02-15
+13904,"Cruz C.",Villigar,,048-00-00,F,Mexican,Texas,,"Alberto G. Garcia","Mount Calvary",,,,,1917-02-16
+13905,Frank,Strater,,001-06-00,M,Mexican,Austin,,"Ben F. Jones","Mount Calvary",,,,,1917-02-16
+13906,Natalia,Reyes,,001-02-00,F,Mexican,Austin,,"Ben F. Jones","Oakwood Annex","Sec. D, 315, N.E.",,,,1917-02-16
+13907,"Mrs. Mary",Callan,,000-00-00,F,White,,,"Frank Litten","Mount Calvary",,,,,1917-02-16
+13908,Faustina,Penada,,000-00-00,F,Mexican,Texas,,"C.A. Matthews","Oakwood Annex","Sec. D, 314, S.E.",,,"lived 4 hours.",1917-02-17
+13909,Rosco,Watts,,000-00-00,M,White,,,"F.O. Calaway","Oakwood Annex","Sec. D, 269",,,"(269 in place of the number 271, crossed out)",1917-02-17
+13910,"Wm. G.",Sullivan,,000-00-03,M,White,,,"Jas. M. Loving","Mount Calvary",,,,,1917-02-18
+13911,Francisco,Sigmonter,,011-00-00,M,Mexican,Mex.,,,"Mount Calvary",,,,,1917-02-18
+13912,Infant,Kemp,,000-00-07,F,White,"Travis Co., Tex.",,"R.V. Murray","Oakwood Annex","Sec. D, 555, N.W.",,,"""Infant of Banse Kemp""",1917-02-18
+13913,"Mrs. Eliza A.",Smith,,094-06-21,F,White,Va.,,"F.P. McLaughlin","Old Grounds",,,,,1917-02-19
+13914,Unknown,N,,035-00-00,F,Mexican,Mex.,,"S.A. Woolsey","Oakwood Annex","Sec. D, 336",,,,1917-02-19
+13915,Raymond,Peres,,000-00-13,M,Mexican,Tex.,,"Frank Litten","Oakwood Annex","Sec. D, 314, S.W.",,,,1917-02-19
+13916,Florence,Alvarez,,001-00-12,F,Mexican,Tex.,,"S.A. Woolsey","Oakwood Annex","Sec D, 214, N.W.",,,,1917-02-20
+13917,John,Leslie,,067-07-14,M,White,Canada,,"H.B Granbery","Oakwood Annex","Sec D, 518",,,,1917-02-20
+13918,"Mrs. G.A.",Blackburn,,072-00-00,F,White,Miss.,,"Joe Gilbert",Oakwood,1084,,,,1917-02-20
+13919,"Emma Jane",Humphrey,,068-04-17,F,White,Va.,,"Roht Shipp","Oakwood Annex","Sec A, 114, NW",,,,1917-02-21
+13920,"Mary F. Furgeson",Smith,,073-03-00,F,White,Ken.,,"Joe Eckhardt","State Cemetery",,,,,1917-02-21
+13921,"Nannie R.",Brooks,,025-06-28,F,White,Texas,,"E.B Bailey","Oakwood Annex","Sec D, 268",,,"(268 is in place of the number 272, which is crossed out)",1917-02-22
+13922,Azarel,Garcia,,000-01-07,M,Mexican,,,"Frank Litten","Oakwood Annex","Sec D, 314, NE",,,,1917-02-23
+13923,Lnft,Lomery,,000-00-00,F,White,Tex.,,"H.B Granbery","Oakwood Annex","Sec D, 306, W.",,,"(note:very hard to make out first name)",1917-02-26
+13924,Jacob,Burleson,,028-00-00,M,White,,,"J.M.F. Gill","State Cemetery",,,,,1917-02-27
+13925,Lagalda,Paraley,,031-00-00,M,White,,,,"Mount Calvary",,,,shipped,1917-02-27
+13926,"Phillip Dallas",Beauchamp,,072-00-00,M,White,S.C.,,"J.M.F. Gill","State Cemetery",,,,,1917-02-28
+13927,Ernest,Erzkns,,085-11-02,M,White,Prussia,,"S.E. Hindson",Oakwood,563,,,,1917-02-28
+13928,"Jalins L.",Harris,,017-01-07,M,White,Tex.,,"M.M. Johnson","Oakwood Annex","Sec D, 74, 1",,,"(physician also Justice of the Peace)",1917-02-28
+13929,"Blanche Evelyn",Douglas,,022-00-00,F,White,Tex,,"J.F. Gillette",Oakwood,1013,,,,1917-03-02
+13930,"Jas. F.",Taylor,,071-00-00,M,White,Ark.,,"J.M.F. Gill","State Cemetery",,,,,1917-03-02
+13931,Gonzales,Domigues,,000-00-00,M,Mexican,,,"S.A. Woolsey","Oakwood Annex","Sec D, 335",,,,1917-03-02
+13932,Unknown,Infant,,000-00-00,,"African American",,,"S.A. Woolsey","Oakwood Annex","Sec D, 335",,,"""premature"" ""unknown"" under nativity, color, and sex.",1917-03-02
+13933,Jesusa,Garcia,,027-01-00,F,Mexican,Mex.,,"C.A. Matthews","Oakwood Annex","Sec D, 337",,,,1917-03-04
+13934,"Prof. Eddie I.",Yerwood,,032-09-15,M,"African American",Texas,,"S.L. Brown",,"Colored Grounds",,,,1917-03-04
+13935,Francisca,Prias,,000-10-00,F,Mexican,Texas,,"M.F. Krisle","Mount Calvary",,,,"(M.F. Krisle replaces the name Frank Litten which was crossed out)",1917-03-04
+13936,Geo.,Thielepape,,032-03-18,M,White,Austin,,"H.C. Morrow",Oakwood,88,,,,1917-03-04
+13937,Sarah,Valdez,,028-00-00,F,Mexican,Texas,,"Frank Litten",Oakwood,"924 1/2",,,,1917-03-05
+13938,Henry,Bricknell,,063-03-09,M,White,Maine,,"W.D. Geston","Oakwood Annex","Sec D, 74, H2",,,,1917-03-05
+13939,"Gustaf A.",Ekman,,063-00-00,M,White,Sweden,,"J.A. Stroking",Oakwood,802,,,,1917-03-05
+13940,J.G.,Juengens,,058-00-00,M,White,"New York",,"E. Krueger","Oakwood Annex","Sec D, 74, H3",,,,1917-03-06
+13941,P.O.,Babcock,,024-00-00,M,White,Tex.,,,Oakwood,1031,,,shipped,1917-03-07
+13942,Pearl,Wheatley,,039-00-00,F,White,,,"S.A. McConnell","Oakwood Annex","Sec D, 254",,,,1917-03-07
+13943,Aurora,Rangel,,011-10-0,F,Mexican,Texas,,"S.A. Woolsey","Mount Calvary",,,,,1917-03-07
+13944,"Mrs. J.M",Raymond,,092-00-00,F,White,,,,Oakwood,70,,,,1917-03-08
+13945,"Maria M.","Garcia Gomez",,001-04-00,F,Mexican,Texas,,"Alberto G. Garcia","Mount Calvary",,,,,1917-03-08
+13946,"Richard H.",Pate,,N,M,White,Austin,,"S.E. Hudson","Oakwood Annex","Sec A, 34",,,,1917-03-08
+13947,Attnora,Long,,N,F,White,Texas,,"V. Oatman Checkmore","Oakwood Annex","Sec A, 115, NW",,,,1917-03-08
+13948,"Leile Clay",Love,,080-01-12,F,White,,,"Joe Gilbert",Oakwood,529,,,,1917-03-08
+13949,Florena,Gomez,,001-04-00,F,Mexican,Texas,,"Frank Litten","Oakwood Annex","Sec D, 313, SW",,,,1917-03-08
+13950,"Infant of W.A.",Bryant,,000-00-00,F,White,Austin,,"W.B. Black","Oakwood Annex","Sec D, 303, E.",,,,1917-03-09
+13951,"Lula Mae",Odom,,024-09-01,F,White,,,,Oakwood,83,,,shipped,1917-03-10
+13952,Socano,Morales,,037-00-00,M,Mexican,Mex.,,"M.F. Kreisle","Oakwood Annex","Sec D, 374",,,,1917-03-11
+13953,"Marshall K.",Mills,,070-08-03,M,White,Alabama,,"C. Weller",Oakwood,"old grounds",,,"(By his age, there is a ""83"" penciled in above the year ""70"")",1917-03-11
+13954,Olaf,Peterson,,073-00-00,M,White,Sweden,,"J.A. Stroking",Oakwood,807,,,,1917-03-11
+13955,"Elizabeth S.",Graves,,001-10-14,F,White,"Austin, Texas",,"Roht W. Shipp","Oakwood Annex","Sec A, H8",,,,1917-03-11
+13956,"Mary E.",McFarland,,076-00-0,F,White,Virginia,,"Joe C.A. Eckhardt","State Cemetery",,,,,1917-03-12
+13957,"Florence B.",King,,079-00-0,F,White,Kentucky,,"James Loving",Oakwood,"884 1/2",,,,1917-03-13
+13958,Morena,Andres,,060-00-00,F,Mexican,Mexico,,"S.A. Woolsey","Oakwood Annex","Sec D, 338",,,,1917-03-14
+13959,"Florence Virginia",Spance,,041-01-02,F,White,Austin,,"G. Mussina",Oakwood,1001,,,,1917-03-15
+13960,Infant,Pruitt,,000-00-00,M,White,Texas,,"S.A. Woolsey","Oakwood Annex","Sec D, 555, NE",,,"lived for 6 hours",1917-03-15
+13961,"Elizabeth Francis",Peeler,,089-00-00,F,White,,,,Oakwood,577,,,shipped,1917-03-17
+13962,"Elizabeth E.",Bartholomew,,078-02-05,F,White,"New York",,"H.B Granberry",Oakwood,747,,,,1917-03-17
+13963,"L. Warren",Lewis,,082-00-00,M,White,Georgia,,"Dr. Gill","State Cemetery",,,,,1917-03-18
+13964,Juan,Carmona,,000-00-00,M,Mexican,Austin,,"Ben F. Jones","Mount Calvary",,,,,1917-03-19
+13965,J.H.F.,Cook,,020-00-00,M,White,Austin,,"Dr. Joe Wooten",Oakwood,976,,,,1917-03-20
+13966,"Jas. Young",Robertson,,000-02-02,M,White,Austin,,"Reht Shipp",Oakwood,38,,,,1917-03-21
+13967,Lenora,Schahn,,009-00-00,F,White,Seattle,,"E. Krueger","Oakwood Annex","Sec D, 73, No. 1",,,,1917-03-21
+13968,Juan,Nicto,,080-00-00,M,Mexican,Mexico,,"Frank Litten","Oakwood Annex","Sec D, 339",,,,1917-03-22
+13969,Resa,Thielepape,,055-06-05,F,White,"Burnett County",,"T.A. Bennitt","Oakwood Annex","Sec A, 117, NW",,,,1917-03-22
+13970,"Jno. W.",Black,,072-00-00,M,White,Mississippi,,"Jas. Loving","Oakwood Annex","Sec D, 73, No. 2.",,,,1917-03-23
+13971,"Walter Roy",Billingsley,,003-00-04,M,White,Austin,,"Joe E. Eckhardt",Oakwood,974,,,,1917-03-23
+13972,B.W.,Richie,,086-00-00,M,White,,,"J.M.F. Gill","State Cemetery",,,,,1917-03-25
+13973,W.I.,Sanders,,085-00-00,M,White,,,"J.M.F. Gill","State Cemetery",,,,,1917-03-25
+13974,M.D.L.,McFarland,,080-00-00,M,White,Tennessee,,"R.V. Murray",Oakwood,300,,,,1917-03-27
+13975,Instais,Penda,,064-00-00,M,Mexican,Mexico,,"S.A. Woolsey","Oakwood Annex","Sec D, 340",,,,1917-03-28
+13976,"Infant of M.M",Blackmore,,000-00-00,M,White,Austin,,"Buford Welles",Oakwood,877,,,,1917-03-29
+13977,"Elizabeth A.",Hunter,,039-03-15,F,White,Virginia,,"F.P. McLaughlin",Oakwood,1104,,,,1917-03-30
+13978,"Geo. P.",Smith,,073-02-17,M,White,Virginia,,"F.L. Griffith","Oakwood Annex","Sec A, 71, SW",,,,1917-03-30
+13979,Maggie,Joseph,,002-05-03,F,White,Austin,,"Joe Wooten","Mount Calvary",,,,,1917-03-30
+13980,"James Thomas",Aaron,,000-11-19,M,White,Texas,,"R.V. Murray","Oakwood Annex","Sec D, 554, SW.",,,,1917-03-30
+13981,B.Y.,Milam,,073-00-00,M,White,Texas,,"J.M.F. Gill","State Cemetery",,,,,1917-04-01
+13982,Jose,Montano,,001-00-23,M,White,Austin,,"Alberto G. Garcia","Mount Calvary",,,,,1917-04-01
+13983,"Johanna Katherina",Carlson,,N,F,White,Sweden,,"E. Krueger",Oakwood,909,,,,1917-04-01
+13984,"Amy C.",Bapp,,043-04-22,M,White,Missouri,,"E. Krueger","Oakwood Annex","Sec D, H73, No. 3",,,,1917-04-01
+13985,"Miss A.L.",Erams,,051-00-00,F,"African American",Texas,,"F.P. McLaughlin",Oakwood,"Colored Grounds",,,,1917-04-01
+13986,"James Calvin",Burleson,,052-08-12,M,White,Texas,,"Clarence Weller","Oakwood Annex","Sec D, H73, No. 4.",,,,1917-04-02
+13987,"Magdaline C.",Saiz,,010-07-00,F,Mexican,Austin,,"Frank Litten","Oakwood Annex","Sec D, 375",,,,1917-04-02
+13988,Wilhelmine,Klein,,069-00-00,F,White,"La Grange, Texas",,"Joe Wooten",Oakwood,153,,,,1917-04-02
+13989,"Oliver H.",Pearson,,089-00-00,M,White,"South Carolina",,"J.M.F. Gill","State Cemetery",,,,,1917-04-03
+13990,"Alfred S.",Lyons,,069-00-00,M,White,,,"J.M.F. Gill","State Cemetery",,,,,1917-04-03
+13991,"Ida Ann",Secor,,047-00-00,F,White,Mississippi,,"R.V. Murray","Oakwood Annex","Sec A, 119, NE",,,,1917-04-04
+13992,David,Melaske,,060-00-00,M,White,Russia,,"F.P. McLauglin",Oakwood,"Jewish Cemetery",,,,1917-04-05
+13993,Arthur,Keyses,,000-05-00,M,White,Texas,,"R.V. Murray","Oakwood Annex","Sec D, 554, SE",,,,1917-04-06
+13994,Fidense,Romo,,027-00-00,M,Mexican,Mexico,,"M.F. Kreise","Mount Calvary",,,,,1917-04-06
+13995,Dona,Smith,,025-00-00,F,White,Texas,,"Frank Litten","Oakwood Annex","Sec D, H72, No. 1",,,"(Moved to Austin Memorial Park)",1917-04-06
+13996,Rily,Bontmel,,077-00-00,M,White,Texas,,"H.B Granberry","Oakwood Annex","Sec A. 115, SE",,,,1917-04-06
+13997,"Almetz Myrtle",Blackmore,,036-06-29,F,White,Texas,,"Buford Weller","Oakwood Annex","Sec A, 132, NE",,,,1917-04-07
+13998,"Henry C.",Crentzfeld,,070-01-04,M,White,Germany,,"S.E. Hindson","Oakwood Annex","Sec A, 136, SE",,,,1917-04-08
+13999,Margarete,Boykin,,079-02-07,F,White,Texas,,"S.E Hindson",Oakwood,"1157 1/2, No. 4",,,,1917-04-09
+14000,Ben,Alvares,,029-03-13,M,Mexican,Mexico,,"Clarence Wells","Mount Calvary",,,,,1917-04-11
+14001,Guadalupe,Compes,,004-00-00,M,Mexican,Mexico,,"S.A. Woolsey","Oakwood Annex","Sec D, 147",,,,1917-04-11
+14002,Renaldo,Cerpus,,000-11-00,M,Mexican,Texas,,"R.V. Murray",Oakwood,341,,,,1917-04-12
+14003,"James Carson",Braden,,071-00-00,M,White,Tennessee,,"R.F. Beverly","State Cemetery",,,,,1917-04-13
+14004,N,Martinez,,000-00-00,M,Mexican,,,"S.E. Woolsey","Oakwood Annex","Sec D, 313, SE",,,,1917-04-13
+14005,"Thomas Carter",Wilson,,075-00-00,M,White,Texas,,"A.F. Beverly","State Cemetery",,,,,1917-04-14
+14006,E.,Marin,,067-00-00,M,Mexican,Mexico,,"R.V. Murray","Mount Calvary",,,,,1917-04-14
+14007,Madia,Gallando,,070-00-00,F,Mexican,Mexico,,"S.A. Woolsey","Oakwood Annex","Sec D, 342",,,,1917-04-16
+14008,Infant,Salinas,,000-00-00,M,Mexican,Texas,,"R.V. Murray","Oakwood Annex","Sec D, 313, NE",,,,1917-04-17
+14009,Jake,Ravamelli,,036-00-00,M,White,,,"F.O Calloway","Mount Calvary",,,,,1917-04-17
+14010,"Hiram A.",Glass,,008-08-22,M,White,Texas,,"Joe S. Wooten","Oakwood Annex","Sec A, 36, NE",,,,1917-04-17
+14011,"William Edward",Patten,,000-00-00,M,White,Texas,,"Frank Litten","Oakwood Annex","Sec D, 306, E.",,,,1917-04-19
+14012,"Mrs. L",McCarthen,,000-00-00,F,"African American",,,,Oakwood,"Colored Grounds",,,"(""col gr"" has been crossed out and replaced with ""4, John White, Sp#1"" Also, the ""Mc"" in her last name was penciled in)",1917-04-19
+14013,H.C.,Carter,,028-00-00,M,White,,,"M. Outtan","Oakwood Annex","Sec D, H71, No. 1.",,,,1917-04-21
+14014,Felix,Lopez,,032-00-00,M,Mexican,Mexico,,"Alberto G. Garcia","Mount Calvary",,,,,1917-04-21
+14015,"Samuel LeMais",McCulloch,,064-10-15,M,White,Texas,,"G. Wooten",Oakwood,159,,,,1917-04-22
+14016,"Texas Ellen",Anderson,,062-03-29,F,White,Texas,,"S.E. Hindson",Oakwood,1073,,,,1917-04-22
+14017,Marie,Kotten,,077-04-10,F,White,Germany,,"S.A. Woolsey","Oakwood Annex","Sec A, 67, SW",,,,1917-04-23
+14018,Saml,Hernandez,,000-00-22,M,Mexican,Texas,,"C.A. Matthews","Oakwood Annex","Sec D, 148, N.",,,,1917-04-23
+14019,Jim,Stassmos,,000-00-00,M,"African American",Texas,,"Homer Hill","Oakwood Annex","Sec D, 307, W",,,,1917-04-23
+14020,Gomez,Tores,,022-00-00,M,Mexican,Mexico,,"Z. Scott","Mount Calvary",,,,,1917-04-23
+14021,George,Fryer,,018-06-06,M,White,Texas,,"J.W. McLaughlin","Oakwood Annex","Sec D, H71, No. 2.",,,,1917-04-24
+14022,David,Diaz,,000-03-00,M,Mexican,Texas,,"S.A. Woolsey","Oakwood Annex","Sec D, 313, NW",,,,1917-04-24
+14023,"Carmen Garza",Rodriguez,,023-00-00,F,Mexican,Mexico,,"Edgar Mathis","Oakwood Annex","Sec D, 376",,,,1917-04-24
+14024,Infant,Rodriguez,,000-00-00,M,Mexican,Texas,,"Edgar Mathis","Oakwood Annex","Sec D, 376",,,,1917-04-24
+14025,"Infant of W.A.",Achilles,,000-00-00,,"African American",,,,Oakwood,879,,,,1917-04-26
+14026,George,Kern,,000-00-00,M,White,,,,"Oakwood Annex","Sec A, 44, NW",,,,1917-04-27
+14027,V.,Perez,,025-00-00,M,Mexican,Mexico,,"Alberto G. Garcia","Mount Calvary",,,,,1917-04-27
