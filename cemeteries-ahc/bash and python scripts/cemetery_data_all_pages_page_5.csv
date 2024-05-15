@@ -1,0 +1,1001 @@
+pkoakwood,firstname,lastname,name_contribution,yearsmonthsdays,sex,color,nativity,disease,disease_contribution,attendingphysician,whereburied,SecLotSpace,bywhomburied,profession,remarks,date,lastname_soundex,showrow
+12261,S. E.,Mueller,,001-06-00,M,W,Tex.,,,R. M. Wickline,,,,,,1913-02-18,M460,y
+12257,Milton C.,Kern,,033-00-00,M,W,,,,R. M. Wickline,,,,,,1913-02-16,K650,y
+12256,Emma,Engdahl,,061-00-00,F,W,Sweden,,,R. M. Wickline,,,,,,1913-02-16,E523,y
+12255,Felipe,Flores,,004-00-00,M,M,Tex.,,,R. M. Wickline,,,,,,1913-02-16,F462,y
+12258,M.,Danley,,059-00-00,F,W,Tex.,,,R. M. Wickline,,,,,,1913-02-16,D540,y
+12260,Cora L.,Hawles,,001-02-19,F,W,Tex.,,,R. M. Wickline,,,,,,1913-02-15,H420,y
+12259,Cora L.,Hawles,,001-02-19,F,W,Tex.,,,R. M. Wickline,,,,,,1913-02-15,H420,y
+12254,Billie,Anderson,,075-00-00,M,W,,,,R. M. Wickline,,,,,,1913-02-15,A536,y
+12252,Myrtle J.,Salyer,,036-09-18,F,W,Ill.,,,R. M. Wickline,,,,,,1913-02-13,S460,y
+12253,M.,Tometa,,N,F,M,,,,R. M. Wickline,,Cath,,,,1913-02-13,T530,y
+12251,R. W.,Mills,,077-00-00,M,W,Ind.,,,R. M. Wickline,,,,,,1913-02-12,M420,y
+12250,Charles,Smith,,084-00-00,M,W,Ger.,,,R. M. Wickline,,Cath,,,,1913-02-11,S530,y
+12247,F. M.,Grizzard,,067-00-00,M,W,Miss,,,R. M. Wickline,,,,,,1913-02-10,G626,y
+12249,Mildred,Kuehne,,001-03-25,F,W,Tex.,,,R. M. Wickline,,,,,,1913-02-10,K500,y
+12246,A.,Wanderlin,,040-00-00,F,W,,,,R. M. Wickline,,,,,,1913-02-09,W536,y
+12248,Pedro,Martinez,,025-00-00,M,M,Mex.,,,R. M. Wickline,,,city,,,1913-02-09,M635,y
+12244,Petri,Hernandez,,052-00-00,F,M,Mex.,,,R. M. Wickline,,,,,,1913-02-08,H653,y
+12245,N,Unknown,,N,,N,,,,R. M. Wickline,,,,,,1913-02-08,U525,y
+12243,Minna,Schrader,,022-30-00,F,W,,,,R. M. Wickline,,,,,,1913-02-07,S636,y
+12242,T.,Siker,,003-00-00,M,M,Tex.,,,R. M. Wickline,,,,,,1913-02-05,S600,y
+12241,Samuel,Arrendo,,002-00-00,M,M,Tex.,,,R. M. Wickline,,,city,,,1913-02-04,A653,y
+12239,Alfonza,Lopex,,000-03-03,F,M,Texas,,,R. M. Wickline,,,city,,,1913-02-04,L120,y
+12238,Infant,Lee,,000-00-11,F,W,Texas,,,R. M. Wickline,,,,,,1913-02-03,L000,y
+12240,L.,Reilley,,030-00-00,F,M,Mex.,,,R. M. Wickline,,,city,,,1913-02-03,R400,y
+12237,Christabel,Cameron,,014-03-05,F,W,Texas,,,R. M. Wickline,,,,,,1913-02-02,C565,y
+12234,H. E.,Jones,,058-07-13,M,W,Mo.,,,R. M. Wickline,,,,,"Note added to ledger on 10/19/1914 reads: ""Removed the body of H.E. Jones from between 1090-1093 to lot 1155 1/2 #3 in Oakwood Cemetery"".",1913-01-30,J520,y
+12233,J. A.,Harris,,030-00-00,M,W,Not Known,,,R. M. Wickline,,,,,,1913-01-30,H620,y
+12231,George,Nessour,,000-08-00,M,M,Tex.,,,R. M. Wickline,,Cath,,,under Color-Syr.,1913-01-29,N260,y
+12232,Cecil,Moses,,027-07-23,f,W,Tex.,,,R. M. Wickline,,new Jew yard,,,,1913-01-29,M200,y
+12230,Frank,Brown,,079-00-00,M,W,Tenn.,,,R. M. Wickline,,,,,,1913-01-28,B650,y
+12229,Preston,Howell,,005-00-00,M,W,Tex.,,,R. M. Wickline,,"Sec 3, east of 1167",,,,1913-01-28,H400,y
+12226,M.,Rodrade,,034-00-00,M,M,Mex.,,,R. M. Wickline,,,,,,1913-01-23,R363,y
+12225,Annie B.,Routon,,002-05-04,F,W,Tex.,,,R. M. Wickline,,,,,,1913-01-23,R350,y
+12227,John S.,Boyd,,041-01-27,M,W,Tex.,,,R. M. Wickline,,,,,,1913-01-23,B300,y
+12224,Geo. W.,Kern,,065-07-18,M,W,La.,,,R. M. Wickline,,,,,"Removed to lot 44, Sec A Annex",1913-01-22,K650,y
+12228,Baby,Cox,,000-00-00,M,W,Tex.,stillborn,,R. M. Wickline,,,,,,1913-01-21,C000,y
+12223,Charlie E.,Roberts,,018-00-00,M,W,Tex.,,,R. M. Wickline,,,,,,1913-01-21,R163,y
+12222,Josephine,Adzine,,038-00-00,F,M,Not Known,,,R. M. Wicklinne,,Cath.,,,,1913-01-20,A325,y
+12221,J. E.,Read,,084-00-00,F,W,Not Known,,,R. M. Wickline,,,,,,1913-01-20,R300,y
+12220,Baby,Cloud,,000-00-06,M,W,Tex.,,,R. M. Wickline,,,,,,1913-01-19,C430,y
+12219,David R.,Widerstrom,,025-02-05,M,W,Tex.,,,R. M. Wickline,,"Sec 3, lot 956",,,,1913-01-19,W362,y
+12236,Infant,Maxwell,,N,,N,,,,,,,,,Removal,1913-01-15,M240,y
+12218,Quinoverea,Duarete,,000-00-03,F,M,Tex.,,,R. M. Wickline,,Cath.,city,,pauper,1913-01-15,D630,y
+12217,J. H.,Edwards,,056-00-00,F,W,Tex.,,,R. M. Wickline,,,,,,1913-01-15,E363,y
+12216,F.,Fares,,045-00-00,F,M,Tex.,,,R. M. Wickline,,,,,,1913-01-15,F620,y
+12212,Cynthia A.,Maxwell,,088-04-18,F,W,Tenn.,,,R. M. Wickline,,,,,,1913-01-14,M240,y
+12215,Cornelius,Burke,,065-00-00,F,W,Tex.,,,R. M. Wickline,,,,,,1913-01-14,B620,y
+12235,Infant of Mrs.,Maurfis,,N,,N,,,,,,,,,Removal,1913-01-14,M612,y
+12214,Tom,Rodriguiz,,016-00-00,M,M,Tex.,,,R. M. Wickline,,,,,,1913-01-14,R362,y
+12213,Infant of V.,Ridolfe,,000-00-00,F,M,Tex.,Stillborn,,R. M. Wickline,,,,,,1913-01-13,R341,y
+12211,Oscar,Blomquist,,036-00-00,M,W,Tex.,,,R. M. Wickline,,,,,,1913-01-13,B452,y
+12210,Sarah,Schultz,,070-00-00,F,W,Tex.,,,R. M. Wickline,,,,,,1913-01-12,S432,y
+12209,R. L.,Murff,,040-00-00,M,W,Tex.,,,R. M. Wickline,,,,,,1913-01-12,M610,y
+12208,Mrs.,Pennington,,N,F,N,Not Known,,,R. M. Wickline,,Colored Grounds,,,,1913-01-12,P523,y
+12207,Frank,Petmecky,,078-00-00,M,W,Germany,,,R. M. Wickline,,"Sec 3, lot 1007 NE 1/4",,,,1913-01-11,P352,y
+12206,Geurbeba,Quintero,,000-00-08,F,M,Tex,,,R. M. Wickline,,,city,,,1913-01-10,Q536,y
+12205,Anna,Clarke,,088-00-00,F,W,Ky,,,R. M. Wickline,,,,,,1913-01-09,C462,y
+12204,Infant,Folts,,000-00-00,M,W,Tex.,Stillborn,,R. M. Wickline,,,,,,1913-01-08,F432,y
+12203,Roman,Hernandez,,022-00-00,M,M,Mex.,,,R. M. Wickline,,,city,,,1913-01-08,H653,y
+12202,Isabella A.,Stellfox,,076-00-00,F,W,Ireland,,,R. M. Wickline,,,,,,1913-01-07,S341,y
+12201,Curry,Robinson,,001-01-00,M,W,Tex.,,,R. M. Wickline,,,,,,1913-01-07,R152,y
+12200,Mexican Infant,N,,000-00-08,M,M,Tex.,,,R. M. Wickline,,,city,,,1913-01-07,,y
+12199,G. H.,Carlson,,024-00-00,M,W,Tex.,,,R. M. Wickline,,,,,,1913-01-06,C642,y
+12198,Simon,Valdez,,082-00-00,M,M,Mex.,,,R. M. Wickline,,,City,,,1913-01-05,V432,y
+12197,Infant,Haigler,,000-00-00,M,W,Tex.,Stillborn,,R. M. Wickline,,,,,,1913-01-02,H246,y
+12026,Oscar,Cunningham,,034-05-20,M,W,Tex.,,,R.M. Wickline,,915 1/2,Friends,,,1912-12-31,C525,y
+12027,Chas.,Luck,,000-01-10,M,W,,,,R.M. Wicklin,,1008 1/2,Friends,,,1912-12-31,L200,y
+12025,Ernest,Bennett,,N,M,W,Tex.,,,R.M. Wickline,,N. of 1167,Friends,,,1912-12-30,B530,y
+12024,Alice,Price,,N,F,W,Tex.,,,R.M. Wickline,,1060 1/2,Friends,,,1912-12-29,P620,y
+12023,A.,Aberitze,,048-00-00,M,M,,,,R.M. Wickline,,City Gr.,City,,,1912-12-29,A163,y
+12022,Infant,Gonzales,,N,M,M,,,,R.M. Wickline,,City Gr.,City,,,1912-12-28,G524,y
+12018,Hugo A.,Luck,,029-00-13,M,W,Tex.,,,R.M. Wickline,,900,Friends,,,1912-12-25,L200,y
+12017,Stark P.,Porter,,033-00-00,M,W,Tex.,,,R.M. Wickline,,900,Friends,,,1912-12-24,P636,y
+12016,N.J.,Nagle,,053-00-00,M,W,,,,R.M. Wickline,,844,Friends,,,1912-12-24,N240,y
+12020,Blanch,Ewing,,072-00-00,F,W,,,,R.M. Wickline,Catholic Cemetery,,Friends,,,1912-12-23,E520,y
+12021,Josephine,Ericksen,,086-10-21,F,W,Sweden,,,R.M. Wickline,,Old Grounds,Friends,,,1912-12-21,E625,y
+12014,Mattie A. (Miss),Tatum,,066-00-00,F,W,Tenn,,,R.M. Wickline,,925 1/2,Friends,,,1912-12-19,T500,y
+12015,J.J.,Pruitt,,N,M,W,,,,R.M. Wickline,,City Gr.,City,,,1912-12-19,P630,y
+12013,Antonio,Pongelotis,,N,M,M,,,,R.M. Wickline,,City Gr.,City,,,1912-12-17,P524,y
+12012,C.A.,Lowry,,027-00-00,M,W,,,,R.M. Wickline,,N. of 1167,Friends,,,1912-12-16,L600,y
+12011,Mary E.,Tatum,,069-06-17,F,W,Tenn,,,R.M. Wickline,,925 1/2,Friends,,,1912-12-16,T500,y
+12010,Hally,Hall,,074-00-00,M,W,Va.,,,R.M. Wickline,,City Gr.,City,,,1912-12-13,H400,y
+12009,Christina M.,Sanches,,021-00-00,F,M,,,,R.M. Wickline,,City Gr.,Friends,,,1912-12-13,S520,y
+12008,Tom (Infant of),Butler,,N,M,W,Tex.,,,R.M. Wickline,Catholic Cemetery,,,,"Age is given as ""10 hrs.""",1912-12-13,B346,y
+12007,Janie R.,Granger,,043-05-20,F,W,Tex.,,,R.M. Wickline,,866,Friends,,,1912-12-11,G652,y
+12006,Robt. Moore,Hughes,,028-11-15,M,W,Tex.,,,R.M. Wickline,,1091,Friends,,,1912-12-09,H200,y
+12005,James,Ford,,073-06-02,M,W,Ky.,,,R.M. Wickline,,1143,Friends,,,1912-12-08,F630,y
+12004,Robt. H.,McCook,,030-00-00,M,W,Tex.,,,R.M. Wickline,,1130,Friends,,,1912-12-06,M200,y
+12003,Minnie (Mrs.),Goldbeck,,057-01-00,F,W,Ill.,,,R.M. Wickline,,,Friends,,,1912-12-04,G431,y
+12028,Wm. B.,Dunham,,064-09-06,M,W,Germ.,,,R.M. Wickline,,366 Sec. 1,Friends,,,1912-12-04,D500,y
+12001,Ike,Williams,,N,M,C,,,,R.M. Wickline,,Colored Grounds,Friends,,,1912-12-04,W452,y
+12002,Infant,Wurtelle,,000-03-00,M,W,Tex,,,R.M. Wickline,,1131 Friends,,,,1912-12-04,W634,y
+12000,Cora L.,Bishop,,N,F,W,Tex,R.M. Wickline,,,,,Friends,,,1912-12-02,B210,y
+11999,M.A. (Mrs.),Hancock,,055-10-26,F,W,Tex,,,R.M. Wickline,,917,Friends,,,1912-12-02,H520,y
+11998,Louis,Geivers,,047-00-00,M,W,Mo.,,,R.M. Wickline,,473,Friends,,,1912-12-01,G162,y
+11997,John,Travino,,018-00-00,M,m,Tex.,,,R.M. Wickline,,City Gr.,,,,1912-11-30,T615,y
+11996,Wm. J,Jones,,000-00-02,M,W,Tex.,,,R.M. Wickline,,824,,,,1912-11-30,J520,y
+11995,J.R.,Rex,,052-09-00,M,W,Tenn.,,,R.M. Wickline,Catholic Cemetery,,,,,1912-11-30,R200,y
+11994,Jose,Sanchez,,000-01-11,M,M,"Austin, Tex.",,,R.M. Wickline,,City Gr.,,,,1912-11-28,S520,y
+11993,C.M.,McGee,,075-00-00,F,W,Ga.,,,R.M. Wickline,Catholic Cemetery,,,,,1912-11-27,M200,y
+11992,J.L.,McDaniel,,048-00-00,M,W,La.,,,R.M. Wickline,Catholic Cemetery,,,,,1912-11-27,M235,y
+12019,Mr.,Schafer,,072-00-00,M,W,Tex.,,,R.M. Wickline,Catholic Cemetery,,Friends,,,1912-11-26,S160,y
+11991,Carl E.,Westling,,021-08-12,M,w,Tex.,,,R.M. Wickline,,923 1/2,,,,1912-11-26,W234,y
+11990,Katie,Schulle,,039-10-07,F,W,Ky.,,,R.M. Wickline,,877,,,,1912-11-25,S400,y
+11989,Annie,Mathiesen,,063-00-00,F,W,Germany,,,R.M. Wickline,,922,,,,1912-11-24,M325,y
+11988,Mabel,Bergstrom,,030-11-03,F,W,Tex.,,,R.M. Wickline,,791,,,,1912-11-24,B623,y
+11984,Ynenco,Revera,,038-00-00,M,M,Mex.,,,R.M. Wickline,,City Gr.,,,,1912-11-23,R160,y
+11987,Virginia,Brady,,058-01-26,F,W,N.C.,,,R.M. Wickline,,1150,,,,1912-11-22,B630,y
+11986,Alonzo,Pennington,,073-02-23,M,C,Tenn.,,,R.M. Wickline,,Colored Grounds,,,,1912-11-22,P523,y
+11983,C.M.,Umschied,,001-00-16,M,W,Tex.,,,R.M. Wickline,Catholic Cemetery,,,,,1912-11-22,U523,y
+11982,Costonio,Gonzales,,056-00-00,F,M,Tex,,,R.M. Wickline,Catholic Cemetery,,,,,1912-11-21,G524,y
+11981,T.,Short,,059-00-00,F,W,,,,R.M. Wickline,Catholic Cemetery,,,,,1912-11-20,S630,y
+11980,W.R.,Robinson,,074-02-00,F,W,,,,R.M. Wickline,,1099,,,,1912-11-20,R152,y
+11979,Sallie,Shiflett,,049-00-18,F,W,Tex.,,,R.M. Wickline,,Old Grounds,,,,1912-11-19,S143,y
+11977,Annie,Bellow,,029-10-13,F,W,Tex.,,,R.M. Wickline,Catholic Cemetery,,,,,1912-11-14,B400,y
+11978,Lillie,Mason,,035-02-25,F,C,Tex.,,,R.M. Wickline,,Colored Grounds,,,,1912-11-13,M250,y
+11985,Louis Pruit,Wade,,007-08-11,M,W,Tex,,,R.M. Wicklin,,1068,,,,1912-11-12,W300,y
+11976,J.S.,De Aria,,033-00-00,F,M,Tex.,,,R.M. Wickline,Catholic Cemetery,,,,,1912-11-11,D600,y
+11975,S.W.,Sanders,,075-00-00,F,W,,,,R.M. Wickline,,1157,,,,1912-11-09,S536,y
+11974,J.H.,Smith,,065-03-09,M,W,Tex.,,,R.M. Wickline,,1131,,,,1912-11-09,S530,y
+11973,J.,Camareno,,060-00-00,M,M,No Record,,,R.M. Wickline,,City Gr.,,,,1912-11-08,C565,y
+11972,Mat.,Cothren,,001-02-27,M,W,Tex.,,,R.M. Wickline,,,,,,1912-11-08,C365,y
+11971,Chas.,Resneshek,,054-00-02,M,W,Germany,,,R.M. Wickline,Catholic Cemetery,,,,,1912-11-08,R252,y
+11970,E.E.,Doughty,,073-09-23,M,W,N.C.,,,R.M. Wickline,,,,,,1912-11-07,D230,y
+11968,A.M.,Smith,,078-10-24,F,W,,,,R.M. Wickline,,,,,,1912-11-05,S530,y
+11969,John E.,Campbell,,000-00-02,M,W,Tex.,,,R.M. Wickline,,1131,,,,1912-11-05,C514,y
+11967,Antonio,Rogers,,003-00-00,M,M,Tex.,,,R.M. Wickline,,,,,,1912-11-04,R262,y
+11966,Zadie,Spiller,,017-08-15,M,W,Tex.,,,R.M. Wickline,,1131,,,,1912-11-04,S146,y
+11965,Sarah,Orr,,083-10-24,F,W,Ohio,,,R.M. Wickline,,,,,,1912-11-03,O600,y
+11964,Infant,Brooks,,N,M,C,Texas,,,R.M. Wickline,,Colored Grounds,,,"Age is given as ""11 hrs.""",1912-10-31,B620,y
+11961,C. (Mrs.),Williams,,022-00-00,F,W,,,,R.M. Wickline,,,,,,1912-10-30,W452,y
+11960,Francis,Murray,,000-00-08,M,W,Texas,,,R.M. Wickline,Catholic,,,,,1912-10-30,M600,y
+11962,Gus,Enstrom,,048-00-18,M,W,Sweden,,,R.M. Wickline,,,,,,1912-10-30,E523,y
+11959,Jno. C. (Mr.),Hill,,038-08-10,M,W,Texas,,,R.M. Wickline,,,,,,1912-10-28,H400,y
+11958,C.W. (Mrs.),Hicks,,076-00-00,F,W,,,,R.M. Wickline,,,,,,1912-10-28,H200,y
+11963,C.N. (Mrs.),Stacy,,047-00-00,F,W,Texas,,,R.M. Wickline,,,,,,1912-10-23,S320,y
+11957,F.G.,Hanstrom,,031-09-13,M,W,Sweden,,,R.M. Wickline,,,,,,1912-10-22,H523,y
+11956,Wm. A.,McDonald,,031-00-00,M,W,Texas,,,R.M. Wickline,,,,,,1912-10-21,M235,y
+11955,Infant,Traugott,,000-00-24,M,W,Texas,,,R.M. Wickline,,,,,,1912-10-20,T623,y
+11954,Infant,Harrison,,000-00-00,M,C,,,,R.M. Wickline,,Colored Grounds,,,,1912-10-20,H625,y
+11953,Lucinda A.,Locke,,065-00-00,F,W,,,,R.M. Wickline,,,,,,1912-10-18,L200,y
+11952,Phillis,Meyer,,059-04-02,F,W,Germany,,,R.M. Wickline,,,,,,1912-10-18,M600,y
+11951,Manuel,Baragus,,060-00-00,M,M,Mexico,,,R.M. Wickline,,,,,,1912-10-18,B620,y
+11940,Henry,Burton,,056-00-00,M,C,Mo.,,,R.M. Wickline,,Colored Grounds,,,,1912-10-17,B635,y
+11950,Cora Alice,Bryant,,036-09-02,F,W,Ohio,,,R.M. Wickline,,,,,,1912-10-16,B653,y
+11939,Antonio,Mex.,,N,M,M,,,,R.M. Wickline,,,City,,,1912-10-16,M200,y
+11949,Horace L.,Pierce,,051-00-00,M,C,Ga.,,,R.M. Wickline,,Colored Grounds,,,,1912-10-14,P620,y
+11948,Louis,Saldana,,N,M,W,Texas,,,R.M. Wickline,,,,,"Age is given as ""16 hrs.""",1912-10-14,S435,y
+11945,Mamie,Phfefflen,,045-02-18,F,W,Ohio,,,R.M. Wickline,,,,,Pfaefflin?,1912-10-13,P450,y
+11946,Gretchen,Breil,,018-00-04,F,W,Texas,,,R.M. Wickline,,,,,,1912-10-13,B640,y
+11947,Victoria,Rodriguez,,018-02-08,F,M,Texas,,,R.M. Wickline,,,City,,,1912-10-13,R362,y
+11943,Jesus,Torres,,068-00-00,M,M,Mexico,,,R.M. Wickline,,,City,,,1912-10-11,T620,y
+11944,Doris,Wayne,,028-00-00,F,W,Mo.,,,R.M. Wickline,,,,,,1912-10-11,W500,y
+11942,Rasalia,Rodriguez,,045-00-00,M,M,Texas,,,R.M. Wickline,,,City,,,1912-10-10,R362,y
+11938,Infant,Wupperman,,000-00-05,M,W,Texas,,,R.M. Wickline,,,,,,1912-10-04,W165,y
+11937,Emma Thresa,Bergsten,,030-21-27,F,W,Sweden,,,R.M. Wickline,,,,,,1912-10-02,B623,y
+11936,Infant,Yamine,,000-00-01,F,N,Texas,,,R.M. Wickline,,,,,"Instead of White, Col. or Mex, color is written in as ""Assyrian"".",1912-10-01,Y500,y
+11935,Virginia,Bayans,,008-00-00,F,W,Texas,,,R.M. Wickline,,,,,,1912-10-01,B520,y
+11934,Virgil A. (Infant),Gregory,,002-00-00,M,W,Tex.,,,R.M. Wickline,,926,Friends,,,1912-09-27,G626,y
+11933,Richard,Krause,,N,M,W,Germany,,,R.M. Wickline,,City Gr.,Friends,,,1912-09-26,K620,y
+11932,William,Rogers,,042-00-00,M,W,Tex.,,,R.M. Wickline,,,Friends,,,1912-09-26,R262,y
+11931,Angy (Mrs.),Smith,,027-00-19,F,W,Tex.,,,R.M. Wickline,,957,,,,1912-09-24,S530,y
+11930,Josephine (Miss),Pinjay,,019-03-16,F,W,Tex.,,,R.M. Wickline,Catholic,,,,"Name may have been spelled ""Pinget"".",1912-09-22,P520,y
+11927,Laura (Mrs.),England,,032-00-00,F,W,,,,R.M. Wickline,,,,,,1912-09-19,E524,y
+11928,John,Hildinger,,067-00-00,M,W,Germany,,,R.M. Wickline,,1014,Friends,,,1912-09-16,H435,y
+11929,M.,Hernandez,,001-01-00,M,M,Tex.,,,R.M. Wickline,,Mex. Gr.,Friends,,,1912-09-16,H653,y
+11924,Evie,Collier,,010-04-14,F,W,Tex.,,,R.M. Wickline,,City Gr.,City,,,1912-09-13,C460,y
+11926,A.W.,Terrell,,086-00-00,M,W,Tex.,,,R.M. Wickline,State Cemetery,,Friends,,,1912-09-11,T640,y
+11925,Layton Yancey,Hancock,,057-00-00,M,W,Va.,,,R.M. Wickline,,993,Friends,,,1912-09-11,H520,y
+11923,Mary Josephine,Durst,,082-00-19,F,W,Tenn.,,,R.M. Wickline,,,Friends,,,1912-09-10,D623,y
+11922,C.C.,Harn,,046-00-00,M,W,Texas,,,R.M. Wickline,,"Sec. 3, 547",Friends,,,1912-09-09,H650,y
+11921,Marguerite,Crozier,,021-01-17,F,W,Mo.,,,R.M. Wickline,,1060,Friends,,,1912-09-08,C626,y
+11920,Infant,Menlunium,,000-00-01,M,M,,,,R.M. Wickline,Catholic,,Friends,,,1912-09-08,M450,y
+11919,Frances,Torres,,001-00-00,F,M,Mexico,,,R.M. Wickline,,City Gr.,City,,,1912-09-07,T620,y
+11918,Mary Allison,Gruber,,050-00-00,F,W,Illinois,,,R.M. Wickline,Catholic,,,,,1912-09-07,G616,y
+11917,Blaza,Rodriguez,,066-00-00,M,M,,,,R.M. Wickline,Catholic,,Friends,,,1912-09-05,R362,y
+11916,T.B. (Dr.),Lee,,073-00-00,M,W,,,,R.M. Wickline,,,,,,1912-09-05,L000,y
+11913,J.W.,Buchanan,,055-00-00,M,W,,,,R.M. Wickline,,922,Friends,,,1912-09-04,B250,y
+11914,Julia,Wroe,,082-00-00,F,W,,,,R.M. Wickline,,979,Friends,,,1912-09-04,W600,y
+11915,Tom,Holland,,060-00-00,M,W,,,,R.M. Wickline,,City Gr.,City,,,1912-09-04,H453,y
+11912,Frank,Raymond,,052-00-00,M,W,,,,R.M. Wickline,,,Friends,,,1912-09-03,R530,y
+11911,James Antonio,Musa,,054-07-12,M,M,,,,R.M. Wickline,,919 1/2,Friends,,,1912-09-01,M200,y
+11910,Jas. S.,Lewis,,077-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-27,L200,y
+11909,Mrs.,Jones,,N,F,W,,,,R.M. Wickline,,,,,,1912-08-27,J520,y
+11908,D.,Rodriguez,,000-08-00,M,M,,,,R.M. Wickline,,,,,,1912-08-26,R362,y
+11907,J.C.,Sheldon,,097-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-26,S435,y
+11906,W.S.,Pate,,008-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-24,P300,y
+11905,Frank,Heierman,,059-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-23,H650,y
+11904,Wm. Geo.,Innes,,035-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-22,I520,y
+11903,Wm.,Mayfield,,035-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-22,M143,y
+11902,Freman,Phelps,,070-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-21,P412,y
+11899,Antonio,Sauler,,000-07-22,M,M,,,,R.M. Wickline,,,,,,1912-08-20,S460,y
+11900,Fred S.,Smith,,069-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-20,S530,y
+11901,Kate M. (Mrs.),Darden,,076-00-00,F,W,,,,R.M. Wickline,,,,,,1912-08-20,D635,y
+11898,Alice (Mrs.),Staniforth,,082-00-00,F,W,,,,R.M. Wickline,,,,,,1912-08-19,S351,y
+11897,J.C.,Brydson,,N,M,W,,,,R.M. Wickline,,,,,,1912-08-18,B632,y
+11896,John,Arce,,N,M,M,,,,R.M. Wickline,,,,,,1912-08-17,A620,y
+11895,Jane M. (Mrs.),Seekatz,,065-00-00,F,W,,,,R.M. Wickline,,,,,,1912-08-17,S320,y
+11894,Sylvester (Dr.),Primer,,069-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-13,P656,y
+11893,Ella (Mrs.),Lancaster,,028-00-00,F,W,,,,R.M. Wickline,,,,,,1912-08-10,L523,y
+11892,Mary,Villareal,,000-03-20,F,M,,,,R.M. Wickline,,,,,,1912-08-09,V464,y
+11891,Jas. A.,Foster,,077-00-00,M,W,,,,R.M. Wickline,,,,,,1912-08-07,F236,y
+11890,L.G. (Mrs.),Illingsworth,,085-00-00,F,W,,,,R.M. Wickline,,,,,,1912-08-06,I452,y
+11889,Vetra,Gatarez,,058-00-00,F,M,,,,R.M. Wickline,,,,,,1912-08-05,G362,y
+11796,F.L.,Allen,,N,,N,,,,R.M. Wickline,,,,,Shipped from Rockdale to Austin.,1912-07-29,A450,y
+11795,W.E.,Harwood,,017-00-00,M,W,Tex.,,,R.M. Wickline,,,,,,1912-07-29,H630,y
+11794,R.R.,Head,,025-00-00,M,W,,,,R.M. Wickline,,Sec. 1 Lot 272,,,,1912-07-29,H300,y
+11793,N.A.,Pickett,,069-10-20,F,W,Ohio,,,R.M. Wickline,,,,,,1912-07-26,P230,y
+11792,E.T.,Moore,,034-11-13,M,W,,,,R.M. Wickline,,,,,,1912-07-25,M600,y
+11791,Cora,Henkels,,057-00-00,F,W,,,,R.M. Wickline,,,,,,1912-07-24,H524,y
+11790,Gust,Has,,035-00-00,M,W,Greece,,,R.M. Wickline,,,,,"In the color column in the ledger, ""Greek"" is written.",1912-07-22,H200,y
+11789,A.,Bercariodez,,036-00-00,F,W,,,,R.M. Wickline,,,County,,,1912-07-20,B626,y
+11788,Emma,Gale,,049-07-16,F,W,Tex.,,,R.M. Wickline,,,,,,1912-07-19,G400,y
+11787,Elmina,Lawson,,073-05-03,F,W,W. Va.,,,R.M. Wickline,,1048,,,north from Glaenel(?) on 11th.,1912-07-19,L250,y
+11786,Elsie,Edds,,001-00-24,F,W,Texas,,,R.M. Wickline,,,,,,1912-07-18,E320,y
+11785,Sophia,Miller,,043-11-14,F,W,Texas,,,R.M. Wickline,,,,,,1912-07-18,M460,y
+11784,Germonio,Martinez,,022-00-00,M,M,Mexico,,,R.M. Wickline,,,City,,,1912-07-16,M635,y
+11783,Antonio,Dabita,,000-00-09,F,M,Texas,,,R.M. Wickline,Catholic,,,,,1912-07-15,D130,y
+11782,Mary,Brueggerhoff,,064-10-22,F,W,Germany,,,R.M. Wickline,,,,,,1912-07-14,B626,y
+11781,Mary,Kennard,,078-00-00,F,C,Ala.,,,R.M. Wickline,,Colored Grounds,,,,1912-07-14,K563,y
+11780,Eugene,Smith,,024-00-00,M,W,Texas,,,R.M. Wickline,,,,,,1912-07-12,S530,y
+11779,Isaac N.,Bonts,,022-01-26,M,W,Texas,,,R.M.Wickline,,,,,,1912-07-12,B532,y
+11778,J.M.,McClain,,021-07-01,M,W,Texas,,,R.M. Wickline,,,,,,1912-07-11,M245,y
+11777,Erika,Johnson,,065-02-03,F,W,Sweden,,,R.M. Wickline,,1166,,,,1912-07-09,J525,y
+11776,Mabel,Simonds,,029-00-00,F,W,,,,R.M. Wickline,,,,,,1912-07-08,S532,y
+11775,C.E.,Lundin,,050-00-00,F,W,No Record,,,R.M. Wickline,,,City,,,1912-07-07,L535,y
+11773,Collitane,Acosta,,000-02-04,F,M,Texas,,,R.M. Wickline,,,City,,,1912-07-06,A230,y
+11774,Chas.,Fortier,,045-07-13,M,W,Texas,,,R.M.Wickline,,,,,,1912-07-04,F636,y
+11772,F.S.,Williams,,026-00-00,F,W,No Record,,,R.M. Wickline,,,,,,1912-07-03,W452,y
+11771,Rosa,Blaschke,,017-02-26,,N,Tex.,R.M. Wickline,,,,,,,,1912-07-03,B420,y
+11770,Antonio,Jayme,,041-00-00,F,W,Mexico,,,R.M. Wickline,Catholic,,,,,1912-07-03,J500,y
+11769,Jas. L,De Witt,,030-00-00,M,W,Tex.,,,R.M. Wickline,,,,,,1912-07-02,D000,y
+11768,E.A. (Mrs.),Bowles,,038-08-26,F,W,Cal.,,,R.M. Wickline,,,,,,1912-07-02,B420,y
+11766,Unknown,Unknown,,065-00-00,F,W,,,,R.M. Wickline,,,City,,,1912-06-30,U525,y
+11767,Victoria,Ramirez,,002-00-00,F,M,,,,R.M. Wickline,Catholic,,,,,1912-06-30,R562,y
+11765,Baby,Malire,,000-00-15,F,W,,,,R.M. Wickline,,,City,,,1912-06-27,M460,y
+11763,Mexican Infant,Unknown,,000-00-01,F,M,Tex.,,,R.M. Wickline,,,City,,,1912-06-26,U525,y
+11764,David,Hernandez,,001-06-13,M,M,Tex.,,,R.M. Wickline,,,,,,1912-06-26,H653,y
+11761,Vincinta,Bernal,,000-02-00,F,M,Tex.,,,R.M. Wickline,Catholic,,,,,1912-06-24,B654,y
+11762,Unknown,Bradford,,N,M,W,,,,R.M. Wickline,,,,,,1912-06-24,B631,y
+11760,W.C.,McGowen,,N,M,W,Tex.,,,R.M. Wickline,,,,,,1912-06-22,M250,y
+11759,Thomas,Perry,,001-03-02,F,M,Tex.,,,R.M. Wickline,,,,,"In spite of the name, the ledger says female, Mexican.",1912-06-20,P600,y
+11758,George,Herzog,,071-03-06,M,W,Germany,,,R.M. Wickline,,,,,,1912-06-19,H620,y
+11756,Unknown,Stewart,,N,M,C,,,,R.M. Wickline,,Colored Grounds,,,,1912-06-18,S363,y
+11757,D.E.,Nunez,,034-08-06,M,W,Tex.,,,R.M. Wickline,,Jewish Cemetery,,,,1912-06-18,N200,y
+11755,Lena,De Luna,,000-11-07,F,M,Tex.,,,R.M. Wickline,,,,,,1912-06-16,D450,y
+11754,A.M.,Robinson,,056-02-06,M,W,Tex.,,,R.M. Wickline,,,,,,1912-06-14,R152,y
+11751,M.A.,Westfall,,082-02-15,F,W,Mo.,,,R.M. Wickline,,,,,,1912-06-13,W231,y
+11752,M.W.,Peterson,,042-04-10,M,W,Minn.,,,R.M. Wickline,,,,,,1912-06-13,P362,y
+11753,Esmereyeledo,Castillo,,000-02-00,M,M,Texasd,,,R.M. Wickline,,,City,,,1912-06-12,C340,y
+11749,L.P.,Clark,,062-05-06,M,W,Penn.,,,R.M. Wickline,,,,,,1912-06-11,C462,y
+11750,L.E.,McGee,,000-01-23,M,W,Tex.,,,R.M. Wickline,,,,,,1912-06-11,M200,y
+11748,J.C.,Lindeman,,N,M,W,,,,R.M. Wickline,,905,,,,1912-06-07,L535,y
+11745,Wolfe,Williams,,092-00-00,M,W,,,,R.M. Wickline,,Jewish Cemetery,,,,1912-06-07,W452,y
+11746,Anaslocis,Garcia,,000-11-30,M,M,Tex.,,,R.M. Wickline,,,,,,1912-06-07,G620,y
+11747,M.,Lafolia,,001-06-01,M,M,Tex.,,,R.M. Wickline,,,,,,1912-06-07,L140,y
+11744,Jessie,Elliott,,063-00-00,F,W,Scotland,,,R.M. Wickline,,926 1/2,,,,1912-06-06,E430,y
+11743,Baby,Baker,,000-00-00,F,W,Tex,,,R.M. Wickline,,,City,,"Age is given as ""2 hours"".",1912-06-03,B260,y
+11741,Henry G.,Madison,,072-00-00,M,C,Tenn.,,,R.M. Wickline,,Colored Grounds,,,,1912-06-02,M325,y
+11742,May Etta,Duffey,,004-00-00,F,W,Tex.,,,R.M. Wickline,,1131,,,,1912-06-02,D100,y
+11740,Sophia,Frank,,070-08-03,F,W,Germany,,,R.M. Wickline,,Jewish Cemetery,,,,1912-06-02,F652,y
+11739,Infant,Blaundina,,N,F,M,Texas,,,R.M. Wickline,Catholic,,,,,1912-05-31,B453,y
+11737,Andre,Almendarez,,000-04-00,F,M,Texas,,,R.M. Wickline,Catholic,,,,,1912-05-30,A453,y
+11738,Ygnacio,Estrada,,017-00-00,M,M,Mexico,,,R.M. Wickline,Catholic,,,,,1912-05-30,E236,y
+11736,Infant,Iconci,,000-03-00,F,M,Texas,,,R.M. Wickline,Catholic,,,,,1912-05-30,I252,y
+11735,M.,Lafolia,,003-08-13,M,W,Texas,,,R.M. Wickline,,,,,,1912-05-28,L140,y
+11734,Glenn H.,Clausson,,000-08-00,M,W,,,,R.M. Wickline,,,,,,1912-05-27,C425,y
+11733,Carl H.,Richter,,000-03-02,M,W,Texas,,,R.M. Wickline,Catholic,,,,,1912-05-26,R236,y
+11732,Leon,Morales,,000-11-00,M,M,Texas,,,R.M. Wickline,,,City,,,1912-05-24,M642,y
+11731,Travis,Parker,,000-08-22,M,W,Texas,,,R.M. Wickline,,,,,,1912-05-23,P626,y
+11730,Louise,Shelly,,001-07-03,F,W,Texas,,,R.M. Wickline,,,,,,1912-05-21,S400,y
+11729,Joe,Slawson,,001-09-03,M,W,Texas,,,R.M. Wickline,,,,,,1912-05-21,S425,y
+11725,Chas.,Stephenson,,041-03-26,M,W,Ark.,,,R.M. Wickline,,,,,,1912-05-19,S315,y
+11727,Dave,Watson,,074-00-00,M,W,U.S.,,,R.M. Wickline,,,City,,,1912-05-19,W325,y
+11726,Bessie,Gregory,,020-07-05,F,C,Texas,,,R.M. Wickline,,Colored Grounds,,,,1912-05-19,G626,y
+11728,John,Weist,,036-00-00,M,W,Not Known,,,R.M. Wickline,,,,,,1912-05-17,W230,y
+11724,Mary E.,McFadden,,010-11-3,F,W,Texas,,,R.M. Wickline,,"Sec. 4, Lot 837 S/E 1/4",,,,1912-05-15,M213,y
+11723,Rosalio,Morales,,076-00-00,M,W,Not Known,,,R.M. Wickline,Catholic,,,,,1912-05-13,M642,y
+11722,Clyde D.,Smith,,037-08-22,M,W,Miss.,,,R.M. Wickline,,,,,,1912-05-12,S530,y
+11720,Baby,Sweedon,,000-00-00,M,W,Texas,,,R.M. Wickline,,,,,,1912-05-09,S350,y
+11721,Victoria,Martinez,,043-00-00,F,M,Mexico,,,R.M. Wickline,,,,,,1912-05-09,M635,y
+11719,Ezequial,Martinez,,050-00-00,M,M,Mexico,,,R.M. Wickline,,,City,,,1912-05-06,M635,y
+11718,Julia,Dunham,,043-00-00,F,W,,,,R.M. Wickline,,,,,,1912-05-04,D500,y
+11717,Elizabeth,McGee,,026-00-00,F,W,Texas,,,R.M. Wickline,,,,,,1912-05-03,M200,y
+11716,Thomas,Inocent,,001-01-00,M,M,Texas,,,R.M. Wickline,,,,,,1912-05-03,I525,y
+11715,T.B.,Bobbitt,,069-00-00,M,W,Miss.,,,R.M. Wickline,,,,,,1912-05-03,B300,y
+11714,Daniel (Infant),Wise,,001-00-00,M,W,Texas,,,R.M. Wickline,,,,,,1912-05-01,W200,y
+11713,F.S. (Mrs.),Haag,,067-05-22,F,W,,,,R.M. Wickline,,1058,Friends,,,1912-04-28,H200,y
+11710,J.M.,Frame,,058-03-28,M,W,,,,R.M. Wickline,,882,Friends,,,1912-04-27,F650,y
+11712,Caroline,Wright,,076-00-00,F,C,,,,R.M. Wickline,,Colored Grounds,Friends,,,1912-04-27,W623,y
+11706,A.B.,Cox,,037-06-00,M,W,,,,R.M. Wickline,,1086,Friends,,Sec. E Lot 124 Space 4.,1912-04-25,C000,y
+11707,J.,Santonia,,N,,M,,,,R.M. Wickline,Catholic,,Friends,,,1912-04-25,S535,y
+11708,Victor A.,Ramberg,,021-00-02,M,W,,,,R.M. Wickline,,890,Friends,,,1912-04-25,R516,y
+11711,Jesus,Lagonia,,014-06-08,M,M,,,,R.M. Wickline,,City Gr.,City,,,1912-04-25,L250,y
+11705,Frank,Torrens,,060-00-0,M,M,,,,R.M. Wickline,,City Gr.,Friends,,,1912-04-24,T652,y
+11709,Francisco,Morales,,000-11-00,M,M,,,,R.M. Wickline,,City Gr.,City,,,1912-04-24,M642,y
+11704,Ido (Mrs.),Keller,,041-06-22,F,W,,,,R.M. Wickline,,,Friends,,,1912-04-23,K460,y
+11703,Ignacio,Bouterz,,009-00-00,M,M,,,,R.M. Wickline,,City Gr.,City,,,1912-04-22,B362,y
+11702,Guy,Lefevere,,022-26-28,M,W,,,,R.M. Wickline,,,Friends,,,1912-04-21,L160,y
+11701,Sam,Lucksinger,,071-00-25,M,W,,,,R.M. Wickline,,915,Friends,,,1912-04-21,L252,y
+11700,Lilllie,Maxwell,,056-05-16,F,W,,,,R.M. Wickline,,1001 (?),Friends,,,1912-04-19,M240,y
+11699,Edwin C.,Cullens,,076-00-02,M,W,,,,R.M. Wickline,Catholic Cemetery,,Friends,,,1912-04-18,C452,y
+11698,Infant,Alley,,000-08-00,M,W,,,,R.M. Wickline,,901,Friends,,,1912-04-18,A400,y
+11697,Infant,Cook,,000-00-00,M,W,,,,R.M. Wickline,,1090,Friends,,,1912-04-18,C000,y
+11695,Caroline (Mrs.),Wuttke,,076-11-07,F,W,,,,R.M. Wickline,,832,,,,1912-04-16,W320,y
+11693,Etta (Mrs.),Dingler,,028-00-00,F,W,,,,R.M. Wickline,,1131,Friends,,,1912-04-15,D524,y
+11696,Louise,Morales,,000-07-00,F,M,,,,R.M. Wickline,,1131 (1731?),Friends,,,1912-04-14,M642,y
+11694,Calitania,Peres,,050-00-00,F,M,,,,R.M. Wickline,Catholic Cemetery,,Friends,,,1912-04-13,P620,y
+11692,Alfonso,Barbosa,,001-06-13,M,M,,,,R.M. Wickline,Catholic Cemetery,,Friends,,,1912-04-12,B612,y
+11691,Rosa,Enriquez,,052-00-00,F,M,,,,R.M. Wickline,,City Gr.,City,,,1912-04-11,E562,y
+11690,David F.,Wright,,074-00-00,M,W,,,,R.M. Wickline,,,Friends,,,1912-04-11,W623,y
+11688,J.B.,Boyd,,069-00-00,M,W,,,,R. M. Wickline,,804,Friends,,,1912-04-10,B300,y
+11687,Emaline,Smith,,032-00-00,F,W,,,,R.M. Wickline,,1131,Friends,,,1912-04-09,S530,y
+11689,Mexican,Unknown,,050-00-00,M,M,,,,R.M. Wickline,,City Gr.,City,,,1912-04-09,U525,y
+11686,Infant,Martinez,,N,,N,,,,R.M. Wickline,,City Gr.,City,,,1912-04-08,M635,y
+11685,Geo. C.,Jacobs,,019-07-22,M,W,,,,R.M. Wickline,Catholic,,Friends,,,1912-04-07,J120,y
+11684,Amanda,Riffe,,047-03-13,F,W,,,,R. M. Wickline,,W. of 918,Friends,,,1912-04-06,R100,y
+11683,Presilio,Martinez,,020-00-00,M,M,,,,R.M. Wickline,,City Gr.,City,,,1912-04-05,M635,y
+11682,James A. (Mr.),Burdett,,056-03-09,M,W,,,,R.M. Wickline,,899,Friends,,"In pencil is written: ""Lot 152 Space 2 Sec E"".",1912-04-04,B630,y
+11681,Lonnie,De Witt,,007-00-00,M,W,,,,R.M. Wickline,,1094,Friends,,,1912-04-01,D000,y
+11680,Amanda E.,Hill,,N,F,W,,,,R.M. Wickline,,,Friends,,,1912-04-01,H400,y
+11679,Lizzie (Mrs.),Smith,,025-00-00,F,W,,,,R.M. Wickline,,1013,Friends,,,1912-04-01,S530,y
+11678,Alvena,Perez,,000-00-02,F,M,,,,R.M. Wickline,Catholic,,,,,1912-03-30,P620,y
+11677,Frank,Scott,,052-01-02,M,W,Texas,,,R.M. Wickline,,"Sec. 3, 1131",,,Sec 3. is written in pencil.,1912-03-28,S300,y
+11675,William,Miller,,N,M,W,,,,R.M. Wickline,,1131,,,,1912-03-27,M460,y
+11676,Emma (Mrs.),Gilberg,,063-00-00,F,W,Sweden,,,R.M. Wickline,,1022,,,,1912-03-26,G416,y
+11674,Julia (Mrs.),Weibacher,,074-00-00,F,W,Germany,,,R.M. Wickline,,,,,,1912-03-22,W126,y
+11672,Jose,Kernamendez,,025-00-11,,N,,,,R.M. Wickline,,City Gr.,,,,1912-03-18,K653,y
+11670,Leoma (Mrs.),Terrance,,037-07-11,F,W,Ind.,,,R.M. Wickline,,969,,,,1912-03-18,T652,y
+11669,James (Mr.),Brem,,052-00-00,M,W,Ireland,,,R.M. Wickline,,1129,,,"The name ""Bran"" is pencilled into the ledger. Looks like Brem.",1912-03-17,B650,y
+11671,Maurice,Solio,,000-09-14,M,M,,,,R.M. Wickline,Catholic,,,,,1912-03-16,S400,y
+11666,Florentino,Salinas,,014-00-00,M,M,,,,R.M. Wickline,Catholic,,,,,1912-03-15,S452,y
+11668,H.R. (Mrs.),Boak,,078-00-00,F,W,New York,,,R.M. Wickline,,,,,,1912-03-15,B200,y
+11667,Aug. (Mrs.),Kluge,,077-00-00,F,W,Germany,,,R.M. Wickline,,901,,,,1912-03-14,K420,y
+11665,Bonnie,Morley,,019-05-19,F,W,Texasd,,,R.M. Wickline,,,,,,1912-03-13,M640,y
+11664,John,King,,081-11-18,M,W,Ky.,,,R.M. Wickline,,884 1/2,,,,1912-03-11,K520,y
+11663,M.A. (Mrs.),Hufford,,071-06-24,F,W,New York,,,R.M. Wickline,,925 1/2,,,,1912-03-10,H163,y
+11662,Bertha,Scott,,028-10-08,F,C,Texas,,,R.M. Wickline,,Colored Grounds,,,,1912-03-08,S300,y
+11660,E.H.,Berryman,,073-04-21,M,W,Sweden,,,R.M. Wickline,,,,,,1912-03-07,B650,y
+11661,Mexican Child,Unknown,,002-06-00,M,M,,,,R.M. Wickline,,City Gr.,,,,1912-03-06,U525,y
+11659,E.P.,Jordan,,049-00-16,M,W,Maine,,,R.M. Wickline,,827 1/2,,,,1912-03-06,J635,y
+11658,Infant,Thiele,,000-00-02,F,W,,,,R.M. Wickline,,,,,,1912-03-05,T400,y
+11657,Mr.,Benson,,N,M,W,,,,R.M. Wickline,,893,,,,1912-03-05,B525,y
+11656,James H.,Robinson,,058-10-00,M,W,Tenn.,,,R.M. Wickline,,,,,,1912-03-04,R152,y
+11655,Ada (Mrs.),Smith,,019-00-00,F,W,Texas,,,R.M. Wickline,,,1029,,,1912-03-03,S530,y
+11654,Infant,Clitancey (?),,N,F,M,,,,R.M. Wickline,Catholic,,,,,1912-03-01,C435,y
+11653,Mary,Worlia,,000-00-12,F,W,Texas,,,R.M. Wickline,Catholic,,,,,1912-03-01,W640,y
+11592,Sarah,Stantley,,066-00-00,M,W,Texas,,,R.M. Wickline,,,,,,1912-02-29,S353,y
+11591,Infant,Churchill,,000-00-00,M,W,Texas,Stillborn,,R.M. Wickline,,,,,,1912-02-28,C624,y
+11590,John A.,Nelson,,001-09-00,M,W,Texas,,,R.M. Wickline,,,,,,1912-02-28,N425,y
+11589,Ann,Millhouse,,089-10-00,F,W,Ohio,,,R.M. Wickline,,,,,,1912-02-26,M420,y
+11588,Josephine,Wagner,,048-00-00,F,W,Texas,,,R.M. Wickline,,,,,,1912-02-23,W256,y
+11587,Robert,Spence,,061-11-16,M,W,Scotland,,,R.M. Wickline,,,,,,1912-02-19,S152,y
+11584,Mary Andery,Sheehan,,000-01-04,F,W,Texas,,,R.M. Wickline,Catholic Cemetery,,,,,1912-02-18,S500,y
+11586,Carroll,O'Banion,,000-00-01,M,W,Texas,,,R.M. Wickline,,,,,,1912-02-18,O150,y
+11585,W.W.,Howard,,061-00-00,M,W,Arkansas,,,R.M. Wickline,,,,,,1912-02-18,H630,y
+11583,Mary,Bjorklund,,082-03-13,F,W,Sweden,,,R.M. Wickline,,808,,,,1912-02-17,B262,y
+11582,Maud,Alexander,,028-00-00,F,C,"Austin, Tx.",,,R.M. Wickline,,Colored Grounds,,,,1912-02-16,A425,y
+11581,Antonio,Blundens,,064-00-00,M,M,Italy,,,R.M. Wickline,Catholic Cemetery,,,,,1912-02-15,B453,y
+11580,Carl,Hanel,,068-10-08,M,W,Germany,,,R.M. Wickline,,,,,,1912-02-13,H540,y
+11579,Barbra,Emmert,,093-03-22,F,W,Germany,,,R.M. Wickline,Catholic,,,,,1912-02-11,E563,y
+11578,Edna Mary,Schulle,,018-00-00,F,W,Ky.,,,R.M. Wickline,,,,,,1912-02-11,S400,y
+11577,John,Schneider,,056-11-06,M,W,Texas,,,R.M. Wickline,,,,,,1912-02-09,S536,y
+11576,Marion P.,Hall,,081-11-00,M,W,Tenn.,,,R.M. Wickline,,,,,,1912-02-08,H400,y
+11575,Irene (Infant),Lehman,,000-00-10,F,W,Texas,,,R.M. Wickline,,,,,,1912-02-06,L500,y
+11573,Martha,McWhorter,,056-00-00,F,W,Tenn.,,,R.M. Wickline,,,,,,1912-02-04,M263,y
+11572,Chas. E.,Smith,,064-01-00,M,W,Texas,,,R.M. Wickline,,,,,,1912-02-04,S530,y
+11574,Mary,Barnum,,063-02-02,F,W,Ala.,,,R.M. Wickline,,,,,,1912-02-04,B650,y
+11571,Henry,Molberg,,018-00-29,M,W,Sweden,,,R.M. Wickline,,,,,,1912-02-01,M416,y
+11570,C.P.,Leach,,042-00-00,M,W,Not Known,,,R.M. Wickline,,,,,,1912-02-01,L200,y
+11568,Mr.,Cramer,,N,M,W,,,,R.M. Wickline,,,,,,1912-01-31,C656,y
+11567,Jacob E.,Leser,,038-00-00,M,W,,,,R.M. Wickline,,,,,,1912-01-30,L260,y
+11566,J.B.,Billeson,,063-00-00,M,W,,,,R.M. Wickline,,,,,,1912-01-28,B425,y
+11565,L.M. (Mrs.),Hubbard,,069-09-02,F,W,Porto Rico,,,R.M. Wickline,,,,,,1912-01-24,H163,y
+11564,Cecily (Miss),Flume,,019-00-10,F,W,Texas,,,R.M. Wickline,,,,,,1912-01-24,F450,y
+11563,Mrs.,Strain,,N,F,C,,,,R.M. Wickline,,,,,,1912-01-23,S365,y
+11562,Infant,Basford,,N,,N,,,,R.M. Wickline,,,,,,1912-01-22,B216,y
+11561,Martin V.B.,Crenshaw,,072-06-11,M,W,Georgia,,,R.M. Wickline,,,,,,1912-01-21,C652,y
+11560,Jene (Mrs.),Shelton,,032-06-01,F,W,,,,R.M. Wickline,,,,,,1912-01-21,S435,y
+11559,Matilda,Doerntke,,038-00-00,F,W,Texas,,,R.M. Wickline,,,,,,1912-01-20,D653,y
+11558,Nancy M.,Morrison,,068-00-13,F,W,,,,R.M. Wickline,,,,,,1912-01-17,M625,y
+11557,Joe (Infant of),Rio,,006-00-00,F,M,Texas,,,R.M. Wickline,,,,,,1912-01-16,R000,y
+11555,Dianna S.,Plumb,,062-00-00,F,W,Not Known,,,R.M. Wickline,,"Sec. 3, 1122 1/2",,,,1912-01-15,P451,y
+11556,J.E.,Blum,,040-10-04,M,W,Mexico,,,R.M. Wickline,,1131,,,,1912-01-15,B450,y
+11554,Helen Roe,Myler,,000-00-00,F,W,"Austin, Tex.",Stillborn,,R.M. Wickline,,,,,,1912-01-14,M460,y
+11552,E.C.,Lindeman,,038-04-12,M,W,Texas,,,R.M. Wickline,,,,,,1912-01-13,L535,y
+11553,John L.,Hart,,016-04-06,M,W,Texas,,,R.M. Wickline,,,,,"Note in Oakwood ledger reads: ""Feb.6 - Removed the body of John Hart from lot No.1131 in Oakwood Cemetery to lot No. 1087 in Oakwood Cemetery."" (Same John Hart?)",1912-01-13,H630,y
+11548,Frank,Spessinger,,087-00-00,M,W,,,,R.M. Wickline,,,,,,1912-01-10,S125,y
+11549,Baby,Jones,,000-00-00,M,W,Texas,Stillborn,,R. M. Wickline,,,,,,1912-01-10,J520,y
+11550,Nancy,Givens,,060-00-00,F,W,Texas,,,R. M. Wickline,,,,,,1912-01-10,G152,y
+11551,Nancy,Givens,,060-00-00,F,W,Ky.,,,R. M. Wickline,,,,,,1912-01-10,G152,y
+11569,Willie,Thoresen,,001-02-23,M,W,Germany,,,R.M. Wickline,,,,,,1912-01-07,T625,y
+11547,S. G.,Wilson,,059-02-04,M,W,Mo.,,,R.M. Wickline,,,,,,1912-01-03,W425,y
+12137,Mrs. L.,Gerhard,,060-00-00,F,W,Ohio,,,R. M. Wickline,,,,,,1911-12-29,G630,y
+12136,Alexander,Morgan,,098-00-00,M,W,Unknown,,,R. M. Wickline,,,county,,,1911-12-28,M625,y
+12135,J. C.,McKee,,059-01-23,M,W,Texas,,,R. M. Wickline,,,,,,1911-12-28,M200,y
+12134,Thomas,McWhorter,,027-00-00,M,W,Texas,,,R. M. Wickline,,,,,,1911-12-26,M263,y
+12133,Fred,Sterzing,,027-06-01,M,W,"Austin, Tex.",,,R. M. Wicklne,,,,,,1911-12-26,S362,y
+12131,Mrs. M. A.,McClure,,078-06-24,F,W,Germany,,,R. M. Wickline,,,,,,1911-12-25,M246,y
+12132,Harriett A.,McCrilles,,074-09-05,F,W,Ill.,,,R. M. Wickline,,,,,,1911-12-25,M264,y
+12130,N,Unknown,,N,,N,,,,R. M. Wickline,,Colored Grounds,,,(no other information given),1911-12-24,U525,y
+12129,Helen,Powell,,030-10-24,F,W,Texas,,,R. M. Wickline,,,,,,1911-12-23,P400,y
+12128,Ada,Vanuxem,,083-10-09,F,W,Ohio,,,R. M. Wickline,,,,,,1911-12-21,V525,y
+12127,Claude,Sibley,,N,M,W,,,,R. M. Wickline,,,,,,1911-12-19,S140,y
+12126,E. G.,Ferrell,,018-00-00,M,W,Texas,,,R. M. Wickline,,,city,,,1911-12-17,F640,y
+12125,Mr.,Huppertz,,062-03-27,M,W,Germany,,,R. M. Wickline,,,city,,,1911-12-15,H163,y
+12123,Tony,Wicks,,044-11-00,,N,Gonzales Co.,,,R. M. Wickline,,Colored Grounds,,,,1911-12-14,W200,y
+12124,Inez,Frick,,028-08-27,F,W,Texas,,,R. M. Wickline,,979,,,,1911-12-14,F620,y
+12121,Margareto,Gayton,,055-00-00,F,M,Mex.,,,R. M. Wickline,,,city,,,1911-12-11,G350,y
+12122,S. W.,Eisold,,070-05-15,M,W,Germany,,,R. M. Wickline,,,,,,1911-12-11,E243,y
+12120,Ida May,Clinefelter,,N,F,W,Ohio,,,R. M. Wickline,,,,,,1911-12-10,C451,y
+12119,G. M.,Myler,,062-11-11,M,W,Kansas/Iowa?,,,R. M. Wickline,,,,,,1911-12-08,M460,y
+12118,Leah Bell,Copes,,055-05-18,F,W,Texas,,,R. M. Wickline,,,,,,1911-12-08,C120,y
+12117,Infant of A.,Dalton,,000-00-00,F,W,"Austin, Tex.",Stillborn,,R. M. Wickline,,,,,,1911-12-07,D435,y
+12114,J. S.,Bowles,,069-02-12,M,W,Texas,,,R. M. Wickline,,lot 290,,,,1911-12-05,B420,y
+12115,S. J.,Pittman,,078-04-00,F,W,Ga.,,,R. M. Wickline,,,,,,1911-12-05,P350,y
+12113,Fritz,Loeschmann,,071-00-00,M,W,Germany,,,R. M. Wickline,,,,,,1911-12-04,L250,y
+12116,Chas.,Hoeble,,062-00-00,M,W,Germany,,,R. M. Wickline,,,city,,,1911-12-03,H140,y
+12112,Vincent,Dooley,,069-00-00,M,W,Ireland,,,R. M. Wickline,,Cath.,,,,1911-12-03,D400,y
+12111,Feliciana,Garcia,,N,M,M,Mexico,,,R. M. Wickline,,Cath.,,,,1911-12-02,G620,y
+12108,Infant S. L.,Dailey,,000-04-10,M,W,Texas,,,R. M. Wickline,,,,,,1911-11-29,D400,y
+12107,Betsy,Madison,,096-00-00,F,N,Tenn.,,,R. M. Wickline,,Col. gr,,,,1911-11-28,M325,y
+12106,Mary,Kennerly,,055-00-28,F,W,South C.,,,R. M. Wickline,,,,,,1911-11-27,K564,y
+12105,Mary,Simpson,,070-07-09,F,W,Ken.,,,R. M. Wickline,,,,,,1911-11-27,S512,y
+12104,S. L.,Moffett,,066-01-14,M,W,North C.,,,R. M. Wickline,,,,,,1911-11-26,M130,y
+12110,Robert,Innes,,083-10-14,M,W,Va.,,,R. M. Wickline,,,,,,1911-11-25,I520,y
+12109,Rhodes,"Fisher, Jr.",,032-00-00,M,W,Not known,,,R. M. Wickline,,,,,,1911-11-25,F262,y
+12103,J. W.,Patzelt,,030-03-25,M,W,Germany,,,R. M. Wickline,,,,,,1911-11-24,P324,y
+12102,Bessie,Leser,,036-00-00,F,W,Texas,,,R. M. Wickline,,,,,,1911-11-23,L260,y
+12100,J. M,Earnest,,062-06-02,M,W,Tenn.,,,R. M. Wickline,,,,,,1911-11-22,E652,y
+12101,Mrs. F.,Moore,,070-04-10,F,W,England,,,R. M. Wickline,,,,,,1911-11-22,M600,y
+12098,Mrs. M. A.,Cottrell,,067-08-03,F,W,Miss,,,R. M. Wickline,,,,,,1911-11-21,C364,y
+12099,G.,Garcos,,038-00-00,F,M,Mexico,,,R. M. Wickline,,,city,,,1911-11-21,G620,y
+12095,Mrs. Jennie,Lester,,044-02-26,F,W,Ga.,,,R. M. Wickline,,1131,,,,1911-11-20,L236,y
+12096,Ruth,Bailey,,024-01-21,F,W,Tex,,,R. M. Wickline,,800 1/2,,,,1911-11-20,B400,y
+12097,Laura,Wilson,,083-00-00,F,W,Sweden,,,R. M. Wickline,,,,,,1911-11-20,W425,y
+12094,Mike,Oats,,060-00-00,M,W,Unknown,,,R. M. Wickline,,,city,,,1911-11-19,O320,y
+12093,Henry,Ribbock,,070-02-00,M,W,Germany,,,R. M. Wickline,,,,,,1911-11-19,R120,y
+12092,Wm,Earnest,,088-00-00,M,W,Alabama,,,R. M. Wickline,,,,,,1911-11-18,E652,y
+12090,A. R.,Smith,,028-00-00,M,W,Tex,,,R. M. Wickline,,,,,,1911-11-17,S530,y
+12091,D. M.,Bogles,,050-10-16,M,W,Miss,,,R. M. Wickline,,"sec 2, 813 1/2",,,,1911-11-17,B242,y
+12088,Helen E.,Bohn,,000-06-05,F,W,"Austin, Tex",,,R. M. Wickline,,,,,,1911-11-15,B500,y
+12089,Infant,Wuertle,,000-04-09,M,W,"Austin, Tex",,,R. M. Wickline,,,,,,1911-11-15,W634,y
+14567,E B,Carruth,,080-01-25,M,W,Miss,,,R. M. Wickline,,1059,,,,1911-11-14,,n
+14565,Mrs M C,Johnson,,051-11-03,M,W,Sweden,,,R. M. Wickline,,,,,,1911-11-12,,n
+14566,Alferd A,Young,,001-02-23,M,M,Tex,,,R. M. Wickline,,,,,,1911-11-12,,n
+14564,Mrs. C O,Weller,,058-11-13,F,W,Tex,,,R. M. Wickline,,,,,,1911-11-07,,n
+14562,Simon,Ranuriz Ramirez,,000-08-15,M,W,Mexico,,,R. M. Wickline,,,,,,1911-11-06,,n
+14563,Felix,Burgess,,058-03-02,M,W,Tex,,,R. M. Wickline,,,,,,1911-11-06,,n
+14561,Dr C O,Weller,,069-11-19,M,W,Tenn,,,R. M. Wickline,,,,,,1911-11-05,,n
+10973,Aug E.,Huppertz,,046-00-00,M,W,Germany,,,R. M. Wickline,,,,,,1911-11-01,H163,y
+11888,Joe,Balge,,019-00-00,M,M,Texas,,,R. M. Wickline,,Catholic gr,,,,1911-10-31,B420,y
+11887,Virginia P,Lucy (Lucio),,032-00-00,F,M,Mexico,,,R. M. Wickline,,Catholic gr,,,,1911-10-30,L242,y
+11884,Sam,Goodman,,040-00-00,M,W,Texas,,,R. M. Wickline,,,,,,1911-10-29,G350,y
+11886,Incarnacion,Olguin,,045-00-00,M,M,Mexico,,,R. M. Wickline,,Catholic gr,,,,1911-10-28,O425,y
+11885,Baby,Gonzales,,000-00-05,M,M,Texas,,,R. M. Wickline,,Catholic gr,,,,1911-10-28,G524,y
+11883,Mr.,Crow,,026-00-00,M,W,,,,R. M. Wickline,,828 1/2,,,,1911-10-27,C600,y
+11880,Mrs. Mary,Holler,,042-00-00,F,W,,,,R. M. Wickline,,1010,,,,1911-10-23,H460,y
+11881,E. B.,Briggs,,061-11-16,M,W,Tenn,,,R. M. Wickline,,1131,,,,1911-10-23,B620,y
+11882,Mrs. L. S.,Ball,,041-00-00,F,W,Texas,,,R. M. Wickline,,,,,,1911-10-23,B400,y
+11879,A. B.,Daly,,059-00-13,M,W,Texas,,,R. M. Wickline,,,,,,1911-10-22,D400,y
+11878,T. P.,Robinson,,068-05-17,M,W,Alabama,,,R. M. Wickline,,,,,,1911-10-21,R152,y
+11877,Miss H.,Hallman,,027-09-07,F,W,Texas,,,R. M. Wickline,,,,,,1911-10-20,H450,y
+11876,Mr.,Freeman,,080-00-00,M,W,,,,R. M. Wickline,,,,,,1911-10-18,F650,y
+11875,Jesus,Ramirez,,060-00-00,M,M,Unknown,,,R. M. Wickline,,,city,,,1911-10-17,R562,y
+11872,Infant of Aug,Furhman,,000-00-00,M,W,Texas,stillborn,,R. M. Wickline,,1094,,,,1911-10-15,F650,y
+11873,Walter,Nickles,,052-00-00,M,W,,,,R. M. Wickline,,1165,,,,1911-10-15,N242,y
+11871,Infant of J. T.,Schumack,,000-05-00,M,W,Texas,,,R. M. Wickline,,1131,,,,1911-10-15,S520,y
+11874,Mrs. Clara,Kidd,,066-10-04,F,W,"Dallas, Tex",,,R. M. Wickline,,,,,,1911-10-12,K300,y
+11869,Infant,Price,,000-08-00,M,W,Texas,,,R. M. Wickline,,,,,,1911-10-11,P620,y
+11870,Rodes,Fisher,,078-08-00,M,W,Texas,,,R. M. Wickline,,,,,,1911-10-11,F260,y
+11868,Julia,Hernandez,,021-01-01,F,M,Texas,,,R. M. Wickline,,1167,,,,1911-10-10,H653,y
+11867,Infant of R. S.,Owens,,000-00-10,F,W,Texas,,,R. M. Wickline,,,,,,1911-10-06,O520,y
+11866,Miss L. E.,Mathews,,042-00-00,F,W,Texas,,,R. M. Wickline,,1045,,,,1911-10-06,M320,y
+11864,Mrs. S. E.,Ennis,,082-00-14,F,W,Ky,,,R. M. Wickline,,1124,,,,1911-10-04,E520,y
+11862,C. C.,Bowen,,042-08-20,M,W,"Dallas, Tex",,,R. M. Wickline,,,,,,1911-10-04,B500,y
+11865,Infant,Stokes,,000-00-00,M,W,Texas,stillborn,,R. M. Wickline,,,,,,1911-10-04,S320,y
+11861,Mrs. S. E.,Hancock,,082-03-02,F,W,Texas,,,R. M. Wickline,,,,,,1911-10-03,H520,y
+11863,Infant of D. C.,Miller,,000-08-13,M,W,Texas,,,R. M. Wickline,,,,,,1911-10-02,M460,y
+11860,Mrs. M. C.,Johnson,,056-00-15,F,W,Texas,,,R. M. Wickline,,,,,,1911-10-02,J525,y
+11859,Mrs. Clatt,Lucy,,N,,N,,,,R. M. Wickline,,1070,friends,,,1911-09-28,L200,y
+11858,Mrs.,Wolley,,N,,N,,,,R. M. Wickline,,1166,friends,,,1911-09-26,W400,y
+11857,Mrs. Carrie C.,Smith,,041-00-00,F,W,,,,R. M. Wickline,,1167,friends,,,1911-09-26,S530,y
+11853,John F.,Gest,,041-07-03,M,W,Germany,,,R. M. Wickline,,1163,friends,,,1911-09-25,G300,y
+11854,John F.,Gest,,041-07-03,M,W,Germany,,,R. M. Wickline,,1163,friends,,,1911-09-25,G300,y
+11855,Mrs. Mary,Crawford,,N,F,W,Texas,,,R. M. Wickline,,906,friends,,,1911-09-25,C616,y
+11856,Mrs.,Bradley,,N,F,W,,,,R. M. wickline,,906,friends,,,1911-09-25,B634,y
+11851,S. D.,Payne,,067-00-00,M,W,North Carolina,,,R. M. Wickline,,1089,friends,,,1911-09-21,P500,y
+11850,Joe,Emmert,,022-00-00,M,W,Houston,,,R. M. Wickline,,Catholic cemetery,friends,,,1911-09-20,E563,y
+11852,Robert Lee,Tullous,,038-06-00,M,W,Texas,,,R. M. Wickline,,1167,friends,,,1911-09-20,T420,y
+11849,Hessa Van,Smith,,N,,N,Texas,,,R. M. Wickline,,1134,friends,,,1911-09-18,S530,y
+11848,Louise,Barra,,078-00-00,F,M,Mexico,,,R. M. Wickline,,Mexican gr,friends,,,1911-09-17,B600,y
+11847,J. B.,Fisher,,050-21-00,M,W,Texas,,,R. M. Wickline,,Catholic cemetery,friends,,,1911-09-16,F260,y
+11845,Dora,Allen,,030-00-00,F,W,Texas,,,R. M. Wickline,,,friends,,,1911-09-15,A450,y
+11846,Mrs. Dodo,Kirkland,,042-07-24,F,W,Texas,,,R. M. Wickline,,1167,friends,,,1911-09-15,K624,y
+11844,Mrs. Caroline,Koppel,,069-09-07,F,W,,,,R. M. Wickline,,old Jewish yard,friends,,,1911-09-14,K140,y
+11843,Mrs. Susan Nowlin,Randolph,,081-01-00,F,W,Missouri,,,R. M. Wickline,,,friends,,,1911-09-13,R534,y
+11493,Mrs. Margaret,Jackson,,076-00-00,F,N,Louisiana,,,R. M. Wickline,,Colored ground,friends,,,1911-09-12,J500,y
+11842,W.,Farrigan,,045-00-00,M,W,Conn,,,R. M. Wickline,,1167,friends,,,1911-09-11,F625,y
+11841,John F.,Moore,,060-00-00,M,W,Miss,,,R. M. Wickline,,1166,friends,,,1911-09-11,M600,y
+11840,William,Roberts,,050-00-00,M,W,,,,R. M. Wickline,,city gr,city,,,1911-09-10,R163,y
+11838,N,McKinney,,N,,N,,,,R. M. Wickline,,1094,friends,,,1911-09-02,M250,y
+11837,Louise,Gest,,001-09-00,F,W,Texas,,,R. M. Wickline,,1166,friends,,,1911-09-01,G300,y
+11834,Mary Bell,Braxton,,028-11-18,F,N,"Austin, Tex",,,R. M. Wickline,,Colored Grounds,,,,1911-08-29,B623,y
+11836,Hattie,Stewart,,001-07-15,F,N,"Austin, Tex",,,R. M. Wickline,,Colored Grounds,,,,1911-08-26,S363,y
+11833,Carvin E.,Miller,,077-00-00,M,W,Va,,,R. M. Wickline,,,city,,,1911-08-26,M460,y
+11832,Addie,Howard,,000-00-06,F,W,"Austin, Tex",,,R. M. Wickline,,,city,,,1911-08-22,H630,y
+11831,Laura E.,Millett,,063-11-02,F,W,Col. Miss.,,,R. M. Wickline,,,,,,1911-08-21,M430,y
+11830,Carmen,Flores,,075-00-00,F,M,Mexico,,,R. M. Wickline,,,,,,1911-08-21,F462,y
+11829,Louise H.,Robinson,,073-11-09,F,W,La,,,R. M. Wickline,,,,,,1911-08-21,R152,y
+11828,C. S.,Morrison,,071-07-26,M,W,N Carolina,,,R. M. Wickline,,,,,,1911-08-20,M625,y
+11827,Jno A,Ryols,,047-00-00,M,W,Ala,,,R. M. Wickline,,,,,,1911-08-19,R420,y
+11835,Lyman,Pennock,,077-00-00,M,W,Ireland,,,R. M. Wickline,,,city,,,1911-08-18,P520,y
+11826,Wade M.,Smith,,057-10-26,M,W,Tex,,,R. M. Wickline,,,,,,1911-08-17,S530,y
+11825,Jno Palmer,Kirk,,071-10-08,M,W,Penn,,,R. M. Wickline,,,,,,1911-08-14,K620,y
+11824,Mr.,Smith,,N,M,W,,,,R. M. Wickline,,,,,,1911-08-12,S530,y
+11823,R. B.,Vaughan,,047-06-00,M,W,Tex,,,R. M. Wickline,,,,,,1911-08-11,V250,y
+11822,Ida May,Roberts,,022-00-10,F,W,Tex,,,R. M. Wickline,,,,,,1911-08-10,R163,y
+11821,Ms. Lizzie,Stacy,,031-05-29,F,W,Tex,,,R. M. Wickline,,,,,,1911-08-10,S320,y
+11819,Mary K,Horbert,,003-02-28,F,N,Tex,,,R. M. Wickline,,Colored Grounds,,,,1911-08-08,H616,y
+11820,Wm H,Hearn,,022-00-05,M,W,Tex,,,R. M. Wickline,,,,,,1911-08-07,H650,y
+11839,Kasmso,Vega,,050-06-00,M,M,Mexico,,,R. M. Wickline,,Mexican gr,friends,,,1911-08-05,V200,y
+11818,N,Johnson,,N,,N,,,,R. M. Wickline,,,,,,1911-08-05,J525,y
+11817,Mrs. Aug,Frechel,,N,,N,,,,R. M. Wickline,,"sec 1, lot12",,,,1911-08-04,F624,y
+11816,Mrs. Lizzie,Burdette,,062-00-00,F,W,Illinois,,,R. M. Wickline,,,,,,1911-08-02,B630,y
+11814,Elizabeth,Pace,,087-03-04,F,W,Ky,,,R. M. Wickline,,,,,,1911-07-29,P200,y
+11811,Emma May,Brown,,032-00-00,F,W,Texas,,,R. M. Wickline,,,,,,1911-07-26,B650,y
+11815,James,Walters,,075-00-00,M,W,,,,R. M. Wickline,,,,,,1911-07-24,W436,y
+11812,Margarete,Rays (Reyes),,N,F,M,don't known,,,R. M. Wickline,,,city,,,1911-07-24,R262,y
+11809,Henry,Bush,,053-00-00,M,W,Germany,,,R. M. Wickline,,,city,,,1911-07-22,B200,y
+11813,Baby,Earnest,,000-00-06,F,W,Travis Co.,,,R. M. Wickline,,,,,,1911-07-22,E652,y
+11810,Mary,Bruck,,060-08-00,F,W,Germany,,,R. M. Wickline,,,,,,1911-07-22,B620,y
+11808,Antonio,Unknown,,121-00-00,M,M,Not known,,,R. M. Wickline,,,city,,,1911-07-16,U525,y
+11807,Geo S.,Piper,,060-00-00,M,W,Not known,,,R. M. Wickline,,,city,,,1911-07-16,P600,y
+11806,Mary,Fayad,,001-00-20,F,W,"Austin, Tex",,,R. M. Wickline,,,city,,,1911-07-15,F300,y
+11805,Felis (Infant),Solis,,N,M,M,"Austin, Tex",,,R. M. Wickline,,Catholic,,,,1911-07-14,S420,y
+11804,Samuel S.,Burnap,,081-02-22,M,W,Ohio,,,R. M. Wickline,,,,,,1911-07-14,B651,y
+11803,W. W.,Jackson,,023-04-12,M,W,Texas,,,R. M. Wickline,,,,,,1911-07-13,J500,y
+11625,R. E.,Stromberg,,N,,N,,,,,,831,,,removed the body of Mr. H. P. Stromberg's father from lot #920 to #831,1911-07-12,S365,y
+11802,Robert,Burdette,,072-00-00,M,N,not known,,,R. M. Wickline,,Colored Grounds,,,,1911-07-12,B630,y
+11801,Celia,Gonzales,,082-00-00,F,M,Mexico,,,R. M. Wickline,,Catholic,,,,1911-07-08,G524,y
+11800,Fritz,Ehlers,,080-00-00,M,W,Germany,,,R. M. Wickline,,,,,,1911-07-07,E462,y
+11799,C. A.,Satterwhite,,052-01-07,M,W,Michigan,,,R. M. Wickline,,,,,,1911-07-07,S363,y
+11798,Mrs. J. F.,Stinson,,045-00-00,F,W,Texas,,,R. M. Wickline,,,,,,1911-07-06,S352,y
+11797,Jamie,Reyes,,000-07-23,M,M,"Austin, Tex",,,R. M. Wickline,,,city,,,1911-07-02,R200,y
+11488,Infant,Kingston,,000-00-00,,W,"Austin, Tex",Stillborn,,R. M. Wickline,,1092,city,,,1911-07-02,K523,y
+11652,Mrs.,Wodward,,038-00-00,F,W,,,,R. M. Wickline,,1096,,,,1911-06-29,W363,y
+11648,Mr.,Turner,,045-00-00,M,W,Unknown,,,R. M. Wickline,,,,,,1911-06-29,T656,y
+11649,Mrs.,Maupin,,069-08-00,F,W,Missouri,,,R. M. Wickline,,,,,,1911-06-28,M150,y
+11650,Josephine,Rose,,043-10-16,F,N,"Travis Co, Tex",,,R. M. Wickline,,Colored ground,,,,1911-06-28,R200,y
+11647,Unknown,child,,000-00-00,M,W,Unknown,stillborn,,R. M. Wickline,,,,,,1911-06-27,C430,y
+11646,Ms. Daisie,Boves,,028-00-00,F,W,"El Paso, Tex",,,R. M. Wickline,,"sec 2, 565",,,,1911-06-26,B200,y
+11651,Mr.,Peterson,,036-00-00,M,W,,,,R. M. Wickline,,,,,,1911-06-24,P362,y
+11624,Aug,Bloomquist,,N,,N,,,,,,1058,,,removed the body from lot #1095 to #1058,1911-06-22,B452,y
+11644,Geo W.,Allen,,042-02-00,M,W,Georgia,,,R. M. Wickline,,1087,,,"location changed to sec 1, lot 272",1911-06-21,A450,y
+11645,Rosa,Sherman,,037-00-00,F,W,Alabama,,,R. M. Wickline,,,,,,1911-06-21,S650,y
+11643,Infant,Blackstone,,000-00-00,F,W,"Austin, Tex",stillborn,,R. M. Wickline,,1090,,,,1911-06-20,B423,y
+11642,Ellen,Berrill,,077-00-00,F,W,Missouri,,,R. M. Wickline,,,,,,1911-06-18,B640,y
+11623,Infant,Wolf,,N,,N,,,,,Oakwood,938,,,moved the body from the cuntry to lot 938,1911-06-17,W410,y
+11641,Mrs. Rose,Holly,,061-02-27,F,W,Ireland,,,R. M. Wickline,,,,,,1911-06-16,H400,y
+11631,Mary,Smith,,056-00-00,F,W,Europe,,,R. M. Wickline,,,,,,1911-06-15,S530,y
+11640,T.,Risner,,066-01-02,M,W,Germany,,,R. M. Wickline,,,,,,1911-06-12,R256,y
+11639,Mrs.,Weyerman,,054-00-00,F,W,Switzerland,,,R. M. Wickline,,,,,,1911-06-12,W650,y
+11638,F. R.,Williams,,059-00-00,M,W,Illinois,,,R. M. Wickline,,,,,,1911-06-10,W452,y
+11636,Mr.,Walden,,075-01-17,M,W,Kentucky,,,R. M. Wickline,,,,,,1911-06-09,W435,y
+11637,Mr.,Howard,,036-03-23,M,W,"Denver, Col",,,R. M. Wickline,,1166,,,,1911-06-09,H630,y
+11634,Dr.,Mathews,,062-10-00,M,W,Ireland,,,R. M. Wickline,,,,,,1911-06-07,M320,y
+11635,Ms.,Dinkins,,073-11-07,F,W,Mobile,,,R. M. Wickline,,,,,,1911-06-07,D525,y
+11633,Mrs.,Zimmerman,,079-02-26,F,W,Germany,,,R. M. Wickline,,,,,,1911-06-05,Z565,y
+11632,Augrella,Pena,,041-03-00,M,M,Mexico,,,R. M. Wickline,,Catholic ground,,,,1911-06-04,P500,y
+11630,Joe,Bufone,,036-00-00,M,M,Italy,,,R. M. Wickline,,Cathlic ground,,,,1911-06-04,B500,y
+11629,Mr.,Winkie,,065-04-02,M,W,Germany,,,R. M. Wickline,,1166,,,,1911-06-04,W520,y
+11628,Miss,Story,,074-00-00,F,W,Texas,,,R. M. Wickline,,Catholic ground,,,,1911-06-03,S360,y
+11627,Aurthur,Kaiser,,035-00-18,M,W,Texas,,,R. M. Wickline,,1166,,,,1911-06-02,K600,y
+11626,Geo,Ash,,029-07-07,M,W,"Rusk Co., Tex",,,R. M. Wickline,,1092,,,,1911-06-01,A200,y
+11621,Infant,Maxwell,,000-00-00,F,W,"Austin, Tex",stillborn,,,R. M. Wickline,,,,,1911-05-30,M240,y
+11544,Margaret,Griffin,,N,,N,,,,,Oakwood,,,,Removed the remains from one position to another as he directed on lot 876.,1911-05-30,G615,y
+11620,Felisita,Reyes,,005-11-04,F,M,Texas,,,R. M. Wickline,,,city,,,1911-05-28,R200,y
+11619,Wm Austin,Bowles,,041-00-00,M,W,Ohio,,,R. M. Wickline,,1029,,,,1911-05-28,B420,y
+11543,Mary,Baumert,,N,,N,,,,,,,,,removed remains from lot 268 in Catholic Cemetery to lot 267 in Catholic Cemetery,1911-05-26,B563,y
+11618,Edward,Eppley,,065-00-00,F,W,Unknown,,,R. M. Wickline,,1029,,,,1911-05-25,E140,y
+11545,Mr.,Henricks,,N,,N,,,,,Oak,,,,Removed from one position to another same lot.,1911-05-24,H562,y
+11542,Jno,Kempe,,N,,N,,,,,Oakwood,,,,removed body and infant from lot 761 to lot 1069,1911-05-23,K510,y
+11617,Marie,Cortina,,038-00-00,F,M,Texas,,,R. M. Wickline,,,city,,,1911-05-22,C635,y
+11615,Lizzie,Haynes,,035-00-05,F,W,Ohio,,,R. M. Wickline,,Cathlic ground,,,,1911-05-21,H520,y
+11616,Evelyn,Clayton,,003-05-23,F,W,Texas,,,R. M. Wickline,,1094,,,,1911-05-20,C435,y
+11612,Sam,Raby,,016-00-00,M,W,Unknown,,,R. M. Wickline,,1029,,,,1911-05-19,R100,y
+11611,Mary G.,Groves,,023-05-24,F,M,"Laredo, Tex",,,R. M. Wickline,,Catholic cemetery,,,,1911-05-19,G612,y
+11610,M. Isabella,Cameron,,029-07-17,F,W,Texas,,,R. M. Wickline,,,,,,1911-05-18,C565,y
+11609,Collie,Davis,,033-02-06,F,N,Texas,,,R. M. Wickline,,Colored ground,,,,1911-05-18,D120,y
+11613,Caterina,Rayno,,019-00-00,M,M,Mexico,,,R. M. Wickline,,,city,,,1911-05-18,R500,y
+11614,Petra,Escalante,,064-00-00,F,M,Mexico,,,R. M. Wickline,,,city,,,1911-05-18,E245,y
+11608,Michel,Paggi,,072-00-00,M,W,Italy,,,R. M. Wickline,,,,,,1911-05-17,P200,y
+11607,Infant,Weedke,,000-10-00,M,W,"Austin, Tex",,,R. M. Wickline,,1029,,,,1911-05-16,W320,y
+11606,Gahm,Minchon,,000-00-00,M,M,"Austin, Tex",Stillborn,,R. M. Wickline,,Catholic cemetery,,,,1911-05-14,M250,y
+11546,Infant,Maguire,,N,,N,,,,,,,,,Removed from Oakwood Cemetery to Cartholic Cemetery,1911-05-14,M260,y
+11605,Fernidad,Marley,,070-00-00,F,M,Mexico,,,R. M. Wickline,,,city,,,1911-05-13,M640,y
+11604,Matilda,Kempe,,052-02-00,F,W,Germany,,,R. M. Wickline,,1089,,,,1911-05-12,K510,y
+11622,Josephine,Aripe,,001-02-00,F,M,"Austin, Tex",,,R. M. Wickline,,,city,,,1911-05-11,A610,y
+11603,Mattie Delle,Rogers,,027-10-26,F,W,"Shannon, Miss",,,R. M. Wickline,,1095,,,,1911-05-11,R262,y
+11602,August,Bloomquist,,035-00-00,M,W,Sweden,,,R. M. Wickline,,1029,,,,1911-05-11,B452,y
+11601,Sallie,Irwin,,077-01-00,F,W,Alabama,,,R. M. Wickline,,,,,,1911-05-11,I650,y
+11598,Guadalupe,Ruiz,,000-03-25,F,M,"Austin, Tex",,,R. M. Wickline,,,city,,,1911-05-10,R200,y
+11599,Otto,Kalkhoff,,056-07-00,M,W,,,,R. M. Wickline,,1126,,,,1911-05-10,K421,y
+11600,Infant,Bazemore,,000-00-00,M,W,Texas,Stillborn,,R. M. Wickline,,,,,,1911-05-09,B256,y
+11596,Mrs. J. H.,Houghton,,041-10-21,F,W,"Indiana, Tex",,,R. M. Wickline,,,,,,1911-05-06,H235,y
+11597,Mollie,Jones,,053-00-00,F,N,,,,R. M. Wickline,,Colored ground,,,,1911-05-05,J520,y
+11595,Infant,Schniedere,,000-00-00,M,W,Texas,stillborn,,R. M. Wickline,,1128,,,,1911-05-04,S536,y
+11594,Mary,Martinez,,000-01-05,F,M,,,,R. M. Wickline,,,city,,,1911-05-01,M635,y
+11593,Walls,Rebecca A.,,052-00-00,F,W,Illinois,,,R. M. Wickline,,,city,,,1911-05-01,R120,y
+11540,Wood,Smith,,073-10-27,M,W,Tenn,,,R. M. Wickline,,1088,,,,1911-04-30,S530,y
+11539,Bob,Thorp,,N,M,W,,,,R. M. Wickline,,974,,,,1911-04-30,T610,y
+11514,Maurice,Wise,,N,,N,,,,,Oakwood,,,,removed body from pauper ground to south qtr of 1/2 lot 869 1/2,1911-04-29,W200,y
+11537,Infant,Harper,,000-00-00,M,W,Austin,Stillborn,,R. M. Wickline,,,,,,1911-04-28,H616,y
+11536,Maurice,Wise,,006-06-21,M,W,Willis,,,R. M. Wickline,,869 1/2,,,,1911-04-27,W200,y
+11535,Mrs.,Odell,,061-06-04,F,W,Indiana,,,R. M. Wickline,,883 1/2,,,,1911-04-27,O340,y
+11534,Mary,Boerner,,N,F,W,,,,R. M. Wickline,,,,,,1911-04-24,B656,y
+11532,Walter,Tips,,069-08-27,M,W,Germany,,,R. M. Wickline,,,,,,1911-04-23,T120,y
+11531,Catherine,Patterson,,066-10-15,F,W,Texas,,,R. M. Wickline,,,,,,1911-04-22,P362,y
+11538,John W,Manpin,,073-11-09,M,W,"Franklin, Mo",,,R. M. Wickline,,Cathlic ground,,,,1911-04-21,M150,y
+11530,Carl,Lundin,,033-04-15,M,W,Sweden,,,R. M. Wickline,,972,,,,1911-04-21,L535,y
+11533,Mrs.,Wiesleberg,,N,F,W,,R. M. Wickline,,,,,,,,1911-04-20,W241,y
+11527,Bonam,Dickerson,,076-03-21,M,W,Ohio,,,R. M. Wickline,,,city,,,1911-04-18,D262,y
+11526,Mollie,Morgan,,080-00-00,F,N,Louisiana,,,R. M. Wickline,,Colored ground,,,,1911-04-17,M625,y
+11525,Raymond,Hill,,034-10-15,M,W,Dallas,,,R. M. Wickline,,,,,,1911-04-14,H400,y
+11524,Mary,Mudet,,050-00-00,F,M,Texas,,,R. M. Wickline,,,city,,,1911-04-14,M300,y
+11523,Jose,Gailon,,000-05-00,M,M,Texas,,,R. M. Wickline,,,city,,,1911-04-13,G450,y
+11528,Wm R,Penn,,029-03-06,M,M,Texas,,,R. M. Wickline,,,city,,,1911-04-12,P500,y
+11522,Mary,Baumert,,069-04-19,F,W,Germany,,,R. M. Wickline,,Catholic ground,friends,,,1911-04-11,B563,y
+11521,Dudley J,Thompson,,038-00-00,M,N,Galveston,,,R. M. Wickline,,Colored ground,friends,,,1911-04-11,T512,y
+11520,Wm P,Millhouse,,089-00-07,M,W,Penn,,,R. M. Wickline,,,friends,,,1911-04-08,M420,y
+11529,Ronaldo,Quesedo,,005-00-00,M,M,Texas,,,R. M. Wickline,,,city,,,1911-04-06,Q300,y
+11541,Infant,Childress,,000-00-03,F,W,Texas,,,R. M. Wickline,,1092,,,,1911-04-05,C436,y
+11519,Infant of C.,Assman,,000-00-00,M,W,Texas,stillborn,,R. M. Wickline,,,friends,,,1911-04-04,A250,y
+11518,Wm H,Maytum,,074-00-00,M,W,England,,,R. M. Wickline,,982,friends,,,1911-04-04,M350,y
+11516,William J. H.,Elliott,,042-07-16,M,W,Scotland,,,R. M. Wickline,,982,friends,,,1911-04-02,E430,y
+11517,Infant of F.,Browne,,000-00-00,F,N,Austin,stillborn,,R. M. Wickline,,colored ground,friends,,,1911-04-02,B650,y
+11515,Joe,Baker,,045-00-00,M,W,Germany,,,R. M. Wickline,,Catholic ground,friends,,,1911-04-01,B260,y
+11506,Catereo,Bilezquez (Vilezquez),,021-02-06,M,M,Mexico,,,R. M. Wickline,,Catholic ground,friends,,,1911-03-29,B421,y
+11505,Isbella,Martinez,,030-00-00,F,M,Texas,,,R. M. Wickline,,Catholic Ground,friends,,,1911-03-28,M635,y
+11501,Patrick,"McNamara, Sr",,061-02-00,M,W,Ireland,,,R. M. Wickline,,Catholic ground,friends,,,1911-03-28,M256,y
+11499,A. J.,Seiders,,040-11-24,M,W,Texas,,,R. M. Wickline,,,friends,,,1911-03-27,S362,y
+11504,Ogden,Goldman,,000-08-00,M,W,Tex,,,R. M. Wickline,,,city,,,1911-03-25,G435,y
+11503,Geo Preston,Finley,,081-04-08,M,W,Miss,,,R. M. Wickline,,,friends,,,1911-03-25,F540,y
+11502,Infant Herman,Scheffer,,000-00-00,M,W,"Austin, Tex",,,R. M. Wickline,,,friends,,,1911-03-24,S160,y
+11500,Donaciana C.,Andrada,,055-00-19,M,M,Mexico,,,R. M. Wickline,,Catholic ground,friends,,,1911-03-24,A536,y
+11498,Duffiana,Bates,,048-02-00,F,M,Texas,,,R. M. Wickline,,Catholic ground,friends,,,1911-03-24,B320,y
+11497,Inf of Tavibio,Vargas,,000-00-05,M,M,,R. M. Wickline,,,Mexican Grounds,,,,,1911-03-22,V620,y
+11495,Lindahl Theodore,Adolph,,000-02-20,M,W,"Austin, Tex",,,R. M. Wickline,,,friends,,,1911-03-20,A341,y
+11512,Joseph,Nalle,,068-03-17,M,W,Va,,,R. M. Wickline,,1156,friends,,,1911-03-20,N400,y
+11496,Pearl,Commander,,025-02-03,F,W,Tenn,,,R. M. Wickline,,1092,friends,,,1911-03-20,C536,y
+11513,James R.,Hickmann,,067-11-12,M,W,Tenn,,,R. M. Wickline,,1092,friends,,,1911-03-20,H250,y
+11510,Anthony G.,Hall,,037-07-17,M,W,"Austin, Tex",,,R. M. Wickline,,,friends,,,1911-03-17,H400,y
+11511,Samuel J.,Mills,,025-00-19,M,W,Texas,,,R. M. Wickline,,945,friends,,,1911-03-17,M420,y
+11508,Emily,Chushman,,078-08-12,F,W,Mass,,,R. M. Wickline,,926,friends,,,1911-03-16,C500,y
+11507,Isaac,Schwartzberg,,048-00-00,M,w,Russia,,,R. M. Wickline,,Jewish yard,friends,,,1911-03-15,S632,y
+11509,Mrs. Mary E.,Hardeman,,069-05-14,F,W,N. Y.,,,R. M. Wickline,State Cemetery,,friends,,,1911-03-13,H635,y
+11494,P. E.,Elliott,,056-05-00,M,W,Texas,,,R. M. Wickline,,1092,friends,,,1911-03-13,E430,y
+11491,Mary,Simesnke,,061-01-02,F,W,Texas,,,R. M. Wickline,,1092,friends,,,1911-03-11,S525,y
+11492,Angelina Louise,Blackburn,,060-08-10,F,W,Mass,,,R. M. Wickline,,,friends,,,1911-03-11,B421,y
+11490,S. K.,Morley,,066-00-19,M,W,Ind,,,R. M. Wickline,,,friends,,,1911-03-09,M640,y
+11489,Hon J. B.,Patterson,,058-00-00,M,W,Scotland,,,R. M. Wickline,,"Sec2, 406 SE 1/4",friends,,,1911-03-09,P362,y
+11487,Inf,Roberts,,000-00-05,M,W,Texas,,,R. M. Wickline,,1092,friends,,infant of Mr. and Mrs. D. B. Roberts,1911-03-07,R163,y
+11485,Mrs. Ollie,Berkman,,029-00-00,F,W,Travis Co.,,,R. M. Wickline,,941,friends,,,1911-03-02,B625,y
+11484,Josephine,Basey,,017-00-00,F,W,Texas,,,R. M. Wicline,,city ground,city,,,1911-03-02,B200,y
+16160,Infant,Nevelle,,N,M,W,Texas,Premature birth,,Robt W Shipp,,,,,,1911-03-02,,n
+11483,Mrs. Dollie,Garrett,,021-00-00,F,W,,,,R. M. Wickline,,1030,friends,,,1911-03-01,G630,y
+11482,Dan Wilbur,Wright,,001-09-13,M,W,"Austin, Tex",,,R. M. Wickline,,1128,friends,,,1911-03-01,W623,y
+11250,Infant of Mr & Mrs A. J.,Watt,,N,F,W,,,,R. M. Wickline,,,friends,,,1911-02-27,W300,y
+11249,Don A. I.,Andradra,,055-00-00,M,M,,,,R. M. Wickline,Catholic,,Friends,,,1911-02-25,A536,y
+11248,C.,Abram,,050-00-00,M,M,,,,R. M. Wickline,,city ground,city,,,1911-02-25,A165,y
+11247,G. J.,Callan,,N,M,W,,,,R. M. Wickline,,Catholic,friends,,,1911-02-24,C450,y
+11251,Mrs,Alley,,N,,N,,,,,,,,,removed body of Mrs. Alley to lot 901,1911-02-24,A400,y
+11246,W. W.,Longley,,N,M,W,Texas,,,R. M. Wickline,,,friends,,,1911-02-22,L524,y
+11245,R. M.,Shelley,,043-05-28,M,W,Texas,,,R. M. Wickline,,,friends,,,1911-02-22,S400,y
+11244,Mrs F. A.,Stewart,,082-09-01,F,W,South Carolina,,,R. M. Wickline,,878,friends,,,1911-02-19,S363,y
+11242,Infant of Cyrus,Bernado,,N,F,M,"Austin, Tex",,,R. M. Wickline,,city ground,friends,,,1911-02-17,B653,y
+11241,A. E.,Younger,,N,F,W,,,,R. M. Wickline,,,friends,,,1911-02-17,Y526,y
+11243,Infant of Mr & Mrs Will,Miller,,N,F,W,"Austin, Tex",,,R. M. Wickline,,803,friends,,,1911-02-12,M460,y
+11239,Ben,Walker,,072-03-00,M,W,Tenn,,,R. M. Wickline,,,friends,,,1911-02-12,W426,y
+11238,Vincent,Garcia,,044-00-00,M,M,Mexico,,,R. M. Wickline,,city ground,friends,,,1911-02-10,G620,y
+11237,A. (Mrs.),Rydell,,078-00-02,F,W,Sweden,,,R. M. Wickline,,1092,,,,1911-02-09,R340,y
+11236,Anaslonio,Hermandez,,023-00-00,F,M,Texas,,,R. M. Wickline,,City ground,friends,,,1911-02-08,H653,y
+11235,Lucile,Shelley,,000-09-06,F,W,Texas,,,R. M. Wickline,,,friends,,,1911-02-06,S400,y
+11234,Philipline,Groves,,059-00-00,F,W,Germany,,,R. M. Wickline,,927,friends,,,1911-02-03,G612,y
+11232,Infant,Rose,,N,M,W,,,,R. M. Wickline,,,,,,1911-01-29,R200,y
+11231,Jacob,Hornberger,,N,M,W,,,,R. M. Wickline,,,,,,1911-01-29,H651,y
+11230,A. H.,Koemeck,,008-03-13,F,W,"Eagle Lake, Tex",,,R. M. Wickline,,,,,,1911-01-28,K520,y
+11229,R S,Graves Jr,,032-00-14,M,W,Texas,,,R. M. Wickline,,,,,,1911-01-28,G612,y
+11228,Mack,Wolf,,030-00-11,M,W,Ark,,,R. M. Wickline,,938,,,,1911-01-27,W410,y
+11227,Joel H B,Miller,,077-01-13,M,W,Ky,,,R. M. Wickline,,,,,,1911-01-27,M460,y
+11226,Ann E,Chapman,,085-00-00,F,W,Miss,,,R. M. Wickline,,,,,,1911-01-26,C150,y
+11225,Lena J,Thomson,,042-03-21,F,W,Canada,,,R. M. Wickline,,,,,,1911-01-26,T525,y
+11224,Benord,Malasky,,085-03-09,M,W,Poland,,,R. M. Wickline,,Old Jewish yard,,,,1911-01-24,M420,y
+11223,William,Patton,,060-00-00,M,W,Unknown,,,R. M. Wickline,,893 1/2,,,,1911-01-24,P350,y
+11222,Hattie Burleson,McColl,,038-10-09,F,W,Texas,,,R. M. Wickline,,981,,,,1911-01-23,M240,y
+11221,Infant of Mr & Mrs E,McElroy,,000-00-00,F,W,"Austin, Texas",,,R. M. Wickline,,,,,Stillborn,1911-01-22,M246,y
+11220,Andrew,Majors,,079-04-25,M,N,"Nashville, Tenn",,,R. M. Wickline,,Colored ground,,,,1911-01-22,M262,y
+11219,W. S.,Taylor,,035-00-00,M,W,Unknown,,,R. M. Wickline,,City grounds,,,,1911-01-19,T460,y
+11218,Frank,Douglas,,021-09-00,M,W,Tenn,,,R. M. Wickline,,1013,,,,1911-01-15,D242,y
+11217,C. C.,Clancy,,046-08-01,M,W,Unknown,,,R. M. Wickline,,1092,,,,1911-01-15,C452,y
+11216,Matilda F.,Rose,,078-11-17,F,W,Virginia,,,R. M. Wickline,,826,,,,1911-01-15,R200,y
+11233,Miss,Sanford,,N,,N,,,,,,,,,Removal of body of Miss Sanford from the south-east quarter of lot 376 to north west quarter of 901 in Oakwood.,1911-01-14,S516,y
+11240,S. R.,Fisher,,061-02-00,M,W,Valverde(?) Tex,,,R. M. Wickline,,,friends,,,1911-01-13,F260,y
+11215,Margaret,Griffin,,034-07-00,F,W,Arkansas,,,R. M. Wickline,,876,,,,1911-01-12,G615,y
+11214,John,Grohman,,N,M,W,"Austin, Texas",,,R. M. Wickline,,1092,,,,1911-01-10,G650,y
+11213,Ada (Miss),Goodman,,N,F,W,,,,R. M. Wickline,,1019,,,,1911-01-10,G350,y
+11212,Elizabeth,Spivey,,065-00-00,F,W,Arkansas,,,R. M. Wickline,,,,,,1911-01-09,S100,y
+11211,C. N.,Voss,,085-01-16,M,W,Germany,,,R. M. Wickline,,,,,,1911-01-09,V200,y
+11210,Conie N.,Addison,,036-04-01,F,N,"Austin, Texas",,,R. M. Wickline,,Colored ground,,,,1911-01-08,A325,y
+11209,Henry,Hirshfield,,076-00-00,M,W,Germany,,,R. M. Wickline,,Old Jewish yard,,,,1911-01-08,H621,y
+11208,Mary Elizabeth,Palmer,,066-11-00,F,W,Arkansas,,,R. M. Wickline,,,,,,1911-01-08,P456,y
+11207,Mary J.,Carden,,067-00-00,F,W,Arkansas,,,R. M. Wickline,,,,,,1911-01-06,C635,y
+11206,Michael,Doake,,060-00-00,M,W,Germany,,,R. M. Wickline,,1092,,,,1911-01-05,D200,y
+11200,Richard,Ulit,,002-04-10,M,W,Texas,,,R. M. Wickline,,,,,,1911-01-04,U430,y
+11205,Michael,Stephens,,N,M,W,,,,R. M. Wickline,,City grounds,,,,1911-01-04,S315,y
+11204,Carl,Maddox,,000-01-00,M,W,Texas,,,R. M. Wickline,,lot 1128,,,,1911-01-04,M320,y
+11203,Santo,Saldona,,025-11-13,M,M,Mexico,,,R. M. Wickline,,sec 3 lot 1092,,,,1911-01-04,S435,y
+11202,Infant of Mr & Mrs,Shans,,000-00-01,M,W,Texas,,,R. M. Wickline,,,,,,1911-01-04,S520,y
+11201,Dennis,Corwin,,076-05-26,M,W,Canada,,,R. M. Wickline,,,,,,1911-01-04,C650,y
+11199,Scott,Woods,,N,M,W,Texas,,,R. M. Wickline,,City ground,,,,1911-01-02,W320,y
+11479,Kate (Mrs.),Kraemer,,N,F,W,Germany,,,L.H. Kirk,Catholic,,,,,1910-12-29,K656,y
+11481,Chas.,Sharp,,N,M,W,,,,L.H. Kirk,,,,,,1910-12-29,S610,y
+11478,Fred,Tessaneis,,060-00-00,M,W,Ark.,,,L.H. Kirk,Catholic,,,,,1910-12-28,T252,y
+11476,E.L.,Lay,,039-06-00,M,C,S.C.,,,L.H. Kirk,,Colored Grounds,,,,1910-12-27,L000,y
+11477,Oma,Bedell,,015-00-22,F,W,Texas,,,L. H. Kirk,,1092,,,,1910-12-27,B340,y
+11475,Mexican,Unknown,,N,M,M,,,,L.H. Kirk,,City Gr.,,,,1910-12-27,U525,y
+11474,Jno. W.,Peacock,,066-04-18,M,W,Ohio,,,L.H. Kirk,,,,,,1910-12-26,P200,y
+11472,Robert B.,Smith,,036-00-22,M,W,,,,L.H. Kirk,,,,,,1910-12-26,S530,y
+11473,W. (Mrs.),Rosenberg,,06507,F,W,Germany,,,L.H. Kirk,,919,,,,1910-12-26,R251,y
+11471,Georgia S.,Nalle,,036-03-15,F,W,Texas,,,L.H. Kirk,,489,,,,1910-12-25,N400,y
+11468,Ben F.,Henricks,,076-07-01,M,W,Georgia,,,L.H. Kirk,,,,,,1910-12-23,H562,y
+11470,Eugene,Smith,,030-00-00,M,W,Texas,,,L.H. Kirk,,850,,,,1910-12-23,S530,y
+11469,Emma,Stodemeyer,,049-00-00,F,C,Texas,,,L.H. Kirk,,Colored Grounds,,,,1910-12-23,S356,y
+11466,J.T. (Infant of),Brown,,001-04-23,F,W,Texas,,,L.H. Kirk,,1092,,,,1910-12-22,B650,y
+11467,Mr.,Beach,,N,M,M,,,,L.H. Kirk,City Gr.,,,,,1910-12-20,B200,y
+11465,Kyrie,Thrasher,,025-00-00,M,W,Texas,,,,,,,,,1910-12-20,T626,y
+11464,Henry,Schultz,,001-05-00,M,W,Texas,,,L.H. Kirk,,1128,,,,1910-12-19,S432,y
+11463,Robert,Carlson,,030-01-09,M,W,Texas,,,L.H. Kirk,,,,,,1910-12-16,C642,y
+11462,Toggie,Carlson,,026-01-02,M,W,Texas,,,L.H. Kirk,,,,,,1910-12-16,C642,y
+11461,Geo. M.,Sharp,,050-00-14,M,W,Texas,,,L.H. Kirk,,,,,,1910-12-15,S610,y
+11460,Bertha Lee,Canady,,026-01-05,F,W,Texas,,,L.H. Kirk,,1012,,,,1910-12-12,C530,y
+11459,Francis A.,Williamson,,013-00-06,M,W,Texas,,,L.H. Kirk,,1092,,,,1910-12-12,W452,y
+11458,Manuel J.,Perales,,019-02-00,M,M,Texas,,,L.H. Kirk,Catholic,,,,,1910-12-11,P642,y
+11457,Oscar,Schoch,,071-04-20,M,W,Germany,,,L.H. Kirk,,822,,,,1910-12-07,S000,y
+11456,Eugene,Bremond,,N,M,W,Maryland,,,L.H. Kirk,,,,,,1910-12-07,B653,y
+11455,Richard,Holder,,000-01-09,M,W,,,,L.H. Kirk,,1128,,,,1910-12-06,H436,y
+11454,S. (Mrs.),Massinas,,072-00-00,F,M,Mexico,,,L.H. Kirk,,City Gr.,,,,1910-12-06,M252,y
+11453,Leno,Ramirez,,N,F,M,,,,L.H. Kirk,,City Gr.,,,,1910-12-01,R562,y
+11452,Hertuns,Valdez,,055-00-00,M,M,,,,L.H. Kirk,,City Gr.,Friends,,,1910-11-30,V432,y
+11451,Erasmus F.B.,Alley,,063-09-22,M,W,Tenn,,,L.H. Kirk,,901,Friends,,,1910-11-29,A400,y
+11450,Everett,Dickens,,005-04-18,M,W,Tex.,,,L.H. Kirk,,"Sec.3, 1048 SE 1/4",Friends,,,1910-11-28,D252,y
+11449,Salathiel,Lawson,,074-06-12,M,W,Va.,,,L.H. Kirk,,"Sec. 3, 1048 NE 1/4",Friends,,,1910-11-28,L250,y
+11447,Peteus Floris,Tenches,,009-00-00,M,M,Texas,,,L.H. Kirk,,City Gr.,Friends,,,1910-11-27,T520,y
+11448,Tom C.,Gregory,,041-09-15,M,W,Texas,,,L.H. Kirk,,926,Friends,,,1910-11-25,G626,y
+11444,Amelia,Brown,,024-11-02,F,W,,,,L.H. Kirk,,916,Friends,,,1910-11-23,B650,y
+11446,Louie W.,Robertson,,034-02-11,F,W,Texas,,,L.H. Kirk,,,Friends,,Louise?,1910-11-23,R163,y
+11445,Jess C.,McGuffin,,030-10-26,M,W,Texas,,,L.H. Kirk,,,Friends,,,1910-11-22,M215,y
+11443,Mary A.,Kelley,,079-00-00,F,W,Germany,,,L.H. Kirk,Catholic,,Friends,,,1910-11-21,K400,y
+11440,Harry B.,Bergstein,,007-02-14,M,W,Tex.,,,L.H. Kirk,,,Friends,,,1910-11-20,B623,y
+11442,Kate,Long,,N,F,C,,,,L.H. Kirk,,Colored Grounds,Friends,,,1910-11-18,L520,y
+11441,L.M.,Crooker,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-11-17,C626,y
+11439,John,Sheehan,,057-00-00,M,W,Va.,,,L.H. Kirk,Catholic,,Friends,,,1910-11-16,S500,y
+11438,Sarah L. (Mrs.),Robins,,059-07-06,F,W,Tex.,,,L.H. Kirk,,1072,Friends,,,1910-11-16,R152,y
+11437,Jas. W.,Wyse,,049-08-11,M,W,,,,L.H. Kirk,,1066,Friends,,,1910-11-14,W200,y
+11436,Wm. L.,Staniforth,,084-01-06,M,W,England,,,L.H. Kirk,,,Friends,,,1910-11-13,S351,y
+11435,Floyd T.,Goslin,,000-06-09,M,W,Texas,,,L.H. Kirk,,1018,Friends,,,1910-11-13,G450,y
+11434,Fred,Carlton,,069-06-19,M,W,England,,,L.H. Kirk,,142,Friends,,,1910-11-12,C643,y
+11433,Edwin (Jr.),Bailey,,000-02-18,M,W,Texas,,,L.H. Kirk,,142,Friends,,,1910-11-12,B400,y
+11432,R.L.,Brown,,070-06-01,M,W,Scotland,,,L.H. Kirk,,771,Friends,,,1910-11-11,B650,y
+11431,Jas. T.,Black,,035-00-00,M,W,Tex.,,,L.H. Kirk,,866,Friends,,"There is a note entered at the bottom of the ledger for November 1910 that reads: Nov. 12 - ""Removed the body of Jas. T. Black from west half of cem. lot #866 t east half of the same lot.""",1910-11-10,B420,y
+11430,Sam L.,McCulloch,,031-00-00,M,W,Tex.,,,L.H. Kirk,,,Friends,,,1910-11-10,M242,y
+11429,J.H.,Burnham,,078-00-00,M,W,Ark.,,,L.H. Kirk,,1092,Friends,,,1910-11-07,B650,y
+11428,Sarah A. (Mrs.),Sheppard,,089-00-00,F,W,Tenn.,,,L.H. Kirk,,"Sec. 1, Lot 263",Friends,,,1910-11-05,S163,y
+11427,Jno. R. (Mrs.),Callaway,,076-00-00,F,W,Ga.,,,L.H. Kirk,,1019,Friends,,,1910-11-04,C400,y
+11426,Larry,Luna,,000-02-17,M,M,Tex.,,,L.H. Kirk,Catholic,,Friends,,,1910-11-04,L500,y
+11425,Lucy,Shaw,,059-00-00,F,C,Tenn.,,,L.H. Kirk,,93,Friends,,,1910-11-03,S000,y
+11424,Daniel,Moody,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-11-03,M300,y
+11423,Henry C.,Brehop,,074-00-00,M,W,Germany,,,L.H. Kirk,,1142,Friends,,,1910-11-02,B610,y
+11421,E.L.,Wahermann,,N,M,W,,,,L.H. Kirk,,269,Friends,,,1910-10-31,W650,y
+11420,Jas. M.,Heard,,N,M,C,,,,L.H. Kirk,,Colored Grounds,Friends,,,1910-10-28,H630,y
+11419,Thornton M.,Allen,,N,M,W,,,,L. H. Kirk,,1130,Friends,,,1910-10-25,A450,y
+11422,H.W.,Stroter,,N,M,W,,,,L.H. Kirk,,315,Friends,,,1910-10-21,S363,y
+11418,J.M.,LeSueur,,N,M,W,,,,L.H. Kirk,,776,Friends,,,1910-10-19,L260,y
+11417,Arthur,Innes,,N,M,W,,,,L.H. Kirk,,975,Friends,,,1910-10-17,I520,y
+11416,Nina (Miss),Cummings,,N,F,W,,,,L.H. Kirk,,782,Friends,,,1910-10-15,C520,y
+11414,Jennie,Acosta,,N,F,M,,,,L.H. Kirk,Catholic,,Friends,,,1910-10-14,A230,y
+11413,Adoris,Spiller,,N,F,W,,,,L.H. Kirk,,1129,Friends,,,1910-10-13,S146,y
+11412,Mrs.,Thompson,,N,F,W,,,,L.H. Kirk,,City Gr.,City,,,1910-10-13,T512,y
+11415,Fritz,Kretschmer,,N,M,W,,,,L.H. Kirk,,909,Friends,,,1910-10-12,K632,y
+11941,Hugh,Webb,,036-11-26,M,W,Texas,,,R.M. Wickline,,,,,,1910-10-07,W100,y
+11411,G.V.,Luce,,N,M,W,,,,L.H. Kirk,,1018,Friends,,,1910-10-07,L200,y
+11410,Baby,Ramsdell,,N,,W,,,,L.H. Kirk,,,,,,1910-10-05,R523,y
+11409,John P.,Sheehan,,N,M,W,,,,L.H. Kirk,Catholic,,Friends,,,1910-10-04,S500,y
+11408,Jno. O.,Houghton,,N,M,W,,,,L.H. Kirk,,334,Friends,,,1910-10-03,H235,y
+11406,J.L.,Mathias,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-10-02,M320,y
+11407,Wm. A,Wortham,,N,M,W,,,,L.H. Kirk,,1033,Friends,,,1910-10-02,W635,y
+11404,C.,Hernandez,,N,M,M,,,,L.H. Kirk,,City Gr.,Friends,,,1910-09-25,H653,y
+11403,Baby Ruth,Unknown,,N,F,W,,,,L.H. Kirk,,City Gr.,City,,,1910-09-25,U525,y
+11402,Alf.,Burlage,,N,M,W,,,,L.H. Kirk,,585,Friends,,,1910-09-23,B642,y
+11401,Martha M.,Myles,,N,F,W,,,,L.H. Kirk,,1129,Friends,,,1910-09-22,M420,y
+11400,Verne,Hodgson,,N,M,W,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-09-22,H325,y
+11399,Sophia (Mrs.),Theobolt,,N,F,W,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-09-22,T143,y
+11398,Kate (Mrs.),Mackin,,N,F,W,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-09-13,M250,y
+11397,Anna (Mrs.),Stein,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-09-12,S350,y
+11405,J.H. (Sr.),Nitschke,,N,,N,,,,,,"Sec.4, 852 SE 1/4",,,,1910-09-07,N320,y
+11396,Wm. L.,Pena,,N,M,M,,,,L.H. Kirk,,City Gr.,Friends,,,1910-09-04,P500,y
+11394,R.P.,Wright,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-09-03,W623,y
+11393,Thomas,Lee,,N,M,W,,,,L.H. Kirk,,1129,Friends,,,1910-09-02,L000,y
+11395,Bell,Reeves,,N,M,W,,,,L.H. Kirk,,1092,Friends,,,1910-09-02,R120,y
+11392,A.,Fraiday,,N,,M,,,,L.H. Kirk,,City Gr.,County,,,1910-08-31,F630,y
+11391,Domingo,Lopez,,N,,M,,,,L.H. Kirk,,City Gr.,City,,,1910-08-31,L120,y
+11390,Thomas M.,Lee,,N,,W,,,,L.H. Kirk,,1129,Friends,,,1910-08-31,L000,y
+11389,James T.,Thornton,,N,,W,,,,L.H. Kirk,,,Friends,,,1910-08-28,T653,y
+11388,Clara (Mrs.),Cooper,,N,,W,,,,L.H. Kirk,,856,Friends,,,1910-08-26,C160,y
+11387,Paul M.,Dismukes,,N,,W,,,,L.H. Kirk,,800,Friends,,,1910-08-25,D252,y
+11386,Jeffrey C.,Gregg,,N,,C,,,,L.H. Kirk,,Colored Grounds,Friends,,,1910-08-24,G620,y
+11385,Mary Elenor,Mathews,,N,,W,,,,L.H. Kirk,,1045,Friends,,,1910-08-23,M320,y
+11384,Kent C.,Harris,,N,,W,,,,L.H. Kirk,,,Friends,,,1910-08-22,H620,y
+11383,B.,Alexis,,N,,M,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-08-19,A420,y
+11382,Sylvester,Bayles,,N,,W,,,,L.H. Kirk,,1026,Friends,,,1910-08-17,B420,y
+11381,M. (Inf. of ),Borchardt,,N,,W,,,,L.H. Kirk,,Jewish,Friends,,,1910-08-17,B626,y
+11380,L. (Mrs.),Lucksinger,,N,,W,,,,L.H. Kirk,,915,Friends,,,1910-08-14,L252,y
+11379,Lee (Mr.),Chapman,,N,,W,,,,L.H. Kirk,,974,Friends,,Burial date may be 8/15/1910. It is unclear.,1910-08-14,C150,y
+11378,M.,Coats,,N,,C,,,,L.H. Kirk,,City Gr.,County,,Color may be M. Is written exactly on the line separating the two. The two people named Coats listed in the City Directory are Black.,1910-08-13,C320,y
+11377,Mrs.,Frank,,N,,M,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-08-10,F652,y
+11376,Mamie (Mrs.),Echols,,N,,W,,,,L.H. Kirk,,,Friends,,,1910-08-09,E242,y
+11375,Blossom E.,Ludwig,,N,,W,,,,L.H. Kirk,,1128,Friends,,,1910-08-09,L320,y
+11374,Walter F.,Colquitt,,N,,W,,,,L.H. Kirk,,1051,Friends,,,1910-08-09,C423,y
+11373,Gardner,Ruggles,,N,,W,,,,L.H. Kirk,,,Friends,,,1910-08-07,R242,y
+11371,Ewing,Creiser,,N,,W,,,,L.H. Kirk,,,Friends,,,1910-08-06,C626,y
+11370,Andon,Hernandez,,N,,M,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-08-04,H653,y
+11372,P.,Connelly,,N,,W,,,,L.H. Kirk,,981,Friends,,,1910-08-04,C540,y
+11369,Augusta,Almquist,,N,,W,,,,L.H. Kirk,,1130,Friends,,,1910-08-04,A452,y
+11368,Santos,Valdez,,N,,W,,,,L.H. Kirk,,City Gr.,City,,,1910-08-03,V432,y
+11367,James E.,Lawson,,N,,W,,,,L.H. Kirk,,1017,Friends,,,1910-08-02,L250,y
+11366,Louis (Infant of),Loeb,,N,,W,,,,L.H. Kirk,,Jewish,Friends,,,1910-08-01,L100,y
+11365,(No First Name Given),Moffitt,,N,M,C,,,,L.H. Kirk,,Colored Grounds,Friends,,,1910-07-30,M130,y
+11363,Mary (Mrs.),Keevil,,N,F,W,,,,L.H. Kirk,,179,Friends,,,1910-07-30,K140,y
+11364,Sidon,Harris,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-07-30,H620,y
+11362,Eva,Gregg,,N,F,M,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-07-28,G620,y
+11361,Catherine I.,Smith,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-07-25,S530,y
+11360,Eugene,Graham,,N,M,C,,,,L.H. Kirk,,Colored Grounds,Friends,,,1910-07-22,G650,y
+11359,Nellie,Snow,,N,F,C,,,,L.H. Kirk,,134 Col Gr.,Friends,,,1910-07-21,S500,y
+11358,J.C.,Rowe,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-07-19,R000,y
+11357,A.J.,Thorp,,N,M,W,,,,L.H. Kirk,,974,Friends,,,1910-07-19,T610,y
+11356,Durly Sneed,Grizzard,,N,M,W,,,,L.H. Kirk,,Old Gr. by Fence,Friends,,,1910-07-14,G626,y
+11355,Jane A. (Mrs.),Johnson,,N,F,W,,,,L.H. Kirk,,1161,Friends,,,1910-07-13,J525,y
+11354,Samuel M.,Sparks,,N,M,W,,,,L.H. Kirk,,1056,Friends,,,1910-07-12,S162,y
+11353,Jennie,Owlin,,N,F,W,,,,L.H. Kirk,,1129,Friends,,,1910-07-10,O450,y
+11352,Sofie,Attel,,N,F,M,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-07-06,A340,y
+11349,Geo. P.,Garrison,,N,M,W,,,,L.H. Kirk,,968,Friends,,,1910-07-05,G625,y
+11350,W.A.,Hotz,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-07-05,H320,y
+11351,Rosa,Almas,,N,F,M,,,,,,Mex. Gr.,City,,,1910-07-05,A452,y
+11347,Candelario,Macias,,N,M,M,,,,L.H. Kirk,,Mex. Gr.,,,,1910-07-03,M200,y
+11348,C.R.,Creel,,N,M,W,,,,L.H. Kirk,,1129,Friends,,,1910-07-03,C640,y
+11346,Annie (Mrs.),Mayer,,N,F,W,,,,L.H. Kirk,,1098,Friends,,,1910-07-03,M600,y
+11345,Kate (Mrs.),Winkler,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-07-02,W524,y
+11344,Infant,Unknown,,N,,N,,,,L.H. Kirk,,City Gr.,City,,,1910-06-30,U525,y
+11343,Wm. W.,Calhoun,,N,M,C,,,,L.H. Kirk,,915,Friends,,,1910-06-29,C450,y
+11342,"Carl Arthur, Jr.",Jarl,,N,M,W,,,,L.H. Kirk,,768,Friends,,,1910-06-28,J640,y
+11341,Nelse,Lindgren,,N,M,W,,,,L.H. Kirk,,1047,Friends,,,1910-06-27,L532,y
+11340,H.A.,Miller,,N,M,W,,,,L.H. Kirk,,1123,Friends,,,1910-06-26,M460,y
+11339,Kate F. (Mrs.),Upson,,N,F,W,,,,,,923,Friends,,,1910-06-25,U125,y
+11338,R.H.,Edmondson,,N,M,W,,,,L.H. Kirk,,445,Friends,,,1910-06-24,E353,y
+11337,Stella V. (Mrs.),Flynn,,N,F,W,,,,L.H. Kirk,,818,Friends,,,1910-06-23,F450,y
+11336,J.W. (Infant of),Rayall,,N,,W,,,,L.H. Kirk,,,Friends,,,1910-06-22,R400,y
+11335,Douglas G.,Simmons,,N,,C,,,,L.H. Kirk,,Colored Grounds,Friends,,,1910-06-22,S520,y
+11334,Sarah F. (Mrs.),Shelley,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-06-20,S400,y
+11333,Harry,Halden,,N,M,W,,,,L.H. Kirk,,918,Friends,,,1910-06-19,H435,y
+11329,John Wesley,Posey,,N,M,W,,,,L.H. Kirk,,917,Friends,,,1910-06-18,P200,y
+11331,Eulogio,Luna,,N,,M,,,,L.H. Kirk,,City Gr.,City,,,1910-06-18,L500,y
+11330,John,Bates,,N,M,W,,,,L.H. Kirk,,907,Friends,,,1910-06-18,B320,y
+11332,B.Q. (Infant of),Ward,,N,,W,,,,L.H. Kirk,,977,Friends,,,1910-06-17,W630,y
+11328,A.T.,Corwin,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-06-14,C650,y
+11327,Edwin,Wilson,,N,M,W,,,,L.H. Kirk,,1153,Friends,,,1910-06-11,W425,y
+11326,C.A. (Mrs.),Needham,,N,F,W,,,,L.H. Kirk,,1129,Friends,,,1910-06-08,N350,y
+11325,Willie (Infant),Hall,,N,,C,,,,L.H. Kirk,,Colored Grounds,Friends,,,1910-06-07,H400,y
+11324,Amy Ina (Mrs.),Martin,,N,F,W,,,,L.H. Kirk,,1048,Friends,,,1910-06-06,M635,y
+11323,Hugo,Steiner,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-06-05,S356,y
+11322,Henry L.,Faulk,,N,M,W,,,,L.H. Kirk,,1139,Friends,,,1910-06-03,F420,y
+11320,Chas. O.,Pride,,N,M,W,,,,L.H. Kirk,,1129,Friends,,,1910-06-02,P630,y
+11321,Enatuna (?),Luna,,N,M,M,,,,L.H. Kirk,,City Gr.,City,,,1910-06-02,L500,y
+11319,Cornelia (Mrs.),Hunter,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-06-01,H536,y
+11318,Rafert,Mason,,N,M,C,,,,L.H. Kirk,,Colored Grounds,Friends,,,1910-05-28,M250,y
+11317,Perl,Ludwigston,,N,F,W,,,,L.H. Kirk,,1090,Friends,,,1910-05-27,L323,y
+11316,John,Phillips,,N,M,W,,,,L.H. Kirk,,907,Friends,,,1910-05-25,P412,y
+11315,Elizabeth (Mrs.),Driskill,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-05-25,D624,y
+11314,Rudolph,Breil,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-05-24,B640,y
+11313,Sorlima,Cuellar,,N,,M,,,,L.H. Kirk,,City Gr.,City,,,1910-05-24,C460,y
+11312,Emilia,Martins,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-05-22,M635,y
+11311,Anna L. (Mrs.),Berkman,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-05-22,B625,y
+11310,Helen,Slaunders,,N,F,W,,,,L.H. Kirk,,1057,Friends,,"Could name be ""Saunders""?",1910-05-22,S453,y
+11309,Geo. P.,Assman,,N,M,W,,,,L.H. Kirk,,,Friends,,,1910-05-20,A250,y
+11308,Elizabeth (Mrs.),Baker,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-05-19,B260,y
+11303,Martha Ann,Dodge,,N,F,W,,,,L.H. Kirk,,1129,Friends,,,1910-05-17,D200,y
+11302,Austina,Richter,,N,F,W,,,,L.H. Kirk,,,Friends,,"First name is ""Augustina"" on the microfiche record.",1910-05-17,R236,y
+11301,Wm. David,Langston,,N,M,W,,,,L.H. Kirk,,1129,Friends,,,1910-05-17,L523,y
+11304,J.L. (Infant of),Swanzey,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-05-17,S520,y
+11305,T.T. (Infant of),Cotner,,N,,W,,,,L.H. Kirk,,1165,Friends,,,1910-05-17,C356,y
+11307,Born,Barnes,,N,,M,,,,L.H. Kirk,,City Gr.,City,,"Last name may be ""Bames""",1910-05-17,B652,y
+11306,Wm.,Shubert,,N,M,W,,,,L.H. Kirk,,1142,Friends,,,1910-05-17,S163,y
+11300,Dorotio,Barron,,N,F,M,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-05-15,B650,y
+11299,Germiania,Marion,,N,M,M,,,,L.H. Kirk,,City Gr.,City,,,1910-05-13,M650,y
+11298,Jane (Mrs.),Weakly,,N,F,W,,,,L.H. Kirk,,996,Friends,,,1910-05-12,W240,y
+11296,Josephine E.,Cabaniss,,N,F,W,,,,L. H. Kirk,,,Friends,,,1910-05-12,C152,y
+11297,C.M. (Infant of),Malias,,N,,M,,,,L.H. Kirk,Catholic Cemetery,,City,,,1910-05-10,M420,y
+11295,F.G.,Blau,,N,M,W,,,,L.H. Kirk,,874,Friends,,,1910-05-10,B400,y
+11294,Lula M. (Mrs.),Crooker,,N,F,W,,,,L.H. Kirk,,,Friends,,,1910-05-10,C626,y
+11293,Robert,Burt,,N,M,W,,,,L.H. Kirk,,909,,,,1910-05-09,B630,y
+11292,Carrie (Miss),Reynolds,,N,F,W,,,,L.H. Kirk,,1057,Friends,,,1910-05-05,R543,y
+11291,Michael,Bonugli,,N,M,W,,,,L.H. Kirk,,909,,,,1910-05-04,B524,y
+11290,Miles,Byrnes,,N,M,W,,,,L.H. Kirk,Catholic Cemetery,,Friends,,,1910-05-04,B652,y
+11289,R.L. (Infant of),Wilson,,N,,W,,,,L.H.Kirk,,1128,Friends,,,1910-05-03,W425,y
+11287,Thelma,Cunningham,,N,F,C,Unknown,,,L.H.Kirk,,,Friends,,,1910-05-02,C525,y
+11288,Edward,Enquest,,N,M,W,,,,L.H.Kirk,,,Friends,,,1910-05-02,E523,y
+11285,Howard,White,,N,M,C,Unknown,,,L.H. Kirk,,,Friends,,,1910-05-01,W300,y
+11286,Mrs.,Mobley,,N,F,W,Unknown,,,L.H. Kirk,,,City,,,1910-05-01,M140,y
+11284,Wallace Lee,Hamilton,,???????,M,W,Unknown,,,L.H. Kirk,,,Friends,,"MF burial location is 3,972.",1910-04-28,H543,y
+11283,Rosa B.,Ford,,032-04-26,F,W,Unknown,Tuberculosis,,R.H. Gray,,1129,Friends,,"Ship from San Antonio. MF burial location is 3,1129.",1910-04-24,F630,y
+11282,Mary (Infant of),Bosley,,???????,F,W,Unknown,,,L.H. Kirk,,,City,,,1910-04-23,B240,y
+11281,Frank,Strain,,???????,M,C,Unknown,,,L.H. Kirk,,,Friends,,"MF burial location is 4,50 NW 1/4.",1910-04-21,S365,y
+11280,Irene,Valdez,,???????,F,W,Unknown,,,L.H. Kirk,,,Friends,,"MF burial location is 3,1090.",1910-04-20,V432,y
+11279,Juan,Guerro,,,M,M,Unknown,,,,,,City,,,1910-04-19,G600,y
+11278,Ellen Jackson,Galloway,,???????,F,W,Unknown,,,L.H. Kirk,,,City,,,1910-04-18,G400,y
+11277,Robt. T.,Hubble,,???????,M,W,Unknown,,,L.H. Kirk,,,Blank,,"MF burial location is 2,808 E 1/2.",1910-04-15,H140,y
+11276,ERnesto,Bernal,,???????,M,M,Unknown,,,L.H. Kirk,,,City,,,1910-04-15,B654,y
+11275,Will,Kreuz,,???????,M,W,Unknown,,,L.H. Kirk,,,Friends,,This burial was not located on the microfiche record.,1910-04-11,K620,y
+11273,Fritz,Hessloope,,???????,M,W,Unknown,,,L.H. Kirk,,,Friends,,"MF burial location is 3, 1129.",1910-04-08,H241,y
+11274,Sallie (Mrs.),Chocran,,???????,F,W,Unknown,,,L.H. Kirk,,,Friends,,,1910-04-08,C650,y
+11272,Julia (Mrs.),Washington,,052-00-00,F,W,Texas,Nervous Prostration,,L.H. Kirk,,944,Friends,,"MF burial location is 3,944.",1910-04-06,W252,y
+11271,John Smith,Byrne,,???????,M,W,Unknown,,,L.H. Kirk,,,Blank,,"MF burial location is Mt. Calvary C, 910.",1910-04-05,B650,y
+11270,Miss,Nesby,,038-08-11,F,W,Maryland,Intestinal obstruction w/gangrene intenstine,,L.H. Kirk,,Blank,Friends,,"MF burial location is 1,Old Gr.",1910-04-03,N210,y
+11265,L.S.,Andrews,,042-00-00,M,W,Canada,Acute Alcoholism Heart Failure,,L.H. Kirk,,1130,Friends,,"MF burial location is 3,1130.",1910-04-01,A536,y
+11269,A.J. (Mrs.),Johnson,,073-00-20,F,W,Ala.,Brain & Nervous Disease,,L.H. Kirk,,Blank,Friends,,,1910-04-01,J525,y
+11267,Emma Reed,Nelson,,000-00-30,F,W,Texas,Entrocolitis,,L.H. Kirk,,1022 1/2,Friends,,"MF burial location is 3, 1022 1/2.",1910-04-01,N425,y
+11266,Jas. L.,Pogue,,073-02-07,M,W,Tenn.,Phtisis Pulmonalis,,L.H. Kirk,,987,Friends,,"MF burial location is 3,987.",1910-04-01,P200,y
+11263,A.M.,Holland,,083-02-15,M,W,Ga.,Pneumonia,,L.H. Kirk,,1130,Friends,,"6 ward. MF burial location is 3,1130.",1910-03-31,H453,y
+11262,A.J.,Massey,,065-00-00,M,W,Tenn.,Apoplexy,,L.H. Kirk,,1130,Friends,,"4 ward. MF burial location is 3,1130.",1910-03-29,M200,y
+11261,Jim,Suarez,,000-00-04,M,M,Austin,Inanition,,L.H. Kirk,,City Gr.,County,,10 ward.,1910-03-27,S620,y
+11260,Pearl (Mrs.),Thompson,,027-02-28,F,W,Tex.,Tuberculosis,,L.H. Kirk,,5,Friends,,"5 ward. MF burial location is 1,5.",1910-03-23,T512,y
+11259,Ada Scarbrough (Mrs.),Thompson,,028-00-00,F,W,Tex.,Tuberc. Pulm.,,L.H. Kirk,,749,Friends,,"MF burial location is 3,749.",1910-03-23,T512,y
+11258,L. (Mrs.),Ramella,,059-00-00,F,W,Ohio,Pneumonia La Grippe,,L.H. Kirk,,Catholic Cemetery,Friends,,"4 ward. MF burial location is Mt. Calvary C, 515.",1910-03-23,R540,y
+11673,Infant,Castilio,,N,,N,,,,R.M. Wickline,,City Gr.,,,,1910-03-22,C340,y
+11257,Nancy,Simmons,,069-00-00,F,C,Ky.,La Grippe,,L.H. Kirk,,Col.Gr.,Friends,,7 ward.,1910-03-22,S520,y
+11256,J.E.,Perkins,,033-00-17,M,W,Ky.,Hemorrhage from Lung,,L.H. Kirk,,1130,Friends,,"7 ward. MF burial location is 3,1130.",1910-03-19,P625,y
+11255,Carmen (Mrs.),Gamboa,,045-00-00,F,M,Mexico,Bright's Disease,,L.H. Kirk,Catholic Cemetery,,Friends,,10 ward. MF burial location is Mt. Calvary.,1910-03-19,G510,y
+11254,Wm.,Risher,,082-03-07,M,C,N.C.,"Found dead, natural cause",,L.H. Kirk,,Colored Grounds,Friends,,9 ward.,1910-03-18,R260,y
+11253,Nora Bella,Gish,,003-11-08,F,W,Tex,,,L.H.Kirk,,,Friends,,6 ward.,1910-03-14,G000,y
+11252,T.L.,Wren,,070-10-12,M,W,Miss,Cirrhosis of Liver,,L.H. Kirk,,929,Friends,,"2 ward. MF burial location is 3,929.",1910-03-14,W650,y
+11264,Joe,Lemon,,050-00-00,M,M,Unknown,Syphillis,,L.H. Kirk,,City Gr.,County,,7 ward.,1910-03-14,L500,y
+11198,Wm. J.,Shockley,,065-00-00,M,W,Unknown,Accidental Fall,,C.S. Woods,,525,Friends,,"""Ship from Indianapolis, Ind."" MF burial location is 2,525.",1910-03-11,S400,y
+11197,Ada J. (Mrs.),Slaughter,,057-00-13,F,W,Virginia,Gripal Pneumonia,,L.H. Kirk,,909,Friends,,8 ward. MF burial location is 4.909.,1910-03-10,S423,y
+11196,Age (Mrs.),Payne,,023-00-00,F,W,Unknown,Gunshot Wound,,"N.S. Duvall, Cor.",,904,Friends,,"""Ship from Houston."" MF burial location is 4,909.",1910-03-09,P500,y
+11195,Roy,Le Master,,009-01-10,M,W,Tex,Thyphoid Fever,,L.H. Kirk,,1130,Friends,,"7 ward. MF burial location is 3,1130.",1910-03-09,L523,y
+11194,Jacob,Faber,,065-00-00,M,W,Unknown,Tuberc. Pulm.,,L.H. Kirk,,1130,Friends,,"7 ward. MF burial location is 3,1130.",1910-03-08,F600,y
+11193,T.J. (Mrs.),Campbell,,073-09-03,F,W,Ark.,Ch. Nephritis,,L.H. Kirk,,143,Friends,,"""Ship from Dallas."" Mf burial location is 4,143.",1910-03-07,C514,y
+11192,Albert,Nickles,,070-05-18,M,W,Tenn.,Sudden death probably apoplexy,,L.H. Kirk,,174,Friends,,"7 ward. MF burial location is 4,174. Last name is spelled ""Nichols"" on MF record. It is clearly ""Nickles"" in ledger.",1910-03-07,N242,y
+11191,Emma Reed (Mrs.),Nelson,,026-11-04,F,W,Texas,Pneumonia,,L.H. Kirk,,1022 1/2,Friends,,"MF burial location is 4,1022 1/2.",1910-03-06,N425,y
+11190,Walter Haynie,Caldwell,,068-02-03,M,W,Tenn.,Uraminia Reval Cabule ???,,L.H. Kirk,,1042,Friends,,"2 ward. MF gives burial location as 3,1043. Note discrepancy.",1910-03-06,C434,y
+11189,Lauriania A.,Frazier,,000-06-03,F,C,Unknown,Cholera Infantum,,L.H. Kirk,,Colored Grounds,Friends,,7 ward.,1910-03-04,F626,y
+11188,Margurete,Davis,,001-09-00,F,C,Austin,Pneumonia,,L.H. Kirk,,Colored Grounds,Friends,,7 ward.,1910-03-02,D120,y
+11187,Wm.,Detrick,,041-11-21,M,C,Austin,Uremia,,L.H. Kirk,,Colored Grounds,Friends,,7 ward.,1910-03-01,D620,y
+11186,Edward,Stroble,,050-00-00,M,W,Unknown,Suicide,,James Pickett,Catholic Cemetery,,Friends,,"""Ship from Plainview, Tex."" MF burial location is Mt. Calvary.",1910-03-01,S361,y
+11184,Mary Ann (Mrs.),Brady,,053-00-00,F,W,Ala.,Bright's Disease,,L.H. Kirk,,438,Friends,,"MF burial location is 2,438.",1910-02-28,B630,y
+11185,Isabell (Mrs.),Barron,,078-00-00,F,W,New York,La Grippe,,F.P. McLaughlin,,108,Friends,,"MF burial location is 1,108.",1910-02-28,B650,y
+11183,Dorothy Dixie,Given,,000-14-00,F,W,Austin,Gastroenteritis,,H.B. Granberry,,130,Friends,,"MF burial location is 4,1130. Last name may be ""Gwin"".",1910-02-27,G150,y
+11181,John,Brown,,026-00-00,M,W,Unknown,Pulmonary Tuberculosis,,D.H. Galloway,,"727, Sec. 3",Friends,,"""S. from Clovis, N.M.""",1910-02-26,B650,y
+11182,H.W.,Browder,,051-00-00,M,W,Unknown,Typhoid Fever,,Afri (?) Mc Daniel,,Blank,Friends,,"""S. from San Antonio.""",1910-02-25,B636,y
+11180,Catherine P.,Hansbrough,,074-10-13,F,W,Ala.,Senility,,L.H. Kirk,,1130,Blank,,"MF burial location is 3,1130. Last name is ""Hansborough"" on MF record.",1910-02-24,H521,y
+11178,Chas F.,Sullivan,,048-00-00,M,W,North Carolina,Tuberculosis,,L.H. Kirk,,1130,Friends,,"MF burial location is 3,1130.",1910-02-22,S415,y
+11179,V. (Infant of),Morgan,,000-00-01,F,W,Austin,Patulous Faramen Ovula (?),,L.H. Kirk,,City Gr.,City,,"Ledger actually states that the infant lived ""Few Hrs."".",1910-02-21,M625,y
+11177,S.A.J.,Carrington,,084-00-00,F,W,Unknown,Paralysis,,J.W. Wall (San Marcos),,111,Friends,,"""S. from San Marcos."" MF burial location is 1,111.",1910-02-21,C652,y
+11175,Mattie May (Miss),Breneke,,026-00-00,F,W,Unknown,Tuberculosis,,W.T. Jones,,893,Friends,,"""S. from Georgetown."" MF burial location is 3,893.",1910-02-20,B652,y
+11176,Americo,Sconci,,000-05-00,M,W,Tex.,Dysentery,,L.H. Kirk,Catholic Cemetery,,Friends,,MF burial location is Mt. Calvary.,1910-02-20,S520,y
+11174,H.C.,Fisher,,055-00-00,M,W,Miss,Apoplexy,,Homer Hill,,195,Friends,,"MF burial location is 1,195.",1910-02-17,F260,y
+11173,Sarah E.,Corwin,,074-10-16,F,W,Tenn.,Uraemia Exhaustion,,L.H. Kirk,,174,Friends,,"MF burial location is 4,174.",1910-02-17,C650,y
+11172,Sarah,Nelson,,01/06/0,F,W,Missouri,Pneumonia,,L.H. Kirk,,1130,Friends,,"MF burial location is 3,1130.",1910-02-14,N425,y
+11171,T.S.,Casper,,061-00-00,M,W,Miss.,Deability (?) Coma,,Ralph Steiner,,837,Friends,,"MF burial location is 2,837.",1910-02-13,C160,y
+11170,J.G.,Pursley,,040-03-16,M,W,Texas,Pneumonia,,L.H. Kirk,,1053,Friends,,"MF burial location is 3,1053.",1910-02-12,P624,y
+11169,Simon P.,Alvesega,,000-00-12,M,M,Austin,Marasmus,,L.H. Kirk,,City Gr.,City,,,1910-02-10,A412,y
+11168,Chas.,Grohmann,,000-00-11,M,W,Tex.,Inanition,,L.H. Kirk,Catholic Cemetery,,Friends,,MF gives burial location is Mt. Calvary.,1910-02-10,G650,y
+11167,Nellie,Lundahl,,027-03-09,F,W,Iowa,Pulmonary Tuberculosis,,L.H. Kirk,,814,Friends,,"MF burial location is 2,814. There are two MF entries for this burial. One gives first name as ""Nellie"". Other gives first name as ""Guneille F.""",1910-02-10,L534,y
+11166,Theodore,Johnson,,014-00-00,M,C,Unknown,Killed by Electric Wire,,Ludlow Calhoun,,Colored Grounds,Friends,,"""Shipped from (Burnet?) Tex.",1910-02-09,J525,y
+11165,Chas.,Saldonia,,042-02-03,M,M,Mexico,Tuberculosis,,L.H. Kirk,,Mex. Gr.,Friends,,,1910-02-08,S435,y
+11162,Albin,Brostrum,,028-00-00,M,W,Austin,Cirrhosis of Liver,,J.M. McLaughlin,,568,Friends,,"MF burial location is 1,568.",1910-02-04,B623,y
+11163,John L.,Clark,,000-02-00,M,W,"Govalle, Tex.",Marasmus Entro Colitis,,S.E. Hudson,,367,Friends,,"MF burial location is 1,367.",1910-02-04,C462,y
+11164,Baby,Cameron,,000-00-00,M,W,Austin,Stillborn,,L.H. Kirk,,City Gr.,City,,,1910-02-04,C565,y
+11161,Ella,Detrick,,062-00-00,F,C,"Marshall, Tex.",Pneumonia,,Neal Watt,,Colored Grounds,Friends,,,1910-02-03,D620,y
+11160,Clara,Brown,,001-09-10,F,W,Austin,,,L.H. Kirk,,,Friends,,"MF burial location is 3,1090.",1910-02-02,B650,y
+11159,Kitt,Rabb,,095-00-00,M,W,"Quincy, Ill.",Septic Poisoning from Brain,,C.W. Weller,,Colored Grounds,Friends,,Note discrepancy between race entered in ledger and burial location. MF burial location is also Colored Grounds.,1910-02-02,R100,y
+11158,Hedwick (Mrs.),Martin,,075-00-00,F,W,Germany,Acute Dilation of Heart,,L.B. Bibb,,Blank,Friends,,,1910-02-01,M635,y
+11157,Infant of,Bowtila,,000-11-00,F,M,Austin,Whooping Cough,,C.O. Weller,Catholic,,Friends,,"MF burial location is Mt. Calvary. Last name of MF record is ""Bowlita""",1910-01-30,B340,y
+11156,Amanda,Cortz,,040-00-00,F,W,Norway,Pernicious Vomiting (Illegible),,S.E. Hudson,,1133,Friends,,"MF burial location is 3,1133.",1910-01-30,C632,y
+11155,Kittie (Mrs.),Turner,,080-00-00,F,W,Tex.,Dropsy,,Homer Hill,,1130,Friends,,"MF burial location is 3,1130.",1910-01-30,T656,y
+11154,Hattie A.,Harrison,,039-00-00,F,C,"Huntsville, Tex.",Malipinan (?) La Grippe,,James McLaughlin,,Colored Grounds,Friends,,,1910-01-30,H625,y
+11153,Matilda,Esparza,,018-00-00,F,M,Unknown,Tuberculosis,,Joe Wooten,,City Gr.,City,,,1910-01-28,E216,y
+11152,Donate,Reyes,,045-00-00,M,M,Unknown,Organic Heart Disease,,Joe Wooten,,City Gr.,Friends,,,1910-01-27,R200,y
+11150,Alice,Clarkson,,051-00-00,F,W,Travis Co.,Fibromyoma of uterus with ??,,H.F. Sterzing,,468,Friends,,"MF burial location is 2,468 E 1/2.",1910-01-27,C462,y
+11151,Albert (Infant of ),Wattinger,,000-00-00,M,W,Travis Co.,Stillborn,,G.W. Wooten,,828,Friends,,"MF burial location is 4,828. Name on MF record is ""Albert Wattinger"".",1910-01-27,W352,y

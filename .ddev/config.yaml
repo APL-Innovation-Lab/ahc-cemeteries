@@ -1,4 +1,4 @@
-name: ahc-cemeteries
+name: cemeteries
 type: drupal9
 docroot: html
 php_version: "8.1"

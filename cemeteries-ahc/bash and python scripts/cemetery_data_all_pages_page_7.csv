@@ -1,0 +1,1001 @@
+pkoakwood,firstname,lastname,name_contribution,yearsmonthsdays,sex,color,nativity,disease,disease_contribution,attendingphysician,whereburied,SecLotSpace,bywhomburied,profession,remarks,date,lastname_soundex,showrow
+10162,J.W.,Hancock,,064-00-00,M,W,Unknown,Bright's Disease,,F.P. McLaughlin,,Lot 917,Friends,,"MF gives burial location as 3,917.",1905-11-27,H520,y
+10146,J.B.,Lockhart,,076-00-00,M,W,Unknown,Cancer/Bright's Disease,,S.E. Hudson,,Lot 728,Friends,,"MF gives burial location as 3,728.",1905-11-27,L263,y
+10145,L.E.,Pearce,,024-00-00,M,W,Unknown,Typhoid Fever,,J.W. Mathews,,Lot 774,Friends,,"MF gives burial location as 2,774.",1905-11-26,P620,y
+10144,T.H.,Bowman,,068-00-00,M,W,Louisiana,Angina Pectoris,,W.D. Gorton,,Lot 364,Friends,,"MF gives burial location as 1,364.",1905-11-25,B500,y
+10143,Mrs. M.A.,Pillow,,083-00-00,F,W,Virginia,Cancer,,L.L. Lacey,,Lot 995,Friends,,"MF gives burial location as 4,995.",1905-11-25,P400,y
+10142,C.C.,Reed,,044-00-00,M,W,Mississippi,Tyhpoid Fever,,Heb. Hun (?),,Lot 907,Friends,,"MF gives burial location as 4,907.",1905-11-24,R300,y
+10141,Baby,Rife,,000-04-00,F,W,Austin,Cholera Infantum,,F. Litten,,Old Grounds,Friends,,,1905-11-24,R100,y
+10140,Rosa,Washington,,060-00-00,F,C,Unknown,General Paresis (?),,Joe Gilbert,,Old Grounds,Friends,,,1905-11-24,W252,y
+10139,Elizabeth,Shortridge (Shortage?),,088-00-00,F,W,Alabama,Old Age,,F.J. Bennett,,"Sec. 2, Lot 551 (See notes below)",Friends,,"Surname is ""Shortridge"" in 1905 City Directory. MF gives burial location as 4,962, which is totally different from info. in ledger. Note added to ledger on 10/21/1914 reads: Removed body of Mrs. E. Shortridge from lot 962 in Oakwood to lot 551.""",1905-11-23,S636,y
+10138,Petter,Martin,,065-00-00,M,W,Unknown,Pneumonia,,F. Litten,,Catholic,Friends,,"MF gives burial location as ""Mt. Calvary"".",1905-11-22,M635,y
+10137,Chas. S.,Lee,,025-00-00,M,W,Unknown,Dysentery,,S.E. Hudson,,Lot 903,Friends,,"MF gives burial location as 3,903.",1905-11-20,L000,y
+10136,W.B.,Mathews,,000-00-00,M,W,Unknown,Stillborn,,F. Litten,,Lot 191,Friends,,This burial not found on MF record.,1905-11-16,M320,y
+10135,Earnest,Houston,,000-02-00,M,W,Unknown,Inanition,,W.M. Brumby,,Lot 875,Friends,,"MF gives burial location as 3,875.",1905-11-15,H235,y
+10134,Fred,Bletesdorf,,031-00-00,M,W,Unknown,Gunshot Wound,,M.M. Johnson,,Lot 907,Friends,,"Surname is ""Blittersdorf"" in the 1905 City Directory. MF gives burial location as 3,907.",1905-11-13,B432,y
+10131,J.R.,Gun,,000-03-00,M,W,Unknown,Gastro Enteritis,,Joe Gilbert,,Lot 26 1/2,City,,"MF gives burial location as 1,26 1/2.",1905-11-11,G500,y
+10132,N.T.,Strayhorne,,083-00-00,M,W,Tenn.,Old Age,,F.J. Bennett,,Lot 185,Friends,,"MF gives initials as W.F. and burial location as 4, 183 (not 185).",1905-11-11,S365,y
+10133,Era May,Poe,,006-00-00,F,W,Unknown,Burn,,Homer Hill,,Lot 20,Friends,,"MF gives burial location as 1,20.",1905-11-11,P000,y
+10130,Miss Anna,Wood,,058-00-00,F,W,Unknown,Abscess of Brain,,H.B. Granberry,,,Friends,,"MF gives burial location as 3,732 (not 723).",1905-11-10,W300,y
+10129,James E.,Brown,,003-00-00,M,W,Unknown,Diphtheria,,H.B. Granberry,,Lot 908,Friends,,"MF gives burial location as 3,908.",1905-11-10,B650,y
+10128,Piedad,Amaga,,051-00-00,M,M,Unknown,Pulmonary Tuberculosis,,Joe Gilbert,,Blank,City,,,1905-11-10,A520,y
+10127,H.,Hellman,,Unknown,M,W,Unknown,Heart Failure,,F.R. Martin,,Hebrew,Friends,,"MF gives burial location as 1,B11,20.",1905-11-08,H450,y
+10126,John W.,Cloud,,064-00-00,M,W,Unknown,Abscess of Scalp (?) of Brain,,V.E. Howze,,,Friends,,"MF gives burial location as 2,714.",1905-11-08,C430,y
+10125,Miss G.,Swaringen,,057-00-00,F,W,Native Texas,Apoplexy,,F. Paschal,,Lot 397,Friends,,"MF gives burial location as 2,397.",1905-11-08,S652,y
+10124,Infant,Unknown,,Unknown,M,W,Unknown,Unknown,,Joe Gilbert,,Blank,City,,,1905-11-08,U525,y
+10123,T.S.,Millhouse,,070-00-00,M,W,Ohio,Consumption,,H.C. Morrow,,Lot 881,Friends,,"MF gives burial location as 3,881.",1905-11-05,M420,y
+10122,S.E.,Jaqua,,084-00-00,M,W,Unknown,General Debility,,Sam Haigler,,Lot 185,Friends,,"MF gives burial location as 4,185.",1905-11-05,J000,y
+10121,Mexican,Unknown,,000-00-00,F,M,Austin,Stillborn,,H.F. Sterzing,,Blank,City,,,1905-11-03,U525,y
+10120,William,Raatz,,068-00-00,M,W,Germany,Arterio Sclerosis,,H.F. Sterzing,,Lot 276,Friends,,"MF gives burial location as 1,276.",1905-11-02,R320,y
+10119,Thomas,Tucker,,062-00-00,M,W,Unknown,Stomach Trouble,,F. Litten,,Lot 996,Friends,,"Given name on MF record is Thos. J. MF gives burial location as 4, 996.",1905-11-01,T260,y
+10118,Roberta L.,Wolfe,,027-00-00,F,C,Austin,Nephritis,,W.J. Yates,,Blank,Friends,,,1905-10-31,W410,y
+10117,Rol. H.,Bridson,,000-05-00,M,W,Unknown,Pneumonia,,W.J. Mathews,,Lot 765,Friends,,"MF gives burial location as 3, 765.",1905-10-31,B632,y
+10116,Geo. W.,Durre,,070-00-00,M,W,Texas,Apoplexy,,H.F. Sterzing,,Blank,City,,,1905-10-30,D600,y
+10115,J.R.,Hoge,,028-00-00,M,W,Unknown,Tuberculosis,,W.E. Gillespie,,Blank,Friends,,"MF gives burial location as 1,579.",1905-10-28,H200,y
+10114,Wm.,Mitchell,,064-00-00,M,W,England,Pursis,,J.W. Willhite,,Lot 1090,Friends,,"MF gives burial location as 3,1090.",1905-10-23,M324,y
+10113,Pableta,Chaban,,000-03-00,F,W,San Marcos,Unknown,,Joe Gilbert,,Blank,City,,,1905-10-22,C150,y
+10112,A. Jeff,Johnson,,071-00-00,M,W,Georgia,Valvular Disease of Heart,,C.O. Weller,,"Sec. 1, Lot 380",Friends,,,1905-10-19,J525,y
+10111,Joe,Gomez,,047-00-00,M,W,Mexico,Chronic Atrophic (?),,H.F. Sterzing,,Blank,City,,"Although name is hispanic and nativity is Mexico, ledger gives race as W.",1905-10-17,G520,y
+10110,Mrs. Annie,Poniss (?),,085-00-00,F,W,Germany,Artheriosclerosis,,H.F. Sterzing,,Lot 947,Friends,,This burial record not found on MF. Surname is difficult to read and may not be correct.,1905-10-16,P520,y
+10109,John,Marshall,,045-00-00,M,W,Miss.,Organic Heart Disease,,H.F. Sterzing,,Lot 832,Friends,,"MF gives burial location as 4,832.",1905-10-16,M624,y
+10108,Edwin,Hancock,,007-00-00,M,W,Austin,Tubercular Adantis (?),,F.P. McLaughlin,,Lot 709,Friends,,"MF gives burial location as 3,709.",1905-10-12,H520,y
+10012,Mrs.,Finnin,,070-00-00,F,W,Unknown,,,Blank,,,Friends,,"MF gives burial location as 1,156. Surname is spelled Fennin on microfiche.",1905-10-11,F500,y
+10107,Brice,Martin,,Unknown,M,W,Unknown,Gangrene of Hand,,Neal Watt,,Lot 884,Friends,,"MF gives burial location as 3,884.",1905-10-10,M635,y
+10106,Mrs. Carl,Carlson,,045-00-00,F,W,Unknown,Burned,,Blank,,Lot 805,Friends,,"""Burnt remains from Del Valle"". MF gives burial location as ""Try 4,809, W 1/2.""",1905-10-09,C642,y
+10105,Miss Ella,Larsen,,015-00-00,F,W,Unknown,Burned,,Blank,,Lot 805,Friends,,"""Burnt remains from Del Valle."" MF gives burial location as 2,805.",1905-10-09,L625,y
+10104,Rev. Aug.,Walberg,,045-00-00,M,W,Sweden,Phtisis Pulmonalis,,Ralph Steiner,,Lot 868,Friends,,"MF gives burial location as 4,868.",1905-10-02,W416,y
+10103,Hilda,Benllor,,000-00-10,M,M,Austin,Convulsions,,Joe Gilbert,,Blank,City,,"Surname is difficult to read. MF entry reads ""Benllor"". Could be Banda or Bandor. Is probably not Benllor.",1905-09-30,B546,y
+10102,Baby,Catchings,,000-00-01,F,W,Austin,Murrasmus,,H.F. Sterzing,,Blank,City,,,1905-09-29,C325,y
+10101,Mrs. Maggie,Castleman,,025-00-00,F,W,Unknown,Peritonitis,,S.C. Scalf (???),,Lot 335`,Friends,,Name on MF record is Mrs. Maggie Erwin Castleman.,1905-09-23,C345,y
+10100,Mary B.,Haldeman,,000-03-00,F,W,Unknown,Gastro Enteritis,,E. Mussina,,Old Grounds,Friends,,"MF gives burial location as 1,Old Gr.",1905-09-23,H435,y
+10099,Pedro,Banda,,045-00-00,M,M,Mexico,Peritonitis,,F.Litten,,Blank,City,,,1905-09-19,B530,y
+10098,Melba,Albright,,000-04-00,F,W,Austin,Inanition,,L.H. Kirk,,Lot 5,Friends,,"MF gives burial location as 1,5.",1905-09-14,A416,y
+10097,James G.,Phillips,,048-00-00,M,W,La.,Bright's Disease,,S.E. Hudson,,Lot 869,Friends,,"MF gives burial location as 4,869.",1905-09-13,P412,y
+10096,J.W.,Warren,,059-00-00,M,W,Miss.,Pulmonary Tuberculosis,,H.F. Sterzing,,Lot 816,Friends,,"MF gives burial location as 4,816.",1905-09-13,W650,y
+10095,Hillma,Westerman,,Unknown,F,W,Austin,Malarial Fever,,F.M. Lee,,Lot 877,Friends,,Surname of MF record is Gesterman.,1905-09-12,W236,y
+10094,Gerturde,Robinson,,036-00-00,F,W,Austin,Abscess of Kidney,,J.J. Muller,,,Friends,,"MF gives burial location as 2,397.",1905-09-11,R152,y
+10093,Ella,Terry,,Unknown,F,C,Unknown,Bright's Disease,,M.M.Smith,,Old Grounds,Friends,,,1905-09-10,T600,y
+10092,Annie,Turner,,002-00-00,F,W,Austin,Diphtheria,,H.F. Sterzing,,Lot 891,Friends,,"MF gives burial location as 4,891.",1905-09-09,T656,y
+10091,Infant of F.G.,Withrow,,000-00-06,M,W,Austin,Inanition,,F.R.Pettaway,,Lot 806,Friends,,,1905-09-09,W360,y
+10090,Rudolph,Eggling,,047-00-00,M,W,Comal Co.,Bright's Disease,,H.B. Granberry,,Lot 890,Friends,,"MF gives burial location as 3,890. Surname is spelled ""Eggeling"" in 1905 City Directory.",1905-09-07,E245,y
+10089,Mrs. M.A.,Groose,,06000,F,W,Unknown,Chronic Morphine Habit,,Joe Gilbert,,Lot 18,Friends,,"MF gives burial location as 1,18.",1905-09-07,G620,y
+10088,Johana E.,McCarty,,069-00-00,F,W,Unknown,Softening of Brain,,W.M.Brumley,,Lot 178,Friends,,"MF gives burial location as 4,178.",1905-09-06,M263,y
+10087,S.,Goldberg,,052-00-00,M,W,Europe,Locomotor Ataxia,,H.F. Sterzing,,Let?? Hebrew,Friends,,"MF gives burial location as 1,B11,Single.",1905-09-03,G431,y
+10085,Infant of Mrs.,Mogga,,000-00-01,M,W,Austin,Secondary Hemorrhage,,Joe Gilbert,,Old,City,,"MF gives burial location as 1, Old Gr.",1905-08-31,M200,y
+10086,E.,Olguin,,040-00-0,M,M,Unknown,Malarial Fever,,Joe Gilbert,,Old,City,,,1905-08-31,O425,y
+10084,Edwin,Porsh,,003-00-00,F,W,Austin,Typhoid Pneumonia,,H.B. Granberry,,Lot 263,Friends,,"MF gives burial location as 1,263.",1905-08-31,P620,y
+10083,Fanny,Moore,,028-00-00,F,W,Texas,Organic Heart Disease,,F. Sterzing,,Blank,City,,"MF gives burial location as 1,Old Grds.",1905-08-26,M600,y
+10082,Mary M.,Benson,,029-00-00,F,W,Austin,Pernicious Vomiting,,S.E. Hudson,,Lot 1073,Friends,,"MF gives burial location as 4,1073.",1905-08-25,B525,y
+10081,Adolph,Schirmer,,055-00-00,M,W,Germany,Bright's Disease,,F.Litten,,Lot 833,Friends,,,1905-08-24,S656,y
+10080,Jeannette,Andrewartha,,032-00-00,F,W,Austin,Typhoid Fever,,T.R. Pettaway,,Lot 850,Friends,,"MF gives burial location as 4,850.",1905-08-22,A536,y
+10079,Matilda,Holland,,085-00-00,F,C,Unknown,Old Age,,W.J. Mathews,,Old Grounds,Friends,,"MF gives burial locatin as 1, Old Grds.",1905-08-21,H453,y
+10078,Infant of Frank,Burns,,000-00-00,F,W,Austin,Stillborn,,C.O. Miller,,Lot 997,Friends,,"MF gives burial location as 3,997.",1905-08-19,B652,y
+10077,Infant,Westergard,,000-00-00,F,W,Austin,Stillborn,,W.J. Mathews,,Lot 850,Friends,,"MF gives burial location as 4,850. Entry is ""Baby Westergard"" on MF.",1905-08-17,W236,y
+10076,Mrs. C.B.,Polman,,067-00-00,F,W,Unknown,Bright's Disease,,F.P. McLaughline,,Blank,Friends,,This burial not located on MF record.,1905-08-16,P450,y
+10075,Lillian H.,Goggen,,000-00-08,F,W,El Paso,Hemorrhage of Bladder,,W.H. Anderson,,Lot 1062,Friends,,"MF gives burial location as 3,1062.",1905-08-15,G500,y
+10074,J.M.,Brackenridge,,072-00-00,M,W,Unknown,Cancer of Stomach,,M.A. Taylor,,Lot 732,Friends,,"MF gives burial location as 3,732.",1905-08-14,B625,y
+10073,J.A.,Medors,,055-00-00,M,W,Unknown,Carcinoma,,Ralph Steiner,,Lot 874,Friends,,"MF gives burial location as 2,483.",1905-08-13,M362,y
+10072,Vivian,Ellmore,,000-02-00,F,C,Austin,Whooping Cough,,J.H. Stevens,,Blank,Friends,,,1905-08-12,E456,y
+10071,H.B.,Kinney,,Unknown,M,W,Unknown,Heart Disease,,Blank,,Lot 483,Friends,,"""From Chicago, Ill.""",1905-08-10,K500,y
+10070,G.N.,Beaumont,,071-00-00,M,W,Unknown,Organic Heart Failure,,T.B. Lange,,Lot 432,Friends,,"MF gives burial location as 2,432.",1905-08-07,B530,y
+10069,Frantz,Schmidt,,049-00-00,M,W,Unknown,Dropsy,,Neal Watt,,"Sec.4, Lot 996, E 1/2",Friends,,"MF gives burial location as 4,996.",1905-08-06,S530,y
+10068,Camp,Cameron,,015-00-00,M,W,Unknown,,,Blank,,,Friends,,This burial not found on MF record. This name is found in 1905 City Directory.,1905-08-04,C565,y
+10067,Rozella,Mohr,,005-00-00,F,W,Austin,Diphtheria,,Joe Gilbert,,Lot 18,Friends,,"MF gives burial location as 1,18.",1905-08-03,M600,y
+10066,J.W.,Howard,,079-00-00,M,W,Unknown,Pneumonia,,F.P. McLaughlin,,Lot 742,Friends,,"MF gives burial location as 2,742.",1905-08-02,H630,y
+10065,Jennie,Feurbacher,,000-01-00,F,W,Austin,Cyanosis,,E. Mussina,,Blank,Friends,,"MF gives burial location as 1,Old Grds.",1905-08-02,F612,y
+10064,Alb.,Gay,,032-00-00,M,W,Unknown,Abscess of Liver,,H.B. Granberry,,,Friends,,"MF gives burial location as 4,814.",1905-07-26,G000,y
+10063,Ollie,Beard,,003-00-00,F,W,Unknown,Diphtheria,,H.B. Granberry,,Lot 958,Friends,,MF gives burial location as 4.958.,1905-07-22,B630,y
+10062,Mrs.,George,,022-00-00,F,W,Austin,Acute Diabetes,,T.H. Wooten & Sons,,Lot 161,Friends,,"MF gives burial location as 1,161.",1905-07-17,G620,y
+10061,Mrs. S.W.,Earnest,,008-40-00,F,W,Unknown,Dysentery,,F.J. Bennett,,Lot 959,Friends,,"MF gives burial location as 3, 959.",1905-07-17,E652,y
+10060,Laura,Peirse,,078-00-00,F,M,Virginia (?),Gastritis,,J.M. Stevens,,Blank,Friends,,,1905-07-16,P620,y
+10059,Myrtle,Pursley,,022-00-00,F,W,Texas,Gunshot Wound,,M.M. Johnson,,Lot 909,Friends,,"MF gives two burial locations: 4,996 and 4,959.",1905-07-13,P624,y
+10058,Burt,Burns,,022-00-00,M,W,Unknown,Typhoid Fever,,W.G. Pettris,,Lot 997,Friends,,"MF gives burial location as 3,997.",1905-07-13,B652,y
+10057,Hellen,Berger,,000-05-00,F,W,Austin,Pneumonia,,W.P. Rhodes,,Lot 19,Friends,,"MF gives burial location as 1,19.",1905-07-11,B626,y
+10056,Minnie,Marsh,,012-00-00,F,W,Unknown,Typhoid Fever,,F. Litten,,Lot 832,Friends,,"MF gives burial location as 4,832.",1905-07-05,M620,y
+10055,Mack,Henson,,055-00-00,M,C,Unknown,Heart Failure,,Illegible,,Old Grounds,Friends,,,1905-06-25,H525,y
+10054,Albert,Carey,,000-05-00,M,W,Austin,entro Colitis,,Joe Gilbert,,Blank,City,,,1905-06-24,C600,y
+10053,Le Brata (Librada?),Flores,,002-00-00,F,M,Austin,Chronic Measles,,Joe Wooten,,Blank,Friends,,,1905-06-23,F462,y
+10052,Adline,Marinds (?),,000-10-00,F,M,Austin,Acute Indigestion,,Joe Gilbert,,Blank,City,,Surname is illegible. This burial record not found on MF.,1905-06-21,M653,y
+10051,August,Lang,,040-00-00,M,W,Unknown,Meningitis,,W.J. Mathews,,Lot 862,Friends,,"MF gives burial location as 4,862.",1905-06-21,L520,y
+10050,Dwight,Reedy,,024-00-00,M,W,Unknown,Chronic Gastritis,,W.J. Mathews,,Lot 862,Friends,,Age is not legible and may be incorrect. This burial record not found on MF.,1905-06-18,R300,y
+10049,M.H.,Hardcastle,,068-00-00,M,W,Unknown,,,Blank,,,Friends,,"MF gives burial location as 3,996.",1905-06-18,H632,y
+10048,J.A.,Kane,,000-00-00,M,W,Austin,Stillborn,,W.J. Mathews,,Lot 1090,Friends,,"MF gives burial location as 1,1090.",1905-06-17,K500,y
+10047,Ed.,Hardy,,038-00-00,M,W,Unknown,Consumption,,Homer Hill,,Lot 959,Friends,,"MF gives burial location as 4,959.",1905-06-16,H630,y
+10045,Baby,Kendall,,000-00-03,M,W,Austin,Premature Birth,,Joe Gilbert,,Blank,City,,"MF gives burial location as 1,Old Grds. There are three entries on the MF for this burial.",1905-06-14,K534,y
+10044,Francis,Knape,,000-18-00,M,W,Austin,Hydrocephalus,,T.L. Griffith,,Lot 806,Friends,,"MF gives burial location as 2,806.",1905-06-14,K510,y
+10043,Pauline,Joerschke,,064-00-00,F,W,Germany,Tuberculosis,,Joe Wooten,,Lot 817,Friends,,"MF gives burial location as 4,817.",1905-06-13,J620,y
+10042,Joe,Gonzales,,024-00-00,M,M,Mexico,Pneumonia,,H.F. Sterzing,,Blank,City,,,1905-06-12,G524,y
+10041,Ethel,Mobley,,005-00-00,F,W,Austin,Diphtheria,,F.Litten,,Blank,City,,"MF gives burial location as 1,307.",1905-06-12,M140,y
+10040,Mrs. James T.,Black,,024-00-00,F,W,Austin,Pernicious Vomiting,,S.E. Hudson,,Lot 866,Friends,,"MF gives burial location as 3,866.",1905-06-11,B420,y
+10039,Theodore E.,Sterzing,,022-00-00,M,W,Austin,Appendicitis,,Homer Hill,,Lot 1063,Friends,,"MF gives burial location as 3,1063.",1905-06-10,S362,y
+10038,Maud E.,Russ,,001-00-00,F,C,Unknown,Cholera Infantum,,J.H. Stevens,,Old Grounds,Friends,,,1905-06-10,R200,y
+10037,Jim,Moore,,057-00-00,M,W,Austin,Acute Enteritis,,H.F. Sterzing,,Blank,City,,"MF gives burial location as 1, Old Grds.",1905-06-10,M600,y
+10036,R.W.,Watt,,000-00-00,F,W,Austin,Stillborn,,F.P. McLaughlin,,Lot 806,Friends,,"MF gives burial location as 4,806.",1905-06-09,W300,y
+10035,F.,Greidenweis,,062-00-00,M,W,Germany,,,Blank,,,Friends,,"MF gives burial location as 2,431.",1905-06-09,G635,y
+10034,J.H.,Anderson,,034-00-00,M,W,Unknown,,,Blank,,,Friends,,"MF gives burial location as 1,377.",1905-06-09,A536,y
+10033,Baby,Roberts,,000-01-00,F,W,Austin,Gastro Enteritis,,Joe Gilbert,,Blank,City,,,1905-06-04,R163,y
+10032,Melico,Lopez,,000-17-00,M,M,Austin,Gastro Enteritis,,H.B. Granberry,,Blank,City,,,1905-06-02,L120,y
+10031,Mrs.,Gibson,,045-00-00,F,W,Unknown,Enteritis,,W.J. Mathews,,Lot 874,Friends,,"MF gives burial location as 3,874.",1905-06-02,G125,y
+10030,Mrs. C.W.,Barnes,,Unknown,F,W,Unknown,Bright's Disease,,F.L. Griffith,,Lot 838,Friends,,"MF gives burial location as 2,838.",1905-06-02,B652,y
+10029,John E.,Wilson,,001-00-00,M,W,Mexico,Entro Colitis,,R.L. Wilson,,Lot 904,Friends,,"MF gives burial location as 4,904.",1905-05-31,W425,y
+10027,Unknown,Benarda,,000-00-11,F,M,Hutto,Inanition,,Joe Gilbert,,Blank,City,,Benarda may be the given name rather than the surname. It is the only name in the register.,1905-05-31,B563,y
+10028,Isadore,Wallace,,001-00-00,M,W,Unknown,Cholera Infantum,,T.H. Wooten & Sons,,Hebrew,Friends,,"MF gives burial location as 1,B11.",1905-05-31,W420,y
+10026,J.H.,Luckett,,070-00-00,M,W,Unknown,Paralysis,,Earnest Stevens,,Lot 358,Friends,,"MF gives burial location as 1,358.",1905-05-30,L230,y
+10025,L.W.,Simpson,,088-00-00,M,W,Unknown,Pancarditis,,F.P. McLaughlin,,Lot 494,Friends,,"MF gives burial location as 2,494.",1905-05-30,S512,y
+10024,Jacob,Stark,,084-00-00,M,W,Unknown,Drowned,,M.M. Johnson,,Lot 832,Friends,,"MF gives burial location as 4,832.",1905-05-30,S362,y
+10023,Daisie,Gray,,022-00-00,F,W,San Antonio,Drowned,,Illegible,,Blank,Friends,,,1905-05-29,G600,y
+10022,Infant,Cherico,,000-00-00,F,W,Austin,Stillborn,,H.B. Granberry,,Lot 892,Friends,,"MF gives burial location as 3,892.",1905-05-25,C620,y
+10021,L.D.,Maxwell,,061-00-00,M,W,Unknown,Pneumonia,,Neal Watt,,Lot 817,Friends,,"MF gives burial location as 3,917.",1905-05-25,M240,y
+10020,Jurufa,Hernanda (Hernandez?),,000-17-00,M,M,Unknown,Enteritis,,Joe Gilbert,,Blank,City,,,1905-05-25,H653,y
+10019,Mrs. A.J.,Carradine,,054-00-00,F,W,Unknown,La Grippe,,C.O. Miller,,Blank,City,,This burial record not found on MF.,1905-05-24,C635,y
+10018,W.A.,Achilles,,Unknown,,,Unknown,,,,,,,,"MF gives burial location as 4,863.",1905-05-22,A242,y
+10017,Gertrude,Hurley,,000-00-13,F,W,Austin,Cholera Infantum,,Joe Wooten,,Lot 877,Friends,,"MF gives burial location as 3,877.",1905-05-20,H640,y
+10016,Frederika,Rodriguez,,000-04-00,F,W,Austin,Entrocolitis,,Joe Gilbert,,Blank,City,,"Burial date is given as 4/16/1905 on MF. Given name is also given as ""Fredanka"".",1905-05-16,R362,y
+10015,Mrs.,McAlester,,084-00-00,F,W,Unknown,,,Blank,,,Blank,,"MF gives burial location as 4,872.",1905-05-15,M242,y
+10014,Annie,Frisse,,024-00-00,F,W,Texas,Heart Failure,,M.M. Johnson,,Lot 832,Friends,,"MF gives two burial locations: 2,823 and 4,832.",1905-05-14,F620,y
+10013,Eliza,Sales,,000-00-06,M,W,Austin,Inanition,,Joe Gilbert,,Blank,City,,,1905-05-12,S420,y
+10011,Aug.,Johnson,,067-00-00,M,W,Sweden,Heart Failure,,M.M. Johnson,,Lot 805,Friends,,"MF gives burial location as 4,805.",1905-05-10,J525,y
+10010,Mrs. Josephine,Burke,,072-00-00,F,W,Philadelphia,Embolism of Heart,,H.C. Morrow,,Lot 552,Friends,,"MF gives burial location as 2,552.",1905-05-08,B620,y
+10009,John B.,Armstrong,,020-00-00,M,W,Unknown,Killed by Fall from Horse,,Steve L. Lewis,,Lot 872,Friends,,"MF gives burial location as 4,872.",1905-05-07,A652,y
+10008,Rebecca,Vaughn,,080-00-00,F,W,Unknown,Senile Debility,,B.M. Worsham,,Lot 832,Friends,,"MF gives burial location as 3,905.",1905-05-05,V250,y
+10007,L.L. (H?),Givens,,029-00-00,M,W,Travis Co.,Drowned,,Jake Smith,,Lot 905,Friends,,"MF gives burial location as 3,905.",1905-05-04,G152,y
+10006,E.P.,Broline,,037-00-00,M,W,Sweden,Accidental Drowning,,J.D. Moore,,,Friends,,"MF gives burial location as 3,1100.",1905-05-01,B645,y
+10005,Wm.,Heyer,,067-00-00,M,W,Germany,Bright's Disease,,W.J. Mathews,,Lot 832,Friends,,"MF gives burial location as 4,832.",1905-04-30,H600,y
+10003,Mollie,Carlton,,049-00-00,F,W,Austin,,,Blank,,,Friends,,"MF gives burial location as 1,32.",1905-04-28,C643,y
+10001,J.K.,Carl,,049-00-00,M,W,Unknown,Tuberculosis,,W.H. Ras (?) er,,Lot 1029,Friends,,"MF gives burial location as 4,1029. Physician's name is illegible.",1905-04-27,C640,y
+10002,Teresa,Hutter,,083-00-00,F,W,Germany,Bright's Disease,,F.P. McLaughlin,,Lot 76,Friends,,"MF gives burial location as 1,76.",1905-04-27,H360,y
+10000,Mandy,Smith,,026-00-00,F,W,Unknown,Phtisis Pulmonalis,,F. Litten,,NE Corn.,Friends,,MF gives burial location as NE Corner. Name on MF is Manda.,1905-04-26,S530,y
+9999,H.P.,Haldemann,,042-00-00,M,W,Texas,Organic Obstruction of Bowels,,F.P. McLaughlin,,Old Grounds,Friends,,,1905-04-25,H435,y
+9998,Lenna,Schutze,,042-00-00,F,W,Austin,Cancer,,W.D. Gorton,,Old Grounds,Friends,,,1905-04-25,S320,y
+9997,J.D.,Patton,,034-00-00,M,W,Travis Co.,Pulmonary Tuberculosis,,Ralph Steiner,,Lot 760,Friends,,"MF gives burial location as 3,760.",1905-04-23,P350,y
+9996,Infant,Golstine,,000-00-00,M,W,Austin,Stillborn,,N.O. Brenizer,,Lot 400,Friends,,"MF gives burial location as 2,400.",1905-04-21,G423,y
+10004,R.H.,Smith,,071-00-00,M,W,Unknown,,,Blank,,,Friends,,"MF gives burial locaton as 4,832.",1905-04-20,S530,y
+9995,Infant,Unknown,,000-00-00,F,W,Unknown,Found in Well,,M.M. Johnson,,Blank,City,,,1905-04-17,U525,y
+9994,J.L.,McCarty,,Unknown,M,W,Unknown,,,Blank,,,Friends,,"MF gives burial location as 4,178.",1905-04-16,M263,y
+9993,Vivian Lee,Miller,,013-00-00,F,W,Austin,Typhoid Fever,,Homer Hill,,Lot 869,Friends,,"MF gives burial location as 3,869.",1905-04-11,M460,y
+9992,Ambrosio,Cardinis,,075-00-00,M,M,Mexico,Metrul (?) Insufficiency,,Joe Gilbert,,Blank,City,,"Surname is ""Cardines"" on MF.",1905-04-10,C635,y
+9991,Geo.,Taylor,,069-00-00,M,C,Unknown,Gastro Enteritis,,F. Litten,,Old Grounds,Friends,,,1905-04-10,T460,y
+9989,Mary,Brown,,070-00-00,F,C,South Car.,Dry Gangrene,,J.H. Stevens,,Old Grounds,Friends,,"MF gives burial location as 1, Old Gr.",1905-04-09,B650,y
+9990,Aaf. M.,Hooper,,Unknown,M,W,Unknown,,,Blank,,,Friends,,"""Remains from Hooper Ranch."" MF gives names as Ab. H. Hooper.",1905-04-09,H160,y
+9988,Bonita,Martinus,,000-00-20,M,M,Austin,Premature Birth,,H.B. Granberry,,Blank,City,,This burial record not found on MF>,1905-04-05,M635,y
+9987,E.H.,West,,Unknown,M,W,Unknown,Killed by R.R. Train,,A. Davis,,Lot 304,Friends,,"MF notes that this person was disinterred and reinterred. MF gives burial location as 4,822.",1905-04-05,W230,y
+9986,Ottlie,Barden,,032-00-00,F,W,Unknown,Hemorrhage of Brain,,E.V. Hamilton,,Lot 832,Friends,,"MF gives burial location as 4,832.",1905-04-05,B635,y
+9985,Lanardo,Rodriguez,,010-00-00,M,W,Texas,Gastro Enteritis,,F. Litten,,Blank,City,,"MF gives burial location as 4,832. Although surname is Hispanic color is indicated as W.",1905-04-02,R362,y
+9984,E.F.,Numbers,,055-00-00,M,W,Unknown,Cancer of Bowels,,F. Litten,,Lot 873,Friends,,"MF gives burial location as 4,873.",1905-04-02,N162,y
+9983,Robt F.,Lynch,,000-04-00,M,W,Austin,Gastroenteritis,,F.Litten,,Lot 1123,Friends,,"MF gives burial location as 3,1123.",1905-04-01,L520,y
+9982,Eada,Harrison,,021-00-00,F,W,Unknown,,,Blank,,,Friends,,"MF notes that this person was disinterred and reinterred"". MF burial location is 2,459, NW 1/4.",1905-04-01,H625,y
+9981,Eugene,Walker,,000-00-01,M,W,Unknown,Convulsions,,F.P. McLaughlin,,Lot 338,Friends,,"MF gives burial location as 1,338.",1905-03-31,W426,y
+9980,Ralf,Craford,,016-00-00,M,W,Unknown,,,Blank,,,Friends,,"""Shipt from Dillia Texas."" (Dilley?) MF gives burial location as 1,Old Grds.",1905-03-29,C616,y
+9979,Afad,Jacobsen,,040-00-00,M,W,Unknown,,,Blank,,,Friends,,"""Shipt from Cleburn Texas."" MF gives burial location as 4,832.",1905-03-28,J125,y
+9978,Wm.,Buder,,082-00-00,M,W,Unknown,Acute Alcoholism,,Joe Gilbert,,Lot 832,Friends,,"Two burial entries on MF - 8,832 and 4,832. A note appears in the Oakwood ledger for December, 1909, as follows: ""Dec. 10th. Removed body of Wm. Buder from Lot 832 and shipped to St. Louis. The proper papers received.",1905-03-28,B360,y
+9977,Matilda,Aradonodo,,021-00-00,F,M,Texas,Nephritis,,E.V. Hamilton,,Blank,City,,,1905-03-27,A635,y
+9976,Mrs. Anna,Woods,,081-00-00,F,W,Unknown,Senility,,H.B. Granberry,,Lot 723,Friends,,"MF gives burial location as 3,723.",1905-03-27,W320,y
+9975,F.,Gonzales,,090-00-00,M,M,Mexico,Old Age,,E.V. Hamilton,,Blank,City,,,1905-03-25,G524,y
+9974,W.J.,Haddox,,042-00-00,M,W,Unknown,Lunacy,,L.H. Kirk,,Lot 832,Friends,,"MF gives burial location as 4,832.",1905-03-25,H320,y
+9973,Dave,McFall,,036-00-00,M,W,Austin,La Grippe,,G.H. Wooten,,Old Grounds,Friends,,"MF gives burial location as 1, Old Gr. Notation in ledger for April 4, 1914, reads as follows: ""Removed the body of David A. McFall from the old addition to lot 1115 in Oakwood Cemetery."" This may or may not be the same person.",1905-03-22,M214,y
+9972,Lizzie B.,Bryant,,026-00-00,F,M,Austin,Paralysis,,R.S. Graves,,Old Grounds,Friends,,"MF gives burial location as 1, Old Gr.",1905-03-21,B653,y
+9971,Mrs. Jane,Hill,,080-00-00,F,W,Tenn,Heart Failure/La Grippe,,Homer Hill,,Lot 895,Friends,,"MF gives burial location as 3,895.",1905-03-19,H400,y
+9964,August,Fehr,,033-00-00,M,W,Unknown,Cholera Morbus,,Neal Watt,,Lot 817,Friends,,"MF gives burial location as 4,817.",1905-03-15,F600,y
+9970,Malzina,Moore,,007-00-00,F,W,Unknown,La Grippe,,F. Litten,,Lot 806,Friends,,"MF gives burial location as 4,806.",1905-03-14,M600,y
+9968,Guadalupe,Mata,,084-00-00,M,M,Mexico,La Grippe,,E.V. Hamilton,,Blank,City,,"MF gives burial location as 2, Mex Grds.",1905-03-11,M300,y
+9969,Alf.,Wyschetzke,,065-00-00,M,W,Prussia,Hypostatic Pneumonia,,Lewis K. Kirk,,Lot 865,Friends,,"MF gives burial location as 4,865.",1905-03-11,W232,y
+9962,Manuel,Grimes,,056-00-00,M,W,Ky,Pneumonia,,R.S. Graves,,Blank,City,,,1905-03-10,G652,y
+9967,Abline E.,Burchard,,026-00-00,M,W,Unknown,,,Blank,,,Friends,,"""Remains from Travis Co."" MF gives burial location as 3,970.",1905-03-08,B626,y
+9966,Mrs. Joe,Spence,,073-00-00,F,W,Unknown,,,Blank,,,Friends,,"""Remains from Marble Falls"" J.R. Yett. MF gives burial location as 4,210.",1905-03-07,S152,y
+9965,Jessie,Felter,,057-00-00,F,W,Cannad (Canada?),Heart Failure,,H.C. Morrow,,Lot 4,Friends,,"MF gives burial location as 1,462.",1905-03-06,F436,y
+9963,Baltine,Martinus,,076-00-00,M,M,Unknown,Pneumonia,,J.F.Dean,,Blank,City,,"MF gives burial location as 1, Old Grds. Name on MF is Valtine Martinnes.",1905-03-02,M635,y
+9960,T.E.,Smith,,076-00-00,M,W,Unknown,Heart Failure,,W.P. Rhodes,,Lot 832,Friends,,"MF gives name as F.E. Smith. MF gives burial location as 4,834 W 1/2.",1905-02-28,S530,y
+9958,David,Matlock,,045-00-00,M,W,Unknown,Pneumonia,,M.M. Johnson,,Lot 832,Friends,,"MF gives burial location as 4,832.",1905-02-27,M342,y
+9959,Mrs. Martha,Smith,,089-00-00,F,W,Unknown,Old Age,,E.V. Hamilton,,Lot 161,Friends,,"MF gives burial location as 1,161.",1905-02-27,S530,y
+9957,Wm.,Brown,,042-00-00,M,W,Unknown,Pneumonia,,W.M. Bramby (Bramley?),,Lot 113,Friends,,,1905-02-26,B650,y
+9956,John,Barnickel,,070-00-00,M,W,Unknown,Pneumonia,,J.A. Gibson,,Lot 891,Friends,,"MF gives burial location as 3,891.",1905-02-26,B652,y
+9955,W.R.,Leonard,,050-00-00,M,W,Unknown,Heart Paralysis & La Grippe,,Homer Hill,,Lot 310,Friends,,This burial record not found on MF.,1905-02-26,L563,y
+9954,L.M.,Nunez,,065-00-00,M,W,Unknown,"""Don't Know""",,C.C. Weller,,Hebrew,Friends,,"MF gives burial location as 1,B11,50.",1905-02-26,N200,y
+9953,C.W.,Sthreshley,,065-00-00,F,W,Unknown,Heart Disease,,W.M. Bramby (Bramley?),,Lot 897,Friends,,"MF gives burial location as 3,987.",1905-02-24,S362,y
+9952,J.A.,James,,070-00-00,M,W,Unknown,,,Blank,,,Friends,,This burial record not found on MF. Surname may not be correct. Spelling is difficult to read in ledger.,1905-02-23,J520,y
+9961,Guadalupe,Sambsado,,055-00-00,F,M,Mexico,La Grippe,,R.S. Graves,,Blank,City,,"MF gives surname as ""Samdeado"" and burial date as 2/28/1905. It is out of order in the ledger and 2/28 may well be correct.",1905-02-18,S512,y
+9951,J.H.,Soderland,,064-00-00,M,W,Sweden,La Grippe,,Homer Hill,,Lot 832,Friends,,"MF gives burial location as 4,832.",1905-02-14,S364,y
+9950,Mrs. R.J.,Ogle,,070-00-00,F,W,Unknown,Heart Disease,,Joe Gilbert,,Lot 805,Friends,,MF gives burial date as both 2/14/1904 and 2/14/1905. Ledger says 2/14/1905.,1905-02-14,O240,y
+9949,W.B.,Burke,,026-00-00,M,W,Unknown,Meningitis,,Homer Hill,,Hebrew,Friends,,"MF gives burial location as 1,B11,32",1905-02-14,B620,y
+9948,Nancy,Townsand,,075-00-00,F,W,Texas,La Grippe,,C.C. Weller,,Lot 758,Friends,,"MF gives burial location as 3,758.",1905-02-12,T525,y
+9947,W.S.,Porter (??),,Unknown,M,W,Unknown,,,E.V. Hamilton,,,Friends,,This burial record not located on MF. Surname may not be correct. Spelling is difficult to read in ledger.,1905-02-11,P636,y
+9946,Mary,Diaz,,040-00-00,F,M,Mexico,Pneumonia,,F. Litten,,Blank,City,,,1905-02-08,D200,y
+9945,Florence,Whitis,,Unknown,F,W,Unknown,Pneumonia,,S.E. Hudson,,Lot 339,Friends,,"MF gives burial location as 1,329. Name on MF is Florence Rogan Whitis.",1905-02-06,W320,y
+9944,Kate,Tarver,,075-00-00,F,W,Unknown,App (??) Paralysis,,Homer Hill,,Lot 825,Friends,,"MF gives burial location as 4,825.",1905-02-06,T616,y
+9943,Callie,Philips,,037-00-00,F,?,Unknown,Exophthalic Garter (Goiter?),,F.P. McLaughlin,,Blank,Friends,,"MF gives burial location as Try 2, 479. Surname is spelled ""Philipps"" on MF.",1905-02-05,P412,y
+9942,Mat.,Crane,,040-00-00,M,W,Ill.,Tuberculosis,,E.V. Hamilton,,Blank,City,,"MF gives burial location as 1,Old Grds.",1905-02-02,C650,y
+9941,R.P.,Powell,,068-00-00,M,W,Georgia,Heart Failure,,M.M. Johnson,,Lot 978,Blank,,This burial record not found on MF.,1905-02-02,P400,y
+9940,Julius,Haschke,,075-00-00,M,W,Germany,Bright's Disease,,S.E. Hudson,,Lot 1122,Friends,,"MF gives burial location as 3,1122.",1905-02-01,H200,y
+9939,L.C.,Pease,,091-00-00,F,W,Unknown,Exhaustion,,W.D. Brenizer,,Lot 102,Friens,,"MF gives burial location as 4,102.",1905-01-30,P200,y
+9938,Baby,Pritchett,,000-13-00,M,W,Austin,Convulsions,,J.W.Carhart,,Lot 19,City,,"MF gives burial location as 1,19.",1905-01-28,P632,y
+9937,Phil W.,Jobe,,085-00-00,M,W,Unknown,Old Age,,Joe Gilbert,,Lot 30,Friends,,"MF gives burial location as both 1,30 and 1,3.",1905-01-28,J100,y
+9936,H.J.,Traugott,,000-00-00,F,W,Austin,Stillborn,,S.E. Hudson,,Lot 18,Friends,,This record not found on MF.,1905-01-24,T623,y
+9935,Mary B.,Drake,,040-00-00,F,W,Unknown,Enteritis,,S.E. Hudson,,Lot 1003,Friends,,Age is hard to read. Could be 42.,1905-01-23,D620,y
+9934,Mrs. A.B.,Nuckels,,064-00-00,F,W,Unknown,Cancer,,H.B. Granberry,,Lot 819,Friends,,"MF gives burial location as 4,819.",1905-01-22,N242,y
+9933,Judge J.P.,White,,073-00-00,M,W,Virginia,Suppurative Cryslitis,,M.M. Smith,,Lot 485,Friends,,"MF gives burial location as 2,485.",1905-01-17,W300,y
+9932,Christian,Fischer,,068-00-00,M,W,Germany,Bright's Disease,,E.V. Hamilton,,Blank,City,,,1905-01-15,F260,y
+9931,Infant of Mrs.,George,,000-00-00,M,W,Austin,Stillborn,,H.B. Granbery,,Lot 161,Friends,,"MF gives burial location as 1,161.",1905-01-15,G620,y
+9929,Roy,Martin,,013-00-00,M,W,Unknown,Tetanus,,L.L. Lacey,,Lot 891,Friends,,"MF gives burial location as 3,891.",1905-01-13,M635,y
+9928,Lee,Suarez (Infant),,000-00-00,M,M,Unknown,Stillborn,,R.S. Graves,,Blank,City,,,1905-01-13,S625,y
+9930,Miss Annie,Armour,,068-00-00,F,W,Scotland,Cirrhosis of Liver,,H.C. Morrow,,Lot 866,Friends,,"MF gives burial location as 4,866.",1905-01-13,A656,y
+9927,D.M.,Hernandez,,000-00-22,M,M,Austin,Congestion of Lungs,,R.S. Graves,,Blank,City,,MF gives burial date as 12/13/1904. (??),1905-01-13,H653,y
+9926,Mary,McFall,,056-00-00,F,W,Tenn.,Consumption,,O.C. Smith,,Old Grounds,Friends,,"MF gives burial location as 1, Old Gr.",1905-01-12,M214,y
+9925,R.K.,Smoot,,068-00-00,M,W,Unknown,Organic Heart Disease,,H.B. Granberry,,Lot 1044,Friends,,"MF gives burial location as 3,1044.",1905-01-12,S530,y
+9924,John C.,Wallace,,047-00-00,M,W,Travis Co.,Pneumonia,,Neal Watt,,Lot 1079,Friends,,"MF gives burial location as 3,1079.",1905-01-11,W420,y
+9923,Geo. S.,White,,034-00-00,M,W,Unknown,Cardiac Failure,,C.S.Darnall,,Lot 897,Friends,,"MF gives burial location as 4,891.",1905-01-09,W300,y
+9922,Joseph D.,Shephard,,093-00-00,M,W,Conn.,Old Age,,F.J. Bennett,,Lot 263,Friends,,"MF gives burial location as 1,263.",1905-01-08,S163,y
+9920,B.J.,Kopperl,,070-00-00,M,W,Unknown,Strangulated Hernia,,W.J. Mathews,,Hebrew,Friends,,"MF gives burial location as 1,B11,14.",1905-01-06,K164,y
+9919,Robert B.,Smith,,087-00-00,M,W,Unknown,Chronic Nephritis,,Joe Wooten,,Lot 424,Friends,,MF gives names as Robert E. Smith.,1905-01-06,S530,y
+9921,James,McGinnis,,000-00-00,M,W,Unknown,Stillborn,,H.B. Granberry,,Lot 19,Friends,,"MF gives burial location as 1,19.",1905-01-06,M252,y
+9918,Lillie W,Juhring,,000-01-00,F,W,Austin,Enteritis,,S.E. Hudson,,Lot 893,Friends,,"MF gives burial location as 4,893.",1905-01-02,J652,y
+9917,Mrs. S.E.,Sanders,,067-00-00,F,W,Unknown,Heart Disease,,Homer Hill,,Blank,Friends,,"MF gives burial location as 4,857 E 1/2.",1904-12-30,S536,y
+9915,George,Crizer,,056-00-00,M,W,MA (?),Convulsions,,S.E. Hudson,,Blank,Friends,,This record not found on MF.,1904-12-29,C626,y
+9914,W.,Defarc (Infant),,Blank,M,M,Blank,,,R.S. Graves,,,City,,,1904-12-24,D162,y
+9913,Infant,Unknown,,000-00-00,M,W,Blank,Stillborn,,M.M. Johnson,,Blank,City,,,1904-12-24,U525,y
+9912,Gravile (?),Raverles (Reveles?),,000-01-00,F,M,Austin,Inanition,,R.S. Graves,,Blank,City,,,1904-12-22,R164,y
+9911,J.A.,Dunn,,069-00-00,M,W,Unknown,Old Age,,F. Litten,,Lot 884,Friends,,"MF gives burial location as 3,887.",1904-12-22,D500,y
+9910,Refugi,Sanches,,038-00-00,F,M,Unknown,Blood Poison,,Joe Wooten,,Blank,City,,,1904-12-19,S520,y
+9909,George,McAtee,,020-00-00,M,W,Travis Co.,Strangulation,,M.M. Johnson,,Lot 404,Friends,,"MF gives burial location as 2,404.",1904-12-16,M230,y
+9908,Nicholis,Pena,,000-00-06,F,M,Unknown,Inanition,,R.S. Graves,,Blank,City,,,1904-12-13,P500,y
+9907,Mrs. J.,Watterson,,060-00-00,F,W,Unknown,,,H.B. Granberry,,,Friends,,"MF gives burial location as 4,809.",1904-12-13,W362,y
+9906,Anita Cantu,Ankras (?),,000-15-00,F,M,Austin,Dysentery,,E.V. Hamilton,,Blank,City,,Surname in not legible.,1904-12-12,A526,y
+9905,Laura,Cristal,,033-00-00,F,W,Unknown,Laryngeal Tuberculosis,,Ralph Steiner,,Lot 862,Friends,,"MF gives burial location as 4,862.",1904-12-11,C623,y
+9904,Francisco,Rios,,074-00-00,M,M,Mexico,Pulmonary Consumption,,R.S. Graves,,Blank,City,,,1904-12-10,R200,y
+9903,Munroe,Terrell,,057-00-00,M,C,Unknown,Peritonitis,,D.D. Bringle,,Old Grounds,Friends,,,1904-12-08,T640,y
+9902,Mrs. Ella,Mixson,,055-00-00,F,W,Canady (Canada?),Malarial Fever,,L.T. Rogan,,Blank,Friends,,This record not found on MF.,1904-12-06,M250,y
+9901,Willie,Wilson,,046-00-00,M,C,Unknown,Pulmonary Tuberculosis,,L.M. Paness (?),,Old Grounds,Friends,,,1904-12-04,W425,y
+9900,Willie,Holden,,021-00-00,M,W,Unknown,,,Blank,,,Blank,,This record not found on MF.,1904-12-04,H435,y
+9899,Mrs. R.A.,Danial (Daniel)?,,035-00-00,F,W,La.,Tuberculosis,,James Loving,,Lot 859,Friends,,,1904-12-02,D543,y
+9898,J.M.,Gratehouse (Greathouse)?,,Blank,M,W,Unknown,,,Blank,,,Blank,,,1904-11-30,G632,y
+9897,James,Ralston,,088-00-00,M,W,England,Malarial Fever,,H.C. Morrow,,Blank,Friends,,,1904-11-28,R423,y
+9896,Hanna,Caites,,075-00-00,F,C,Tex,Heart Failure,,M.M. Johnson,,Blank,Friends,,This record not found on MF.,1904-11-24,C320,y
+9895,Willard,Hessie,,009-00-00,M,W,Austin,Tetanus,,W.O. Brenizer,,Lot 886,Friends,,"MF gives burial location as 3, 886.",1904-11-23,H200,y
+9894,J.C.,Lewis,,069-00-00,M,W,Unknown,,,Blank,,,Blank,,,1904-11-23,L200,y
+9893,Isabella,Maas,,022-00-00,F,W,Austin,Consumption,,S.E. Hudson,,Old Grounds,Friends,,"MF gives burial location as 1, Old Gr.",1904-11-22,M200,y
+9892,Mary,Kizer,,Blank,F,W,Unknown,,,Blank,,,City,,MF gives burial location as Old Grds.,1904-11-20,K600,y
+9891,Chas.,Nosky,,058-00-00,M,W,Unknown,Railroad Accident,,M.M. Johnson,,Lot 805,Friends,,"MF gives burial location as 4,805.",1904-11-20,N200,y
+9890,Mrs. Willie,Steveson,,020-00-00,F,C,Austin,Childbirth,,W.M.Branley,,Old Grounds,Friends,,,1904-11-19,S312,y
+9889,John,Todd,,048-00-00,M,W,New York,Chronic Nephritis,,S.E. Hudson,,Blank,Friends,,"MF gives burial location as 3,1027.",1904-11-17,T000,y
+9888,Will,Slator,,034-00-00,M,W,Unknown,Heart Failure,,Tho. W. Hensal,,Lot 859,Friends,,"MF gives burial location as 4, 859.",1904-11-14,S436,y
+9887,E.A.,Mussina,,053-00-00,F,W,Unknown,,,Blank,,,Friends,,MF gives burial location as 4.45.,1904-11-13,M250,y
+9886,J.W.,Hearn,,072-00-00,M,W,Unknown,******ficlas (?),,Neal Watt,,Blank,Friends,,This record not found on MF.,1904-11-08,H650,y
+9885,J.K.,Warren,,059-00-00,M,W,Unknown,Dropsy,,W.M. Brinler,,Old Grounds,Friends,,,1904-11-08,W650,y
+9884,W.H.,Field (Infant),,000-00-00,M,W,Austin,Stillborn,,H.B. Granberry,,Blank,Friends,,,1904-11-04,F435,y
+9883,J.A.,Wright,,061-00-00,M,W,Tennessee,Stomach Trouble,,Neal Watt,,Blank,Friends,,"MF gives burial location as 1,293.",1904-11-02,W623,y
+9882,Will,Lenzee (Infant),,000-00-00,M,W,Austin,Stillborn,,H.B. Granberry,,Lot 484,Friends,,,1904-11-02,L525,y
+9881,Carl J.,Carlson,,051-00-00,M,W,Sweden,Leukemia,,S.E. Hudson,,Lot 809,Friends,,MF gives burial location as 4.,1904-10-31,C642,y
+9880,Jacob,Webler,,000-21-00,M,W,Austin,Meningitis,,H.B. Granberry,,Lot 809,Friends,,"MF gives burial location as 4, 809.",1904-10-30,W146,y
+9879,S.E.,Nulley (Nalley?),,051-00-00,M,W,Unknown,Cerebral Rheumatis,,W.J. Mathews,,Blank,Friends,,,1904-10-30,N454,y
+9916,Henry,Gevers,,028-00-00,M,W,Unknown,Phtisis Pulmonalis,,F.Litten,,Blank,Friends,,"MF gives burial location as 2,473.",1904-10-29,G162,y
+9878,Rev. C.E.,Wohlander,,024-00-00,M,W,Unknown,Pneumonia,,Ralph Steiner,,Lot 805,Friends,,"MF gives burial location as 4, 809.",1904-10-27,W453,y
+9877,Mamie D.,Roberts,,055-00-00,F,W,Texas,Urine Ventricula,,H.Burg,,Lot 304,Friends,,This record not found on MF.,1904-10-27,R163,y
+9876,Mrs. James,Dunn,,037-00-00,F,W,Unknown,Apoplexy,,J.W. Mathews,,Lot 897 Sec.4,Friends,,MF records says 3.,1904-10-26,D500,y
+9875,Baby,Cottriers (?),,001-00-00,M,W,Morris Co.,Inanition,,H.F. Sterzing,,Blank,City,,This record not located on MF.,1904-10-26,C362,y
+9874,Andean (Andreas?),Sanches,,054-00-00,M,M,Unknown,,,Blank,,,City,,,1904-10-25,S520,y
+9873,Juan,Asphgton (Asphylin?),,023-00-00,M,M,Mexico,Congestion,,Blank,,Blank,City,,Surname? Your guess is as good as mine.,1904-10-24,A212,y
+9872,Virginia,Thrift,,070-00-00,F,W,Unknown,General Debility,,E.V. Hamilton,,Blank,City,,,1904-10-22,T613,y
+9871,Capt.,Boyd,,061-00-00,M,W,Unknown,,,Blank,,,Blank,,,1904-10-19,B300,y
+9870,Martha,Johnson,,018-00-00,F,W,Unknown,Pulmonary Tuberculosis,,J.T. Bernard,,Lot 896,Friends,,"MF gives burial location as 4, 896.",1904-10-17,J525,y
+9869,Wm.,Wright,,043-00-00,M,C,Tenn.,Phtisis Pulmonalis,,Frank Litten,,Old Grounds,Friends,,,1904-10-16,W623,y
+9868,Gus,Newton,,067-00-00,M,W,Unknown,Paralysis,,E.V. Hamilton,,Blank,Friends,,"MF gives burial location as 3, Pauper Grds.",1904-10-16,N350,y
+9864,Wade,McFarland,,030-00-00,M,W,Unknown,Typhoid Fever,,H.C. Morrow,,Blank,Friends,,"MF gives burial location as 1, 300.",1904-10-14,M216,y
+9867,Hugh,Barton,,005-00-00,M,W,"Bastrop, Texas",Malarial Fever,,J.W. Hamilton,,Blank,Friends,,,1904-10-14,B635,y
+9866,J.J.,Tobin,,066-00-00,M,W,Unknown,Obstruction of Bowels,,W.J. Mathews,,Blank,Friends,,"MF gives burial location as 2,497.",1904-10-14,T150,y
+9865,Amanda,McFarland,,062-00-00,F,W,Unknown,,,Blank,,,Friends,,"MF gives burial location as 1,300.",1904-10-14,M216,y
+9863,John Leon,Kaatz,,000-13-00,M,W,Austin,Diphtheria,,W.J. Mathews,,Lot 100,Friends,,This record not located on MF.,1904-10-12,K320,y
+9861,Ida,Scott,,037-00-00,F,C,Unknown,Typhoid Fever,,J.G. Dean,,Old Grounds,Friends,,,1904-10-03,S300,y
+9860,Keat,Bridson,,000-04-00,F,W,Unknown,Capillary Bronchitis,,Homer Hill,,Blank,Friends,,,1904-10-03,B632,y
+9862,Jann,Chong,,064-00-00,M,W,China,,,E.V. Hamilton,,,Friends,,"MF gives burial location as 1,18.",1904-10-03,C520,y
+9859,Lucile,Robertson,,003-00-00,F,W,Austin,Diphtheria,,Neal Watt,,Old Grounds,Friends,,MF gives burial location as 1.Old Gr.,1904-10-03,R163,y
+9858,Raymond,Prade,,050-00-00,M,W,Unknown,Heart Failure,,M.M. Johnson,,"Lot 844, Sec.4",Friends,,,1904-09-30,P630,y
+9857,Infant,Neuhild,,000-00-02,F,W,Unknown,Spina Bifida,,F.L. Griffith,,Blank,Friends,,"MF gives burial location as "" 3, pauper grounds"".",1904-09-29,N430,y
+9856,Robert,Rail,,060-00-00,M,W,Unknown,Heart Disease,,E.V. Hamilton,,Blank,City,,,1904-09-24,R400,y
+9855,Mrs.,Longley,,056-00-00,F,W,Unknown,,,Blank,,,Blank,,"MF gives name as Louise R. Longley and burial location as 1,112.",1904-09-19,L524,y
+9854,Frances,Devoris,,Blank,F,W,Austin,,,Blank,,,Blank,,"MF gives burial location as ""Strg. Grds"".",1904-09-16,D162,y
+9853,Alie,McGowen,,030-00-00,F,W,Unknown,Tuberculosis,,Dr. Roos (Ross?),,Blank,Friends,,,1904-09-15,M250,y
+9852,Lou,Wilson,,026-00-00,F,C,Unknown,,,Blank,,,Blank,,,1904-09-11,W425,y
+9851,E.L.,Nuckles,,030-00-00,M,W,Unknown,Breaking (?) of Blood Vessel,,M.L. Moore,,Blank,Friends,,"MF gives burial location as 4,819.",1904-09-11,N242,y
+9850,Mexican Man,Unknown,,056-00-00,M,M,Mexico,Hemorrhage of Brain,,E.V. Hamilton,,Blank,City,,,1904-09-08,U525,y
+9848,Maud,Miller,,022-00-00,M,W,Unknown,,,Blank,,,Blank,,"""Remains from Mineral Wells."" MF gives burial location as 1,250.",1904-09-04,M460,y
+9847,D.H.,Armstrong,,074-00-00,M,W,Unknown,Apoplexy,,F. Litten,,Blank,Friends,,"MF gives burial location as 3,872.",1904-09-04,A652,y
+9849,Mary,Gonzalas,,000-02-00,F,M,Austin,Inanition,,R.S. Graves,,Blank,City,,,1904-09-04,G524,y
+9846,Lillian,Black,,000-14-00,F,W,Austin,Entro Colitis,,W.J. Mathews,,Lot 806,Friends,,,1904-09-04,B420,y
+9845,Rapphio,Cabillo,,057-00-00,M,M,Mexico,Inflammation of Brain,,E.V. Hamilton,,Blank,City,,,1904-09-04,C140,y
+9844,Lucille,Jones,,000-07-00,F,W,Austin,Pneumonia,,T.J. Bennett,,Blank,Friends,,,1904-09-03,J520,y
+9843,Lucile,Jones,,000-07-00,F,W,Asutin,,,,,,,,,1904-09-03,J520,y
+9842,Carl,Fuhrmann,,052-00-00,M,W,Germany,Heart Disease,,W.J. Mathews,,Lot 834,Friends,,"MF give burial location as 2,804.",1904-09-02,F650,y
+9841,Martha J.,Savage,,046-00-00,F,W,Texas,Organic Heart Disease,,J.W. McLaughlin,,Blank,Friends,,This burial not located on the MF record.,1904-09-02,S120,y
+9840,Mrs. Jennie,Clough,,Blank,F,W,Unknown,Malarial Fever,,H.M. Lanham,,Blank,Friends,,,1904-08-31,C420,y
+9839,S.,Phillipson,,053-00-00,M,W,Unknown,Gunshot Wound,,M.M. Johnson,,Hebrew,Friends,,MF gives burial location as B11.,1904-08-28,P412,y
+9838,Mrs. E.B.,Turner,,Blank,F,W,Unknown,Heart Failure,,W.A. Harper,,Blank,Friends,,,1904-08-27,T656,y
+9837,Will,Eanes (Child),,002-00-00,M,W,Austin,Gastro Enteritis,,Frank Litten,,Blank,Friends,,The mircofiche gives the burial date as 08/27/1914 which is obviously an error since it is recorded in the Oakwood ledger for 1904.,1904-08-27,E524,y
+9836,Josephine,Schneider,,082-00-00,F,W,Unknown,Dysentery Paralysis,,Homer Hill,,Blank,Friends,,Burial not located on the microfiche record.,1904-08-24,S536,y
+9835,Herman,Gusswine,,057-00-00,M,W,Germany,Congestion of Brain,,W.D. Garden,,Blank,Friends,,Burial record not located on microfiche.,1904-08-23,G500,y
+9834,Henrietta,Vaughan,,006-00-00,F,W,Austin,Heart Failure,,E. Krueger,,Blank,Friends,,"MF gives burial location as 816, NE1/4",1904-08-22,V250,y
+9833,Laura,Neidham,,021-00-00,F,W,Dripping Springs,Malarial Fever,,H.B. Granberry,,Blank,Friends,,Burial not located on microfiche record.,1904-08-20,N350,y
+9832,Martin,Mearting (Martinez)?,,019-00-00,M,M,Unknown,Gangrene Poisoning,,R.S. Graves,,Blank,City,,"MF gives burial location as 1,Old Gr.",1904-08-19,M635,y
+9831,W.A.,Reeves,,036-00-00,M,W,Texas,Blow on Head,,M.M. Johnson,,Blank,Friends,,,1904-08-18,R120,y
+9830,Anna Bell,Gady,,013-00-00,F,W,Unknown,,,Joe Wooten,,,Friends,,"MF gives burial location as 4,847.",1904-08-18,G300,y
+9829,Jacob,Koppal,,059-00-00,M,W,Germany,Cancer,,S.E. Hudson,,Hebrew,Friends,,"MF gives burial location as 1,B11,19.",1904-08-16,K140,y
+9828,Max,Stern,,020-00-00,M,W,Austin,Cardian Paralysis,,Quitman Kahnke (?),,Hebrew,Friends,,"MF gives burial location as 1, B11, 10.",1904-08-15,S365,y
+9827,Chas.,Johnson,,075-00-00,M,W,Sweden,Bright's Disease,,W.J. Mathews,,Blank,Friends,,"MF gives burial location as 1,3.",1904-08-12,J525,y
+9826,J.L.,Hanson,,032-00-00,M,C,Unknown,Tuberculosis,,Tho. Wooten & Son,,Old Grounds,Friends,,Burial not found on the microfiche record.,1904-08-11,H525,y
+9825,Alb,Deehoar,,072-00-00,M,W,La.,General Debility,,E.V. Hamilton,,Blank,City,,,1904-08-08,D600,y
+9824,Richard,Strayhorne,,046-00-00,M,W,Texas,Corrhis (Cirhossis?) Hepatic,,H.D. Barnitz,,Blank,Friends,,,1904-08-07,S365,y
+9823,Lonnie,Evard,,000-00-02,F,M,Austin,Cholera Infantum,,H.B. Granberry,,Blank,City,,,1904-08-05,E163,y
+9822,Mrs. W.H.,Beckman,,042-00-00,F,W,Unknown,Cancer,,W.J. Mathews,,Blank,Friends,,Burial not found on the microfiche record.,1904-08-05,B250,y
+9821,Mrs. Voris P.,Brown,,Blank,F,W,Unknown,,,Blank,,,Friends,,"""Remains from San Antonio"". MF gives burial location as Sec.2 506.",1904-08-04,B650,y
+9820,Ann,Givan,,020-00-00,F,C,Unknown,Heart Disease,,W.J. Mathews,Old Grounds,,Friends,,MF record says Sec. 1.,1904-08-02,G150,y
+9819,Earnest,Anderson,,019-00-00,M,C,Unknown,Uremic Convulsions,,E.V. Hamilton,,Old Grounds,Friends,,,1904-07-28,A536,y
+9818,Clary,Scheiffer,,028-00-00,F,W,Unknown,Bright's Disease,,C.O. Miller,,Lot 901,Friends,,,1904-07-26,S160,y
+9817,E.J.,Pearson,,035-00-00,M,W,England,Brain Tumor,,S.E. Hudson,,Blank,Friends,,,1904-07-26,P625,y
+9816,J.W.,Wells,,071-00-00,M,W,Unknown,Apoplexy,,Frank Litten,,Lot 805,Friends,,,1904-07-24,W420,y
+9815,Mary Jane,Faulkner,,085-00-00,F,W,New York,Calloid Cyst,,F.R. Roos,,Blank,Friends,,,1904-07-24,F425,y
+9813,Mrs. J.J.,Culling,,073-00-00,F,W,Unknown,Phtisis Pulmonalis,,F. Litten,,Blank,Friends,,,1904-07-24,C452,y
+9812,Mary,Anderson,,080-00-00,F,W,Unknown,,,W.P. Haming (?),,,Friends,,Remains from Georgetown. MF gives burial location as Sec.1 305.,1904-07-17,A536,y
+9814,Perititis (?),Lopez,,050-00-00,M,M,Mexico,Chronic Dysentery,,R.S. Graves,,Lot 20,City,,,1904-07-16,L120,y
+9811,John,Riddle,,041-00-00,M,W,Cannady (Canada?),Consumption,,Blank,,Lot 20,City,,,1904-07-12,R340,y
+9810,Egnatz,Sobeck,,063-00-00,M,W,Germany,Paralysis,,E.V. Hamilton,,Blank,Friends,,,1904-07-12,S120,y
+9809,Diana,Middleton,,043-00-00,F,C,"Manor, TX",Phtisis Pulmonalis,,Frank Litten,,Old Grounds,Friends,,,1904-07-07,M343,y
+9808,Joe,Herman (Infant),,000-18-00,F,W,Austin,Meningitis,,H.B. Granberry,,Hebrew,Friends,,"Microfiche gives burial location as 1, B11. Although given name is Joe the ledger is very clear that the sex is female.",1904-07-07,H651,y
+9807,Judge R.S.,Gould,,078-00-00,M,W,Unknown,Senility,,Joe Wooten,,Blank,Friends,,Microfiche record gives burial location as Sec.3 Lot 949.,1904-07-01,G430,y
+9806,Henry,Heath,,017-00-00,M,W,Unknown,,,Blank,,,Friends,,Remains from Houston. Microfiche records says Sec. 4 Lot 805.,1904-07-01,H300,y
+9805,Mamie,McCord,,023-00-00,F,W,Unknown,Acute Nephritis,,H.F. Sterzing,,Lot 805,Friends,,,1904-06-28,M263,y
+9804,Alvina,Chavaria,,023-00-00,F,M,Mexico,Consumption,,E.V. Hamilton,,Blank,City,,,1904-06-26,C160,y
+9803,Cha. L.,Clark,,038-00-00,M,W,Illinois (????),Brain Injury Railroad Accident,,S.E. Hudson,,Blank,Friends,,,1904-06-23,C462,y
+9802,Roland,Bissell,,008-00-00,M,W,Austin,Paralysis,,Blank,,Blank,Friends,,,1904-06-23,B240,y
+9801,E.K.,Baker,,066-00-00,M,W,Unknown,??????? of Bowels,,F.L. Griffith,,Blank,Friends,,,1904-06-21,B260,y
+9800,John E.,McLaughlin,,014-00-00,M,W,Austin,Drowning,,W.L. White,,Blank,Friends,,,1904-06-21,M242,y
+9799,Mr.,Griffin,,067-00-00,M,W,Unknown,Cancer of Neck,,Joe Wooten,,Blank,Friends,,,1904-06-20,G615,y
+9798,Dora,King,,021-00-00,F,W,Unknown,Laryngitis Tuberculosis,,Ralph Steiner,,Blank,Friends,,,1904-06-20,K520,y
+9797,John C.,Puette,,001-00-00,M,W,Unknown,Pneumonia,,Joe Wooten,,Blank,Friends,,,1904-06-17,P300,y
+9796,Joseph (Infant),Leach,,000-00-00,M,C,Austin,Stillborn,,J.H. Stevens,,Blank,Friends,,This record not found on MF.,1904-06-17,L200,y
+10046,J.O.,Shelley,,068-00-00,M,W,Unknown,Mania Senilis,,F. Litten,,Lot 181,Friends,,"MF gives burial location as 4,181.",1904-06-16,S400,y
+9795,Sophie,Sawitzky,,059-00-00,F,W,Germany,Dysentery,,E.V. Hamilton,,Blank,Friends,,,1904-06-16,S320,y
+9794,Mary,Sharp,,025-00-00,F,W,Unknown,,,Blank,,,Friends,,,1904-06-12,S610,y
+9793,J. Nelson,Prowse,,029-00-00,M,W,Austin,Gunshot Wound,,W.L. White,,Lot 893,Friends,,,1904-06-12,P620,y
+9792,Neal,McLaurin,,036-00-00,M,W,Hornsby Bend,Pulmonary Tuberculosis,,Joe Gilbert,,Lot 858,Friends,,,1904-06-11,M246,y
+9791,Mrs. H.,Brunner,,029-00-00,F,W,Germany,Tuberculosis,,J.M. McLaughlin,,Blank,Friends,,,1904-06-11,B656,y
+9790,A.V.,Achilles,,000-01-00,M,W,Unknown,Measles,,Joe Wooten,,Lot 806,Friends,,,1904-06-09,A242,y
+9789,Grace,White,,004-00-00,F,W,Austin,Diphtheria,,E.W.D. Abner,,Blank,Friends,,,1904-06-08,W300,y
+9788,Mrs. M.T.,Hamilton,,057-00-00,F,W,Unknown,Dysentery,,Frank Litten,,Blank,Friends,,,1904-06-08,H543,y
+9787,Ellen J.,Randolph,,078-00-00,F,W,Unknown,Heart Disease,,Homer Hill,,Blank,Friends,,,1904-06-04,R534,y
+9786,Tho.,Webb,,023-00-00,M,W,Tenn,Consumption,,E.V. Hamilton,,Lot 805,Friends,,,1904-06-04,W100,y
+9785,P.B.,Dohl,,042-00-00,M,W,Unknown,Railroad Accident,,M.M. Johnson,,805,Friends,,,1904-05-31,D400,y
+9784,Clyde,Houston,,Blank,M,W,Unknown,,,Blank,,,Blank,,"Note: Remains from Houston."". MF burial location is Sec.4, 875.",1904-05-29,H235,y
+9781,S.,Nelson,,068-00-00,M,W,Denmark,Heart Disease,,Blank,,Blank,Blank,,,1904-05-25,N425,y
+9782,Robert,Miller (Mueller),,055-00-00,M,W,Unknown,Gunshot Wound Self Inflicted,,M.M. Johnson,,Blank,Friends,,"MF gives burial as Old Ground Sec. 1. See AUSTIN STATESMAN, 5/25/1904, page 8. He shot himself at his brother's grave.",1904-05-25,M465,y
+9783,Vergie,Raven,,001-00-00,F,W,Austin,Bronco Pneumonia,,Neal Watt,,Blank,Friends,,"MF gives burial site as 4, 900, NE 1/4.",1904-05-25,R150,y
+9780,Miss Jennie,Anderson,,025-00-00,F,W,Sweden,Consumption,,E.V. Hamilton,,805,Friends,,MF gives burial location as Section 4 Lot 805.,1904-05-23,A536,y
+9779,Thomas,Musting,,000-02-00,M,W,Austin,Dysentery,,R.S. Graves,,Blank,City,,,1904-05-18,M235,y
+9778,Mr.,Estes,,Blank,M,W,Unknown,,,Blank,,,Friends,,,1904-05-18,E232,y
+9777,Agnes,Peterson,,000-08-00,F,W,Austn,Entrocelitis,,W.J. Mathews,,Blank,,,MF gives burial location as Section 4 Lot 851 NE 1/4.,1904-05-17,P362,y
+9776,Bessie,Hereford,,019-00-00,F,W,Unknown,Acute Gastritis,,S.E. Hudson,,Blank,Friends,,,1904-05-14,H616,y
+9775,Helen,Wolf,,000-16-00,F,W,Austin,Pneumonia,,H.B. Granberry,,Blank,Friends,,,1904-05-12,W410,y
+9774,Joe Lee,Jameson,,034-00-00,M,W,America,Typhoid Pneumonia,,J.A. Gibson,,Blank,Friends,,,1904-05-11,J525,y
+9773,Augustine,Gusman,,033-00-00,M,M,Mexico,Hemorrhage of Lungs,,R.S. Graves,,Blank,City,,,1904-05-11,G500,y
+9772,D.M.,Miller,,006-00-00,M,W,Austin,Paralysis Resulting Measles,,Joe Wooten,,858,Blank,,MF burial location is Sec. 4 SW 1/4 Lot 858.,1904-05-09,M460,y
+9771,Jusista (Jesusita?),Gonzalas (Gonzales?),,012-00-00,F,M,Texas,Typhoid Fever,,Blank,,Blank,City,,,1904-05-06,G524,y
+9770,Etela (Estela?),Lunas,,000-15-00,F,M,Austin,Marasmuss,,R.S. Graves,,Blank,City,,,1904-05-06,L520,y
+9769,Mrs. Anna,Kluge,,075-00-00,F,W,Germany,,,Blank,,,Friends,,"Name is ""Annie"" in city directory. MF gives burial location as Section 1, Lot 163.",1904-05-04,K420,y
+9768,Virginia,Taber,,034-00-00,F,W,Unknown,Gastro Enteritis Acute,,S.E. Hudson,,845,Blank,,"Note: Moved to City Cemetery, Bryan, Tex, Feb. 5, 1925.",1904-05-02,T160,y
+9766,Infant,Aubert,,000-00-00,,N,,Stillborn,,H.B. Granberry,,Lot 806,Friends,,,1904-05-01,A163,y
+9767,J.G.,Slumper,,027-00-00,M,W,Milam Co. TX,Consumption,,E.V. Hamilton,,844,Friends,,,1904-05-01,S451,y
+9765,Infant of Mrs.,Spencer,,000-00-00,M,W,Austin,Stillborn,,H.B. Granberry,,Blank,Blank,,,1904-04-30,S152,y
+9764,Mrs. M.A.,Jones,,057-00-00,F,W,Austin,Inflammation of Bowels,,L.L. Lacey,,805,Friends,,MF gives burial location as Sec 4. Lot 805.,1904-04-28,J520,y
+9763,Robert,West,,044-00-00,M,W,Unknown,,,Blank,,,Friends,,"MF gives burial location as Sec 1., 304.",1904-04-28,W230,y
+9762,J.M.,Day,,065-00-00,m,W,Unknown,Pneumonia,,E.H. Kipentts (?),,Lot 192,Friends,,"MF gives burial location as Sec.1, Lot 192.",1904-04-28,D000,y
+9761,Philipa,Salasal,,002-00-00,F,M,Austin,Lapidary Bronchitis,,R.S. Graves,,Blank,City,,Surname may have been Salazar.,1904-04-24,S424,y
+9760,Julius,Schutze,,069-00-00,M,W,Germany,Pneumonia,,H.B. Granberry,,Lot 821,Friends,,"MF gives burial location as Sec.4, Lot 821.",1904-04-24,S320,y
+9759,Martha D.,La Rosa,,000-15-00,F,M,Austin,Measles,,Frank Litten,,Blank,City,,Name could have been Martha De La Rosa.,1904-04-21,L620,y
+9758,Mrs. J.W.,Ray,,065-00-00,F,W,Unknown,Chronic Gastritis,,J.P. Sessions,,Blank,Friends,,"MF gives burial location as Sec. 1, Lot 297.",1904-04-21,R000,y
+9757,Mary H.,Staples,,000-08-00,F,W,Austin,Dysentery,,E.W. Hamilton,,Lot 806,Friends,,,1904-04-19,S314,y
+9756,Mrs.,Butcher,,040-00-00,F,W,Unknown,Tuberculosis,,F.R. Pettaway,,Lot 805,Friends,,,1904-04-15,B326,y
+9755,Asusita (Jesusita?),Hernandez,,000-00-07,F,M,Unknown,,,Blank,,,City,,,1904-04-14,H653,y
+9754,Mark,Gonzales,,000-20-00,M,M,Austin,Teething,,R.S. Graves,,Blank,City,,,1904-04-13,G524,y
+9753,Dicy,Aldridge,,065-00-00,F,C,Texas,Cancer of Stomach,,F.P. McLaughlin,,Old Grounds,Friends,,,1904-04-12,A436,y
+9751,Henrica (Enrique?),Hernandez,,004-00-00,M,M,Austin,Measles,,Frank Litten,,Blank,City,,,1904-04-12,H653,y
+9752,Chas. Jr.,Lamar,,000-22-00,M,W,Unknown,Entro Colitis,,Neal Watt,,Blank,Friends,,,1904-04-12,L560,y
+9750,Jess,Farmer,,077-00-00,M,W,Missouri,La Grippe,,R.S. Graves,,Lot 20,City,,"MF = Sec.1, Lot 20.",1904-04-11,F656,y
+9749,Clara Lee,Croy,,000-00-05,F,W,Austin,Tetanus,,F. Litten,,Lot 19,City,,,1904-04-10,C600,y
+9748,Mrs. M.M.,Milam,,033-00-00,F,W,Arkansas,Post Partum Hemorrhage,,S.E. Hudson,,,Friends,,"MF burial location is Sec.3, Lot 798.",1904-04-06,M450,y
+9747,Cora,Vance,,021-00-00,F,C,Unknown,Consumption,,?? Sterns,,Old Grounds,Friends,,,1904-04-03,V520,y
+9746,Wesley A.,Sanders,,022-00-00,M,W,Unknown,Railroad Accident,,F.J. Bennett,,Blank,Friends,,,1904-04-01,S536,y
+9745,Albert,Mrilo,,000-01-00,M,W,Austin,Cholera Infantum,,H.B. Granberry,,Blank,Friends,,,1904-03-31,M640,y
+9744,Mrs. E.M.,James,,Blank,F,W,Unknown,La Grippe,,Blank,,Lot 277,Friends,,"MF burial location is Sec. 1 Lot 277. Notation: ""Remains from Ruff...??""",1904-03-29,J520,y
+9743,Lois (?),Labes (Infant),,000-00-02,F,W,Austin,Premature,,H.B. Granberry,,Hebrew,Friends,,,1904-03-25,L125,y
+9742,Mrs. A.J.,Lindin,,063-00-00,F,W,Unknown,,,Blank,,,Friends,,"MF burial location is Sec. 3, 877.",1904-03-21,L535,y
+9741,Clara,Kuehne,,063-00-00,F,W,Germany,Apoplexy,,J.H. Wooten,,Blank,Friends,,,1904-03-21,K500,y
+9737,John,Pais,,002-00-00,M,M,Austin,Gastro Enteritis,,Frank V. Litten,,Blank,City,,,1904-03-20,P200,y
+9738,Caroline,Sinnigson,,084-00-00,F,W,Germany,Pneumonia,,Thos. D. Wooten,,Blank,Friends,,,1904-03-20,S525,y
+9739,Blin,Dunn,,000-11-00,M,W,Austin,Cholera Infantum,,N.O. Brenizer,,Blank,Friends,,MF burial location is given as Sec. 1 B11 and as Sec. 1 Old Ground.,1904-03-20,D500,y
+9740,Minnie,Johnson,,023-00-00,F,W,Sweden,,,Blank,,,Friends,,,1904-03-20,J525,y
+9736,Ben,Luna,,036-00-00,M,M,Mexico,Consumption,,E.V. Hamilton,,Blank,City,,,1904-03-17,L500,y
+9735,M.H.,Coopwood,,067-00-00,F,W,Unknown,La Grippe,,Blank,,Lot 514,Friends,,MF burial location is Sec.2 Lot 514.,1904-03-16,C130,y
+9734,John E.,Chenville,,047-00-00,M,W,Unknown,,,H.B. Granberry,,,Friends,,"MF burial location is Sec. 4 Lot 822. Surname is spelled ""Chenneville"" in city directory and in newspaper.",1904-03-14,C514,y
+9733,M.H. (Infant),Brailer,,000-03-00,M,C,Unknown,Croup,,L.L. Malone,,Old Grounds,Friends,,,1904-03-13,B646,y
+9732,John,Wiegand,,065-00-00,M,W,Unknown,Heart Failure,,M.M. Johnson,,Lot 20,City,,MF burial location is Sec. 1 Lot 20.,1904-03-13,W253,y
+9731,John,Pannell,,089-00-00,M,W,South Carolina,Old Age,,W.P. Rhodes,,Lot 932,Friends,,MF burial location is Sec.3 Lot 932.,1904-03-13,P540,y
+9730,Alice,Calhoun,,063-00-00,F,W,Ireland,Hemorrhage of Brain,,E.V. Hamilton,,Lot 125,Friends,,,1904-03-12,C450,y
+9729,Jusista,Gonzales (Infant),,000-01-00,F,M,Austin,Pleurisy,,O.C. Smith,,Blank,City,,,1904-03-10,G524,y
+9728,Gregoria,Arredondo,,035-00-00,F,M,Mexico,Uremic Coma,,W.P. Rhodes,,Blank,City,,,1904-03-10,A635,y
+9727,Millard K.,Miller,,000-03-00,M,W,Unknown,Summer Complaint,,M.M. Smith,,Lot 876,Friends,,,1904-03-09,M460,y
+9726,Amanda,Friends,,025-00-00,F,C,Austin,Tuberculosis,,E.W.D. Abner,,Old Grounds,Friends,,,1904-03-09,F653,y
+9725,Mrs. E.J.,Morris,,070-00-00,F,W,Unknown,,,Geo. W. Cross,,,Friends,,"Notation: ""Remains from Brownwood"". MF burial location is Sec. 2 Lot 437.",1904-03-09,M620,y
+9724,Moritz,Gans,,050-00-00,M,W,Unknown,Typhoid Fever,,J.M. McLaughlin,,Hebrew,Friends,,"MF burial location is 1, B11, 21. Surname is spelled Ganss in the city directory.",1904-03-09,G520,y
+9723,Peter O.,Gada (Infant),,000-02-00,M,M,Unknown,Heart Complications,,Joe Wooten,,Blank,City,,,1904-03-06,G351,y
+9722,Mrs. Harriet,Rector,,078-00-00,F,W,Unknown,Unknown,,C.O. Miller,,Lot 787,Friends,,MF burial location is Sec. 2 Lot 787.,1904-03-05,R236,y
+9721,Isabella,Schmitz,,090-00-00,F,W,Unknown,Senility,,H.B. Granberry,,Lot 721,Friends,,MF burial location is Sec. 3 Lot 721.,1904-03-04,S532,y
+9720,Hunter H.,Sinnigson,,078-00-00,M,W,Germany,Chronic Disease of Bowels,,Tho. Wooten,,Blank,Friends,,,1904-03-03,S525,y
+9719,George L.,Runge,,026-00-00,M,W,Unknown,Acute Nephritis,,W.A. Durring,,Lot 842,Friends,,MF gives burial location as Section 4 Lot 842.,1904-03-03,R520,y
+9718,Connie,Beck,,000-02-00,F,W,Austin,Pneumonia,,H.B. Granberry,,Blank,Blank,,,1904-02-28,B200,y
+9717,Phoebe,Rust,,080-00-00,F,W,Unknown,General Debility,,F.R. Pettaway,,Lot 338,Friends,,,1904-02-28,R230,y
+9716,C.E.,Tucker,,010-00-00,M,C,Austin,Diphtheria,,J.W. Gibson,Old Grounds,,Friends,,,1904-02-27,T260,y
+9715,Simon,Snamann,,044-00-00,M,W,Unknown,Pneumonia,,A.Watson,Hebrew,,Friends,,"Microfiche gives burial location as 1, B11, 26.",1904-02-25,S500,y
+9714,Mrs. Nora,Harmer,,024-00-00,F,W,Texas,Murdered; Gunshot Wound,,Dr. L. Burg,,Blank,Friends,,See Statesman of 2/24/1904 for story. Name is Harimer in the news story. Murder/Suicide.,1904-02-25,H656,y
+9713,Rudolf,Eichel,,028-00-00,M,W,Berlin,Heart Failure,,M.M. Johnson,Hebrew,Blank,Friends,,"Microfiche gives burial location as 1, B11, 48.",1904-02-24,E240,y
+9712,Philppe,Gonzalas,,000-00-17,F,M,Austin,Convulsions,,R.S. Graves,,Blank,City,,,1904-02-23,G524,y
+9711,Mrs. A.M.,Jernigan,,056-00-00,F,W,Unknown,,,Blank,,,Blank,,"Microfiche gives burial location as Try 1, 20.",1904-02-22,J652,y
+9710,Joe,Riffe,,000-16-00,M,W,Unknown,Pneumonia,,Geo. P. Stokes,,Blank,City,,,1904-02-22,R100,y
+9709,Mrs. E.B.,Wright,,055-00-00,F,W,Texs,Chronic Nephritis,,C.W. Trushears,,Lot 11,Friends,,,1904-02-22,W623,y
+9708,Lena,Thessbrook,,000-00-03,F,M,Austin,Unknown,,W.S. Graves,,,City,,"Notation ""not given"" is of the sexton.",1904-02-22,T216,y
+9707,Dr. E.W.,Herndon,,070-00-00,M,W,Unknown,Apoplexy,,T.R. Pettaway,,Blank,Friends,,,1904-02-20,H653,y
+9706,Mrs. E.M.,Jerard,,032-00-00,F,W,Ohio,Pneumonia,,W.J. Mathews,,Lot 764,Friends,,,1904-02-18,J630,y
+9705,Mrs. Jeraldine,Purnell,,043-00-00,F,W,"Blanco, TX",Uremic Poisoning,,W.P. Rhodes,,Lot 117,Friends,,Microfiche gives burial space as Sec. 1 Lot 117.,1904-02-16,P654,y
+9704,F.C.,Moore,,056-00-00,M,W,Unknown,Can't Make Out,,W.P. Rhodes,,Lot 829,Blank,,"The notation ""can't make out"" is that of the sexton in 1904 and not of the person entering the data in 2007.",1904-02-16,M600,y
+9703,Col. J.M.,Hill,,085-00-00,M,W,Unknown,Acute Gastritis,,Homer Hill,,Blank,Friends,,,1904-02-15,H400,y
+9702,Nathen,Davis,,Blank,,N,Unknown,,,L.P. Black,,,Friends,,"Remains from Taylor, TX. Removed from Lot 35 to Lot 17 Mausoleum. Name is Natalie on microfiche record.",1904-02-13,D120,y
+9701,C.A.,Hildreth,,055-00-00,M,W,Unknown,Paralysis,,F.L. Griffith,,"Sec. 4, Lot 880",Friends,,,1904-02-13,H436,y
+9700,Soledad,Garcia,,039-00-00,F,M,Mexico,Pneumonia,,Blank,,Blank,City,,,1904-02-09,G620,y
+9699,J.R.,Kingsbury,,044-00-00,M,W,"Houston, TX",Phtisis Pulmonalis,,F. Litten,,Blank,Friends,,Microfiche gives burial location as Try 1 Lot 7.,1904-02-07,K521,y
+9698,Mrs. A.A.,Nagle,,056-00-00,F,W,Unknown,Uramie La Grippe,,S.E. Hudson,,Blank,Friends,,Microfiche gives burial location as Sec. 4 Lot 994.,1904-02-03,N240,y
+9697,Jose,Omenones,,080-00-00,M,M,Mexico,Cancer,,E.V. Hamilton,,Blank,City,,,1904-02-02,O520,y
+9696,Mrs. M.,Raatz,,Blank,F,W,Unknown,,,Blank,,,Friends,,Microfiche = Sec. 4 Lot 100. No age is given in ledger.,1904-01-30,R320,y
+9695,W.M.,Hunter,,064-00-00,M,W,Virginia,Apoplexy,,F.P. McLaughlin,,Lot 1104,Friends,,Microfiche = Sec. 3 Lot 1104.,1904-01-29,H536,y
+9694,Petra,Garzia,,000-18-00,F,M,Unknown,Convulsions,,Frank Litten,,Blank,City,,Garcia? Garza?,1904-01-27,G620,y
+9693,David,Taylor,,007-00-00,M,W,Austin,Raubesla (Rubella?),,W.P. Rhodes,,Lot 893,Friends,,"Microfiche = Sec. 4, Lot 893.",1904-01-27,T460,y
+9692,Lyford B.,Ewings,,006-00-00,M,W,Unknown,Meningitis Sebrial (Cerebral?),,E. Mussina,,Lot 717,Friends,,Microfiche = Sec.3 Lot 717.,1904-01-24,E520,y
+9691,Laura,Cain,,047-00-00,F,C,Mississippi,Pulmonary Phtisis,,F. W. Webster,,Old Grounds,Friends,,This burial record is not on the microfiche under this name.,1904-01-23,C500,y
+9690,Felicia,Hernandez,,014-00-00,F,M,Austin,Acute .............,,Blank,,Lot 18,Friends,,Microfiche = Sec. 1 Lot 18.,1904-01-21,H653,y
+9689,Annie,Malmberg,,021-00-00,F,W,Sweden,Phtisis Pulmonalis,,Ralph Steiner,,Lot 805,Friends,,"Surname is ""Malenberg"" on fiche and ""Malmburg"" in City Directory.",1904-01-20,M451,y
+9688,Sam J.,Billingsley,,063-00-00,M,W,Unknown,,,Blank,,,Friends,,Microfiche = Sec. 4 Lot 187.,1904-01-20,B452,y
+9687,Zapdera,Guandine,,066-00-00,M,M,Mexico,Cancer of Stomach,,E.V. Hamilton,,Blank,City,,"Name is ""Zapdeia"" on fiche. Surname is also a mystery.",1904-01-19,G535,y
+9686,James B.,Aheren,,054-00-00,M,W,Mississippi,Pneumonia,,W.P. Rhodes,,Blank,Friends,,"Surname is spelled ""Aherem"" on fiche and ""Ahern"" in City Directory.",1904-01-15,A650,y
+9685,M.,Gonzales,,090-00-00,M,M,Mexico,Senile Gangrene,,E. V. Hamilton,Blank,,City,,,1904-01-15,G524,y
+9684,Infant of Mrs.,Kain,,000-00-00,M,W,Austin,Stillborn,,R.S. Graves,,Lot 19,City,,Microfiche = Sec.1 Lot 19.,1904-01-12,K500,y
+9683,Miss Bessie,Moore,,022-00-00,F,W,Austin,Tuberculosis,,H.B. Granberry,,Lot 940,Friends,,Microfiche = Sec. 4 Lot 940.,1904-01-11,M600,y
+9682,George P.,Hachenberg,,064-00-00,M,W,Unknown,Senile Asthma,,Blank,,Lot 823,Friends,,Microfiche gives burial location as Sec. 4 Lot 823.,1904-01-10,H251,y
+9681,Infant of John,Westergaard,,000-00-00,M,W,Austin,Stillborn,,Blank,,Lot 850,Friends,,,1904-01-03,W236,y
+9680,Joe,Pearl,,061-00-00,M,W,Unknown,Elephantiasis,,F.J. Bennett,,Lot 829,Friends,,Microfiche gives burial location both as Sec.2 Lot 829 and Sec. 4 Lot 829.,1904-01-03,P640,y
+9679,E.M.,Scarbrough,,026-00-00,M,W,Unknown,,,Blank,,,Friends,,"""Remains from Mexico"". Microfiche gives burial location as Sec.3, Lot 749.",1904-01-01,S616,y
+9678,William,Rowe,,030-00-00,M,W,Travis County,Consumption,,F.J. Bennett,,Lot 841,Friends,,"Microfiche record says burial location is Section 4, Lot 841.)",1904-01-01,R000,y
+9677,Mrs. Carrie,McDowell,,???????,F,W,Austin,Phtisis Pulmonalis,,Frank Litten,,Lot 829,Friends,,Age is not legible. Is pehaps 22??,1903-12-29,M234,y
+9675,Mrs. J.W.,Warren,,042-00-00,F,W,Travis County,Cancer,,T.J. Bennett,,Lot 829,Friends,,"Microfiche gives burial location as Sec. 4, Lot 829. Also gives name as Annie E.J. Warren as well as Mrs. J.W. Warren.",1903-12-28,W650,y
+9676,A.,Michelson,,058-00-00,M,W,Germany,Diabetes,,F.P. McLaughlin,,Hebrew,Friends,,"Microfiche gives burial location as 1, B11, 10. Name is Abraham Michelson in 1903 City Directory.",1903-12-28,M242,y
+9674,Ida,Pessell,,061-00-00,F,W,Texas,Paralysis,,J.H. Stevens,Blank,,Friends,,This burial is not on the microfiche record under this surname.,1903-12-27,P240,y
+9673,Elisa,Jergensen,,078-00-00,F,W,Germany,Senility,,Joe Wooten,,Old Grounds,Friends,,"Microfiche gives burial location as Sec. 1, Old Ground. Age is in pencil in ledger.",1903-12-27,J625,y
+9672,Mary E.,Hicks,,062-00-00,F,W,Unknown,La Grippe,,Blank,Blank,,Friends,,"Remains were brought to Austin from Kansas City. Microfiche gives burial location as Sec. 2, Lot 840. Age is in pencil in ledger.",1903-12-26,H200,y
+9671,Hugh,McGillery,,061-00-00,M,W,Scotland,Cerebral Hemorrhage,,W.W. Cummings,Blank,,Friends,,Surname is McGilley on microfiche.,1903-12-24,M246,y
+9670,Millie F,Price,,016-00-00,F,C,Austin,Consumption,,T.J. Bennett,Blank,,Friends,,,1903-12-22,P620,y
+9669,Cora,Haynes,,060-00-00,F,W,Unknown,,,Blank,,,Blank,,Age is in pencil.,1903-12-19,H520,y
+9668,Augustin,Nava,,014-00-00,F,M,Unknown,Phtisis Pulmonalis,,R.S. Graves,,Blank,City,,"Microfiche gives burial locat as Sec. 2, Mexican Grounds.",1903-12-18,N100,y
+9667,Carl L.,Dahlin,,025-00-00,M,W,Unknown,Pneumonia La Grippe,,Homer Hill,,Lot 877,Friends,,"Microfiche gives burial location as Sec. 8, Lot 877.",1903-12-18,D450,y
+9666,Mrs. H.E.,Denney,,099-00-00,F,W,Unknown,Old Age,,Frank Litten,Blank,,Friends,,Microfiche gives burial location as Sec. 1. Lot 347.,1903-12-17,D500,y
+9665,Thomas,Cater,,078-00-00,M,W,Unknown,Inflammation of the Bowels,,H.C. Morrow,,Old Grounds,Friends,,,1903-12-16,C360,y
+9664,A.B.,Painter,,078-00-00,M,W,Georgia,Organic Heart Disease,,E.V. Hamilton,,Lot 18,Friends,,"Microfiche gives burial location as Sec. 1, Lot 18.",1903-12-16,P536,y
+9663,Don Aceno,Martris,,055-00-00,M,M,Unknown,Pneumonia,,Neal Watt,Blank,,City,,Name on fiche is Don Heeho Martris. Last name is probably also not correctly spelled in ledger.,1903-12-13,M636,y
+9661,Wm.,Wolf (Infant of),,000-00-00,F,W,Austin,Stillborn,,E.V. Hamilton,Blank,,Friends,,,1903-12-11,W415,y
+9660,U.O,Jones,,036-00-00,M,W,Alabama,Gunshot Wound,,D.L. Burg,,Lot 880,Friends,,Uriah O. Jones is listed in the 1903 City Directory as a mounted policeman.,1903-12-11,J520,y
+9662,Porter,Rome,,019-00-00,M,W,Travis County,Typhoid Fever,,T.J. Bennett,,Lot 841,Friends,,"Microfiche record gives burial location as Sec. 4, Lot 841.",1903-12-11,R500,y
+9659,Mrs. Fannie,Moses,,068-00-00,F,W,Unknown,Chronic Bright's Disease,,Blank,,Hebrew,Friends,,"Microfice gives burial location as 1, B11, 6.",1903-12-10,M200,y
+9658,W.R.,Haley,,076-00-00,M,W,Unknown,Chronic Heart Disease,,Joe Wooten,,Lot 18,Friends,,"Microfiche record gives burial location as Sec. 1, Lot 18.",1903-12-09,H400,y
+9657,Graig,Balenger,,034-00-00,M,W,Unknown,Consumption,,E.V. Hamilton,Blank,,Friends,,,1903-12-08,B452,y
+9656,Col. R.A.,Rutherford,,084-00-00,M,W,Unknown,Organic (Senale?) of Heart,,Joe Wooten,Blank,,Friends,,"Microfiche gives burial location as Section 1, Lot 202.",1903-12-06,R361,y
+9655,Addie,Wilson,,N,F,W,,,,Blank,,,CIty,,"Microfiche says burial location is Sec. 1, Lot 19. No age is given in ledger.",1903-12-05,W425,y
+9654,Mrs. Annie,Wolf,,078-00-00,F,W,Unknown,Apoplexy,,F.P. McLaughlin,Blank,,Blank,,,1903-12-04,W410,y
+9653,Amilia,Wachter,,073-00-00,F,W,Germany,Congestive Chill,,H.B. Granberry,,Old Grounds,Friends,,"Microfice record says burial is Section 1, Old Ground. Name on microfiche is Amilie Waechter.",1903-12-02,W236,y
+9652,Geo. H.,Barnes,,038-00-00,M,W,Unknown,Tuberculosis,,Homer Hill,,Lot 843,Friends,,Age is in pencil. This burial record is not on the microfiche under this surname.,1903-12-01,B652,y
+9651,Metric,Gintais,,040-00-00,M,M,Mexico,Congestion of Bowels,,R.S. Graves,Blank,,City,,Hispanic name. ???????,1903-11-30,G532,y
+9650,Cyrus S.,Roberts,,027-00-00,M,W,Austin,Typhoid Fever,,C.T. Karr,,Lot 304,Friends,,"Microfiche = Sec.1, Lot 304. Name = Cyrus Swann Roberts, Jr.",1903-11-30,R163,y
+9649,Ida,Schlickeisen,,048-00-00,F,W,Germany,Cirrhosis of Liver,,H.L. Hillgardner,,Lot 829,Friends,,"Microfiche = Sec.4, Lot 829.",1903-11-29,S425,y
+9648,Baby,Brown,,000-18-00,M,W,Unknown,Burn,,T.J. Bennett,,Lot 18,Friends,,"Microfiche = Sec.1, Lot 18.",1903-11-28,B650,y
+9645,Tom,Castell,,040-00-00,M,M,Unknown,Intestinal Nephritis,,H.F. Sterzing,Blank,,City,,,1903-11-28,C340,y
+9646,Augustina,Hendra,,023-00-00,F,M,Mexico,Phtisis Pulmonalis,,F. Litten,Blank,,City,,,1903-11-28,H536,y
+9647,Harrison,Posey,,067-00-00,M,W,La.,Senility,,Homer Hill,Blank,,Friends,,,1903-11-28,P200,y
+9644,Infant of John,Palmer,,000-00-00,F,W,Austin,Stillborn,,N.O. Brenizer,Blank,,Friends,,,1903-11-26,P456,y
+9643,Ida,Deike,,033-00-00,F,W,Germany,Puerperal Septicaemia,,W.J. Mathews,,"Sec. 4, Lot 830",Friends,,Microfiche = Ida Arnett Deike.,1903-11-26,D200,y
+9642,D.,Hernandez,,070-00-00,F,M,Mexico,La Grippe,,R.S. Graves,Blank,,City,,,1903-11-23,H653,y
+9641,D.,Hernandez,,070-00-00,F,M,Mexico,La Grippe,,R.S. Graves,,,,,,1903-11-23,H653,y
+9640,Mrs. Louisa,Hancock,,078-00-00,F,W,Mississippi,Thrombosis,,E. Mussina,,Blank,Friends,,,1903-11-22,H520,y
+9639,Mary A.,Ecklund,,026-00-00,F,W,Travis County,Typhoid Fever,,T.O. Maxwell,,"Sec. 2, Lot 785",Friends,,"Microfiche = Sec. 3,Lot 542. T.O. Maxwell was a physician at the Texas State Lunatic Asylum.",1903-11-21,E245,y
+9638,Sophia M.,Millwee,,054-00-00,F,W,Pennsylvania,Asthma Carcinoma,,E. Mussina,Lot 877,,Friends,,"Microfiche = Sec.3,4, Lot 877.",1903-11-20,M400,y
+9637,Harriet,Clark,,074-00-00,F,W,Tennessee,Failure of Vital Forces,,W.P. Rhodes,Blank,,Friends,,,1903-11-20,C462,y
+9636,Brennita,Bremnoton,,022-00-00,M,M,Mexico,Consumption,,E.V. Hamilton,Blank,,City,,Hispanic name. What is it?,1903-11-19,B653,y
+9634,Mrs. Julia,Smith,,067-00-00,F,W,Tennessee,Inflammation of Bowels,,E.V. Hamilton,Lot 877,,Friends,,"Microfiche = Sec.4, Lot 877.",1903-11-12,S530,y
+9635,William,Harton,,018-00-00,M,W,Sweden,Typhoid Fever,,Frank Litten,Lot 851,,Friends,,"Microfiche = Sec.4, Lot 851. Surname is Horton on fiche. Harton in directory.",1903-11-12,H635,y
+9633,Mrs. G.E.,Hurly,,065-00-00,F,W,Unknown,Phtisis Pulmonalis,,N.O. Brenizer,,Lot 877,Friends,,"Microfice = Sec.3, Lot 877.",1903-11-11,H640,y
+9632,Sophia,Gissel,,044-00-00,F,W,Germany,Malarial Cerebral Consumpt.,,G. Hartmann,Blank,,Friends,,,1903-11-10,G400,y
+9631,W.M.,Morrish,,034-00-00,M,W,Unknown,Typhoid Fever,,E.V. Hamilton,Lot 829,,Friends,,"Microfice says Sec. 2, Lot 829.",1903-11-10,M620,y
+9630,Edward,Staggs,,037-00-00,M,W,Unknown,Pulmonary Consumption,,Blank,Lot 20,,City,,"Not on microfice record, but an article in The Statesman says that he died in a wagon at 4th & Guadalupe while en route from Gonzales to Belton. His family continued on to Belton after the burial.",1903-11-08,S320,y
+9629,Carnie,Spenara,,000-09-00,F,M,Unknown,Teething,,R.S. Graves,Blank,,City,,Microfiche = Carrie.,1903-11-07,S156,y
+9628,Arie,Franklin,,028-00-00,F,C,Austin,Pneumonia,,E.W.D Abner,Blank,,Friends,,,1903-11-05,F652,y
+9627,San Janila,Pena,,003-00-00,F,M,Unknown,Gastro Enteritis,,H.B. Granberry,Blank,,City,,"Given name on microfiche is ""Sam Janita"". Name could have been Juanita?? Samanita??",1903-10-30,P500,y
+9626,Joseph,Brick,,044-00-00,M,W,Mass.,Gunshot Wound,,M.M. Johnson,Blank,,Friends,,This burial is not on the microfiche record.,1903-10-30,B620,y
+9625,Ellen,Wooldridge,,054-00-00,F,W,Unknown,Typhoid Fever,,Joe Wooten,Blank,,Friends,,,1903-10-29,W436,y
+9624,D.F.,Horne,,023-00-00,M,W,Unknown,Railroad Accident,,J.R. Williamson,Blank,,,,"Microfice burial location is Sec. 1, 323,324.",1903-10-27,H650,y
+9623,Fannie C.,Suares,,047-00-00,F,W,Unknown,Pneumonia,,F. Litten,Blank,,Friends,,,1903-10-22,S620,y
+9621,Infant U.O.,Jones,,000-00-00,M,W,,Stillborn,,R.S. Graves,,Lot 880,Friends,,,1903-10-21,J520,y
+9622,Carl Kenneth,Bone,,003-00-00,M,W,Unknown,Malignant Diphtheria,,E. Mussina,Blank,,Friends,,,1903-10-21,B500,y
+9620,Pauline,Lewis,,027-00-00,F,C,Austin,Heart Disease,,W.P. Rhodes,Blank,,Friends,,,1903-10-19,L200,y
+9619,Lizzie,Jackson,,041-00-00,F,C,Unknown,Chronic Valvular Disease,,R. Chambers,Old Grounds,Blank,Friends,,,1903-10-15,J500,y
+9618,Powell,Larisa,,070-00-00,F,M,Mexico,Malarial Fever,,R. Chambers,Blank,,City,,Unable to locate on microfiche. What actual name was is a mystery but this is what it looks like in the ledger.,1903-10-12,L620,y
+9617,Simon,Goldbaum,,000-00-01,M,W,Austin,Inanition,,Blank,Hebrew,,Friends,,Microfice burial location is 1 B11 13.,1903-10-09,G431,y
+9616,Dick,Reeves,,038-00-00,M,W,Unknown,Abscess of Liver,,H.B. Granberry,,,Friends,,"Microfiche burial location is Sec 4, Lot 829.",1903-10-08,R120,y
+9615,Graham B.,Lacy,,013-00-00,M,W,Unknown,Lock Jaw,,Blank,Blank,,Friends,,,1903-10-07,L200,y
+9614,James E.,Elliott,,043-00-00,M,W,Unknown,Phtisis Pulmonalis,,R.S. Graves,,Lot 20,City,,"Microfiche burial location is Sec. 1, Lot 20.",1903-10-07,E430,y
+9613,Baby,Cook,,002-00-00,F,W,Unknown,Burned,,Blank,,Lot 858,Friends,,"Microfiche give burial location as Sec. 4, Lot 858.",1903-10-04,C000,y
+9612,Harry J.,McCarty,,050-00-00,M,W,Unknown,Peritonitis,,W.M.F. Brumley,,Lot 178,Friends,,"Microfiche gives burial location as Sec. 4, Lot 178 and Sec. 4, Lot 78.",1903-10-04,M263,y
+9611,Col. W.L.,Norton,,073-00-00,M,W,Unknown,Superative Oclutis,,Ralph Steiner,Blank,,Friends,,"Microfiche gives burial as Section 1, Lot 577",1903-09-30,N635,y
+9610,Mexican Woman,Unknown,,070-00-00,F,M,Unknown,Malarial Fever,,Blank,Blank,,City,,,1903-09-30,U525,y
+9609,Henry,Traugott (Infant),,000-00-00,M,W,Austin,Stillborn,,H.B. Granberry,,Lot 18,,Friends,"Microfiche indicates Section 1, Lot 18.",1903-09-29,T623,y
+9608,Juluis,Marquez,,070-00-00,M,M,Mexico,Phtisis Pulmonaris,,R.S. Graves,Blank,,City,,"Microfiche indicates Section 2, Pauper Grounds Section 2, Mexican.",1903-09-28,M620,y
+9606,Gus,Cashell,,030-00-00,M,W,Blank,,,Blank,,,Friends,,Remains were brought to Austin from Houston. This record is not on the microfiche.,1903-09-25,C400,y
+9605,Alb.,Millican,,036-00-00,M,C,Unknown,Pulmonary Consumption,,C.W. ----heart (?),Old Grounds,,Friends,,"Microfiche says Section 1, Old Ground.",1903-09-25,M425,y
+9607,Bernie,Thorp (Infant),,000-00-09,M,W,Austin,Inanition,,M.M. Smith,,Lot 19,Friends,,"Microfiche says Section 1, Lot 19.",1903-09-25,T615,y
+9604,Sarah,Reynolds,,087-00-00,F,W,Texas,Old Age,,E. V. Hamilton,Blank,,City,,"Microfiche gives burial as Section 4, Lot 144. Name could be ""Reynauds"".",1903-09-21,R543,y
+9603,Mary,Farris,,036-00-00,F,W,Rh---land (?),Heart Disease,,Blank,,Lot 20,City,,"Microfiche record says burial is in Section 1, Lot 20.",1903-09-20,F620,y
+9602,Wm.,Richter,,075-00-00,M,W,Unknown,Pneumonia,,E.V. Hamilton,Blank,Friends,,,,1903-09-20,R236,y
+9601,Julius,Quast,,070-00-00,M,W,Germany,Heart -----------?,,"E.A. Cox, M.D.",Blank,,Friends,,This record is not on the microfiche. Spelling was difficult to determine but Julius Quast is listed in the City Directory.,1903-09-17,Q300,y
+9600,M.V.,Babcock,,060-00-00,M,W,Unknown,Senile Failure,,E. Mussina,Blank,,Friends,,,1903-09-16,B200,y
+9599,Antonio,Riojas,,033-00-00,M,W,Unknown,Killed by H. & T.C. Railroad,,T.J. Bennett,Blank,,Friends,,,1903-09-15,R200,y
+9598,Carl,Bjolund,,064-00-00,M,W,Unknown,,,Blank,,,Blank,,,1903-09-14,B245,y
+9597,C.P. Jr.,Hix,,000-13-00,M,C,Unknown,Cholera Infantum,,Joe Wooten,Old Grounds,,Friends,,,1903-09-14,H200,y
+9596,Oran Chester,Fallerwell,,000-03-00,M,W,Austin,Congestion of Lungs,,Blank,Blank,,Friends,,"Surname is ""Fallewell"" on the microfice record.",1903-09-09,F464,y
+9595,Mrs. F.,Reed,,053-00-00,F,W,Unknown,Kidney and Heart Disease,,Frank Litten,,Lot 831,Friends,,,1903-09-08,R300,y
+9594,Infant of James H.,Hart,,000-00-00,M,W,Austin,Stillborn,,N.O. Brenizer,,Blank,Friends,,Microfice record gives burial plot as Sec. 1 Lot 248.,1903-09-07,H630,y
+9592,Mr. Wm.,Baum,,050-00-00,M,W,Unknown,Cancer of Stomach,,E.V. Hamilton,,Lot 20,City,,,1903-09-06,B500,y
+9591,Louisa,Ebner,,002-00-00,F,W,Texas,Gastroenteritis,,Frank Litten,,Lot 19,Friends,,,1903-09-06,E156,y
+9593,W.H.M,Wall,,000-10-00,M,W,Austin,Cholera Infantum,,H.B. Granberry,,Lot 19,Friends,,,1903-09-06,W400,y
+9590,Ella,Hoffman,,016-00-00,F,W,Texas,Malarial Fever & Congestion B,,L. Burg,,Lot 887,Friends,,,1903-09-05,H150,y
+9588,Nicholas,Banandini,,072-00-00,M,W,Italy,Dysentery,,E.V. Hamilton,,Lot 20,City,,,1903-09-04,B535,y
+9589,Mrs. Jno.,Preston (Infant of),,000-00-00,M,W,Austin,Premature Birth,,Frank Litten,,Lot 19,City,,,1903-09-03,P623,y
+9587,Emma,Schmitt,,000-06-00,F,W,Austin,Gastro Enteritis,,Frank Luther,,Lot 19,Friends,,,1903-08-30,S530,y
+9586,Adelaide,Ruiz,,050-00-00,F,M,Unknown,Cancer,,Blank,Blank,,City,,,1903-08-29,R200,y
+9585,Peter,Romandis,,042-00-00,M,W,Mexico,Consumption,,E.V. Hamilton,Blank,,City,,"Name is spelled ""Romardes"" on microfiche.",1903-08-28,R532,y
+9584,James H.,Daniels,,055-00-00,M,W,Unknown,Blood Poisoning,,W.P. Rhodes,,Lot 363,Friends,,,1903-08-28,D542,y
+9583,Baby,Palm,,000-00-02,M,W,Manor,Gastro Enteritis,,Dr. Gregg,Blank,,Friends,,Microfice records gives burial location as Lot 196.,1903-08-27,P450,y
+9582,Berl,Zaricor,,014-00-00,F,W,Tennessee,Appendicitis,,T.O. Maxwell,Blank,,Friends,,T.O. Maxwell was a physician at The Austin Lunatic Asylum (State Hospital).,1903-08-25,Z626,y
+9581,Will,Crosby,,047-00-00,M,W,Unknown,Apoplexy,,R.S. Graves,Old Grounds,,Friends,,,1903-08-25,C621,y
+9580,C.M.,Jernigan,,077-00-00,F,W,Georgia,Bright's Disease,,E.V. Hamilton,,Lot 20,City,,,1903-08-24,J652,y
+9578,M.,Ojerholm,,044-00-00,M,W,Norway,Consumption,,Q.C. Smith,,Lot 526,Friends,,,1903-08-21,O264,y
+9579,Cath,Callaway,,000-05-00,F,W,Austin,Pneumonia,,S.E. Hudson,,Lot 267,Friends,,,1903-08-21,C400,y
+9577,Ned,McWhirter,,060-00-00,M,C,Tennessee,Intenstinal Inflammation,,J.H. Stevens,Old Grounds,,Friends,,,1903-08-18,M263,y
+9576,Hulda,Winsmann,,000-11-00,F,W,Unknown,Marasmus,,O. Hartman,,,Friends,,O. Hartman is listed in the directory as being a minister.,1903-08-18,W525,y
+9575,Bertha,Froshel,,004-00-00,F,W,Unknown,Acute Phosphorous (?) Poisoning,,W.P. Rhodes,,Lot 806,Friends,,,1903-08-14,F624,y
+9574,Lila May,Clary,,000-08-00,F,W,Unknown,Inanition,,J.W. Carbert (?),,Lot 806,Friends,,"Microfice records says burial location is Section 4, Lot 806.",1903-08-13,C460,y
+9573,Rudolph,Reisner,,000-07-00,M,W,Unknown,Congenital Epilepsy,,T.J. Bennett,,Lot 120,Friends,,,1903-08-11,R256,y
+9572,Pearl,Rogers,,022-00-00,F,C,Unknown,Consumption,,W.J. Mathews,Old Grounds,,Friends,,,1903-08-10,R262,y
+9571,Claude,Cantebery,,000-00-00,F,W,Austin,Stillborn,,H.B. Granberry,,Lot 910,Friends,,"There is a listing for Claude Canterbury in the city directory. My guess is that this is the ""infant of"" Claude Canterbury.",1903-08-09,C531,y
+9570,Hazel,Millhouse,,005-00-00,F,W,Austin,Acute Laryngitis,,W.D. Gaston,,Lot 881,Friends,,,1903-08-09,M420,y
+9569,J.A.,Randolph,,020-00-00,M,W,Unknown,Endocarditis Nephritis,,Joe Wooten,,Lot 824,Friends,,,1903-08-08,R534,y
+9567,Rev. T.C.,Moore,,069-00-00,M,W,Ireland,Malarial Fever,,R.S. Graves,,Lot 275,Friends,,,1903-08-07,M600,y
+9566,Gemma M,Aubert,,000-03-00,M,W,Austin,Cholera Infantum,,Homer Hill,,Lot 806,Friends,,,1903-08-06,A163,y
+9565,Raphel,Gudman (?),,060-00-00,M,M,Mexico,Cancer,,E.V. Hamilton,Blank,,City,,Name could be Rafael Guzman.,1903-08-06,G350,y
+9564,Mrs. Julia,Wheat,,027-00-00,F,W,Austin,Obstruction of Bowels,,E.B. Black,Blank,,Friends,,"Microfiche record gives burial location as Section 1, Lot 157.",1903-08-05,W300,y
+9562,Mrs. A.M.,Horne,,065-00-00,F,W,Unknown,,,Blank,,,Friends,,,1903-08-03,H650,y
+9563,Infant,Frehtinbaum,,003-00-00,M,W,Unknown,,,Blank,,,Friends,,"Spelling of last name is a guess. Remains were brought to Austin from Llano, Texas.",1903-08-02,F635,y
+9568,Rev. Fred L.,Allen,,Blank,M,W,,,,Blank,,,Blank,,This information is written in red ink above the original list. Was not entered at time of original list.,1903-08-01,A450,y
+9560,J. (Infant),Mobley,,000-00-21,M,W,Austin,Uremia,,W.P. Rhodes,Blank,,Blank,,Microfiche records gives burial spot as Lot 307.,1903-07-30,M140,y
+9559,Amanda,Long,,063-00-00,F,W,Blank,Apoplexy,,Blank,Blank,,Blank,,Microfice record gives burial spot as Lot 307,1903-07-30,L520,y
+9561,T.C.,Brennan,,000-06-00,M,W,Unknown,Cholera Infantum,,Blank,Blank,,Blank,,"Surname is spelled ""Bremcien"" on microfiche.",1903-07-24,B650,y
+9558,A.J.,Robinson,,028-00-00,M,W,Austin,Bright's Disease,,H.B. Granberry,Lot 1032,,Friends,,,1903-07-23,R152,y
+9557,William,Meyer,,051-00-00,M,W,Germany,Drowning,,M.M. Johnson,Lot 18,,Friends,,,1903-07-22,M600,y
+9556,Gassimere (Casimir?),Anders,,075-00-00,M,M,Mexico,Consumption,,E.V. Hamilton,Blank,,City,,No guess as to surname.,1903-07-21,A536,y
+9555,Miss,McHenry,,025-00-00,F,W,Unknown,Pulmonary Tuberculosis,,Ralph Steiner,Blank,,Friends,,"Microfiche records gives burial spot as ""Old Ground"".",1903-07-21,M256,y
+9554,Walter,Reynolds,,000-06-00,M,C,Unknown,Neuristhenia,,E.W.D. Abner,Blank,,Friends,,,1903-07-20,R543,y
+9553,Harold V.,Olsen,,000-10-00,M,W,Austin,Pneumonia,,E. Mussina,Blank,,Friends,,"Surname could well be ""Olson"".",1903-07-19,O425,y
+9552,Maggie,Mobley,,031-00-00,F,W,Blank,Uraemic Poisining,,W.P. Rhodes,Blank,,City,,Microfice record gives burial spot as Lot 307.,1903-07-18,M140,y
+9551,John H.,Pope,,076-00-00,M,W,Unknown,Bladder Trouble,,T.J. Bennett,Blank,,Friends,,"Microfice record gives burial spot as Section 2, Lot 737.",1903-07-15,P000,y
+9550,B. E.,Hadra,,061-00-00,M,W,Unknown,,,Blank,,,Friends,,Remains were brought to Austin from Dallas. Microfiche records gives burial spot as Sec. 4 Lot 253.,1903-07-14,H360,y
+9549,R.E.,Caperton,,041-00-00,M,W,Unknown,Typhoid Fever,,F.P. McLaughlin,Blank,,Friends,,,1903-07-13,C163,y
+9548,Arlesa,Hernandez,,000-17-00,F,M,austin,Marrasmas,,R.S. Graves,Blank,,City,,,1903-07-09,H653,y
+9547,Francisco,Abelias,,090-00-00,M,M,Mexico,Fracture of Skull,,E.V. Hamilton,Blank,,Friends,,,1903-07-07,A142,y
+9546,D. Locke,Brush,,037-00-00,M,W,Austin,Entrocelitis,,Ralph Steiner,Blank,,Friends,,"Microfiche record gives burial spot as Section 3, Lot 220",1903-07-05,B620,y
+9545,Will G.,Hill,,046-00-00,M,W,Unknown,Gunshot Wound,,W.L. White,Lot 857,,Friends,,,1903-07-01,H400,y
+9544,Jennie,Robards,,055-00-00,F,W,"Houston, TX",Degeneration of Syst (??),,E. Dunlap (?),Blank,,Friends,,,1903-06-30,R163,y
+9543,Margaret,Anderson,,000-02-00,F,W,Austin,Cholera Infantum,,W. P. Rhodes,,Lot 19,Friends,,"Surname may be ""Andersen"".",1903-06-29,A536,y
+9542,C.F.L.,Hoffman,,051-00-00,M,W,Germany,Drowning,,M.M. Johnson,,881,Friends,,"Initials are ""C.J.A."" on microfiche record.",1903-06-29,H150,y
+9541,Elisia,Hernandez,,001-01-00,M,M,Austin,Congestion Fever,,R.S. Graves,Blank,,City,,,1903-06-25,H653,y
+9540,D.L.,Becktol,,045-00-00,M,W,Unknown,Strangulation,,M.M. Johnson,,829,Friends,,"Surname may be ""Bechtol"".",1903-06-25,B234,y
+9539,Nonie,McCleary,,002-00-00,F,W,Blank,,,Blank,,,Friends,,"Remains were brought to Austin from Lake Charles, Louisiana. First name is ""Nomi"" on microfice record.",1903-06-21,M246,y
+9538,Infant of Joe,Griffith,,000-00-00,F,W,Blank,Stillborn,,H.B. Granberry,Blank,,Friends,,,1903-06-18,G613,y
+9537,Cal,Schertz,,058-00-00,M,W,Austin,Organic Heart Disease,,W.L. White,Old Grounds,Blank,Friends,,"Surname may be ""Schutz"".",1903-06-16,S632,y
+9536,Augusta,Porsch,,073-00-00,F,W,Germany,Heart Disease,,L.V. Weaver,Blank,,Friends,,,1903-06-15,P620,y
+9535,W.A.,Cato,,063-00-00,M,W,Blank,Paralysis,,W.J. Mathews,,829,Friends,,,1903-06-14,C300,y
+9534,Giles,Burditt,,050-00-00,M,W,Blank,,,Blank,,,Friends,,,1903-06-13,B630,y
+9533,Mrs. Alice,Smith,,069-00-00,F,W,Blank,Uraemia,,W.J. Mathews,Blank,,Friends,,,1903-06-09,S530,y
+9532,Miss Julia,Iglehart,,026-00-00,F,W,Blank,Tuberculosis,,Joe Wooten,Blank,,Friends,,,1903-06-04,I246,y
+9531,Evlyne,Burton,,055-00-00,F,W,Blank,Dysentery,,E.V. Hamilton,Lot 940,,City,,"The first name is spelled ""Eveline"" in the City Directory.",1903-06-02,B635,y
+9529,Ellen M.,Vasterling,,000-10-00,F,W,Llano,Entro Celitis,,Neal Watt,Blank,,Friends,,,1903-05-31,V236,y
+9528,Sam W.,Philips,,027-00-00,M,W,Austin,Pulmonary Tuberculosis,,H. Burg,883,,Friends,,,1903-05-28,P412,y
+9527,Henry,Holingsworth,,064-00-00,M,C,Blank,Acute (???) Congestion,,J.H. Stevens,Old Grounds,,Friends,,,1903-05-25,H452,y
+9526,Baby F.,Chenowky,,000-00-00,M,W,Blank,Premature Birth,,E.V. Hamilton,Lot 19,,City,,Spelling of last name is uncertain.,1903-05-18,C520,y
+9525,Will B.,Warren,,000-06-00,M,W,Austin,Flux,,L.L. Lacey,526,,Friends,,,1903-05-15,W650,y
+9524,Emil H.,Swenson,,000-16-00,M,W,Austin,Acute Dysentery,,Homer Hill,881,,Friends,,,1903-05-14,S525,y
+9523,Mrs. C.S.,Horan,,037-00-00,F,W,Blank,,,Blank,,,Blank,,,1903-05-12,H650,y
+9522,Infant,Herrings,,000-00-02,M,W,Austin,,,T.R. Pettaway,Lot 19,,Friends,,,1903-05-10,H652,y
+9521,C.C.,Codington,,064-00-00,M,W,Georgia,Bright's Disease,,E.V. Hamilton,Lot 18,,Friends,,,1903-05-09,C352,y
+9520,E.S.,Brooding,,038-00-00,M,W,Blank,,,Blank,,,Friends,,,1903-05-08,B635,y
+9519,P.?,Cordova,,084-00-00,M,W,Blank,Kidney Disease,,Homer Hill,Hebrew,Blank,Friends,,"Initial may not be a ""T"".",1903-05-08,C631,y
+9518,J.,Randolph,,070-00-00,M,W,England,Apoplexy,,Blank,Lot 20,,City,,,1903-05-08,R534,y
+9517,Peter,Andersen,,073-00-00,M,W,Blank,Cystitis,,E.V. Hamilton,Lot 20,,Friends/City,,Name could be Anderson,1903-05-07,A536,y
+9516,August,Thrall,,079-00-00,M,W,Sweden,Heart Disease,,W.J. Mathews,814,,Friends,,,1903-05-07,T640,y
+9515,Bob,Braxton,,065-00-00,M,C,Unknown,Heart Failure,,W.P. Rhodes,Old Grounds,Blank,Friends,,,1903-05-07,B623,y
+9530,Man,Unknown,,065-00-00,M,W,Blank,Killed,,M.M. Johnson,Lot 20,,County,,,1903-05-06,U525,y
+9513,Mrs. M.,Kreisle,,069-00-00,F,W,Germany,Apoplexy,,W.J. Mathews,Blank,Blank,Friends,,,1903-05-06,K624,y
+9514,James,Bramlett,,002-00-00,M,C,Unknown,,,Blank,,,Friends,Blank,Age may be 20 years.,1903-05-03,B654,y
+9512,Marie,Roshall,,066-00-00,F,C,Blank,Heart Disease,,L.L. Lacey,Old Grounds,Blank,Friends,,,1903-05-03,R240,y
+9511,E. H.,Copes,,020-00-00,M,W,Austin,Gunshot Wound,,M.M. Johnson,,,Friends,,M.M. Johnson was The Justice of the Peace.,1903-04-30,C120,y
+9510,F. W.,Giran,,060-00-00,M,W,,Heart Disease,,F. Litten,,Lot 829,Friends,,,1903-04-30,G650,y
+9509,P. J.,Plumb,,069-00-00,M,W,Michigan,Hemorrhage of Brain,,E.V. Hamilton,,Lot 829,Friends,,,1903-04-29,P451,y
+9508,Dr. D.T.,Iglehart,,067-00-00,M,W,,Heart Disease,,Joe Wooten,,,Friends,,,1903-04-27,I246,y
+9507,J.W.,Hail,,061-00-00,M,W,,,,Blank,,,Friends,,,1903-04-27,H400,y
+9506,George,Hearn (Infant),,000-00-00,M,W,,Stillborn,,W.P. Rhodes,,Lot 885,Friends,,,1903-04-26,H651,y
+9505,Jessie,Scott,,035-00-00,M,C,Austin,Malarial Fever,,,,,Friends,,Remains from Houston,1903-04-23,S300,y
+9504,William,Smith,,062-00-00,M,W,,Gunshot Wound,,M.M. Johnson,,,Friends,,,1903-04-23,S530,y
+9503,Bettie,Dorn,,054-00-00,F,W,,Chronic Diarrhea,,W.J. Mathews,,Lot 829,Friends,,,1903-04-20,D650,y
+9502,Elizabeth,Cumming,,005-00-00,F,W,Austin,Meningitis,,C.B. Rains,,,Friends,,Not certain of last name.,1903-04-10,C520,y
+9501,Mrs. A,Wolf,,045-00-00,F,W,,Puerperal Peritonitis,,W.A. Ellison,Hebrew,,Friends,,,1903-04-09,W410,y
+9500,Guadalupe,Castaneda,,069-00-00,F,M,Mexico,Senile Debility with a Fall,,H.F. Sterzing,,,City,,,1903-04-08,C353,y
+9499,C.C.,Letz,,002-00-00,F,W,"Rutledge, TX",Cholera Infantum,,W.P. Rhodes,,"Lot 853 S/E 1/4, Section 4",Friends,,,1903-04-06,L320,y
+9498,Sheard,Tucker,,039-00-00,M,C,Ft. Worth (?),Acute Liver Inflammation,,R. Chambers,Old Grounds,,Friends,,,1903-04-05,T260,y
+9497,F.W.,Deike,,003-00-00,M,W,Austin,Pneumonia,,F. Litten,Oakwood,"Section 4, Lot 806",Friends,,,1903-04-03,D200,y
+9496,T.O.,Maxwell (Infant),,000-21-00,M,W,Del Valle,Cerebral Congestion,,T.O. Maxwell,,Lot 1101,Friends,,,1903-03-27,M245,y
+9494,P.,Da Leon,,000-16-00,F,M,,Spasms,,,Lot 19,,City,,Surname may be De Leon.,1903-03-22,D450,y
+9495,Juana,Naba,,017-00-00,F,M,Mexico,Phthisis Pulmonalis,,F. Litten,,,Friends,,Surname could be Nava.,1903-03-22,N100,y
+9493,Josie (?),Martinus,,003-00-00,F,M,Texas,Typhoid Pneumonia,,R.S. Graves,,,City,,Surname may be Martinez.,1903-03-13,M635,y
+9492,Col. Galen,Crow,,081-00-00,M,W,,Tuberculosis,,Thos. Wooten & Son,,,Friends,,,1903-03-11,C600,y
+9491,Emma,Wilson (Infant),,000-00-00,M,W,Austin,Stillborn,,R.S. Graves,Lot 19,,City,,Burial ledger give Name as Emma and sex as male.,1903-03-09,W425,y
+9490,Abraham,Riffe,,078-00-00,M,W,,Cancer,,F.P. McLaughlin,Lot ?,,City,,,1903-03-04,R100,y
+9489,E.,Ferris,,070-00-00,M,W,Texas,Paralysis,,E.V. Hamilton,Lot 20,,City,,,1903-03-04,F620,y
+9488,W.W.,Dean (Infant),,000-00-00,M,W,Austin,Stillborn,,W.J. Mathews,Lot 855,,Friends,,,1903-03-01,D515,y
+9487,Wm.,Dohme,,084-00-00,M,W,,Pneumonia,,N.O. Brenizer,Lot 278,Friends,,,,1903-02-28,D500,y
+9486,Mr.,Wuttke,,060-00-00,M,W,,,,,,,,,Age was pencilled in at a later date and is not part of the original record in ink.,1903-02-27,W320,y
+9485,C.C.,Moore,,066-00-00,M,W,Georgia,Diabetes,,R.S. Graves,Lot 830 or 880 (????),,Friends,,,1903-02-27,M600,y
+9484,R.S.,Harrison,,066-00-00,M,W,Virginia,Manson's Disease,,F.P. McLaughlin,,,Friends,,,1903-02-25,H625,y
+9483,Clara A.,Warwick,,040-00-00,F,W,Austin,,,H.B. Granberry,Lot 806 (?),,,,"(?) because lot is same as for preceding infant, J.J. Johnson.",1903-02-25,W620,y
+9482,J.J.,Johnson (Infant),,000-20-00,M,W,,Diphtheria,,T.J. Bennett,Lot 806,,Friends,,,1903-02-23,J525,y
+9481,Miss A.,Dohme,,080-00-00,F,W,Germany,Pneumonia,,N.O. Brenizer,Lot 278,,Friends,,,1903-02-23,D500,y
+9480,J.J.,Wheeler,,082-00-00,M,W,,General Debility,,Neal Watt,,,Friends,,,1903-02-22,W460,y
+9479,Pearl,Patton,,028-00-00,F,W,Austin,Puerperal Shock,,H.B. Granberry,,,Friends,,,1903-02-20,P350,y
+9478,W.(?) C.,Thomas,,065-00-00,M,W,,Pulmonary Hemorrhage,,N.O. Brenizer,Lot 814,,Friends,,,1903-02-20,T520,y
+9477,Mrs. Justina,Winn,,070-00-00,F,W,,Cancer,,H.C. Morrow,,,Friends,,,1903-02-19,W500,y
+9476,Mrs. A.M.,Hawthorne,,070-00-00,F,W,Tennessee,Senility,,Joe Wooten,Lot 829,,Friends,,,1903-02-19,H365,y
+9475,Mrs. Lotie (Lottie?),Ellsworth,,057-00-00,F,W,Texas,Phthisis Pulmonalis,,,Lot 20,,City,,"Lottie [sic] is Widow to Allen Elsworth [sic] according to Austin City Directory, 1900-01.",1903-02-18,E426,y
+9474,G.A.,Balch,,047-00-00,M,W,Aba (Alabama?),Pneumonia,,R.S. Graves,Lot 20,,City,,,1903-02-16,B420,y
+9473,Geo. L.,Crawford,,027-00-00,M,W,,Railroad Accident,,F.J. Bennett,,,Friends,,,1903-02-16,C616,y
+9472,G.,Wenderlandt,,000-00-00,F,W,Austin,Stillborn,,Frank Litten,,,,,Name could be Wendlandt,1903-02-14,W536,y
+9471,Mrs. Johana,Hetz,,039-00-00,F,W,Germany,Heart Disease,,H.B. Hill,,,Friends,,,1903-02-11,H320,y
+9470,Mrs. Ben,McColough,,060-00-00,F,W,,Encorditis,,G.H. Wooten,,,Friends,,There is a Ben McCulloch in the city directory. This may be correct spelling.,1903-02-11,M242,y
+9469,Fannie,Woods,,080-00-00,F,W,Mississippi,Pneumonia,,M.A. Taylor,,,Friends,,,1903-02-11,W320,y
+9468,Bob,Rubirth,,046-00-00,M,C,,Bright's Disease,,Frank Litten,,,,,,1903-02-08,R163,y
+9467,Mrs.,Willkins,,045-00-00,F,W,,Gunshot Wound,,B.M. (W?) Pope,,,Friends,,Spelling of surname most probably Wilkins as in city directory.,1903-02-08,W425,y
+9466,Mrs. Wm.,Jost,,077-00-00,F,W,Germany,Nephritis,,E.V. Hamilton,,,Friends,,,1903-02-07,J300,y
+9465,Infant,Unknown,,000-00-01,M,W,,Left Side of Head Crushed,,M.M. Johnson,Lot 19,,City,,,1903-02-07,U525,y
+9463,A.R.,Morris,,074-00-00,M,W,,Cancer,,W.J. Mathews,,,Friends,,,1903-02-06,M620,y
+9464,Mrs. S.E.,Lewis,,054-00-00,F,W,,Cancer of Womb,,S.E.Hudson,Lot 526,,Friends,,,1903-02-06,L200,y
+9462,Sam,Hart,,022-00-00,M,C,Austin,Pneumonia,,J.H. Stevens,Old Grounds,,City,,,1903-02-03,H630,y
+9460,Julia,Moranis,,016-00-00,F,M,Texas,Burn,,R.S. Graves,,,City,,Surname may be Morales.,1903-02-03,M652,y
+9461,Mrs. A.A.,Hoge,,026-00-00,F,W,Virginia,Tuberculosis,,Homer Hill,,,City,,,1903-02-02,H200,y
+9459,S.C.,Hammond,,066-00-00,M,W,,Kidney Trouble,,F.L. Griffith,Lot 829,,Friends,,,1903-02-01,H530,y
+9458,Carl L.,Jensen,,047-00-00,M,W,Sweden,Heart Disease,,E.V. Hamilton,Lot 805,Blank,Friends,Blank,Blank,1903-01-29,J525,y
+9457,Bettie,Jackson,,070-00-00,F,C,Mississippi,Cirrhosis of Liver,,J.H. Stevens,,,Friends,,,1903-01-27,J500,y
+9456,Miss M.,Frame,,026-00-00,M,W,Blank,,,Blank,,,Blank,Blank,"Miss Minnie Frame, saleslady at Scarborough and Hicks, home at 1309 Brazos according to Austin City Directory, 1900-01",1903-01-27,F650,y
+9455,Migle,Gorela,,036-00-00,M,M,Mexico,,,E.V. Hamilton,,,City,,First name is probably Miguel. Last name ????,1903-01-26,G640,y
+9454,Gerda,Malmberg,,016-00-00,F,W,Sweden,Consumption,,O.M. Davis,Lot 807,,Friends,,,1903-01-25,M451,y
+9453,Clara M.,Rogers,,003-00-00,F,W,Austin,Malarial Poisoning,,A.L. Trigg (?),,,Friends,,,1903-01-24,R262,y
+9452,Sendemar,Carbaras,,050-00-00,M,M,Mexico,Consumption,,R.S. Graves,,,City,,,1903-01-23,C616,y
+9451,Mrs. F.M.,Martin,,055-00-00,F,W,Blank,Bright's Disease,,Howard B. Granberry,,,Friends,Blank,Blank,1903-01-23,M635,y
+9450,J.R.,Cabaniss,,075-00-00,M,W,Blank,Apoplexy,,Joe S. Wooten,Lot 814,Blank,Friends,Blank,Blank,1903-01-22,C152,y
+9448,Mrs.,Steussy,,067-00-00,F,W,Switzerland,Jaundice,,Howard B. Granberry,Lot 824,Blank,Friends,Blank,Blank,1903-01-21,S320,y
+9449,Mrs. E.D.,Barns,,026-00-00,F,W,Blank,,,Blank,,,Friends,Blank,Blank,1903-01-21,B652,y
+9447,Sallie P.,Caraway,,042-00-00,F,W,Blank,,,Thomas J. Bennett,,,Friends,Blank,Blank,1903-01-18,C600,y
+9446,S.,Garsa (Garza?),,073-00-00,M,M,Mexico,Consumption,,Everett V. Hamilton,Lot 815,Blank,City,Blank,Blank,1903-01-17,G626,y
+9445,Thomas,Looke,,058-00-00,M,W,England,Cancer of rectum,,Joe S. Wooten,Lot 815,Blank,Friends,Blank,Blank,1903-01-16,L200,y
+9444,Edward,Steinner,,064-00-00,M,W,Germany,Cirrhosis of liver,,Everett V. Hamilton,Lot 807,Blank,Friends,Blank,Blank,1903-01-16,S356,y
+9443,Laura A.,Bronn,,033-00-00,F,C,Louisiana,Peritinitis,,A.M. Horner (spelling ?),Blank,Blank,Friends,Blank,Blank,1903-01-15,B650,y
+9442,Arando,Ibarra,,052-00-00,M,M,Mexico,Phthisis Pulmonalis,,Richard S. Graves,Lot 807,Blank,City,Blank,Blank,1903-01-13,I160,y
+9441,Child,Unknown,,000-00-21,M,W,Unknown,Unknown,,*Matthew M. Johnson,Lot 807,Blank,City,Blank,*Matthew M. Johnson was Justice of the Peace for precinct No. 3,1903-01-12,U525,y
+9440,Mrs.,Aday,,032-00-00,F,W,Blank,Chronic Nephritis,,B.W. King,Lot 807,Blank,Friends,Blank,Blank,1903-01-10,A300,y
+9439,S. E.,Jones,,000-02-1,M,W,Austin,Pneumonia,,Howard B. Granberry,Lot 807,,Friend,,Infant,1903-01-10,J520,y
+9438,Ralph A.,Horner,,000-00-21,M,W,"St. Elmore, Texas",Convulsions,,Robert M. Wickline,Lot 806,Blank,Friends,Blank,Blank,1903-01-07,H656,y
+9437,Annie,Hamby,,007-00-00,F,W,Blank,Pnuemonia,,Richard S. Graves,Lot 807,Blank,Friends,Blank,,1903-01-05,H510,y
+9436,"A., Mrs.",Thompson,,042-00-00,F,W,Blank,Broken Hip Joint,,Thomas J. Bennett,Blank,Blank,Friends,Blank,,1903-01-02,T512,y
+9434,Elizabeth,Jackson,,075-00-00,F,N,Tenn,apoplexy,,Horner HIll,,not given,friends,,,1902-12-31,J500,y
+9433,Minnie,Eck,,003-00-00,F,W,Austin,pneumonia,,Frank Litten,,not given,friends,,,1902-12-31,E200,y
+9431,Chris,Ellson,,056-00-00,M,W,Germany,,,,,,,,,1902-12-29,E425,y
+9432,Albert,Haffner,,059-00-00,M,W,,Hemorrhage of brain,,E. V. Hamilton,,,friends,,,1902-12-29,H156,y
+9435,Rudolph,Thilan,,041-00-00,M,W,,,,,,lot 815,friends,,,1902-12-28,T450,y
+9430,N,N,,N,,N,,rheumatism of heart,,E. V. Hamilton,,lot 807,friends,,,1902-12-28,,y
+9429,John,Johnson,,068-00-00,M,W,Sweden,pneumonia,,J. W. Gibson,,lot 814,friends,,,1902-12-28,J525,y
+9428,Sarah T.,Wilson,,060-00-00,F,W,,Bright's Disease,,M. M. Smith,,,friends,,,1902-12-23,W425,y
+9426,G.,Johnson,,028-00-00,M,W,,typhoid fever,,S. C. Haigler,,lot 807,friends,,,1902-12-22,J525,y
+9427,S. P.,Bronn,,083-00-00,M,W,,grangreen,,Frank Litten,,lot 970,friends,,,1902-12-22,B650,y
+9425,M. C.,Granberry,,035-00-00,M,W,Texas,tubercular meningitis,,H. A. Hughes,,lot 812,friends,,,1902-12-21,G651,y
+9424,W. M.,Bratton,,001-00-00,F,N,Austin,cholera infantum,,M. M. Smith,,not given,friends,,,1902-12-18,B635,y
+9423,Susie,Spilcor,,032-00-00,F,N,Ohe Hill,consumption,,H. B. Granbury,,old grounds,friends,,,1902-12-17,S142,y
+9422,C. W.,Marbry,,038-00-00,M,W,??,consumption,,E. V. Hamilton,,lot 188,city,,,1902-12-16,M616,y
+9421,Ezra,Bishop,,002-00-00,M,W,Florida,typhoid fever,,N. O. Brenizer,,lot 19,city,,,1902-12-15,B210,y
+9420,Harhua,Johnson,,028-00-00,M,N,Austin,gunshot wound,,M. M. Johnson,,not given,friends,,,1902-12-14,J525,y
+9419,L. A. (?),Watts,,028-00-00,M,W,Mich,typhoid pneumonia,,T. J. Bennett,,lot 813,friends,,,1902-12-14,W320,y
+9418,Raymond,Terrell,,002-00-00,M,W,Austin,diptheria,,T. J. Bennett,,not given,friends,,,1902-12-13,T640,y
+9417,Joe B.,Rogers,,066-00-00,M,W,,heart,,W. L. White,,not given,friends,,,1902-12-12,R262,y
+9416,F.,Clements,,074-00-00,M,N,North C,heart disease,,J. H. Stevens,,Old grounds,friends,,,1902-12-07,C453,y
+9415,Oscar M.,Fadden,,009-00-00,M,N,,acute entrocolitis,,Joe Wooten,,not given,friends,,,1902-12-05,F350,y
+9414,Lucy A.,Brown,,032-00-00,F,N,Austin,Chronic Bright's Disease,,S. E. Hudson,,,friends,,,1902-12-04,B650,y
+9412,J.,Addison,,028-00-00,M,N,Austin,consumption,,E. V. Hamilton,,old grounds,friends,,,1902-12-01,A325,y
+9411,John H.,Franklin,,059-00-00,M,W,,drowning,,W. L. White,,not given,friends,,,1902-12-01,F652,y
+9410,Mary,Wyse,,000-15-00,F,W,Austin,inanition,,G. H. Wooten,,not given,friends,,,1902-12-01,W200,y
+9409,J. M.,Davis,,041-00-00,M,W,Travis Co.,apoplexy,,R. S. Graves,,not given,friends,,,1902-11-30,D120,y
+9408,Mrs. E.,Dilerell,,082-00-00,F,W,Tenn,organic heart disease,,F. Pashal,,not given,friends,,,1902-11-28,D464,y
+9407,Vigga,Wistgaurd,,000-01-00,M,W,Austin,Marasmus,,Frank Litten,,,friends,,,1902-11-27,W232,y
+9406,Hans,Bollman,,000-11-00,M,W,Austin,cholera infantum,,G. H. Wooten,,old grounds,friends,,,1902-11-27,B450,y
+9405,Mrs.,Meglin,,081-00-00,F,W,,,,,,,,,,1902-11-26,M245,y
+9404,Mrs.,Meglin,,081-00-00,F,W,,,,,,not given,,,,1902-11-26,M245,y
+9403,Mrs.,Meglin,,081-00-00,F,W,,,,,,,,,,1902-11-26,M245,y
+9402,Hal,Lensur,,019-00-00,M,W,,enteritis,,T. P. Pettway,,not given,friends,,,1902-11-26,L526,y
+9401,Infant of Mr.,Renter,,000-00-00,F,W,Austin,Stillborn,,Frank Litten,,,friends,,,1902-11-24,R536,y
+9400,Louis,Ramsey,,000-02-00,M,M,Austin,inanition,,R. S. Graves,,not given,county,,,1902-11-21,R520,y
+9399,Mary Jane,Wear,,084-00-00,F,W,,,,,,not given,,,,1902-11-17,W600,y
+9397,Enlalis,Saldana,,000-00-03,M,M,Austin,Unknown,,R. S. Graves,,,city,,,1902-11-14,S435,y
+9396,Henrietta,Amstead,,002-00-00,F,W,Austin,spinal meningitis,,H. B. Granbury,,lot 153,friends,,,1902-11-11,A523,y
+9395,Beatrice,Murchison,,000-15-00,F,W,Austin,teething,,R. S. Graves,,lot 806,friends,,,1902-11-10,M625,y
+9394,D.,McFarland,,035-00-00,M,W,Texas,pemcira malaria,,Tho. D. Wooten,,not given,friends,,,1902-11-09,M216,y
+9393,Lillie,Jennings,,000-04-00,F,W,Austin,entro colitis,,R. S. Graves,,lot 19,city,,,1902-11-07,J520,y
+9392,A. H.,Whitten,,068-00-00,M,W,Alabama,cirrhosis of liver,,C. O. Weller,,not given,friends,,,1902-11-07,W350,y
+9391,Mrs. Louise,Wilkins,,031-00-00,F,W,,,,,,lot 850,friends,,,1902-11-06,W425,y
+9390,N,Tryon,,000-04-00,F,N,Gadnston,maramus,,Hartman,,not given,friends,,,1902-10-31,T650,y
+9386,J. L.,O'Conner,,032-00-00,M,W,,accidental shooting,,L. N. Hollis,,lot 837,friends,,,1902-10-30,O256,y
+9389,Babe of Mrs.,Dozier,,000-00-16,F,W,Austin,cholera infantum,,E. V. Hamilton,,old grounds,friends,,,1902-10-30,D260,y
+9388,Infant of Mrs. Junie,Howard,,000-00-00,F,W,Austin,Stillborn,,E. V. Hamilton,,,city,,,1902-10-30,H630,y
+9387,Mrs. Cecil,Chan,,069-00-00,F,W,,apoplexy,,H. B. Granbury,,Hebrew grounds,friends,,,1902-10-30,C500,y
+9385,Robert,Rogers,,008-00-00,M,W,,,,,,not given,friends,,remains from Sayer Land,1902-10-23,R262,y
+9384,Auguste,Swenson,,090-00-00,F,W,Sweden,,,,,lot 807,friends,,,1902-10-21,S525,y
+9383,S. A.,Huebsch,,002-00-00,F,W,Austin,entro colitis,,T. K. Pettway,,lot 850,friends,,,1902-10-21,H120,y
+9382,Mary,Lensing,,022-00-00,F,W,,Bright's Disease,,H. B. Granbury,,,friends,,,1902-10-21,L525,y
+9381,Lus,Rios,,050-00-00,F,M,Mexico,gastritis,,R. S. Graves,,lot 32,city,,,1902-10-16,R200,y
+9380,Tom,Smith,,068-00-00,M,W,England,heart disease,,E. V. Hamilton,,lot 807,friends,,,1902-10-16,S530,y
+9379,Infant of Will,Foltz,,000-00-00,M,W,Austin,Stillborn,,F. P. McLaughlin,,,not given,friends,,1902-10-14,F432,y
+9378,Tho. H.,Wallace,,084-00-00,M,W,Ky,old age,,M. M. Smith,,,not given,,,1902-10-14,W420,y
+9376,Dewey,Johnson,,000-30-00,M,W,Austin,enteritis,,W. J. Mathews,,lot 19,friends,,,1902-10-13,J525,y
+9377,Jacob,Morgenson,,028-00-00,M,W,,,,,,lot 807,friends,,,1902-10-13,M625,y
+9375,Fannie,Maynard,,049-00-00,F,W,Ky,nephritis,,E. V. Hamilton,,not given,friends,,,1902-10-08,M630,y
+9374,Sydon,Hall,,045-00-00,M,W,,gunshot wound,,M. M. Johnson,,old grounds,friends,,,1902-10-08,H400,y
+9373,Maud E.,Lensing,,022-00-00,F,W,Austin,typhoid malaral fever,,H. B. Granbury,,not given,,,,1902-10-05,L525,y
+9413,C.,Wellezas,,000-00-08,M,M,Austin,spasms,,R. S. Graves,,not given,city,,,1902-10-02,W420,y
+9372,J. A.,Deihlman,,030-00-00,M,W,,internal injuries,,W. E. York,,lot 18,friends,,,1902-10-01,D450,y
+9371,S. L.,O'Brien,,043-00-00,F,W,,general exhaustion,,Neal Watt,,lot 807,friends,,,1902-09-30,O165,y
+9370,W. A. (Infant of),Gordon,,000-00-01,F,W,Austin,convulsions,,Homer HIll,,lot 708,friends,,"Note in ledger for March 1910 reads: March 14, 1910 ""Removed the body of infant child of W.A. Gordon from lot #708 to #838.""",1902-09-29,G635,y
+9369,J. A.,Moore,,040-00-00,M,W,,,,,,lot 168,friends,,"remains from Edna, Tex",1902-09-29,M600,y
+9368,Annie,Jefferson,,000-08-00,F,N,Austin,congestion of brain,,E. V. Hamilton,,old grounds,friends,,,1902-09-25,J162,y
+9367,C. B.,Baum,,000-06-00,M,W,Austin,convulsions,,T. J. Bennett,,lot 819,friends,,,1902-09-22,B500,y
+9366,J. H.,Robinson,,018-00-00,M,W,Austin,continued fever,,J. F.,,not given,friends,,,1902-09-21,R152,y
+9365,Infant,Everhart,,000-00-00,F,W,Austin,premature birth,,H. B. Granbury,,lot 19,friends,,,1902-09-17,E163,y
+9364,Gregoris,Munos,,025-00-00,M,M,Mexico,Hemorrhage,,E. V. Hamilton,,,city,,,1902-09-16,M200,y
+9363,Francisco,Rios,,017-00-00,M,M,Mexico,enteritis,,E. N. D. Abner,,lot 20,city,,,1902-09-15,R200,y
+9362,Gerald F.,Geaves,,000-08-00,M,W,St Louis Mo,enter colitis,,Neal Watt,,lot 425,friends,,,1902-09-12,G120,y
+9361,Mrs. H.,Endress,,053-00-00,F,W,,goiter,,L. L. Lacy,,lot 995,friends,,,1902-09-12,E536,y
+9360,Louise,Nitschke,,054-00-00,F,W,Travis Co,carcinoma of thigh,,W. J. Mathews,,lot 852,friends,,,1902-09-07,N320,y
+9359,Vidal,Aranda,,002-00-00,M,M,,malarail poison,,M. M. Johnson,,not given,city,,,1902-09-03,A653,y
+9358,Walter,Moore,,031-00-00,M,N,,tuberculosis,,Joe Gilbert,,old grounds,friends,,,1902-09-01,M600,y
+9357,Joseph,Seigmund,,070-00-00,M,W,Germany,apoplexy,,G. H. Wooten,,lot 214,friends,,,1902-09-01,S530,y
+9356,Mary,DeLashmutt,,042-00-00,F,W,Wash Co. Texas,eclempsia apoplexy,,Homer Hill,,lot 825,friends,,,1902-09-01,D425,y
+9355,Suposed,Smith,,060-00-00,M,W,,overdose of Landmum,,M. M. Johnson,,lot 20,city,,,1902-09-01,S530,y
+9354,May,Luce,,027-00-00,F,W,,dropsey,,R. S. Graves,,not given,friends,,,1902-08-31,L200,y
+9353,Nina,Fredrick,,000-09-00,F,W,Austin,,,E. Mussina,,lot 19,friends,,,1902-08-28,F636,y
+9352,P.,Boga,,002-00-00,M,M,Austin,,,R. S. Graves,,not given,city,,,1902-08-25,B200,y
+9351,Julia,Brown,,000-11-00,F,N,Austin,chloera infantum,,J. H. Stevens,,not biven,friends,,,1902-08-21,B650,y
+9350,Howard,Goldbaum,,000-11-00,M,W,,chronic gastritis,,C. Aranson,,not given,friends,,,1902-08-21,G431,y
+9349,Peter,Martinez,,049-00-00,M,M,Mexico,,,R. S. Graves,,not given,city,,,1902-08-20,M635,y
+9348,Louis (Infant of),Hernandez,,000-00-02,F,M,Austin,Unknown,,R. S. Graves,,,city,,,1902-08-19,H653,y
+9347,Infant,Huber,,000-08-00,M,W,San Antonio,Marasmus,,N. O. Brenizer,,,friends,,,1902-08-19,H160,y
+9346,Mrs. W. B.,Gossett,,054-00-00,F,W,,heart disease,,D. D. Henderson,,not given,friends,,,1902-08-18,G300,y
+9345,Ruhbelle,Buckner,,036-00-00,F,N,Bastrop Co.,,,Joe Wooten,,not given,friends,,,1902-08-17,B256,y
+9344,Infant of Tim,Barracks,,000-05-00,F,W,,Marasmus,,H. C. Morrow,,,friends,,,1902-08-17,B620,y
+9343,Henry,Stehr,,044-00-00,M,W,,Bright's Disease,,O. Hartmann,,,friends,,,1902-08-16,S360,y
+9342,Mrs. E.,Goldbaum,,070-00-00,F,W,Germany,,,,,not given,friends,,,1902-08-15,G431,y
+9341,John D.,Witt,,052-00-00,M,W,,phthisis pulmonalis,,Frank Litten,,lot 18,city,,,1902-08-12,W300,y
+9340,Elizabeth,Robinson,,085-00-00,F,W,England,apoplexy,,H. C. Morrow,,not given,friends,,,1902-08-12,R152,y
+9339,Estelle,Crump,,019-00-00,F,W,Texas,typhoid fever,,R. S. Graves,,not given,friends,,,1902-08-12,C651,y
+9338,J. A.,Waggoner,,064-00-00,M,W,,,,Joe Wooten,,lot 997,friends,,,1902-08-10,W256,y
+9337,Bishop,Glass,,009-00-00,M,W,Bastrop Co.,Accidental Drowning,,M. M. Johnson,,,friends,,,1902-08-09,G420,y
+9336,Edfance,Delgoda,,066-00-00,F,M,Mexico,general debility,,R. S. Graves,,not given,city,,,1902-08-07,D423,y
+9335,R. C.,Shelley,,060-00-00,M,W,,typhoid fever,,G. H. Wooten,,lot 811,friends,,,1902-08-07,S400,y
+9334,Ambrose,Bramlett,,046-00-00,M,N,Austin,heart failure,,M. M. Johnson,,not given,friends,,,1902-07-31,B654,y
+9333,Mrs. M.,Ledbetter,,059-00-00,F,W,Virginia,phthisis,,L. L. Lacy,,not given,friends,,,1902-07-31,L313,y
+9332,Infant of Profs,Taff,,000-00-14,M,W,Austin,Cerebral Hemorrhage,,G. H. Wooten,,,friends,,,1902-07-30,T100,y
+9331,Julian,Garmorells,,000-06-00,F,M,Austin,inanition,,R. S. Graves,,not given,county,,,1902-07-24,G656,y
+9330,D.,Hernandez,,008-00-00,F,M,San Antonio,scarlett fever,,R. S. Graves,,not given,county,,,1902-07-22,H653,y
+9329,Elsie,Sheppard,,026-00-00,F,W,Austin,typhoid fever,,,,not given,friends,,,1902-07-21,S163,y
+9328,Gustave,Geisel,,041-00-00,M,W,,tuberculosis,,Joe Wooten,,not given,friends,,,1902-07-20,G400,y
+9327,Michael,Reilly,,065-00-00,M,W,,,,,,not given,friends,,,1902-07-18,R400,y
+9326,Miss J.,Heflybower,,021-00-00,F,W,,,,H. B. Hill,,not given,friends,,,1902-07-16,H141,y
+9325,I. B.,Stevenson,,032-00-00,M,W,Travis Co.,typhoid fever,,J. F. Dean,,not given,friends,,,1902-07-15,S315,y
+9324,Harry,Griffin,,029-00-00,M,W,England,phthisis pulmonalis,,N. O. Brenizer,,not given,friends,,,1902-07-15,G615,y
+9323,Infant of Mrs. Jas,Hoist,,000-00-00,M,W,Austin,premature birth,,E. V. Hamilton,,lot 19,friends,,,1902-07-14,H230,y
+9322,Helen,Kamnitz,,021-00-00,F,W,Germany,typhoid fever,,F. R. Ross,,lot 830,friends,,,1902-07-13,K532,y
+9321,Peter,Nelson,,040-00-00,M,W,,acute gastro enteritis,,Joe Wooten,,lot 20,friends,,,1902-07-10,N425,y
+9320,Miss Mattie,Hill,,020-00-00,F,W,Travis Co.,typhoid fever,,W. J. Mathews,,not given,friends,,,1902-07-06,H400,y
+9319,Helena A.,Nagle,,000-04-00,F,W,Austin,entrocolitis,,S. E. Hudson,,not given,friends,,,1902-06-29,N240,y
+9318,H. D.,Patrick,,076-00-00,M,W,,apoplexy,,H. B. Hill,,not given,friends,,,1902-06-29,P362,y
+9317,Ella,von Gertruse,,020-00-00,F,W,Austin,septic peritonitis,,F. P. McLaughlin,,not given,friends,,,1902-06-27,V526,y
+9316,Tho J.,Mansfield,,031-00-00,M,W,,,,,,not given,friends,,,1902-06-26,M214,y
+9315,Steel O.,Matthews,,030-00-00,M,W,Austin,pernicious malaria,,F. R. Ross,,not given,friends,,,1902-06-26,M320,y
+9314,Infant of J. B.,Smith,,000-00-00,F,W,Austin,Stillborn,,F. Litten,,,friends,,,1902-06-26,S530,y
+9313,Geo,Lemberg,,050-00-00,M,W,Germany,heart disease,,M. M. Johnson,,lot 830,friends,,,1902-06-25,L516,y
+9312,P.,Burchard,,076-00-00,M,W,,heart failure,,F. L. Griffith,,not given,friends,,,1902-06-24,B626,y
+9311,G. A.,Buckner,,075-00-00,M,W,,,,,,not given,friends,,,1902-06-19,B256,y
+9310,Infant of John,Jones,,000-00-00,F,W,Austin,premature,,F. Litten,,lot 19,friends,,,1902-06-19,J520,y
+9309,Van,Alfave,,041-00-00,M,W,Elgin,cholera morbus,,R. S. Graves,,not given,county,,,1902-06-15,A410,y
+9308,Joe,Domannate,,041-00-00,M,W,Austin,paralysis,,E. V. Hamilton,,lot 20,county,,,1902-06-15,D530,y
+9307,Arthur,Robbins,,064-00-00,M,W,,malaria,,G. H. Wooten,,lot 802,friends,,,1902-06-14,R152,y
+9306,W. A.,Morris,,089-00-00,M,W,,,,,,not given,friends,,,1902-06-13,M620,y
+9305,Mrs.,Emerson,,065-00-00,F,W,,,,,not given,,,,,1902-06-13,E562,y
+9304,N,Enosis,,058-00-00,M,M,Mexico,heart disease,,H. B. Granbury,,not given,county,,,1902-06-10,E520,y
+9303,Mary,Smith,,065-00-00,F,M,,phthisis pulmonalis,,F. Litten,,not given,,,,1902-06-07,S530,y
+9301,Infant of Mr. & Mrs.,Back,,000-08-00,F,W,Austin,gastro enteritis,,F. P. McLaughlin,,lot 19,friends,,,1902-06-06,B200,y
+9302,Joe F.,Waxler,,030-00-00,M,W,Blanco Co.,suicide,,White,,lot 851,friends,,,1902-06-05,W246,y
+9300,May Lucy,Waxler,,014-00-00,F,W,Austin,murdered,,White,,lot 851,friends,,,1902-06-05,W246,y
+9299,Mrs. Ida A.,Kempe,,041-00-00,F,W,,,,,,not given,,,,1902-06-02,K510,y
+9298,Jake,Owens,,028-00-00,M,N,Austin,typhoid fever,,M. A. Taylor,,not given,friends,,,1902-06-01,O520,y
+9297,Mrs. M. L.,Harris,,037-00-00,F,W,,dysentery,,Tho. D. Wooten,,not given,friends,,,1902-05-27,H620,y
+9296,,Thornton,,029-00-00,M,W,,tubular pulmanary,,G. H. Wooten,,not given,friends,,,1902-05-26,T653,y
+9295,Juanita,Masantis,,000-02-00,F,M,,gastro enteritis,,F. Litten,,not given,county,,,1902-05-26,M253,y
+9294,J. R. Y.,Hefflin,,043-00-00,M,W,,,,,,856,friends,,,1902-05-24,H145,y
+9292,John O.,Palm,,054-00-00,M,W,,tuberculosis,,,,not given,friends,,,1902-05-21,P450,y
+9293,Estela B.,Hilliard,,039-00-00,F,W,,pulmonary tuberculosis,,Ralph Steiner,,not given,friends,,,1902-05-21,H463,y
+9291,Annie,Gerlach,,025-00-00,F,W,,typhoid dever,,Frank Litten,,830,friends,,,1902-05-21,G642,y
+9290,Berdie,Thompson,,000-19-00,F,W,Austin,,,,,not given,friends,,,1902-05-20,T512,y
+9289,W. H. A.,Seekatz,,001-00-00,M,W,Austin,gastro enteritis,,H. B. Granbury,,not given,friends,,,1902-05-20,S320,y
+9288,A. B.,Moore,,041-00-00,M,W,Travis Co.,dysentery,,T. J. Benneett,,not given,friends,,,1902-05-20,M600,y
+9287,Bonnie W.,Eanes,,000-18-00,F,W,,,,,,not given,friends,,,1902-05-19,E520,y
+9286,Infant,Flores,,000-17-00,M,M,Austin,gastro enteritis,,H. B. Granbury,,19,county,,,1902-05-18,F462,y
+9285,Mrs. Pink,Tinnin,,041-00-00,F,W,,dysentery,,T. J. Bennett,,not given,friends,,,1902-05-18,T500,y
+9284,Ed,Goodrich,,051-00-00,M,W,,epilepsy,,B. M. Worsham,,not given,friends,,,1902-05-17,G362,y
+9283,Mrs. Henrietta,Brooke,,083-00-00,F,W,England,bronchitis,,H. C. Morrow,,not given,friends,,,1902-05-16,B620,y
+9281,Cha. S.,Morse,,053-00-00,M,W,,valcular heart disease,,S. E. Hudosn,,not given,friends,,,1902-05-15,M620,y
+9280,Mrs. (child of?),Ehilet,,000-05-00,F,W,Austin,cholera infantum,,E. V. Hamilton,,19,county,,,1902-05-15,E430,y
+9279,Fannie M.,Tuttle,,000-18-00,F,W,Austin,,,,,932,friends,,,1902-05-14,T400,y
+9278,C. N.,Bustin,,063-00-00,F,W,Florida,heart disease,,E. V. Hamilton,,not given,county,,,1902-05-08,B235,y
+9277,Leonard,Hill,,067-00-00,M,W,Germany,dysentery,,T. J. Bennett,,not given,friends,,,1902-05-06,H400,y
+9276,Sebastian,Eanes,,053-00-00,F,W,,heart disease,,H. B. Hill,,not given,friends,,,1902-05-06,E520,y
+9275,Mrs.,Hotchkiss,,086-00-00,F,W,,,,,,not given,friends,,,1902-05-06,H320,y
+9274,J. G.,Clawson,,060-00-00,M,W,Austin,apoplexy,,C. O. Weller,,not given,friends,,,1902-05-06,C425,y
+9273,Christina,Johnson,,092-00-00,F,W,Sweden,dysentery,,N. O. Brenizer,,not given,friends,,,1902-05-05,J525,y
+9272,Mrs.,Bradnig,,082-00-00,F,W,,,,,,not given,friends,,remains from Tennessee,1902-05-05,B635,y
+9271,Mrs.,Houston,,074-00-00,M,W,,,,,,not given,friends,,,1902-05-04,H235,y
+9270,L. A. Lucy,Dancy,,072-00-00,F,W,,chronic nephritis,,H. B. Hill,,not given,friends,,,1902-05-03,D520,y
+9269,Jacob,Bickler,,056-00-00,M,W,Germany,apoplexy,,T. J. Bennett,,not given,friends,,,1902-05-02,B246,y
+9268,Jesus,Cueller,,020-00-00,M,M,,pneumonia,,M. M. Smith,,404,friends,,,1902-04-27,C460,y
+9267,Infant of R.,Lopez,,000-00-10,M,M,Austin,Unknown,,R. S. Graves,,,county,,,1902-04-26,L120,y
+9265,Mr.,Deble,,068-00-00,M,W,,chronic inflamation of stomach,,Neal Watt,,849,friends,,,1902-04-21,D140,y
+9264,C.,Possey,,060-00-00,F,N,,pneumonia,,T. J. Bennett,,not given,friends,,,1902-04-21,P200,y
+9263,Mrs.,Burditt,,048-00-00,F,W,,,,,,not given,friends,,,1902-04-20,B630,y
+9262,John,Gillum,,076-00-00,M,W,,Bright's disease,,H. B. Granbury,,notg iven,friends,,,1902-04-18,G450,y
+9282,Infant,Williams,,000-01-00,F,W,Austin,gastro enteritis,,F. P. McLaughlin,,not given,friends,,,1902-04-16,W452,y
+9261,Mrs. L. L.,Robertson,,082-00-00,F,W,Ohio,old age,,F. Litten,,not given,friends,,,1902-04-14,R163,y
+9260,Alma,Williams,,032-00-00,F,W,Austin,puepera fever,,T. J. Bennett,,not given,friends,,,1902-04-14,W452,y
+9259,Tabida,Rosa,,001-00-00,F,M,Austin,typhoid fever,,F. Litten,,not given,friends,,,1902-04-14,R200,y
+9258,Allee,Heath,,000-18-00,F,W,Austin,cappillate bronchitis,,R. S. Graves,,806,friends,,,1902-04-11,H300,y
+9257,Unknown,N,,000-00-00,M,W,Austin,Stillborn,,N. O. Brenizer,,,county,,,1902-04-10,,y
+9256,Ben,Good,,024-00-00,M,W,,rheumatism,,F. Litten,,not given,county,,,1902-04-10,G300,y
+9255,Mrs. Grace,Hill,,049-00-00,F,W,,tuberculosis,,H. B. Hill,,not given,friends,,,1902-04-09,H400,y
+9254,G.,Rodrigues,,031-00-00,F,M,Travis Co.,,,,,not given,county,,,1902-04-07,R362,y
+9253,Infant of Martin,Salasar,,000-00-01,M,M,Austin,Unknown,,R. S. Graves,,,county,,,1902-04-05,S426,y
+9252,Addie,Dempsey,,015-00-00,M,W,,perferation,,G. H. Wooten,,854,friends,,,1902-04-02,D512,y
+9251,John,Howard,,056-00-00,M,W,,pneumonia,,O. Hartmann,,899,friends,,,1902-04-02,H630,y
+9250,Mrs. Mamie,Torrence,,060-00-00,F,W,,chronic nephritis,,C. F. Darnall,,not given,friends,,,1902-04-01,T652,y
+9249,Mary A.,Lane,,022-00-00,F,W,Travis Co.,cancer of spleen,,T. J. Bennett,,544,friends,,,1902-03-27,L500,y
+9248,Infant of Edna,Walton,,000-00-00,M,W,Austin,Stillborn,,R. S. Graves,,,county,,,1902-03-27,W435,y
+9247,N,Lambrstine,,000-07-00,F,W,llano,erysipeles,,C. F. Darnall,,4,friends,,,1902-03-26,L516,y
+9246,Mrs.,Waldrop,,041-00-00,F,W,,cancer of womb,,G. H. Wooten,,not given,county,,,1902-03-26,W436,y
+9245,Infant,Broadway,,000-00-03,F,W,Austin,Tetanous,,Frank Litten,,not given,county,,,1902-03-25,B630,y
+9244,Charlotte,Howard,,063-00-00,F,W,Virginia,heart disease,,Taylor & Gibson,,not given,friends,,,1902-03-25,H630,y
+9243,Mattie,Burditt,,030-00-00,F,W,,pneumonia,,G. H. Wooten,,854,friends,,,1902-03-25,B630,y
+9242,Dora,Florez,,015-00-00,F,M,,cconsumption,,E. V. Hamilton,,not given,county,,,1902-03-21,F462,y
+9241,A.,Lopez,,074-00-00,M,W,Austin,consumption,,E. V. Hamilton,,not given,county,,,1902-03-21,L120,y
+9240,Norman,Potter,,074-00-00,M,W,New York,tuberculosis,,,,854,friends,,,1902-03-21,P360,y
+9239,John A.,Bennett,,052-00-00,M,W,,pneumonia,,H. C. Morrow,,849,friends,,,1902-03-18,B530,y
+9238,Joseph,Wolf,,033-00-00,F,W,Austin,tuberculosis,,L. M. Powers,,321,friends,,,1902-03-18,W410,y
+9237,Miss Ella,Halden,,020-00-00,F,W,,,,,,918,friends,,,1902-03-18,H435,y
+9236,Infant,Goosby,,003-00-00,F,W,Austin,typhoid pneumonia,,H. B. Granbury,,6,friends,,,1902-03-17,G100,y
+9235,S.,Hlerson,,072-00-00,M,W,Missouri,heart disease,,E. V. Hamilton,,378,friends,,,1902-03-16,H462,y
+9234,Calley,Overstreet,,042-00-00,F,W,,,,,,831,friends,,,1902-03-15,O162,y
+9233,H. R.,Marks,,076-00-00,M,W,,old age,,Frank Litten,,999,friends,,,1902-03-13,M620,y
+9232,Besman K.,Reisner,,003-00-00,M,W,Austin,obstruction of bowels,,R. S. Graves,,220,friends,,,1902-03-13,R256,y
+9231,Chas.,Thompson,,061-00-00,M,W,Kentucky,paralysis,,E. V. Hamilton,,not given,county,,,1902-03-11,T512,y
+9230,Antonia,Perromea,,066-00-00,F,M,Texas,apoplexy,,H. B. Granbury,,not given,county,,,1902-03-10,P650,y
+9229,Marie,Rosa,,000-06-00,F,M,Austin,phthisis pulmonalis,,Frank Litten,,not given,county,,,1902-03-08,R200,y
+9228,Louis,Johnson,,005-00-00,M,W,Austin,diptheria,,G. H. Wooten,,3,friends,,,1902-03-08,J525,y
+9227,Jacob,Bird,,075-00-00,M,W,,,,,,1014,friends,,,1902-03-07,B630,y
+9226,R. S.,Richards,,070-00-00,M,W,,,,,,504,friends,,remains from Indian Territory,1902-03-05,R263,y
+9225,Mrs. W. J.,Pearce,,035-00-00,F,W,Austin,eclempsia,,G. H. Wooten,,old grounds,friends,,,1902-03-05,P620,y
+9224,Edward,Schutz,,079-00-00,M,W,Germany,old age,,Edgar Smith,,262,friends,,,1902-03-05,S320,y
+9223,A.,Gonzales,,047-00-00,M,M,Mexico,pneumonia,,E. V. Hamilton,,not given,county,,,1902-03-05,G524,y
+9222,E. J. G.,Crawford,,035-00-00,M,W,,,,,,530,friends,,,1902-03-04,C616,y
+9221,Infant of Mrs.,Hankins,,000-15-00,M,W,Austin,strangulation,,E. V. Hamilton,,19,county,,,1902-03-03,H525,y
+9220,N,Copes,,048-00-00,M,W,,,,,,248,friends,,,1902-03-02,C120,y
+9219,S. O.,Cloud,,059-00-00,M,W,,,,,,411,friends,,,1902-03-01,C430,y
+9218,D,Gonzales,,021-00-00,M,M,Mexico,pneumonia,,E. V. Hamilton,,not given,county,,,1902-03-01,G524,y
+9217,Agnes C.,Pratt,,021-00-00,F,W,"Hemstead, Tx",typhoid dever,,Julia M. Bass,,old grounds,,,,1902-02-24,P630,y
+9216,Myrtke,Adison,,001-00-00,F,N,Austin,chronic dysentry,,J. H. Stevens,,old grounds,friends,,,1902-02-23,A325,y
+9215,Alma,Helmquist,,021-00-00,F,W,Austin,consumption,,H. B. Granbury,,lot 830,friends,,,1902-02-23,H452,y
+9214,Abner,Bardin,,053-00-00,M,W,,pneumonia,,J. F. Dean,,lot 830,friends,,,1902-02-22,B635,y
+9213,Infant of J. W.,Frazire,,000-00-02,M,N,,strangulation,,J. H. stevens,old grounds,,,,,1902-02-20,F626,y
+9212,Mrs. F. M.,Clark,,050-00-00,F,W,,pneumonia,,T. J. Bennett,,not given,friends,,,1902-02-14,C462,y
+9211,J. M.,Goldbeck,,027-00-00,M,W,Austin,Diabetes,,F. P. McLaughlin,,,friends,,,1902-02-13,G431,y
+9210,Ed,Beren,,037-00-00,M,W,,suicide,,Ch. F. Race,,lot 830,friends,,,1902-02-13,B650,y
+9209,Cornelia R.,Shelly,,040-00-00,F,W,Miss,pneumonia,,M. A. Taylor,,lot 207,friends,,,1902-02-12,S400,y
+9208,Mrs. G.,Townsend,,044-00-00,F,W,,nephritis,,H. B. Hill,,lot 830,friends,,,1902-02-10,T525,y
+9207,Bell,Hamond,,016-00-00,F,W,,puepera fever,,J. W. Mathews,,lot 6,friends,,,1902-02-10,H530,y
+9206,Infant of,Hefelder,,000-00-00,F,W,,premature birth,,H. B. Granbury,,lot 798,friends,,,1902-02-10,H143,y
+9205,Jol.,Brogden,,027-00-00,M,N,Austin,pneumonia,,H. B. Granbury,,old grounds,friends,,,1902-02-09,B623,y
+9204,Goodall,Schwartzer,,005-00-00,M,W,Austin,convulsions,,W. D. Gorton,,lot 880,friends,,,1902-02-09,S632,y
+9203,Cha F.,Geiser,,027-00-00,M,W,Kentucky,nervous prostration,,W. F. Chambers,,lot 830,friends,,,1902-02-08,G600,y
+9202,M. C.,Armstrong,,083-00-00,F,W,,paralysis,,J. W. Mathews,,lot 952,friends,,,1902-02-07,A652,y
+9200,Louis,Maas,,054-00-00,M,W,Germany,,,,,Lot 163,friends,,remains brought from Dallas,1902-02-07,M200,y
+9201,W. W.,Murphy,,047-00-00,M,W,,LaGrippe,,H. B. Hill,,lot 1039,friends,,,1902-02-07,M610,y
+9199,Ernest W.,Cook,,034-00-00,M,W,,pneumonia,,J. G. Boyd,,lot 158,friends,,,1902-02-05,C000,y
+9198,John E.,Wallace,,060-00-00,M,W,,entro colitis,,F. Litten,,lot 998,friends,,,1902-02-04,W420,y
+9196,Tho,Galhright,,040-00-00,M,W,Miss,overdose chloroform,,M. M. Johnson,,lot 830,friends,,,1902-02-03,G462,y
+9194,J. M.,Bennett,,073-00-00,M,W,,phreumbuse vencity (?),,F. Paschal,,lot 353,friends,,,1902-02-02,B530,y
+9193,Texana,Lott,,020-00-00,F,N,,puerperal eclampicia,,J. H. Stevens,,old grounds,friends,,,1902-02-01,L300,y
+9192,Margaro,Gonzalas,,032-00-00,M,M,Mexico,paralysis,,E. V. Hamilton,,lot 32,city,,,1902-01-29,G524,y
+9191,Henry,Collins,,032-00-00,M,W,Austin,pneumonia,,E. J. R,,not given,friends,,,1902-01-24,C452,y
+9190,Milton,Alexander,,046-00-00,M,W,,paralysis,,B. M. Worsham,,lot 93,friends,,,1902-01-24,A425,y
+9189,Susie,Adams,,000-07-00,F,W,Austin,pneumonia,,Frank Litten,,lot 32,city,,,1902-01-22,A352,y
+9188,Isidro,Vega,,000-11-00,F,M,Manor,phthisis pulmonalis,,Frank Litten,,not given,city,,,1902-01-21,V200,y
+9187,John C.,Innis,,075-00-00,M,W,Germany,phthisis pulmonalis,,LaGrippe,F. R. Pettway,,not given,friends,,1902-01-19,I520,y
+9186,Mrs.,Lamme,,032-00-00,F,W,,miscarriage,,Joe Wooten,,lot 1026,friends,,,1902-01-18,L500,y
+9185,Mrs.,Carter,,082-00-00,F,W,,,,,,not given,friends,,shipped from Bastrop,1902-01-18,C636,y
+9184,F. A.,Andrson,,034-00-00,M,W,Sweden,consumption,,E. V. Hamilton,,lot 970,friends,,,1902-01-15,A536,y
+9183,Alex,Hemphill,,074-00-00,M,W,,pneumonia,,H. B. Granbury,,lot 933,friends,,,1902-01-13,H514,y
+9181,Sophia,Burham,,083-00-00,F,W,,old age,,F. P. McLaughlin,,not given,friends,,,1902-01-11,B650,y
+9182,Rob E.,Carington,,005-00-00,M,W,Austin,diptheria,,S. E. Hudson,,not given,friends,,,1902-01-11,C652,y
+9180,Chas,Shady,,022-00-00,M,W,,apoplexy,,W. P. Rhodes,,lot 848,friends,,,1902-01-10,S300,y
+9178,K G.,Krucher,,025-00-00,M,W,,consumption,,F. P. McLaughlin,,lot 954,friends,,,1902-01-09,K626,y
+9179,Elizbeth,Daniels,,052-00-00,F,W,,strangulated hernia,,J. G. Boyd,,old grounds,friends,,,1902-01-09,D542,y
+9177,W. R.,Johnston,,034-00-00,M,W,,tuberculosis,,Joe Wooten,,lot 849,friends,,,1902-01-08,J523,y
+9176,James,McMahan,,060-00-00,M,W,Ireland,throat trouble,,E. V. Hamilton,,lot 6,friends,,,1902-01-07,M250,y
+9174,Babe of R,Hernandez,,000-00-00,F,M,Austin,stillborn,,H. B. Granbury,,lot 32,city,,,1902-01-07,H653,y
+9175,M. C.,Carris,,086-00-00,F,W,,old age,,E. Mussina,,lot 1147,friends,,,1902-01-07,C620,y
+9173,Elizbeth,Hellman,,023-00-00,F,W,Texas,septicamonia,,,,not given,city,,,1902-01-07,H450,y
+9172,Infant of Annie,Baumer,,000-00-00,F,W,Austin,premature,,E. V. Hamilton,,lot 19,city,,,1902-01-06,B560,y
+9165,O. B.,Smith,,029-00-00,M,W,,gastro enteritis,,H. B. Granbury,,1016,friends,,,1902-01-05,S530,y
+9197,Rudolph,Krause,,068-00-00,M,W,Germany,heart disease,,M. M. Johnson,,lot 947,friends,,,1902-01-04,K620,y
+8985,Cha,Norman,,027-00-00,M,W,,exhaustion,,John H. Foster,,lot 755,friends,,,1902-01-03,N650,y
+9195,E. M. C.,Garland,,069-00-00,F,W,Whales (Wales),paralysis,,F. L. Griffith,,lot 248,friends,,,1902-01-02,G645,y
+9171,Wm,von Rosenberg,,080-00-00,M,W,Germany,old age,,F. L. Griffith,,151,friends,,,1901-12-31,V562,y
+9170,Ira,Crawford,,048-00-00,M,W,,cirrhosis of liver,,E. V. Hamilton,,not given,friends,,,1901-12-31,C616,y
+9168,J. .,Hingler,,032-00-00,M,W,Austin,Abscess of Liver,,J. H. Haigler,,,friends,,,1901-12-27,H524,y
+9169,Cha L.,Malenburg,,018-00-00,M,W,Sweden,iyfto endocordis (?),,H. B. Granbury,,831,friends,,,1901-12-27,M451,y
+9167,N,Reid,,067-00-00,F,W,,paralysis,,N. O. Brenizer,,not given,friends,,,1901-12-23,R300,y
+9166,N,Simcox,,042-00-00,M,W,,pistol shot wound,,J. S. Brownlee,,not given,friends,,,1901-12-22,S520,y
+9164,Infant of G. H.,Wooten,,000-00-00,F,W,,premature,,G. W. Wooten,,not given,friends,,,1901-12-21,W350,y
+9163,Mrs. Alb,Smith,,042-00-00,F,W,Tenn,pulmonary hemorrhage,,S. E. Hudson,,not given,friends,,,1901-12-20,S530,y
+9162,Wm F.,McGehee,,050-00-00,M,W,,chronic colitis,,G. H. Wooten,,not given,friends,,,1901-12-19,M200,y
+9161,Infant of Peter,Long,,000-00-00,F,W,Austin,premature,,E. V. Hamilton,,3,city,,,1901-12-18,L520,y
+9160,Infant of,Sanberg,,000-00-00,M,W,Austin,Stillborn,,E. V. Hamilton,,,friends,,,1901-12-16,S516,y
+9159,Nellie,Bagnal,,000-14-00,F,W,,pneumonia,,Joe Wooten,,114,friends,,,1901-12-15,B254,y
+9158,Infant of Henry,Issner,,000-00-00,M,W,Austin,Stillborn,,E. V. Hamilton,,,friends,,,1901-12-14,I256,y
+9157,Robert,Roth,,000-06-00,M,W,,,,,,not given,,,,1901-12-11,R300,y
+9155,Fred C.,Davis,,032-00-00,M,W,,,,,,not given,,,,1901-12-07,D120,y
+9156,Rev. J. N.,Gilbert,,058-00-00,M,W,,,,,,not given,,,,1901-12-07,G416,y
+9153,Infant of Lee,Croy,,000-18-00,F,W,Austin,enteritis,,E. V. Hamilton,,3,city,,,1901-12-05,C600,y
+9154,F. A.,Rosenquist,,031-00-00,M,W,,nubal stinveous (??),,G. H. WOoten,,919,friends,,,1901-12-05,R252,y
+9151,Capt Alsdorf,Falkner,,064-00-00,M,W,,,,,,not given,,,,1901-12-04,F425,y
+9150,Geo,Wilson,,062-00-00,M,W,,Bright's disease,,,,5,city,,,1901-12-02,W425,y
+9149,Lollie B.,Williams,,007-00-00,F,W,,typhoid fever,,Frank Litten,,not given,friends,,,1901-12-02,W452,y
+9148,Babe of Lee,Clayton,,000-06-00,M,W,Austin,gastro enteritis,,H. B. Granbury,,not given,friends,,,1901-11-30,C435,y
+9147,Doris,Belgie,,001-00-00,M,M,Austin,salivation,,J. F. Dean,,32,city,,,1901-11-30,B420,y
+9146,Amelia,Reyes,,000-02-00,F,M,Austin,acute lyrangitis,,H. B. Hill,,32,city,,,1901-11-27,R200,y

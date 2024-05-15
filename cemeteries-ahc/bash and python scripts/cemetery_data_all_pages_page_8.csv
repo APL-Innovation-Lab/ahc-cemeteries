@@ -1,0 +1,1001 @@
+pkoakwood,firstname,lastname,name_contribution,yearsmonthsdays,sex,color,nativity,disease,disease_contribution,attendingphysician,whereburied,SecLotSpace,bywhomburied,profession,remarks,date,lastname_soundex,showrow
+9145,Mary,Seawright,,061-00-00,F,W,Penn,Bright's disease,,J. C. Hill,,not given,friends,,,1901-11-25,S623,y
+9144,Frank,Gambro,,000-13-00,M,M,Laredo,gastro enteritis,,H. B. Granbury,,32,city,,,1901-11-23,G516,y
+9143,Mrs. Povella,Smith,,041-00-00,F,W,,phthisis pulmonalis,,M. M. Smith,,not given,friends,,,1901-11-22,S530,y
+9142,Helene A.,Nagle,,018-00-00,F,W,Austin,peritonitis,,S. E. Hudson,,not given,friends,,,1901-11-21,N240,y
+9141,C.,Bevington,,044-00-00,M,W,Ill,small pox,,Frank Litton,,831,friends,,,1901-11-21,B523,y
+9140,Mable F.,Martin,,000-02-00,F,W,Austin,inanition,,E. Mussinna,,511,friends,,,1901-11-18,M635,y
+9139,Martha L.,Sawyer,,073-00-00,F,W,Tenn,exhaustion,,T. J. Bennett,,not given,friends,,,1901-11-17,S600,y
+9138,Ed.,Cooley,,028-00-00,M,W,Austin,tuberculosis,,G. H. Wooten,,848,friends,,,1901-11-14,C400,y
+9137,Paul,Reichow,,040-00-00,M,W,Austin,phthisis pulmonalis,,N. O. Brenizer,,268,friends,,,1901-11-13,R200,y
+9136,Jennie,Polk,,018-00-00,F,W,Austin,puerperal esclampia,,H.B. Granbury,,203,friends,,,1901-11-12,P420,y
+9135,Bertha,Miller,,028-00-00,F,W,Austin,,,,,Hebrew,friends,,remains from Hillsxxxx,1901-11-10,M460,y
+9134,Jacob,Lamour,,076-00-00,M,W,New York,old age,,J. C. Hill,,118,friends,,,1901-11-10,L560,y
+9133,J. B.,Barron,,076-00-00,M,W,Alabama,Bright's disease,,F. P. McLaughlin,,188,friends,,,1901-11-09,B650,y
+9132,Samuel,Seelig,,084-00-00,M,W,,,,,,Hebrew,friends,,,1901-11-07,S420,y
+9152,Infant of T. C.,Brown,,000-02-00,F,W,Austin,inanition,,S. E. Hudson,,3,city,,,1901-11-05,B650,y
+9131,James F.,Wortham,,035-00-00,M,W,,heart failure,,Joe Wooten,,1033,friends,,,1901-11-03,W635,y
+9129,Jerry,Stickland,,051-00-00,M,W,Travis Co.,gunshot wound,,R. S. Graves,,1083,friends,,,1901-10-30,S324,y
+9130,Re. E. M.,Whelock,,072-00-00,M,W,,sinele paralysis,,F. L. Griffith,,425,friends,,,1901-10-30,W420,y
+9128,Walter,Jefferson,,000-03-00,M,W,Austin,Unknown,,F. Litten,,,friends,,,1901-10-29,J162,y
+9127,Mrs.,Williams,,086-00-00,F,W,,gastro enteritis,,H. B. Granbury,,518,friends,,,1901-10-28,W452,y
+8468,Walter,Lucksinger,,019-00-00,M,W,Austin,Acute Albuminuria,,O. Hartman,,,friends,,,1901-10-27,L252,y
+9126,Cecil,Mainer,,019-00-00,M,W,Texas,Acute Albuminuria,,O. Hartman,,,friends,,,1901-10-25,M600,y
+8759,Cecil,Mainer,,019-00-00,M,W,Texas,Diabetes,,T. J. Bennett,,,city,,,1901-10-25,M600,y
+9125,William,Hellmer,,058-00-00,M,W,Denmark,fracture of hip,,W. J. Mathews,,1043,friends,,,1901-10-23,H456,y
+9123,L. J.,Park,,064-00-00,M,W,,,,,,1074,friends,,remains from New York,1901-10-20,P620,y
+9124,J. J.,Gasser,,062-00-00,M,W,Switzerland,tuberculosis enteritis,,N. O. Brenizer,,1099,friends,,,1901-10-20,G600,y
+9122,M. W.,Townsend,,074-00-00,M,W,,Diabetes,,W. J. Mathews,,,friends,,,1901-10-20,T525,y
+9121,L. L.,Townsend,,084-00-00,M,W,South Carolina,old age,,E. V. Hamilton,,5,friends,,,1901-10-19,T525,y
+9120,Henry,Baumert,,000-02-00,M,W,Austin,Diarrhea,,T. J. Bennett,,,friends,,,1901-10-18,B563,y
+9119,Lucy,Cloud,,050-00-00,F,W,,gastritis,,H. B. Hill,,43,friends,,,1901-10-17,C430,y
+9118,Ed,Zimmerman,,084-00-00,M,W,Germany,old age,,S. E. Hudson,,514,friends,,,1901-10-14,Z565,y
+9117,Lovie,Rubio,,020-00-00,F,W,,knife wounds,,M. M. Johnson,,831,friends,,,1901-10-12,R100,y
+9116,Mrs. Clem,Kricel,,046-00-00,F,W,,consumption,,H. B. Granbury,,110,friends,,,1901-10-09,K624,y
+9115,Miss,Cornwell,,037-00-00,F,W,Austin,operation,,,,948,friends,,remains from Galveston,1901-10-08,C654,y
+9114,Geo,Christian,,054-00-00,M,W,Alabama,heart failure,,M. M. Johnson,,831,friends,,remains from Galveston,1901-10-08,C623,y
+9112,Clem R.,Johns,,026-00-00,M,W,Austin,pulmonary phthisis,,F. P. McLaughlin,,495,friends,,,1901-10-06,J520,y
+9113,Leon W.,Schultz,,015-00-00,M,W,Austin,typhoid fever,,H. B. Granbury,,848,friends,,,1901-10-06,S432,y
+9110,Infant of W. A.,Leonard,,000-04-00,M,W,Austin,inflamation of bowels,,R. S. Graves,,3,city,,,1901-10-04,L563,y
+9111,Leonard,Assman,,033-00-00,M,W,Paris,dedlirium trismus,,W. P. Rhodes,,old grounds,friends,,,1901-10-04,A250,y
+9109,Augusta,Luck,,073-00-00,F,W,Germany,senility,,H. B. Granbury,,17,friends,,,1901-10-03,L200,y
+9108,Dr. A. D.,Horn,,066-00-00,M,W,,organic xxx,,F. Paschal,,423,friends,,,1901-10-03,H650,y
+9106,Augusta,Nelson,,039-00-00,F,W,Sweden,bright's disease,,F. P. McLaughlin,,831,friends,,,1901-10-02,N425,y
+9105,Miss Edna,Swanzy,,021-00-00,F,W,Austin,malaria fever,,L. N. Clark,,718,friends,,,1901-10-01,S520,y
+9104,Ben,Raulin,,036-00-00,M,W,,gunshot wound,,M. M. Johnson,,989,friends,,,1901-09-30,R450,y
+9103,J. M.,Cottrell,,023-00-00,M,W,,,,,,831,friends,,,1901-09-29,C364,y
+9102,Nellie,Crawford,,021-00-00,F,W,Austin,lyrngitis tuberculosis,,Ralph Steiner,,989,friends,,,1901-09-24,C616,y
+9101,Ed W.,Vogtsberger,,028-00-00,M,W,Austin,consumption,,Neal Watt,,900,friends,,,1901-09-20,V232,y
+9100,Infant of D. W.,Martin,,000-00-08,F,W,Austin,pestoral abcess,,H. B. Granbury,,not given,friends,,,1901-09-18,M635,y
+9099,J. P.,Hutchings,,045-00-00,M,W,,,,F. P. McLaughlin,,6,friends,,,1901-09-17,H325,y
+9098,infant of Elsworth,Mason,,000-00-05,M,W,Austin,premature,,H. B. Granbury,,511,friends,,,1901-09-17,M250,y
+9097,Henrater,Davis,,023-00-00,F,N,Austin,tuberculosis,,R. M. Micklin,,54,friends,,,1901-09-16,D120,y
+9096,Esther,Eanes,,000-10-00,F,W,Austin,cholera infantum,,H. B. Granbury,,438,friends,,,1901-09-14,E520,y
+9095,Sarah E.,Whipple,,069-00-00,F,W,,Unknown,,J. C. Hill,,,friends,,,1901-09-12,W140,y
+9094,Betie,Ezell,,039-00-00,F,W,Ark,,,J. C. Hill,,12,friends,,,1901-09-10,E240,y
+9093,Eliza,Woods,,050-00-00,F,N,Austin,disease of heart,,Frank Litten,,old grounds,friends,,,1901-09-06,W320,y
+9092,C. F.,Marks,,061-00-00,M,W,,Unknown,,,,,friends,,,1901-09-04,M620,y
+9091,Geo.,Wilhelm,,014-00-00,M,W,,killed by lightning,,M. M. Johnson,,476,friends,,,1901-09-03,W450,y
+9107,Simon,Geismar,,030-00-00,M,W,,consumption,,H. B. Granbury,,Hebrew,friends,,,1901-09-02,G560,y
+9090,Frank,Rescker,,023-00-00,M,W,Germany,consumption,,E. V. Hamilton,,5,city,,,1901-09-02,R260,y
+9089,Ella May,Farrar,,017-00-00,F,W,"Waco, Texas",carcinoma of heart,,Joe Wooten,,831,friends,,,1901-09-02,F600,y
+9087,Mrs. B. F.,Hendricks,,060-00-00,F,W,,apoplexy,,F. P. McLaughlin,,898,friends,,,1901-09-01,H536,y
+9088,J. F.,Hall,,022-00-00,M,W,,Cerebral Hemorrhage,,F. L. Griffith,,,friends,,,1901-09-01,H400,y
+9086,D. L.,Demann,,060-00-00,M,W,Austin,dysentery,,E. V. Hamilton,,5,city,,,1901-08-30,D500,y
+9085,Estella,Musin,,015-00-00,F,N,,phthisis pulmonalis,,F. Litten,,old grounds,friends,,,1901-08-24,M250,y
+9084,Juan C.,Slatone,,021-00-00,M,M,Austin,cholera infantum,,J. H. Wooten,,32,city,,,1901-08-23,S435,y
+9082,Tho. A.,Glass,,043-00-00,M,W,Texas,rheumatism of heart,,J. N. Tarbett,,451,friends,,,1901-08-16,G420,y
+9081,L. D.,Woods,,030-00-00,M,W,,marlary fever,,F. J. Burns,,900,friends,,,1901-08-15,W320,y
+9079,Babe,Unknown,,000-00-08,M,M,Unknown,unknown,,M. M. Johnson,,not given,city,,,1901-08-12,U525,y
+9078,Rob.,Isherwood,,019-00-00,M,W,Austin,drowned,,,,957,friends,,"from Taylor, Texas",1901-08-12,I263,y
+9080,Emma,Burllon,,021-00-00,F,W,"Lockhart, Tex",typhoid fever,,E. V. Hamilton,,old grounds,friends,,,1901-08-12,B645,y
+9077,Babe of J. M.,Epenna,,000-00-00,M,M,Austin,Stillborn,,E. V. Hamilton,,,city,,,1901-08-10,E150,y
+9076,Dina,Covert,,014-00-00,F,W,Austin,cebebre spinal menengitis,,N. O. Brenizer,,1066,friends,,,1901-08-09,C163,y
+9075,Willie,Ware,,000-08-00,M,N,Austin,,,J. C. Hill,,97,friends,,,1901-08-08,W600,y
+9074,Francis L.,Fernandez,,002-00-00,F,W,Austin,,,W. P. Rhodes,,164,friends,,,1901-08-08,F653,y
+9073,A. L.,Neuman,,001-00-00,M,W,Austin,entro colitis,,H. B. Granbury,,932,friends,,,1901-08-07,N000,y
+9072,Jack,Cravner,,050-00-00,M,W,,apoplexy,,Walter White,,6,friends,,,1901-08-07,C615,y
+9071,William,Turner,,065-00-00,M,W,,catarrh of stomach,,Neal Watt,,6,friends,,,1901-08-06,T656,y
+9070,Placido,Lopez,,007-00-00,M,M,Austin,tuberculosis,,Joe Wooten,,32,city,,,1901-08-05,L120,y
+9069,Infant,Mexican,,001-00-00,F,M,Austin,entro colitis,,R. S. Graves,,32,city,,,1901-07-30,M250,y
+9068,Bob,Roberts,,051-00-00,M,W,Scotland,typhoid fever,,E. V. Hamilton,,5,city,,,1901-07-28,R163,y
+9067,Benjamin,Lawn,,005-00-00,M,W,Austin,run over by street car,,W. L. White,,Hebrew,friends,,,1901-07-28,L500,y
+9066,Pauline,Bauer,,000-09-00,F,W,Austin,dysentery,,J. F. Dean,,not given,city,,,1901-07-27,B600,y
+9065,Mrs. S.,Sphong,,065-00-00,F,W,,general debility,,M. M. Johnson,,940,friends,,,1901-07-26,S152,y
+9064,Arthur,Culver,,015-00-00,M,W,Austin,epilepsy,,C. O. WEller,,720,friends,,,1901-07-26,C416,y
+9063,Bertha,Gevens,,020-00-00,F,W,Austin,consumption,,H. B. Granbury,,428,friends,,,1901-07-24,G152,y
+9062,Tho. A.,Taylor,,019-00-00,M,M,,pneumonia,,Cha. Linch,,456,friends,,,1901-07-24,T460,y
+9061,Mary J.,Millican,,086-00-00,F,W,,old age,,S. E. Hudson,,367,friends,,,1901-07-23,M425,y
+9060,Celestino,Rodriguez,,000-12-00,M,M,Austin,dysentery,,J. F. Dean,,32,city,,,1901-07-20,R362,y
+9059,Baby,Wigley,,000-02-00,M,W,Austin,gastronitritis,,Geo. W. Christian,,3,city,,,1901-07-16,W240,y
+9058,Hattie,Parks,,057-00-00,F,W,NY,gastritis,,E. V. Hamilton,,5,city,,,1901-07-16,P620,y
+9057,Jacob,Lesser,,075-00-00,M,W,Germany,strangulated hernia,,H. B. Granbury,,402,friends,,,1901-07-14,L260,y
+9056,Infant of A. J.,Champlin,,000-00-00,M,W,Austin,Stillborn,,H. B. Granbury,,,friends,,,1901-07-13,C514,y
+9055,Olona,Howard,,000-13-00,M,W,Austin,,,Tho. D. WOoten,,,city,,,1901-07-12,H630,y
+9052,Luis,Lyons,,000-00-05,M,N,Austin,Unknown,,L. L. Lacy,,,friends,,,1901-07-10,L520,y
+9051,August,Kuss,,079-00-00,M,W,,Unknown,,,,,friends,,,1901-07-08,K000,y
+9050,Annie,Thompson,,036-00-00,F,W,Austin,Pernicems Malerd,,F. McLaughin,,932,friends,,,1901-07-07,T512,y
+9049,Mary,Townsend,,024-00-00,F,N,Austin,consumption,,E. V. Hamilton,,maybe old grounds,friends,,,1901-07-07,T525,y
+9048,Peter C.,Cain,,057-00-00,M,N,,dysentery,,Frank Litten,,old grounds,friends,,,1901-07-05,C500,y
+9047,Julia N.,Boggs,,077-00-00,F,W,,old age,,J. H. Wooten,,103,friends,,,1901-07-03,B200,y
+9046,Rev. A. F.,Thompson,,053-00-00,M,W,,Unknown,,,,,friends,,,1901-07-01,T512,y
+9045,Mrs.,Stacy,,074-00-00,F,W,,uremic poison,,J. A Currester,,1070,,,,1901-06-29,S320,y
+9044,H. W.,Thielan,,041-00-00,M,W,,Unknown,,,,,friends,,,1901-06-26,T450,y
+9043,Mrs. L.,Huston,,076-00-00,F,W,,old age,,T. J. Bennett,,not given,friends,,,1901-06-26,H235,y
+9042,Julia B.,Mathews,,030-00-00,F,W,,not give,,,,1045,friends,,,1901-06-24,M320,y
+9041,Judger,Tigner,,068-00-00,M,M,Germany,softening of brain,,G. W. Chrishain,,441,friends,,,1901-06-22,T256,y
+9040,Willie,Quandt,,000-02-00,M,M,Austin,thrash,,R. S. Graves,,217,friends,,,1901-06-21,Q530,y
+9039,Victoria,N,,000-03-00,F,M,Austin,dysentery,,J. F. Dean,,3,city,,,1901-06-20,,y
+9038,Carrie,Smith,,022-00-00,F,N,Austin,puerperal eclampia,,F. Litten,,old grounds,friends,,,1901-06-19,S530,y
+9037,Fred,Honberger,,035-00-00,M,W,Austin,insanity,,J. B. Massie,,183,friends,,,1901-06-19,H516,y
+9035,W. A.,Glass,,045-00-00,M,W,Scotland,hepalitis Malary,,H. B. Granbury,,860,friends,,,1901-06-16,G420,y
+9036,Rev. J. W.,Jackson,,059-00-00,M,W,Texas,pyaemier,,R. S. Graves,,933,friends,,,1901-06-16,J500,y
+9034,Mrs. R. A.,Crenshaw,,053-00-00,F,W,,heart disease,,J. W. Gibson,,940,friends,,,1901-06-15,C652,y
+9032,Grozalice,Ernando,,063-00-00,M,M,Mexico,fertiary syphilis,,E. V. Hamilton,,32,city,,,1901-06-14,E653,y
+9033,Carrie,Richardson,,035-00-00,F,N,Texas,peritonitis,,F. Litten,,old grounds,friends,,,1901-06-14,R263,y
+9054,Oncrute,Cardenez,,036-00-00,F,M,,locked bowels,,James R. Woods,,32,city,,,1901-06-11,C635,y
+9053,Jack,Kerns,,045-00-00,M,W,,Unknown,,,,,friends,,,1901-06-10,K652,y
+9030,B. F. McGill,McGill,,058-00-00,M,W,,Hemorrhage of bowels,,S. E. Hudson,,,friends,,,1901-06-05,M240,y
+9031,Rosa Metz,Hearn,,028-00-00,F,W,Austin,Gunshot Wound,,M. M. Johnson,,,friends,,,1901-06-05,H650,y
+9029,Hester,Heard,,002-00-00,F,N,Austin,gastro enteritis,,F. Litten,,92,friends,,,1901-06-04,H630,y
+9028,Clarence,Doe,,000-06-00,M,W,Austin,entro colitis,,J. C. Hill,,3,city,,,1901-06-01,D000,y
+9027,Chas,Struder,,000-00-05,M,M,Austin,cholera infantum,,E. V. Hamilton,,3,friends,,,1901-05-27,S363,y
+9026,Mrs.,Goodmann,,080-00-00,F,W,Ireland,paralysis,,E. V. Hamilton,,5,city,,,1901-05-26,G350,y
+9025,Babe of Cuney,Racinie,,000-00-11,F,N,Austin,cholera infantum,,E. V. Hamilton,,3,city,,,1901-05-25,R250,y
+9024,Rob J.,Moore,,058-00-00,M,M,,Unknown,,,,,friends,,,1901-05-14,M600,y
+9023,Sylvester,Juarez,,035-00-00,F,M,Mexico,pneumonia,,E. V. Hamilton,,32,city,,,1901-05-13,J620,y
+9022,Infant of M. F.,Lopez,,000-00-00,M,m,aUSTIN,premature,,H. B. Granbury,,32,city,,,1901-05-13,L120,y
+9021,Ldela,Cruz,,015-00-00,M,M,Mexico,typhoid fever,,E. V. Hamilton,,32,city,,,1901-05-12,C620,y
+9020,P. H.,Batts,,019-00-00,M,W,,pneumonia,,F. P. McLaughlin,,381,friends,,,1901-05-11,B320,y
+9019,Clay,Keith,,000-13-00,M,W,Austin,convulsions,,E. V. Hamilton,,977,friends,,,1901-05-11,K300,y
+9017,James E.,Jurd,,033-00-00,M,W,,comsuption,,H. B. Hill,,993,friends,,,1901-05-09,J630,y
+9018,W. R.,Bowling,,051-00-00,M,W,Miss,phthisis pulmonalis,,M. A. Taylor,,1138,friends,,,1901-05-09,B452,y
+9015,John,Schluter,,054-00-00,M,W,,apoplexy,,Thos. D. Wooten,,1015,friends,,,1901-05-04,S436,y
+9016,Joe M.,Pucket,,037-00-00,M,W,,pulmonary tuberculosis,,G. H. Wooten,,98,friends,,,1901-05-04,P230,y
+9014,Rudolph,Rhodes,,000-13-00,M,W,Austin,cholera infantum,,O. Hartman,,277,friends,,,1901-05-03,R320,y
+9013,Bessie,Williams,,016-00-00,F,N,Travis Co.,brain fever,,E. P. Murchison,,colored?,friends,,,1901-05-01,W452,y
+9012,Manuel,Garcia,,048-00-00,M,M,,consumption,,E. V> Hamilton,,32,city,,,1901-04-30,G620,y
+9011,James,Brown,,000-06-00,M,,,Unknown,,,,,,,,1901-04-29,B650,y
+9009,Infant of Alf,Burleson,,000-00-00,M,W,,Stillborn,,A. C. ANderson,,,friends,,,1901-04-26,B642,y
+9010,Dicy,Mason,,083-00-00,F,N,,old age,,Frank Litten,,old grounds,friends,,,1901-04-26,M250,y
+9008,W. W.,Archer,,061-00-00,M,W,,nephritis,,N. O. Breenizer,,1015,friends,,,1901-04-22,A626,y
+9007,Mrs.,Patterson,,029-00-00,F,W,,consumption,,F. P. McLaughlin,,1015,friends,,,1901-04-21,P362,y
+9083,Antonia,Rodriguez,,021-00-00,M,N,,phthisis pulmonalis,,F. Litten,,can not read,friends,,,1901-04-18,R362,y
+9006,N,Gossett,,000-08-00,M,W,,congestion of stomach,,S. E. Hudson,,not given,friends,,,1901-04-16,G300,y
+9005,Geo,Miller,,007-00-00,M,W,Austin,elmemrus,,G. H. Wooten,,1112,friends,,,1901-04-08,M460,y
+9003,Regina,Rocho,,040-00-00,M,M,Mexico,chronic laryngitis,,E. V. Hamilton,,32,city,,,1901-04-07,R200,y
+9004,Will,Olsen,,024-00-00,M,W,Austin,pulmonary tuberculosis,,Ralph Steiner,,947,friends,,,1901-04-07,O425,y
+9002,Infant,Stanley,,000-00-03,F,N,Austin,trismus nascumtium,,Matt Smith,,97,friends,,,1901-04-07,S354,y
+9001,Mrs. Benita,Tobin,,050-00-00,F,W,,carcinoma,,Ralph Steiner,,497,friends,,,1901-04-06,T150,y
+9000,Henry,Barnhart,,046-00-00,M,W,,Unknown,,,,,friends,,,1901-04-02,B656,y
+8999,Cora,Hamilton,,001-00-00,F,N,Austin,congestion of xxxxx,,W. P. Rhodes,,old grounds,friends,,,1901-04-01,H543,y
+8998,Benito,Jaramillo,,000-00-08,M,M,Austin,??,,H. B. Hill,,not given,city,,,1901-03-30,J654,y
+8997,Geo,Sussmann,,078-00-00,M,W,Germany,cancer of mouth,,A,,821,friends,,,1901-03-27,S500,y
+8996,Adolph,Wealty,,050-00-00,M,W,Swissland (?),heart failure,,M. M. Johnson,,940,friends,,,1901-03-23,W430,y
+8995,Gona,Cleary,,N,F,W,,heart failure,,M. M. Johnson,,884,friends,,,1901-03-23,C460,y
+8993,Mrs. F. M.,Davis,,032-00-00,F,W,,,,,,1112,friends,,remains from Dallas,1901-03-22,D120,y
+8994,Ruth,Beck,,000-22-00,F,W,Austin,bronchitis,,E. V. Hamilton,,not given,friends,,,1901-03-22,B200,y
+8992,Caroline,Webb,,081-00-00,F,W,North Carolina,softening of brain,,S. E. Hudson,,365,friends,,,1901-03-21,W100,y
+8991,Claude,Clark,,033-00-00,M,W,Ill,pneumonia,,H. B. Young,,367,friends,,,1901-03-21,C462,y
+8990,A. W.,Miller,,072-00-00,M,M,,consumption,,E. V. Hamilton,,6,friends,,,1901-03-20,M460,y
+8989,Babe,Martinez,,000-00-01,M,M,Austin,Unknown,,W. P. Richards,,,city,,,1901-03-20,M635,y
+8988,Mrs.,Isbell,,045-00-00,F,W,,,,J. J. Gasser,,109,friends,,,1901-03-18,I214,y
+8987,M. M.,Long,,078-00-00,M,W,,old age,,Frank Litten,,not given,friends,,,1901-03-17,L520,y
+8986,Mrs.,Hamond,,052-00-00,F,W,Ark,,,hepobie carrhisis,G. H. Wooton,,449,friends,,1901-03-17,H530,y
+8984,G.,Krause,,040-00-00,M,W,,,,,,,,,,1901-03-15,K620,y
+8983,R. E.,Whitelock,,035-00-00,M,W,Ill,tuberculosis of bowels,,E. E. Davis,,not given,friends,,,1901-03-15,W342,y
+8982,E. H.,Robinson,,028-00-00,M,W,Texas,Gunshot Wound,,M. M. Johnson,,,friends,,,1901-03-15,R152,y
+8981,Ruth,Hotchkiss,,001-00-00,F,W,Houston,membraneous croup,,S. P. Rice,,not given,friends,,,1901-03-12,H320,y
+8980,Mrs.,McCracken,,021-00-00,F,W,,consumption,,J. F. Dean,,5,city,,,1901-03-11,M262,y
+8979,Infant of Jim,Brown,,000-00-01,F,N,Austin,premature birth,,F. Litten,,53,friends,,,1901-03-04,B650,y
+8978,S. G.,Kingsbury,,077-00-00,M,W,Tenn,cancer of the face,,Q. C. Smith,,7,friends,,,1901-03-04,K521,y
+8976,J. A.,Mills,,054-00-00,M,W,Texas,heart disease,,E. V. Hamilton,,5,city,,,1901-03-03,M420,y
+8977,Mrs.,Schillings,,057-00-00,F,W,Texas,consumption of bowels,,E. V. Hamilton,,5,city,,,1901-03-03,S452,y
+8975,Walter,Spencer,,031-00-00,M,W,Austin,consumption,,J. W. Gibson,,,friends,,,1901-02-28,S152,y
+8974,Infant of E. E.,Zimmerman,,000-00-02,M,W,Austin,Cerebral Hemorrhage,,G. H. Wooten,,,friends,,,1901-02-28,Z565,y
+8973,Cha.,Cavanaugh,,025-00-00,M,W,Austin,consumption,,N. O. Brenizer,,1000,friends,,,1901-02-27,C152,y
+8972,W. J.,Malone,,042-00-00,M,W,Texas,small pox,,R. S. Graves,,940,friends,,,1901-02-26,M450,y
+8971,F.,Rodriguez,,026-00-00,M,M,Mexico,pneumonia,,E. V. Hamilton,,not given,city,,,1901-02-21,R362,y
+8970,Alex,Wilkie,,072-00-00,M,W,Scotland,paralysis,,E. V. Hamitlon,,32,,city,,1901-02-21,W420,y
+8969,Infant of Cha.,Schmlhen,,000-14-00,M,W,Arkansas,??,,H. C. Morrow,,88,friends,,,1901-02-20,S545,y
+8968,Salema,Hernandez,,000-00-05,F,M,Austin,dysentery,,E. V. Hamilton,,32,city,,,1901-02-16,H653,y
+8967,J. M.,Mitchell,,037-00-00,M,W,Austin,gunshot wound,,M. M. Johnson,,1041,friends,,,1901-02-14,M324,y
+8966,J. M.,Singleton,,000-00-00,F,W,Austin,Stillborn,,H. B. Granbury,,,friends,,,1901-02-14,S524,y
+8965,G. F.,Mettingly,,067-00-00,M,W,,bronchitis,,F. P. McLaughlin,,452,friends,,,1901-02-12,M352,y
+8964,Unknown,Baby,,000-00-03,M,W,,unknown,,M. M. Johnson,,3,county,,,1901-02-12,B000,y
+8963,Baby,Houser,,000-00-00,F,W,,Stillborn,,,,,friends,,,1901-02-10,H260,y
+8962,Ed,Williams,,085-00-00,M,W,,,,,,932,friends,,,1901-02-08,W452,y
+8961,Mrs.,Cummings,,082-00-00,F,W,,old age,,Dr. Armstrong,,409,friends,,,1901-02-06,C520,y
+8960,Mrs. A.,Colluchke,,057-00-00,F,W,Germany,cancer of breast,,E. V. Hamilton,,7,county,,,1901-02-02,C420,y
+8959,Carrie,Headbeth,,059-00-00,F,W,,,,,,360,friends,,,1901-02-02,H313,y
+8958,Chas J.,Fisher,,038-00-00,M,W,Texas,chronic gastroenteritis,,J. A Nurrtugh,,700,friends,,,1901-02-02,F260,y
+8957,Lucy,Morgan,,082-00-00,F,W,,old age,,N. O. Brenizer,,940,friends,,,1901-02-01,M625,y
+8956,Mrs. E. L.,Lazand,,068-00-00,F,W,Mexico,phthisis pulmonalis,,O. C. SMith,,6,county,,,1901-02-01,L253,y
+8955,Mrs.,Sturdevant,,N,F,W,,contagious disease,,Frank Ross,,940,friends,,,1901-01-29,S363,y
+8954,Mrs.,Jesse,,078-00-00,F,W,,LaGrippe,,H. B. Granbury,,1069,friends,,,1901-01-28,J000,y
+8952,Fred.,Becker,,072-00-00,M,W,Germany,pneumonia,,T. J. Bennett,,990,friends,,,1901-01-27,B260,y
+8953,Mrs. S. A.,Glaser,,022-00-00,F,W,,acute nephritis,,Tho. Wooten and son,,119,friends,,,1901-01-27,G426,y
+8951,Timothy,Burns,,071-00-00,M,W,,rupture of arenia,,H. B. Granbury,,1033,friends,,,1901-01-25,B652,y
+8950,A.,Alezander,,060-00-00,M,M,Mexico,pneumonia,,E. V. Hamilton,,not given,city,,,1901-01-24,A425,y
+8949,W. M.,Hall,,045-00-00,M,W,Travis Co.,la grippe,,F. Litten,,old grounds,friends,,,1901-01-23,H400,y
+8948,Mrs. Carrie,Gracy,,069-00-00,F,W,,apoplexy,,F. L. Griffith,,209,friends,,,1901-01-22,G620,y
+8945,Mrs. L.,Duval,,058-00-00,F,W,,pneumonia,,H. B. Granberry,,983,friends,,,1901-01-20,D140,y
+8947,Alf,Johnson,,050-00-00,M,W,Sweden,apoplexy,,Neal Watt,,old grounds,friends,,,1901-01-19,J525,y
+8946,Mrs. H.,Booth,,073-00-00,F,W,,,,,,821,friends,,,1901-01-19,B300,y
+8944,Tom A.,Moore,,042-00-00,M,W,Austin,tuberculosis,,Neal Watt,,158,friends,,,1901-01-18,M600,y
+8943,J. H.,Thompson,,067-00-00,M,W,Ala,epilepsy,,E. V. Hamilton,,5,city,,,1901-01-17,T512,y
+8942,Amielia,Miller,,048-00-00,F,W,,cancer,,Joe Wooten,,821,friends,,,1901-01-17,M460,y
+8941,Amanda,Luther,,030-00-00,F,W,,pneumonia,,W. D. Gorton,,41,city,,,1901-01-16,L360,y
+8940,Infant of Prof,Tuff,,000-00-21,M,W,Austin,,,N. O. Brenizer,,717,friends,,,1901-01-15,T100,y
+8939,Margret,Cruger,,017-00-00,F,W,,phthisis pulmonalis,,F. McLaughlin,,1112,friends,,,1901-01-15,C626,y
+8938,Infant,Kemper,,002-00-00,F,W,,pneumonia,,G. H. Wooten,,481,friends,,,1901-01-15,K516,y
+8937,Samantha,Simpson,,040-00-00,F,W,La,tuberculosis,,J. C. Hill,,4,city,,,1901-01-14,S512,y
+8936,R. P.,Lamont,,042-00-00,M,W,,drowning,,F. Paschal,,366,friends,,,1901-01-13,L530,y
+8935,James,Linsing,,084-00-00,M,W,Germany,old age,,,31,friends,,,,1901-01-12,L525,y
+8934,Pablo,Morine,,075-00-00,M,M,Mexico,pneumonia,,E. V. Hamilton,,not given,city,,,1901-01-12,M650,y
+8933,Lenard,Burk,,000-02-00,M,W,Austin,cholera infantum,,F. P. McLaughlin,,not given,friends,,,1901-01-12,B620,y
+8932,Mrs. Geo,Warren,,080-00-00,F,W,,pneumonia,,H. B. Hill,,722,friends,,,1901-01-10,W650,y
+8931,Tom,Sneed,,069-00-00,M,W,Arkansas,pneumonia,,N. O. Brenizer,,341,friends,,,1901-01-10,S530,y
+8930,J. M.,Jackson,,059-00-00,M,W,,heart failure,,S. B. Hayfood,,not given,friends,,,1901-01-06,J500,y
+8929,Malitda,Richards,,000-03-00,F,W,Austin,membraneous croup,,H. Haigler,,406,,,,1901-01-06,R263,y
+8928,Wines B.,Mowatt,,073-00-00,M,W,,phthisis pulmonalis,,W. D. Gorton,,933,family,,,1901-01-05,M300,y
+8927,John,Embry,,028-00-00,M,W,Louisiana,consumption,,E. V. Hamilton,,2,city,,,1901-01-01,E516,y
+8875,W. A.,Briley,,075-00-00,M,W,c,cirrohosis of liver,,H. B. Hill,lot 1147,,friends,,,1900-12-30,B640,y
+8874,A. W.,Edberg,,032-00-00,M,W,,pneumonia,,Tho Wooten sons,lot 518,,friends,,,1900-12-30,E316,y
+8873,A. M.,Burchard,,030-00-00,M,W,Travis Co.,peritonitis,,W. D. Gorton,lot 976,,friends,,,1900-12-30,B626,y
+8872,Wallie,Peoples,,031-00-00,M,W,Texas,typhoid fever,,,lot 978,,friends,,,1900-12-28,P420,y
+8871,Joseph,Hoffner,,026-00-00,M,W,New York,consumption,,,,,friends,,,1900-12-25,H156,y
+8886,Mrs. H.,Hellman,,050-00-00,F,W,,,,,Hebrew Cemetery,,friends,,"remains brought here from Kyle, Texas",1900-12-20,H450,y
+8870,Frank,Jordan,,035-00-00,M,W,Illinois,heart disease,,E. V. Hamilton,lot 5,,city,,,1900-12-20,J635,y
+8868,J. M.,Murphis,,075-00-00,M,W,North Carolina,old age,,E. V. Hamilton,lot 940,,friends,,,1900-12-18,M612,y
+8869,E.,Mayfield,,018-00-00,M,W,Travis Co.,gunshot wound,,M. M. Johnson,old graveyard,,friends,,,1900-12-18,M143,y
+8884,Elosin,Santana,,000-11-00,F,M,Austin,spasm,,R. S. Graves,lot 1,,city,,first ward,1900-12-17,S535,y
+8867,W. S.,Delaney,,002-00-00,M,W,,,,,,,friends,,"remains brought from Elroy, Texas",1900-12-17,D450,y
+8866,J. R.,Johnson,,052-00-00,M,W,,intestinal nephritis,,F. P. McLaughlin,,,friends,,,1900-12-16,J525,y
+8865,Miss Sallie,Faulk,,017-00-00,F,W,Texas,tuberculosis,,Joe Wooten,lot 1139,,friends,,,1900-12-09,F420,y
+8864,Cuspin,Salazar,,038-00-00,M,M,Mexico,heart disease,,E. V. Hamilton,lot 32,,city,,,1900-12-05,S426,y
+8863,Sarah,Gildart,,050-00-00,F,W,,tuberculosis,,Frank R. Ross,lot 316,,friends,,,1900-12-03,G436,y
+8862,Mrs.,Kinney,,028-00-00,F,W,,intestinal nephritis,,N. O. Brenizer,lod graveyard,,friends,,,1900-12-01,K500,y
+8861,August,Larson,,059-00-00,M,W,Sweden,consumption,,E. V. Hamilton,lot 940,,friends,,7th ward,1900-11-29,L625,y
+8860,Henry,Thomas,,080-00-00,M,N,W,old age,,,lot 94,,friends,,8th ward,1900-11-28,T520,y
+8859,B.,Boatman,,030-00-00,M,W,,R.R. accident,,M. M. Johnson,lot 522,,friends,,county,1900-11-23,B350,y
+8858,J. H. F.,Chapman,,080-00-00,M,W,,inflamation of bladder,,Neal Watt,lot 488,,friends,,10th ward,1900-11-23,C150,y
+8857,Baby,Brooks,,000-02-00,M,W,Austin,cholera infantum,,D. H. P. Rhodes,lot 977,,friends,,2nd ward,1900-11-18,B620,y
+8856,Vida,Jameson,,007-00-00,F,W,San Antonio,typhoid fever,,T. J. Bennett,lot 1138,,friends,,,1900-11-16,J525,y
+8855,Mrs.,Jenkins,,033-00-00,F,W,,,,,lot 976,,friends,,,1900-11-14,J525,y
+8854,Infant of A. S.,Posey,,000-00-00,F,W,,Stillborn,,Wooten,,,friends,,,1900-11-14,P200,y
+8853,R. P.,Rogers,,048-00-00,M,W,,gauldstones,,H. B. Bill,lot 1023,,friends,,10th ward,1900-11-09,R262,y
+8852,Monroe,Miller,,052-00-00,M,W,Austin,pneumonia,,S. E. Hudson,lot 336,,friends,,3rd ward,1900-11-04,M460,y
+8851,Mrs.,Glasson,,080-00-00,F,W,,chronic nephritis,,C. H. Radkey,lot 977,,friends,,5th ward,1900-10-30,G425,y
+8850,J. H.,Borden,,058-00-00,M,W,,heart disease,,A. N. Denton,lot 1030,,friends,,7th ward,1900-10-23,B635,y
+8849,Joseph,Harrell,,089-00-00,M,W,North Carolina,old age,,R. S. Graves,lot 26,,friends,,3rd ward,1900-10-21,H640,y
+8848,Guesha,Giana,,056-00-00,M,M,,pneumonia,,E. V. Hamilton,lot 32,,city,,3rd ward,1900-10-20,G500,y
+8847,Rob.,Blackston,,043-00-00,M,N,,Bright's Disease,,F. Litten,,,friends,,7th ward,1900-10-17,B423,y
+8846,Jenifer,Green,,060-00-00,F,N,,cancer of womb,,J. H. Stevens,Old graveyard,,friends,,8th ward,1900-10-16,G650,y
+8845,J. R.,Emmerson,,030-00-00,M,W,,tuberculosis pulmonalis,,W. A. Harper,lot 518,,friends,,8th ward,1900-10-12,E562,y
+8844,Theresa,Kelm,,003-00-00,F,W,,scarlet fever,,F. Litten,lot 518,,friends,,7th ward,1900-10-10,K450,y
+8843,Marie,Kuechler,,080-00-00,F,W,,paralysis,,N. O. Brenizer,lot 97,,friends,,5th ward,1900-10-07,K460,y
+8842,L. M.,Parks,,000-18-00,M,W,,meningitis,,F. Paschal,lot 80,,friends,,San Antonio,1900-10-05,P620,y
+8841,R. L.,Christmas,,059-00-00,M,W,,old age,,J. F. Dean,lot 775,,friends,,,1900-10-05,C623,y
+8840,Ola Mary,Butler,,023-00-00,F,W,,,,G. H. Wooten,lot 730,,friends,,6th ward,1900-10-03,B346,y
+8926,O. W.,Porch,,000-00-08,M,W,Austin,trismus nascumtium,,W. J. Mathews,lot 263,,friends,,10th ward,1900-09-29,P620,y
+8925,S. W.,French,,048-00-00,M,W,New Jersey,exaphthalucia gastric,,S. E. Hudson,,lot 340,,friends,,1900-09-29,F652,y
+8924,J.,Wilson,,050-00-00,M,W,Germany,heart disease,,E. V. Hamilton,lot 5,,city,,7th ward,1900-09-28,W425,y
+8923,Max,Schmidt,,000-11-00,M,W,Austin,cholera infantum,,F. Litten,lot 3,,friends,,8th ward,1900-09-28,S530,y
+8922,Willie,Pollard,,072-00-00,M,N,,apoplexy,,H. B. Granbury,old graveyard,,friends,,7th ward,1900-09-27,P463,y
+8921,Mary E.,Whitehead,,022-00-00,F,W,,phthisis pulmonalis,,J. J. Gasser,lot 966,,friends,,4th ward,1900-09-26,W300,y
+8920,Lillie,Haig,,022-00-00,M,W,Texas,phthisis pulmonalis,,J. J. Gasser,lot 966,,friends,,4th ward,1900-09-24,H200,y
+8919,Maggie,Jones,,028-00-00,F,N,,epilepsy,,F. R. Ross,lot 518,,friends,,6th ward,1900-09-20,J520,y
+8918,C. L.,Madison,,N,M,N,,gastric ulcer,,J. M. French,lot 95,,friends,,"Luling, Tex",1900-09-17,M325,y
+8917,Mrs. C.,Lucksinger,,060-00-00,F,W,Switzerland,pneumonia,,E. Mussina,lot 763,,friends,,7th ward,1900-09-17,L252,y
+8916,Mrs. W. D.,Patton,,060-00-00,F,W,,phthisis pulmonalis,,Ralph Steiner,lot 760,,friends,,7th ward,1900-09-17,P350,y
+8915,M. S.,Benatides (Benevides),,000-06-00,F,M,,entro colitis,,R. O. Smith,lot 1,,city,,,1900-09-16,B532,y
+8914,Henry,Miner,,043-00-00,M,W,Germany,consumption,,E. V. Hamilton,lot 5,,city,,7th ward,1900-09-16,M600,y
+8913,F. A.,Schutze,,000-02-00,M,W,Austin,pneumonia,,F. Litten,lot 3,,friends,,10th ward,1900-09-15,S320,y
+8912,Wallie,Badger,,089-00-00,M,W,,fractured leg,,H. B. Granbury,,,friends,,Travis Co.,1900-09-13,B326,y
+8911,Issac,Smith,,000-06-00,M,N,Austin,rupture,,E. N. D. Abner,,,friends,,7th ward,1900-09-12,S530,y
+8910,Juan B.,Paclia,,060-00-00,M,M,Mexico,heart failure,,E. V. Hamilton,lot 32,,city,,7th ward,1900-09-11,P240,y
+8909,Mrs. Jas.,Messen,,043-00-00,F,N,,phthisis pulmonalis,,J. B. Massie,,,friends,,Houston,1900-09-11,M250,y
+8908,Infant of Joe,Dunn,,000-00-07,M,W,,gastro enteritis,,Joe Wooten,Hebrew Cemetery,,friends,,Manor,1900-09-10,D500,y
+8907,Rev.,Lamar,,050-00-00,M,W,,,,T. J. Bennett,lot 1024,,friends,,6th ward,1900-09-08,L560,y
+8906,Ed. G.,Durad,,060-00-00,M,W,Tenn,general debility,,E. V. Hamilton,lot 781,,friends,,7th ward,1900-09-06,D630,y
+8905,M. A.,Wilkerson,,033-00-00,F,W,,phthisis pulmonalis,,F. Litten,lot 518,,city,,first ward,1900-09-06,W426,y
+8904,F.,Watkins,,064-00-00,M,W,Minn,peritonitis,,H. B. Granbury,lot 5,,city,,10th ward,1900-09-06,W325,y
+8903,Ricardo,Soto,,077-00-00,F,M,Mexico,old age,,R. S. Graves,lot 32,,city,,2nd ward,1900-09-05,S300,y
+8902,Joe,Ballinger,,028-00-00,M,W,Illinois,consumption,,E. V. Hamilton,lot 1039,,friends,,7th ward,1900-09-03,B452,y
+8901,Harry,Thompson,,020-00-00,M,W,,chronic nephritis,,Joe Wooten,lot 718,,friends,,7th ward,1900-09-03,T512,y
+8900,Frank,Conner,,000-00-4,M,M,austin,bronchitis,,R. S. Graves,lot 1,,city,,7th ward,1900-09-02,C560,y
+8839,Eugene,Zimmerman,,000-00-18,F,W,,,,,,,,,,1900-08-30,Z565,y
+8838,Ernest,Egglin,,000-00-00,F,W,Austin,Stillborn,,H. B. Granberry,,,friends,,2nd ward,1900-08-29,E245,y
+8837,Matt,Harmington,,045-00-00,M,W,,tuberculosis,,S. E. Hudson,lot 1132,,friends,,7th ward,1900-08-27,H652,y
+8836,Alger,Westergard,,000-00-00,F,W,,Stillborn,,"Tho Wooten, Sr.",,,friends,,,1900-08-22,W236,y
+8835,E. C. Lyons,Lyons,,003-00-00,M,N,aUSTIN,Congestion of brain,,F. Litten,old graveyard,,friends,,7th ward,1900-08-21,L520,y
+8834,Anna M.,Karling,,042-00-00,F,W,Sweden,phthisis pulmonalis,,N. O. Brenizer,lot 513,,friends,,Travis Co.,1900-08-19,K645,y
+8833,Forbis,Fucutis,,052-00-00,M,M,,exhaustion,,F. R. Ross,lot 32,,city,,first ward,1900-08-18,F232,y
+8831,Mr.,Hachenberg,,072-00-00,M,W,,burns,,Neal Watt,lot 460,,friends,,9th ward,1900-08-17,H251,y
+8832,Will,Oberweather,,034-00-00,M,W,,bright's diseaseexhaustion,,E. V. Hamilton,lot 347,,friends,,7th ward,1900-08-17,O163,y
+8830,Laura,Noba,,037-00-00,F,M,Mexico,consumption,,H. B. Granberry,lot 32,,city,,first ward,1900-08-16,N100,y
+8829,Infant of J. D.,Randolph,,000-00-00,M,W,Travis Co.,Stillborn,,F. A. Maxwell,,,friends,,Travis CO.,1900-08-16,R534,y
+8828,Bessie Bell,Cove,,004-00-00,F,W,,scarlet fever,,H. B. Granberry,lot 977,,friends,,9th ward,1900-08-15,C100,y
+8827,M. GIll,Barrons,,070-00-00,M,W,,,,,,,,,,1900-08-10,B652,y
+8826,Joseph,Carothers,,063-00-00,M,W,,,,,,,,,,1900-08-10,C636,y
+8825,Louisa,Andrewartha,,000-02-00,F,W,Austin,,,,,,,,,1900-08-07,A536,y
+8824,Geo. F.,Pendexter,,043-00-00,M,W,,,,,lot 868,,friends,,6th ward,1900-08-01,P532,y
+8823,Mrs. Dana,Ford,,021-00-00,F,W,,puerperal convulsions,,J. F. Bennett,lot 1104,,friends,,6th ward,1900-08-01,F630,y
+8822,Mrs.,Hachenberg,,058-00-00,F,W,,burns,,Neal Watt,lot 460,,friends,,9th ward,1900-07-31,H251,y
+8821,Sam,Collins,,035-00-00,M,W,,consumption,,E. V. Hamilton,lot 5,,city,,7th ward,1900-07-31,C452,y
+8820,Frank,Verner,,040-00-00,M,W,,heart failure,,Mat Johnson,lot 5,,city,,11th ward,1900-07-30,V656,y
+8819,Hallie,Thweatt,,N,F,W,,,,,lot 1118,,friends,,6th ward,1900-07-27,T000,y
+8818,T. W.,Bacot,,054-00-00,M,W,South Carolina,throat cut,,Mat Johnson,lot 432,,friends,,9th ward,1900-07-27,B230,y
+8817,Infat of J. A.,Paddelford,,000-00-03,F,W,,spinabifida,,G. H. Wooten,lot 62,,friends,,4th ward,1900-07-23,P341,y
+8816,Taylor,Bowling,,024-00-00,M,W,,,,,lot 1138,,friends,,remains from Palestine,1900-07-22,B452,y
+8815,Jack,Floyd,,059-00-00,M,W,,,,,lot 1138,,friends,,remains from Palestine,1900-07-18,F430,y
+8814,Robert C.,Smith,,026-00-00,M,W,,heart disease,,E. V. Hamilton,lot 6,,city,,7th ward,1900-07-14,S530,y
+8813,Mattie,Hammond,,005-00-00,F,W,,,,,,,friends,,"remains from Durango,Tex",1900-07-13,H530,y
+8812,W. W.,Anderson,,065-00-00,M,W,,apoplexy,,N. Chanlin,,,friends,,Luling,1900-07-13,A536,y
+8811,Victoria,Aranda,,000-17-00,F,M,,gastro enteritis,,H. B. Granberry,lot 1,,city,,first ward,1900-07-12,A653,y
+8810,Mrs.,Boykiss,,030-00-00,F,w,,consumption,,Geo. W. Christian,lot 5,,city,,9th ward,1900-07-12,B200,y
+8809,W. A.,Schuts,,070-00-00,M,W,,insanity,,James Gould,lot 379,,friends,,Drippins,1900-07-09,S320,y
+8808,Mrs. C. R.,Blocker,,063-00-00,F,W,,,,,,,friends,,remains from Ballinger,1900-07-07,B426,y
+8807,Margreta,Noba,,018-00-00,F,M,Austin,cholera infantum,,H. B. Greenberry,lot 1,,city,,first ward,1900-07-06,N100,y
+8806,Ruby,Cinnaman,,002-00-00,M,W,Taylor,uraermia coma,,C. F. Stockinger,Hebrew Cemetery,,friends,,"Taylor, Tex",1900-07-06,C500,y
+8805,Mary,Jackson,,044-00-00,F,N,Texas,phthisis pulmonalis,,R. S. Graves,lod graveyard,,friends,,7th ward,1900-07-05,J500,y
+8804,James T.,Heflin,,084-00-00,M,W,,old age,,J. F. Dean,lot 986,,friends,,Travis Co.,1900-07-01,H145,y
+8899,Dominico,Salasar,,000-00-2,M,M,Austin,spasm,,R. S. Graves,lot 1,,city,,first ward,1900-06-30,S426,y
+8898,Chas. S.,Loving,,020-00-00,M,W,England,typhoid fever,,F. P. McLaughlin,lot 1104,,friends,,8th ward,1900-06-30,L152,y
+8897,Ed,Morrell,,037-00-00,M,W,England,gastro intestinal catarrh,,E. V. Hamilton,lot 518,,friends,,7th ward,1900-06-27,M640,y
+8895,H. C.,Peterson,,007-00-00,M,W,,membraneous croup,,H. Griffith,lot 837,,friends,,,1900-06-27,P362,y
+8894,Mildred C.,Collins,,000-18-00,F,W,Austin,cholera infantum,,S. E. Hudson,lot 791,,friends,,7th ward,1900-06-26,C452,y
+8892,Nellie,Leader,,025-00-00,F,W,,peritonitis,,J. B. Massie,lot 718,,friends,,Houston,1900-06-24,L360,y
+8891,Willie,Wright,,024-00-00,M,N,,drowned,,J. S. Smith,old graveyard,,friends,,Travis Co.,1900-06-24,W623,y
+8890,Earnest,Leary,,003-00-00,M,W,Austin,scarlet fever,,H. B. Granbury,lot 3,,city,,,1900-06-24,L600,y
+8889,N. L.(Nimrod),Norton,,065-00-00,F,W,,carsimonia,,T. J. Bennett,lot 577 (527),,friends,(farmer),3rd ward,1900-06-24,N635,y
+8893,Mollie,Selcer,,063-00-00,,W,Alabama,inflamation of bowels,,R. S. Graves,lot 98,,city,,2nd ward,1900-06-23,S426,y
+8887,Katy M.,Patten,,029-00-00,F,W,Alabama,phthisis pulmonalis,,Ralph Steiner,lot 760,,friends,,,1900-06-21,P350,y
+8888,G. W.,Brillhart,,038-00-00,F,W,Pennsylvania,tuberculosis,,G. H. Wooten,lot 1084,,friends,,8th ward,1900-06-19,B646,y
+8885,Bell H.,Delena,,000-17-00,F,N,,cholera infantum,,H. B. Granbury,lot 1,,friends,,,1900-06-18,D450,y
+8883,S.Delores,Tonles,,040-00-00,M,M,Mexico,consumption,,,lot 1,,city,,7th ward,1900-06-12,T542,y
+8882,James,Bell,,042-00-00,M,W,,rheumatism,,E. V. Hamilton,lot 5,,city,,7th ward,1900-06-11,B400,y
+8881,Adeline,Eanes,,059-00-00,F,N,,throat trouble,,L. L. Lacy,lot 6,,friends,,7th ward,1900-06-09,E520,y
+8880,J. D.,Das,,045-00-00,M,N,,heart disease,,F. Litten,old graveyard,,friends,,10th ward,1900-06-08,D200,y
+8879,Geo.,Graham,,065-00-00,M,N,South Carolina,inflamation of bladder,,Neal Watt,old graveyard,,friends,,10th ward,1900-06-08,G650,y
+8878,E. H.,Luke,,000-18-00,M,W,Austin,inanition,,E. V. Hamilton,lot 3,,city,,7th ward,1900-06-04,L200,y
+8877,Rosie Minnie,Carrie,,024-00-00,F,N,Austin,consumption,,J. J. Gasser,old graveyard,,friends,,7th ward,1900-06-01,C600,y
+8876,Dave L.,Lewllen,,050-00-00,M,W,,,,,lot 723,,,,remains brought from Palestine,1900-06-01,L500,y
+8803,Mrs.,Chamberlin,,050-00-00,F,W,Ireland,heart disease,,E. V. Hamilton,lot 862,,friends,,7th ward,1900-05-31,C516,y
+8802,Helen,Matthews,,000-03-00,F,W,Austin,gastro colitis,,R. S. Graves,lot 3,,city,,6th ward,1900-05-31,M320,y
+8801,Francis,Johns,,042-00-00,F,N,"Bastrop, Tex",cancer of rectum,,J. H. Stevens,old graveyard,,friends,,8th ward,1900-05-30,J520,y
+8800,Bettie,Ziller,,042-00-00,F,W,Austin,pelvic cellutis,,C. H. Wilkson,(not given),,friends,,Galveston,1900-05-29,Z460,y
+8799,Aron,Cohn,,047-00-00,M,W,,paresis (paralysis?),,F. R. Ross,Hebrew Cemetery,,friends,,6th ward,1900-05-29,C500,y
+8798,Unknown,Man,,065-00-00,M,W,,drowned,,Mat Johnson,lot 5,,city,,first ward,1900-05-26,M000,y
+8797,Minnie,Schaefer,,020-00-00,F,W,San Marcos,Bright's disease,,E. V. Hamilton,lot 5,,city,,7th ward,1900-05-25,S160,y
+8796,Lillie E.,Verell,,000-08-00,F,W,,cholera infantum,,F. Litten,lot 518,,friends,,10th ward,1900-05-24,V640,y
+8795,Herman,Bohn,,000-00-06,M,W,Austin,congestion of spine,,G. H. Wooten,lot 518,,friends,,5th ward,1900-05-24,B500,y
+8794,Luna,Moon,,000-00-12,F,N,Austin,gastro enteritis,,F. Litten,lot 1,,city,,1st ward,1900-05-24,M000,y
+8793,Rabola,Hernandez,,090-00-00,F,M,Mexico,heart failure,,M. Johnson,lot 1,,city,,1st ward,1900-05-19,H653,y
+8792,Infant of John,Belcher,,000-00-09,F,W,Austin,trismus nascumtium,,R. S. Graves,lot 3,,city,,9th ward,1900-05-15,B426,y
+8791,A. S.,Waldin,,065-00-00,M,W,Ala,dysentery,,E. V. Hamilton,lot 5,,city,,7th ward,1900-05-11,W435,y
+8789,Bessie,Underhill,,006-00-00,F,W,,measles,,H. B. Hill,lot 117,,friends,,5th ward,1900-05-08,U536,y
+8788,James D.,Price,,036-00-00,M,W,,,,,,,,,(no information given),1900-05-06,P620,y
+8787,Bob,Millus,,039-00-00,M,N,Travis Co.,consumption,,F. P. McLaughlin,old graveyard,,friends,,7th ward,1900-05-04,M420,y
+8786,Charles,Evans,,053-00-00,M,W,New York,excessive dose of opiat,,S. E. Hudson,lot 1146,,friends,,4th ward,1900-05-02,E152,y
+8785,Henry,Schmidt,,018-00-00,M,W,,Cerebral Hemorrhage,,M. M. Smith,,,friends,,11th ward,1900-05-01,S530,y
+8783,Eliza,Gasser,,058-00-00,F,W,Ohio,tubercular peritontis,,F. M. McLaughlin,lot 1084,,friends,,7th ward,1900-04-30,G600,y
+8782,Unknown,Man,,040-00-00,M,W,,unknown,,M. M. Johnson,lot 58,,city,,2nd ward,1900-04-28,M000,y
+8781,James B.,Goff,,072-00-00,M,W,New York,cancer,,T. J. Bennett,lot 498,,friends,,6th ward,1900-04-25,G100,y
+8780,F. A.,Jacobsen,,033-00-00,M,W,Sweden,septimenia,,,old graveyard,,friends,(blacksmith),7th ward,1900-04-23,J125,y
+8779,Francis,Moran,,000-10-00,F,M,McDade,pneumonia,,W. D. Gorton,lot 1,,city,,first ward,1900-04-19,M650,y
+8778,Mrs. O. C.,McCollum,,065-00-00,F,W,,general debility,,F. Litten,lot 1157,,friends,,2nd ward,1900-04-19,M245,y
+8777,Paul O.,Lafrance,,032-00-00,M,W,,,,,lot 264,,friends,,remains from Webberville,1900-04-17,L165,y
+8776,Gracia S.,Presnell,,000-02-00,F,W,,,,Frank Litten,lot 977,,friends,,7th ward,1900-04-16,P625,y
+8775,Emilia,Southerland,,072-00-00,F,M,Brights disease,E. V. Hamilton,,,old graveyard,,friends,,3rd ward,1900-04-09,S364,y
+8774,Walter,Blassman,,017-00-00,M,W,,drowned,,J. A. Stuart,lot 458,,friends,,first ward,1900-04-09,B425,y
+8790,Linda,Gordon,,037-00-00,F,N,Austin,remitten fever,,J. H. Stevens,old graveyard,,friends,,9th ward,1900-04-08,G635,y
+8773,Mrs.,Harrington,,086-00-00,F,W,,,,,lot 1122,,friends,,7th ward,1900-04-08,H652,y
+8772,Mrs.,Mullenbrook,,082-00-00,F,W,,LaGrippe,,T. J. Bennett,lot 562(?),,friends,,6th ward,1900-04-08,M451,y
+8771,Issac,Clements,,033-00-00,M,N,,pulmonary congestion,,J. H. Stevens,old graveyard,,friends,,8th ward,1900-04-07,C453,y
+8770,Infant,Harvey,,N,M,W,,,,,lot 518,,friends,,,1900-04-07,H610,y
+8769,Friederick,Jaeger,,071-00-00,F,W,,heart disease,,J. J. Gasser,near fence,,friends,,6th ward,1900-04-03,J600,y
+8768,J. M.,Litten,,080-00-00,M,W,,old age,,Frank Litten,lot 145,,friends,,2nd ward,1900-04-02,L350,y
+8784,Infant,Aredondo,,000-00-10,F,M,Austin,pneumonia,,W. D. Forton,lot 1,,city,,2nd ward,1900-03-31,A635,y
+8767,(Infant),Schwammel,,000-00-00,M,W,Austin,stillborn,,H. B. Granbury,lot 977,,friends,,9th ward,1900-03-31,S540,y
+8766,Ms. Edna,Ahren,,034-00-00,F,W,,urine poison,,R. S. Graves,lot 1121,,friends,,,1900-03-22,A650,y
+8765,Ed. W.,Haschke,,002-00-00,M,W,Austin,hooping cough,,S. E. Hudson,lot 1122,,friends,,7th ward,1900-03-22,H200,y
+8764,Mary,Ragsdale,,084-00-00,F,W,Tenn,old age,,R. S. Graves,lot 5,,city,,6th ward,1900-03-21,R234,y
+8763,Mrs. Fannie,Buckner,,038-00-00,F,W,Virginia,phthisis pulmonalis,,G. H. Wooten,lot 518,,friends,,7th ward,1900-03-19,B256,y
+8762,Irine,Glissman,,025-00-00,F,W,,septimania,,T. J. Bennett,lot 1024,,friends,,7th ward,1900-03-19,G425,y
+8761,G. A.,Smith,,076-00-00,M,W,,carcinomia,,H. S. Snead,lot 424,,friends,,"Waco, Tex",1900-03-18,S530,y
+8760,James,Champlin,,062-00-00,M,W,,phthisis pulmonalis,,R. S. Graves,lot 974 (?),,friends,(laborer),6th ward,1900-03-18,C514,y
+8758,Mary A.,Moore,,050-00-00,F,N,,,,,,,,,,1900-03-15,M600,y
+8757,Lillian,Smith,,022-00-00,F,W,,consumption,,H. B. Granbury,lot 1121,,friends,,10th ward,1900-03-15,S530,y
+8756,Sampson,Alexander,,034-00-00,M,N,,pyaemia,,A. B. Massie,old graveyard,,friends,,"Houston, Tex",1900-03-12,A425,y
+8755,A. J.,Oaley,,067-00-00,M,W,,pneumonia,,J. H. Wooten,lot 539,,friends,,7th ward,1900-03-12,O400,y
+8754,F. A.,Lenhart,,024-00-00,F,W,"Paris, Tex",consumption,,J. F. Doss,lot 217,,friends,,10th ward,1900-03-11,L563,y
+8753,Adolph,Shusterman,,045-00-00,M,W,,,,,Hebrew Cemetery,,friends,,remains from Giddings,1900-03-08,S365,y
+8752,Sarah,Moreland,,074-00-00,F,W,,old age,,R. S. Graves,lot 482,,friends,,Travis CO.,1900-03-07,M645,y
+8751,Lindsey,Pogue,,016-00-00,M,W,,Diabetes,,E. Mussina,,,friends,,4th ward,1900-03-05,P200,y
+8750,Cha. T.,Milde,,025-00-00,M,W,,killed RR,,J. A. Stuart,lot 833,,friends,,first ward,1900-03-05,M430,y
+8747,Conrad,Benchmen,,019-00-00,M,W,Austin,apendicitis,,Joe Wooten,lot 88,,friends,,6th ward,1900-03-03,B525,y
+8746,Child of N. S.,Lynch,,002-00-00,M,W,Austin,pneumonia,,N. O. Brenizer,Lot 1122,,friends,,3rd ward,1900-03-03,L520,y
+8749,Mary,Persinger,,045-00-00,F,W,,heart disease,,Frank Litten,lot 411,,friends,,10th ward,1900-03-01,P625,y
+8748,Infant of O. S.,Lafrance,,000-00-00,F,W,Austin,Stillborn,,Joseph Gilbert,,,friends,,11th ward,1900-03-01,L165,y
+8745,Abraham,Maluski,,045-00-00,M,W,Poland,,,R. S. Graves,Hebrew Cemetery,,friends,,first ward,1900-02-28,M420,y
+8744,Emmett,Carrington,,054-00-00,M,W,Austin,heart failure,,F. Litten,lot 347,,friends,,ward 8,1900-02-26,C652,y
+8743,Alie,Stevenson,,019-00-00,F,W,Kansas,malaria fever,,R. S. Graves,lot 5,,city,,ward 6,1900-02-23,S315,y
+8742,Bertha,Thilke,,029-00-00,F,W,Tenn,cancer,,Q. C. Smith,not given,,friends,,ward 10,1900-02-20,T420,y
+8741,Infant,Chase,,000-00-00,F,W,Austin,Stillborn,,R. S. Graves,,,city,,ward 8,1900-02-17,C000,y
+8740,Infant of Mrs.,Buckner,,000-00-00,M,W,Austin,Stillborn,,J. W. Mathews,,,friends,,ward 7,1900-02-15,B256,y
+8739,Thomas,Orr,,030-00-00,M,W,,phthisis pulmonalis,,M. A. Taylor,not given,,friends,,ward 8,1900-02-12,O600,y
+8738,Runels,Newcomb,,003-00-00,M,W,Austin,diptheria,,F. Litten,lot 862,,friends,,ward 10,1900-02-12,N251,y
+8737,Infant of Chs.,Koch,,000-00-00,F,W,Austin,Stillborn,,W. A. Harper,,,friends,,ward 2,1900-02-10,K000,y
+8736,Infant of Jim,Brown,,000-00-00,M,N,Austin,Stillborn,,F. Litten,,,friends,,ward 7,1900-02-02,B650,y
+8735,Bettie,Johnson,,070-00-00,F,N,,old age,,,lot 50,,friends,,8th ward,1900-02-02,J525,y
+8734,Infant of Will,Obermitter,,000-00-00,F,W,Austin,Stillborn,,E. V. Hamilton,,,friends,,ward 7,1900-02-02,O165,y
+8733,Cara,Taylor,,002-00-00,F,N,Austin,convulsions of bowels,,F. Litten,lot 51,,friends,,6th ward,1900-01-31,T460,y
+8732,Minnie,Rudcill,,025-00-00,F,W,,pneumonia,,R. S. Graves,lot 1121,,friends,,first ward,1900-01-31,R324,y
+8731,J. G.,Keevil,,030-00-00,M,W,England,consumption,,Ralph Steiner,lot 179,,friends,,ward 3,1900-01-23,K140,y
+8730,Geo.,Klotz,,023-00-00,M,W,Austin,typhoid fever,,J. M. Conrad,lot 401,,friends,,"Mexia, Texas",1900-01-19,K432,y
+8729,Herman,Lenshen,,050-00-00,M,W,Germany,bled to death,,Mat Johnson,lot 120,,friends,,ward 7,1900-01-18,L525,y
+8728,Geo. L.,Robertson,,057-00-00,M,W,,phthisis pulmonalis,,F. Litten,lot 322,,friends,,ward 8,1900-01-18,R163,y
+8727,Anna,Shoemaker,,009-00-00,F,W,,anemia,,S. E. Hudson,lot 822,,friends,,,1900-01-17,S526,y
+8726,Mrs. Van,Bushirk,,030-00-00,F,W,Minn,consumptionanemia,,E. V. Hamilton,lot 862,,friends,,ward 7,1900-01-10,B262,y
+8725,Dave H.,Hewlett,,052-00-00,M,W,Alabama,Hemorrhage of stomach,,J. H. Gibson,,,friends,,ward 7,1900-01-10,H430,y
+8724,Lucila,Barnhart,,003-00-00,F,W,"Bryan, Tex",cerbro spinal fever,,S. G. Bittick,lot 1002,,friends,,,1900-01-10,B656,y
+8723,Infant of George,Childs,,000-03-00,M,W,Austin,pneumonia,,H. B. Granbury,lot 412,,friends,,ward 2,1900-01-10,C432,y
+8722,John,Lamont,,057-00-00,M,W,Ireland,tuberculosis,,H. L.,lot 366,,friends,,ward 7,1900-01-07,L530,y
+8721,Rubin W.,Ford,,076-00-00,M,W,,,,,lot 354,,friends,,ward 8,1900-01-06,F630,y
+8720,Geo,Holdstock,,080-00-00,M,W,,old age,,,lot 833,,friends,,ward 3,1900-01-06,H432,y
+8718,Karl,Heirman,,018-00-00,M,W,Austin,congestion of brain,,J. J. Gasser,lot 955,,friends,,ward 7,1900-01-04,H650,y
+8719,Infant of Fannie,Moon,,000-00-16,F,M,,neglect at birth,,Haigler & Harper,lot 1,,city,,ward 1,1900-01-03,M000,y
+8717,Frank,Lopez,,035-00-00,M,W,,consumption,,Mat Johnson,lot 5,,city,,ward 8,1900-01-03,L120,y
+8716,Joseph,Hofstetter,,051-00-00,M,W,Switzerland,pulmonary consumption,,R. S. Graves,not given,,friends,,7th ward,1899-12-30,H123,y
+8715,Infant of Charles,Winn,,000-00-00,F,W,Austin,premature,,Jas. Cleaver,lot 306,,friends,,5th ward,1899-12-29,W500,y
+8714,Robert,Irwin,,073-00-00,M,W,Virginia,heart failure,,J. F. Dean,not given,,friends,,7th ward,1899-12-28,I650,y
+8713,Mary,Nunley,,008-00-00,F,W,,scarlet fever,,N. A. Denton,not given,,friends,,6th ward,1899-12-27,N400,y
+8712,Edward,Swisher,,037-00-00,M,W,Austin,pulmonary tuberculosis,,F. Paschal,not given,,friends,,San Antonio,1899-12-26,S600,y
+8711,Doloris,Flores,,000-00-14,F,M,Austin,neglect,,R. S. Graves,lot 1,,city,,8th ward,1899-12-23,F462,y
+8710,Infant of Joe,Frongott,,000-00-00,M,W,Austin,Stillborn,,H. B. Granberry,,,friends,,10th ward,1899-12-22,F652,y
+8709,Chas.,Blake,,060-00-00,M,W,,heart failure,,M. M. Johnson,lot 5,,city,,Travis Co.,1899-12-20,B420,y
+8708,Helen C.,Donnon,,017-00-00,F,W,Austin,endocarditis,,H. C. Morrow,old graveyard,,friends,,3rd ward,1899-12-20,D500,y
+8707,Dan P.,Kinney,,067-00-00,M,W,,apoplexy,,H. B. Granberry,lot 862,,friends,,2nd ward,1899-12-16,K500,y
+8706,A,Hildinger,,006-00-00,M,W,Manor,diptheria,,Mat Smith,lot 1014,,friends,,6th ward,1899-12-15,H435,y
+8705,Infant James,Harvey,,000-00-00,M,W,Austin,Stillborn,,T. J. Bennett,,,friends,,,1899-12-14,H610,y
+8704,Infant,Bowden,,000-00-00,M,N,Austin,prenature,,J. H. Stevens,lot 50,,friends,,10th ward,1899-12-12,B350,y
+8703,Nora,Washington,,022-00-00,F,N,Austin,morphine poisoning,,M. M. Johnson,old graveyard,,friends,,first ward,1899-12-09,W252,y
+8702,Louise C.,Morris,,000-02-00,F,W,Austin,hoemphilia,,H. B. Hill,lot 1122,,friends,,6th ward,1899-12-09,M620,y
+8701,J. C.,Wright,,058-00-00,M,W,Virginia,consumption,,E. V. Hamilton,lot 6,,friends,,7th ward,1899-12-07,W623,y
+8700,Infant of S. F.,Kemper,,000-07-00,M,W,Austin,cholera infantum,,N. O. Brenizer,not given,,friends,,2nd ward,1899-12-04,K516,y
+8699,Ellen,Bell,,000-00-14,F,N,Austin,pertussis,,Frank Litten,old graveyard,,friends,,2nd ward,1899-12-03,B400,y
+8698,C. A.,Dohlich,,066-00-00,M,W,Germany,intestinal nephritis,,N. O. Brenizer,lot 1037,,friends,,5th ward,1899-12-03,D420,y
+8697,Mrs. Paul,Thornton,,050-00-00,F,W,,tubercular,,Joe Wooten,lot 741,,friends,,6th ward,1899-12-02,T653,y
+8664,Columbus,Martin,,000-02-00,F,W,Austin,Marasmus,,Frank Litten,,,city,,first ward,1899-12-02,M635,y
+8696,A. J.,Gallilee,,058-00-00,M,W,,head crushed,,M. M. Johnson,lot 862,,,(gardener),10th ward,1899-11-30,G400,y
+8695,(John J),Owlin,,050-00-00,M,W,,pneumonia,,S. H. Haigler,lot 977,,friends,,2nd ward,1899-11-28,O450,y
+8694,Alb D.,Musgrove,,002-00-00,M,W,,menengitis,,H. B. Granberry,lot 786,,friends,,10th ward,1899-11-27,M261,y
+8693,J. M.,Buroughs,,052-00-00,M,W,,pneumonia,,W. J. Mathews,lot 1066,,friends,,,1899-11-23,B620,y
+8692,Mrs. A. K.,Townsend,,060-00-00,F,W,"Waco, Tex",old age,,,Geo. D. Streeter,lot 505,,friends,"Waco, Tex",1899-11-17,T525,y
+8691,L. K.,Miller,,067-00-00,M,W,,apoplexy,,H. B. Hill,lot 512,,frienda,,Travis Co.,1899-11-14,M460,y
+8690,John A.,Well,,050-00-00,M,W,,bright's disease,,T. J. Bennett,lot 365,,friends,,7th ward,1899-11-13,W400,y
+8689,Sarah P.,Bailey,,065-00-00,F,W,,carcinoma,,A. N. Denton,lot 1137,,friends,,10th ward,1899-11-12,B400,y
+8688,Mrs. M. E.,Gravenor,,033-00-00,F,W,England,cardia marrasmus,,,lot 1137,,friends,,first ward,1899-11-07,G615,y
+8687,Mary N.,Weakley,,031-00-00,F,W,,,,H. B. Granberry,lot 1061,,friends,,6th ward,1899-11-06,W240,y
+8685,Ruth,Anderson,,007-00-00,F,W,Austin,septiceimia,,W. D. Gorton,not given,,friends,,6th ward,1899-11-03,A536,y
+8684,W. S.,Taylor,,007-00-00,F,W,,paralysis,,L. L. Lacy,lot 862,,friends,,Travis Co.,1899-11-02,T460,y
+8686,P.,Hansen,,071-00-00,M,W,Sweden,consumption,,E. V. Hamilton,lot 5,,city,,7th ward,1899-11-01,H525,y
+8683,J. A.,Wooldridge,,017-00-00,M,W,Austin,Gunshot Wound,,Joe Wooten,,,friends,,5th ward,1899-10-29,W436,y
+8682,Infant of A.,Swartz,,000-00-00,M,W,Austin,Stillborn,,J. F. Dean,,,city,,9th ward,1899-10-28,S632,y
+8681,Beatrice,Burton,,004-00-00,F,W,Austin,pneumonia,,W. J. Mathews,lot 578,,friends,,,1899-10-28,B635,y
+8680,Kittie,Lee,,019-00-00,F,W,,consumption,,R. S. Graves,lot 5,,city,,7th ward,1899-10-24,L000,y
+8679,Emma,Misham,,028-00-00,F,W,Austin,tubercular meningitis,,H. B. Hill,lot 1114,,friends,,3rd ward,1899-10-20,M250,y
+8678,John,"Reeves, Jr.",,006-00-00,M,N,Austin,tubucular menengitis,,Joe WOoten,not given,,friends,,4th ward,1899-10-18,R126,y
+8677,J. Leslie,Robinson,,020-00-00,M,W,,,,,lot 1084,,friends,,Travis Co.,1899-10-16,R152,y
+8676,Mrs. K. E.,Wertham,,071-00-00,F,W,,permeous fever,,W. P. Rhodes,lot 862,,friends,,6th ward,1899-10-16,W635,y
+8675,Cha.,Henbrice,,014-00-00,M,W,Bastrop,bead crushed,,J. A. Stuart,lot 6,,friends,,10th ward,1899-10-14,H516,y
+8674,Allick,Gazley,,002-00-00,F,W,Austin,diptheria,,Ralph Steiner,lot 834,,friends,,2nd ward,1899-10-13,G400,y
+8673,Beatrice,Kirk,,004-00-00,F,W,Austin,membranous croup,,F. L. Griffith,lot 1024,,friends,,2nd ward,1899-10-08,K620,y
+8672,Joe,Eidenchink,,000-06-00,M,W,Travis Co.,spasms,,R. S. Graves,lot 3,,friends,,Travis Co.,1899-09-29,E352,y
+8671,Infant,Pulliam,,000-01-00,M,W,Austin,heart disease,,H. C. Morrow,lot 518,,friends,,,1899-09-29,P450,y
+8670,Mrs. R. C.,Christmas,,067-00-00,F,W,,consumption,,T. J. Bennett,lot 427,,friends,,,1899-09-26,C623,y
+8669,Louis,Scheriding,,037-00-00,M,W,,cirrhosis of liver,,W. J. Mathews,lot 1106,,friends,,3rd ward,1899-09-24,S635,y
+8668,Theodosa,Lopez,,043-00-00,M,M,Mexico,disease of heart,,F. Litten,lot 1,,city,,10th ward,1899-09-23,L120,y
+8667,Matilda,Wallace,,077-00-00,F,N,,nervous exhaustion,,J. M. Litten,old graveyard,,friends,,Fort Prairie,1899-09-11,W420,y
+8666,J. D.,Dozey,,075-00-00,M,W,Missouri,disease of heart,,N. O. Brenizer,old graveyard,,friends,,4th ward,1899-09-07,D200,y
+8665,Infant of Sam,Levy,,000-00-00,M,W,Manor,Stillborn,,Dr. Field,,,friends,,"Manor, Texas",1899-09-07,L100,y
+8663,Chas.,Krohn,,082-00-00,M,W,,old age,,J. J. Gasser,lot 57,,friends,,5th ward,1899-09-03,K650,y
+8662,Antonio,Blumke,,072-00-00,M,W,Germany,nephritis,,H. B. Hill,lot 18,,friends,,7th ward,1899-09-02,B452,y
+8661,Myrtle,Stefens,,013-00-00,F,W,,,,,lot 862,,friends,,new 5th ward,1899-09-01,S315,y
+8660,Mrs. J. W.,Smith,,065-00-00,F,W,Austin,dysentery,,T. J. Bennett,lot 318,,friends,,new 5th ward,1899-09-01,S530,y
+8659,Arthur B.,Fenner,,083-00-00,M,W,NY,cancer,,J. R. Woods,lot 761,,friends,,Travis Co.,1899-08-27,F560,y
+8658,Mary,Fullenwider,,058-00-00,F,W,Texas,cerebral parisis,,F. M. McLaughlin,lot 349,,friends,,6th ward,1899-08-27,F453,y
+8657,Infant of Geo. S.,Burham,,000-00-00,M,W,Austin,premature birth,,F. Litten,lot 834,,friends,,10th ward,1899-08-22,B650,y
+8656,Infant of John,Belchner,,000-08-00,F,W,Austin,cholera infantum,,S. H. Haigler,lot 3,,city,,7th ward,1899-08-21,B425,y
+8655,Ester,Woods,,018-00-00,F,W,,puerpueral fever,,Neal Watt,lot 862,,friends,,7th ward,1899-08-21,W320,y
+8654,Cicil,Wayler,,000-09-00,F,W,Taylor,cholera infantum,,S. H. Haigler,lot 3,,city,,6th ward,1899-08-13,W460,y
+7803,Joe.,Gray,,055-00-00,M,W,Germany,alcoholism,,R. S. Graves,lot 5,,city,,7th warad,1899-08-07,G600,y
+7727,Mrs. Culen,Thomas,,027-00-00,F,W,Austin,,,,lot 1141,,friends,,"shift from Waco,Texas from Waco, Texas",1899-08-03,T520,y
+8653,Guadalupe,Santiann,,000-00-09,F,M,Austin,trismus nascertium,,S. H. Haigler,Lot 1,,city,,First ward,1899-08-02,S535,y
+8652,S. E.,Blackburn,,064-00-00,M,W,,Cerebral Hemorrhage,,Mat M. Smith,,,friends,,6th ward,1899-07-31,B421,y
+8651,Baby,Hunt,,000-04-00,F,W,Austin,tuberculosis,,W. A. Harper,lot 458,,friends,,4th ward,1899-07-31,H530,y
+8650,Miss Helen,Pressler,,030-00-00,F,W,Austin,consumption,,H. B. Granbury,lot 368,,friends,,10th ward,1899-07-29,P624,y
+8648,Al. J.,Mooney,,000-18-00,M,W,Austin,cholera infantum,,J. J. Gasser,lot 419,,friends,,7th ward,1899-07-22,M000,y
+8647,Mrs. B.,Redd,,032-00-00,F,W,Austin,acute gastritis,,W. J. Mathews,lot 1119,,friends,,11th ward,1899-07-21,R300,y
+8645,J. J.,Lane,,066-00-00,M,W,,apoplexy,,Tho Wooten & sons,lot 1102,,friends,,4th ward,1899-07-18,L500,y
+8644,C. H.,Jones,,084-00-00,M,W,,senile debility,,S. E. Hudson,lot 797,,friends,,7th ward,1899-07-16,J520,y
+8643,A. B.,McGill,,084-00-00,M,W,,heart failure,,J. A. Stuart,lot 247,,friends,,Travis Co.,1899-07-15,M240,y
+8642,Infant of John,Howard,,000-00-00,M,W,Austin,Stillborn,,Joe Wooten,,,city,,6th ward,1899-07-11,H630,y
+8641,Tom,Kenrick,,045-00-00,M,M,Mexico,dysentery,,R. S. Graves,lot 1,,city,,5th ward,1899-07-11,K562,y
+8640,Mary,Morris,,035-00-00,F,N,,certificate,,,old graveyard,,friends,,,1899-07-07,M620,y
+8639,Denson,Karlling,,000-02-00,M,W,Travis Co.,cholera infantum,,J. L. Dean,lot 513,,friends,,Travis Co.,1899-07-07,K645,y
+8649,F. T. D.,Grill,,000-02-00,M,W,Austin,entro colitis,,R. S. Graves,lot 3,,city,,10th ward,1899-07-02,G640,y
+8638,Steinner,Burleson,,006-00-00,M,W,Austin,spinal meningitis,,Ralph Steiner,lot 774,,friends,,first ward,1899-06-30,B642,y
+8637,James N.,Johnson,,030-00-00,M,W,Austin,gunshot wound,,,lot 107,,friends,,Galveston,1899-06-29,J525,y
+8636,Babe of Geo.,Millican,,000-00-00,F,W,Austin,premature birth,,F. Litten,old graveyard,,friends,,7th ward,1899-06-28,M425,y
+8635,Walter,Struve,,020-00-00,M,W,Austin,Unknown,,R. H. Cans,,,friends,,"from Taylor, Tex",1899-06-28,S361,y
+8634,Rob F.,Jackson,,057-00-00,M,W,,cirohisis of liver,,H. B. Granbury,lot 1083,,friends,,10th ward,1899-06-24,J500,y
+8633,Child of orphan home,N,,000-04-00,M,W,Austin,entro colitis,,R. S. Graves,lot 3,,city,,6th ward,1899-06-23,,y
+8632,Swanty,Palm,,084-00-00,M,W,Sweden,heart failure,,J. A. Stuart,not given,,friends,,3rd ward,1899-06-23,P450,y
+8631,Dr. Sam,Bosley,,052-00-00,M,W,La,typhoid mal fever,,W. D. Gorton,lot 525,,friends,,2nd ward,1899-06-23,B240,y
+8630,C. Baker,Smith,,000-00-14,M,W,Austin,cholera infantum,,Joe Wooten,lot 177,,friends,,7th ward,1899-06-23,S530,y
+8646,F. D.,Jenkins,,000-14-00,M,W,Austin,gastro enteritis,,H. B. Granbury,lot 976,,friends,,10th ward,1899-06-20,J525,y
+8628,Rosa,Jaerchke,,019-00-00,F,W,,acute ureaemia,,Joe Wooten,lot 518,,friends,,10th ward,1899-06-19,J620,y
+8629,Estelle,Canton,,000-13-00,F,M,Austin,gastro enteritis,,F. Litten,lot 1,,city,,first ward,1899-06-18,C535,y
+8627,J. H.,Kelmer,,033-00-00,M,W,"Brady, Tex",spinal meningitis,,A. N. Denton,lot 518,,friends,,10th ward,1899-06-16,K456,y
+8626,Infant,Westman,,000-00-00,F,W,Austin,premature birth,,W. A. Harper,old graveyard,,friends,,7th ward,1899-06-15,W235,y
+8625,Minnie,Cox,,000-18-00,F,W,Austin,marasmus,,L. L. Lacy,lot 518,,friends,,7th ward,1899-06-13,C000,y
+8624,Mrs. R. H.,Darter,,064-00-00,F,W,Missouri,gastro enteritis,,H. B. Granbury,old graveyard,,friends,,10th ward,1899-06-12,D636,y
+8623,William,Flatt,,065-00-00,M,W,Germany,heart disease,,E. V. Hamilton,lot 518,,friends,,7th ward,1899-06-09,F430,y
+8622,Margurite,Messer,,003-00-00,F,W,Austin,diptheria,,Joe Wooten,lot144,,friends,,7th ward,1899-06-06,M260,y
+8621,John,Staford,,075-00-00,M,W,England,conia,,C. O. Weller,lot 977,,friends,,9th ward,1899-06-04,S316,y
+8620,Hugh,Barton,,082-00-00,M,W,,chronic hlio colitis,,G. D. Williams,lot 773,,,,from Bastrop Co.,1899-06-04,B635,y
+8619,Mrs. Elizabeth,Ford,,057-00-00,F,W,,portusouption of bowels,,N. O. Brinzer,lot 1143,,friends,,11th ward,1899-06-03,F630,y
+8618,Infant,Wright,,000-06-00,M,W,,gastro enteritis,,H. B. Granbury,lot 3,,city,,9th ward,1899-06-01,W623,y
+8617,Child of orphan home,N,,000-01-00,M,W,Austin,cholera infantum,,Joe Wooten,lot 3,,city,,,1899-05-31,,y
+8616,Effie Idella,Brust,,003-00-00,F,W,Austin,cholera infantum,,F. Litten,lot 3,,city,,first ward,1899-05-30,B623,y
+8615,Infant of Mary,Allen,,000-00-00,F,W,Austin,still boen,,R. S. Graves,lot 3,,city,,first ward,1899-05-30,A450,y
+8614,Juan,Ibarra,,000-11-00,M,M,"Goforth, Tex",measles,,E. V. Hamilton,lot 1,,city,,2nd ward,1899-05-30,I160,y
+8613,Guadalupe,Saiz,,024-00-00,M,M,Mexico,Asthma,,F. Litten,lot 1,,city,,first ward,1899-05-28,S000,y
+8612,Hellena,Rosendritt,,000-03-00,F,W,Austin,inanition,,H. C. Morrow,lot 88,,,,Travis Co.,1899-05-26,R253,y
+8611,George,Shaw,,032-00-00,M,N,Austin,cerebral menningitis,,E. J. Adams,old graveyard,,friends,,from Chicago,1899-05-26,S000,y
+8610,James B.,Elmore,,000-01-00,M,N,Austin,smothering,,M. M. Johnson,not given,,friends,,7th ward,1899-05-25,E456,y
+8609,Ernest,Carlstrom,,000-01-00,M,W,Austin,c....... infantum,,E. V. Hamilton,lot 834,,friends,,7th ward,1899-05-25,C642,y
+8608,Annie,Bull,,000-11-00,F,W,Austin,entro colitis,,T. J. Bennett,lot 335,friends,,,6th ward,1899-05-24,B400,y
+8607,Davul B.,Houston,,000-18-00,M,W,Austin,dysentery and measles,,H. B. Hill,lot 206,,friends,,5th ward,1899-05-23,H235,y
+8606,Alf.,Grooms,,079-00-00,M,W,KY,bladder and kidney disease,,F. Litten,lot 6,,city,,11 th ward,1899-05-22,G652,y
+8605,Frider,Erken,,005-00-00,F,W,,typhoid fever,,H. B. Granbury,lot 6,,city,,11th ward,1899-05-21,E625,y
+8604,John F.,Ohenrine,,000-00-06,M,W,Austin,hooping cough,,H. B. Hill,lot 822,,city,,7th ward,1899-05-20,O565,y
+8603,James Harry,King,,000-00-06,M,W,Austin,croup,,E. V. Hamilton,lot 3,,city,,5th ward,1899-05-20,K520,y
+8602,Beta,Brages,,005-00-00,F,M,"Manor, Tex",entrocolitis,,W. A. Harper,lot 1,,city,,9th ward,1899-05-20,B620,y
+8601,Dadoss,Luniga,,000-09-00,M,M,Ausitn,cholera infantum,,F. Litten,lot 1,,city,,first ward,1899-05-19,L520,y
+8600,Alvisa,deLarasa,,000-02-00,F,M,Austin,entrocolitis,,W. A. Harper,lot 1,,city,,first ward,1899-05-19,D462,y
+8599,J. R.,"Curl, Jr.",,000-22-00,M,W,Austin,infantile convulsions,,T. J. Bennett,lot 1029,,friends,,7th ward,1899-05-18,C642,y
+8598,George,Warren,,079-00-00,M,W,N.H.,cystitis and prostae,,H. B. Hill,lot 772,,friends,,4th ward,1899-05-16,W650,y
+8597,Santiago,Balliss,,000-08-00,M,M,Lockhart,diptheria,,Neal Watt,lot 1,,city,,7th ward,1899-05-15,B420,y
+8596,H. N.,Jerrgenson,,077-00-00,M,W,Germany,larngrigial,,J. S. Wooten,old graveyard,,friends,,4th ward,1899-05-15,J625,y
+8595,Rev. W. D.,Reverty,,073-00-00,M,W,South Carolina,dysentery,,T. J. Bennett,lot 1018,,friends,,6th ward,1899-05-13,R163,y
+8594,Chas,Schnarzer,,000-06-00,m,w,Austin,chronic dysentery,,G. H. Wooten,lot 578,,friends,,5th ward,1899-05-13,S562,y
+8593,Marsa,Jackson,,002-00-00,F,W,,entro colitis,,T. R. Pettway,lot 1076,,friends,,11th ward,1899-05-12,J500,y
+8592,Augusta P.,Jonah,,047-00-00,F,W,Germany,Cerebral Hemorrhage,,Joe Wooten,,,friends,,6th ward,1899-05-11,J500,y
+8591,James,Harris,,003-00-00,M,N,Austin,convulsions,,J. H. Stevens,not given,,friends,,10th ward,1899-05-09,H620,y
+8590,Olga,Bustian,,021-00-00,F,W,Austin,Puerpueral Hemorrhage,,H. B. Granbury,,,friends,,5th ward,1899-05-08,B235,y
+8589,Jacob,Hilldinger,,002-00-00,M,W,Austin,entro colitis,,Mat. Smith,lot 1014,,friends,,6th ward,1899-05-07,H435,y
+8588,Infant of F.,Doughty,,000-06-00,F,W,Austin,dysentery,,H. B. Hill,lot 434,,friends,,4th ward,1899-05-07,D230,y
+8587,Infant of F.,Doughty,,000-06-00,M,W,Austin,intestinal inflamation,,H. B. Hill,lot 434,,friends,,4th ward,1899-05-05,D230,y
+8586,Infant,Morris,,000-04-00,M,W,Austin,inflamation of bowels,,R. S. Graves,lot 2,,city,,6th ward,1899-05-05,M620,y
+8585,Joe,(Mexican),,046-00-00,M,M,Mexico,rheumatism,,,lot 1,,city,,7th ward,1899-05-04,(525,y
+8584,Mrs. C. V.,Taylor,,026-00-00,F,W,,consumption,,R. S. Graves,lot 5,,city,,7th ward,1899-05-04,T460,y
+8583,Miss Rebecca,Smith,,054-00-00,F,W,,measles,,H. B. Granbury,lot 862 (962),,friends,,10th ward,1899-05-03,S530,y
+8582,Baby from orphan home,N,,000-04-00,F,W,Austin,cholera infantum,,R. S. Graves,lot 2,,city,,6th ward,1899-05-02,,y
+8581,Maggie,Lozano,,000-17-00,F,W,Austin,inanition and measels,,F. L. Lightfoot,lot 2,,friends,,2nd ward,1899-05-02,L250,y
+8580,Jacob,Ewing,,037-00-00,M,W,,chronic nephritis,,Joe Wooten,lot 979,,friends,,2nd ward,1899-05-01,E520,y
+8579,Mary Ida,Bintliff,,000-07-00,F,W,Austin,marasmus,,W. J. Mathews,lot 1084,,friends,,10th ward,1899-04-30,B534,y
+8578,Debortia,Lopez,,000-08-00,F,M,Austin,measles,,R. S. Graves,lot 1,,city,,first ward,1899-04-30,L120,y
+8577,H. A.,Schluter,,000-06-00,M,W,Austin,tubucular menengitis,,J. J. Gasser,lot 2,,friends,,6th ward,1899-04-28,S436,y
+8576,Olga,Benson,,001-00-00,F,W,Travis Co.,entro colitis,,T. J. Bennett,lot 977,,friends,,5th ward,1899-04-28,B525,y
+8575,Hannah,Jacobson,,047-00-00,F,W,Sweden,cancer of stomach,,T. J. Bennett,lot 518,,friends,,6th ward,1899-04-27,J125,y
+8574,David,Davis,,009-00-00,M,W,Austin,epilepsy,,C. O. Weller,lot 1000,,friends,,4th ward,1899-04-26,D120,y
+8573,J. A.,Foster,,056-00-00,M,W,,heart disease,,M. M. Johnson,lot 5,,city,,8th ward,1899-04-24,F236,y
+8572,Cht.,Sickert,,054-00-00,F,W,Germany,disease of heart,,Joe Wooten,lot 862,,friends,,5th ward,1899-04-23,S630,y
+8571,Hertha,Lenshon,,017-00-00,F,W,Austin,tuber mesentorica,,Tho D. Wooten,lot 120,,friends,,7th ward,1899-04-23,L525,y
+8570,Infant of Harvy,Maddox,,000-00-01,M,W,Austin,Cerebral Hemorrhage,,H. B. Granbury,,,friends,,3rd ward,1899-04-23,M320,y
+8569,Mexican Pauper,N,,028-00-00,M,M,Mexico,gunshot wound,,R. S. Graves,lot 1,,city,,Bluff Springs,1899-04-23,,y
+8568,Sallie,Wroe,,072-00-00,F,W,,debility,,G. H. Wooten,lot 979,,friends,,9th ward,1899-04-22,W600,y
+8567,Ellen V.,Cater,,023-00-00,F,W,Austin,puerpueral eclampsia,,F. Litten,old graveyard,,friends,,8th ward,1899-04-19,C360,y
+8566,Gladdis,Tallie,,000-10-00,F,N,Austin,catrh of stomach,,E. W. D. Abner,not given,,friends,,8th ward,1899-04-19,T400,y
+8565,Mary A.,Payne,,064-00-00,F,W,Vermont,pneumonia,,F. Paschal,lot 44,,friends,,San Antonio,1899-04-19,P500,y
+8564,Infant of W. G.,Johnson,,000-00-00,F,W,Austin,Stillborn,,F. Litten,,,friends,,,1899-04-19,J525,y
+8563,Allaid,Ballis,,000-21-00,F,M,Lockhart,membranous croup,,R. S. Graves,lot 1,,city,,10th ward,1899-04-14,B420,y
+8562,Infant of Cha,Buck,,000-06-00,M,W,Travis Co.,convulsions,,J. J. Gasser,lot 3,,friends,,Travis Co.,1899-04-14,B200,y
+8561,Mrs. C. A.,Jensen,,044-00-00,F,W,Georgis,Cerebral Hemorrhage,,G. H. Wooten,,,friends,,7th ward,1899-04-10,J525,y
+8559,Francisco,Crinz,,065-00-00,M,M,Mexico,pneumonia,,H. B. Granbury,lot 1,,city,,first ward,1899-04-05,C652,y
+8558,E. H.,Finck,,037-00-00,M,W,San Antonio,Hemorrhage of lungs,,R. S. Graves,,,friends,,Travis Co.,1899-04-03,F520,y
+8557,W. H.,Randolph,,064-00-00,M,W,,strangulated hernia,,N. O. Brenizer,lot 1038,,friends,,5th ward,1899-04-02,R534,y
+8556,Robert J.,Hill,,049-00-00,M,W,,pneumonia,,N. O. Brenizer,lot 312,,friends,,,1899-04-02,H400,y
+8555,Marie,Pittman,,021-00-00,F,W,Austin,consumption,,E. V. Hamilton,lot 5,,city,,7th ward,1899-03-30,P350,y
+8554,R.,Milhey,,041-00-00,F,W,Tenn,arsenic poisoning,,J. A. Stuart,lot 5,,city,,7th ward,1899-03-29,M400,y
+8553,Mrs. E. A.,Wheeler,,066-00-00,F,W,,gall stone,,W. A. Harper,lot 1103,,friends,,Travis Co.,1899-03-28,W460,y
+8552,W. S.,Isherwood,,072-00-00,M,W,,nephritis,,N. O. Brenizer,lot 506,,friends,,7th ward,1899-03-27,I263,y
+8551,Mrs. O. B.,Rossler,,065-00-00,F,W,,Unknown,,,,,friends,,,1899-03-27,R246,y
+8550,Sam,"Mason, Sr.",,086-00-00,M,N,Tenn,,,,old graveyard,,friends,,10th ward,1899-03-23,M252,y
+8549,Infant of Jeff,Bunton,,000-00-00,F,N,Austin,Stillborn,,Joe Wooten,,,friends,,7th ward,1899-03-23,B535,y
+8548,Pablo,Cacares,,028-00-00,M,M,Mexico,tuberculosis,,Joe Wooten,lot 977,,friends,,,1899-03-23,C620,y
+8547,Elentin,Caborra,,060-00-00,F,M,Mexico,consumption,,H. B. Granbury,lot 1,,city,,,1899-03-21,C160,y
+8546,John,Story,,056-00-00,M,W,Georgia,pneumonia,,N. O. Brenizer,not given,,,,,1899-03-20,S360,y
+8545,Alvine,Murine,,002-00-00,F,W,San Antonio,pneumonia,,H. B. Granbury,lot 822,,friends,,10th ward,1899-03-20,M650,y
+8544,Mrs. M.,Douglas,,081-00-00,F,W,,Unknown,,,,,,,no information,1899-03-19,D242,y
+8543,Thom (infant of?),Miller,,000-07-00,M,W,Austin,menengitis,,H. B. Granbury,lot 22,,friends,,9th ward,1899-03-17,M460,y
+8542,Elnora,Lesser,,057-00-00,F,W,Germany,pneumonia,,J. J. Gasser,lot 402,,friends,,6th ward,1899-03-17,L260,y
+8541,Infant of Cora,Plumb,,000-00-00,F,W,Austin,Stillborn,,R. S. Graves,,,friends,,7th ward,1899-03-16,P451,y
+8540,George,Brice,,033-00-00,M,N,Austin,pneumonia,,F. Litten,lot 52,,friends,,7th ward,1899-03-15,B620,y
+8539,Bessie,Beck,,000-18-00,F,W,Austin,hooping cough,,H. B. Hill,lot 792,,friends,,6th ward,1899-03-15,B200,y
+8538,Frank,Desmond,,050-00-00,M,W,,strichnine poisoning,,M. M. Johnson,lot 5,,city,,2nd ward,1899-03-12,D253,y
+8537,Margaret,Schimis,,040-00-00,F,W,,paralysis,,E. V. Hamilton,lot 5,,city,,7th ward,1899-03-11,S520,y
+8560,Calley,Montgomery,,045-00-00,F,W,Austin,tubercolisis,,D. H. Huffaker,lot 333,,friends,,El Paso,1899-03-10,M325,y
+8536,W. J.,Montgomery,,066-00-00,M,W,,consumption,,F. P. McLaughlin,lot742,,friends,,3rd ward,1899-03-10,M325,y
+8535,Mrs. E. E.,Craven,,075-00-00,F,W,,Lagrippe,,F. P. McLaughlin,lot 396,,friends,,10th ward,1899-03-08,C615,y
+8534,Abraham,Tinnin,,094-00-00,M,N,,senility,,F. LItten,old graveyard,,friends,,9th ward,1899-03-06,T500,y
+8533,E. G.,Mayfield,,023-00-00,M,W,Travis Co,Hoagkis disease (Hodgkiss),,Joe Wooten,old graveyard,,friends,,,1899-03-02,M143,y
+8532,Tom,King,,030-00-00,M,W,,blood poisoning,,E. V. Hamilton,not given,,city,,7th ward,1899-03-02,K520,y
+8531,Mrs.,Bountwell,,053-00-00,F,W,,ulcer of liver,,E. V. Hamilton,lot 5,,city,,7th ward,1899-03-01,B534,y
+8530,Max H.,Voight,,032-00-00,M,W,,phthisis pulmonalis,,Ralph Steiner,lot 940,,friends,,6th ward,1899-03-01,V230,y
+8529,Linnie,Kippenbrock,,028-00-00,F,W,,,,,,,,,,1899-02-27,K151,y
+8528,Richard,Hemphill,,070-00-00,M,N,Ky,pneumonia,,F. Litten,old graveyard,,friends,,8th ward,1899-02-26,H514,y
+8527,J. M.,Hanhart,,029-00-00,M,W,,acute nephritis,,G. H. Wooten,lot 940,,friends,,10th ward,1899-02-26,H563,y
+8525,L. L.,Jackson,,036-00-00,M,W,,Ce She Menengitis,,F. P. McLaughlin,lot 819,,friends,,first ward,1899-02-24,J500,y
+8524,Fanny Lille,Carly,,058-00-00,F,W,,carcinoma of liver,,J. J. Gasser,lot 366,,friends,,7th ward,1899-02-19,C640,y
+8523,J. M.,Vanderhurst,,038-00-00,M,E,,tubucular menengitis,,F. M. McLaughlin,lot 118,,friends,,,1899-02-18,V536,y
+8522,Fred,Brown,,066-00-00,M,W,,rheumatism of heart,,J. J. Gasser,lot 418,,friends,,2nd ward,1899-02-17,B650,y
+8526,Geo.,Shenon,,037-00-00,M,W,,pneumonia,,M. M. Smith,lot 940,,friends,,10th ward,1899-02-16,S500,y
+8521,Walter A.,Cook,,012-00-00,M,W,,traumatic peretorutis,,H. B. Granbury,lot 976,,friends,,8th ward,1899-02-16,C000,y
+8520,Tom,Tarry,,022-00-00,M,W,Texas,bronchitis,,E. V. Hamilton,lot 2,,city,,7th ward,1899-02-16,T600,y
+8519,Miss C. H.,Stricklin,,054-00-00,F,W,,heart disease,,F. A. Maxwell,lot 1083,,friends,,Travis Co.,1899-02-15,S362,y
+8518,W. M.,May,,052-00-00,F,W,,cancer,,H. B. Granbury,lot 954,,friends,,first ward,1899-02-15,M000,y
+8517,Fred,White,,067-00-00,M,N,,old age,,,,,friends,,5th ward,1899-02-14,W300,y
+8516,P. J.,Spicer,,046-00-00,M,W,Tennessee,,,F. Litten,old graveyard,,friends,,9th ward,1899-02-14,S126,y
+8515,C. V.,Taylor,,024-00-00,M,W,Florida,phthisis pulmonalis,,R. S. Graves,lot 2,,city,,10th ward,1899-02-12,T460,y
+8514,Annie W.,Hopkins,,075-00-00,F,W,,entro colitis,,G. H. Wooten,lot 1077,,friends,,,1899-02-11,H125,y
+8513,J. H.,Kuykendall,,035-00-00,M,W,,statis epiteldicus,,Frank M. Roos,lot 977,,friends,,,1899-02-09,K534,y
+8512,John,Stringer,,053-00-00,M,W,,consumption,,B. M. Worhsam,lot 331,,friends,,6th ward,1899-02-08,S365,y
+8511,Jacob,Klein,,051-00-00,M,W,tumor of brain,F. P. McLaughlin,,lot 30,,,friends,,2nd ward,1899-02-07,K450,y
+8510,John P.,Klein,,036-00-00,M,W,Hays Co.,heart disease,,M. M. Johnson,lot 546,,friends,,Travis Co.,1899-02-03,K450,y
+8509,B. H. (Benjamin),Smith,,051-00-00,M,W,,exhaustion,,B. M. Worsham,lot 871,,friends,,,1899-02-01,S530,y
+8508,John C.,Williams,,040-00-00,M,N,,cirrhosis of liver,,E. Mussina,old graveyard,,friends,,,1899-01-31,W452,y
+8507,infant of John,Reeves,,000-00-00,F,N,Austin,Stillborn,,Joe Wooten,,,friends,,4th ward,1899-01-31,R120,y
+8506,Ellen,Watrous,,037-00-00,F,N,Austin,cancer of uterus,,J. H. Stevens,old graveyard,,friends,,8th ward,1899-01-22,W362,y
+8505,Fannie E.,Lewis,,060-00-00,F,W,,tuberculosis pulmonary,,G. H. Wooten,lot 970,,friends,,8th ward,1899-01-22,L200,y
+8504,W. A.,Hornady,,000-05-00,M,W,Austin,Lagrippe,,Joe Wooten,lot 427,,friends,,7th ward,1899-01-22,H653,y
+8503,Daniel,Lamont,,088-00-00,M,W,Ireland,old age,,J. J. Gasser,lot 366,,friends,,7th ward,1899-01-20,L530,y
+8502,Joseph E.,Stanton,,000-16-00,M,W,Austin,Lagrippe,,J. J. Jones,lot 345,,friends,,2nd ward,1899-01-20,S353,y
+8501,Joseph,Baldwin,,071-00-00,M,W,,,,,lot 783,,friends,,6th ward,1899-01-16,B435,y
+8500,J. H.,Denson,,026-00-00,M,W,Texas,Gunshot Wound,,M. M. Johnson,,,friends,,first ward,1899-01-10,D525,y
+8499,Alb. A.,Heafner,,006-00-00,M,W,Austin,typhoid fever,,J. J. Gasser,lot 796,,friends,,10th ward,1899-01-09,H156,y
+8498,F. M.,Williams,,058-00-00,M,W,Ky,heart disease,,E. V. Hamilton,lot 2,,city,,7th ward,1899-01-06,W452,y
+8497,Mrs. Amilia,Finch,,071-00-00,F,W,,phthisis pulmonalis,,N. O. Brenizer,lot 534,,friends,,6th ward,1899-01-04,F520,y
+8496,J. A.,Hall,,070-00-00,F,W,,,,,lot 796,,friends,,"remains from Floresville, Tx",1899-01-03,H400,y
+8495,Phoebe,Strain,,050-00-00,F,N,Virginia,neuralgia of heart,,M. M. Johnson,lot 50,,friends,,8th ward,1899-01-01,S365,y
+8494,Martha,Thomas,,064-00-00,F,N,AK,paralysis,,F. Litten,lot 94,,friends,,10th ward,1898-12-30,T520,y
+8094,J. S.,Anderson,,067-00-00,M,W,,la grippe,,J. J. Jones,State Cemetery,,friends,,2nd ward (confederate home),1898-12-30,A536,y
+8493,Sarah J.,Bray,,054-00-00,F,W,Tenn,consumption,,Neal Watt,lot 422,,friends,,7th ward,1898-12-29,B600,y
+8492,W. M.,Munch,,035-00-00,M,W,Germany,alcohol poison,,J. A. Stuart,lot 2,,city,,3rd ward,1898-12-28,M200,y
+8491,Louisa,Brown,,028-00-00,F,W,AK,consumption,,M. M. Johnson,lot 940,,friends,,9th ward,1898-12-28,B650,y
+8490,W. D.,Moore,,050-00-00,M,W,,Lagrippe,,S. E. Hudson,lot 862,,friends,,7th ward,1898-12-25,M600,y
+8489,Mrs. E. E.,Kirby,,067-00-00,F,W,,,,F. R. Pettway,lot 270,,friends,,11th ward,1898-12-22,K610,y
+8487,Jake,Fountain,,071-00-00,M,W,Virginia,senile phthisis,,N. O. Brenizer,old graveyard,,friends,,7th ward,1898-12-19,F535,y
+8486,John S.,Moffatt,,054-00-00,M,W,NY,chronic entrecolitis,,G. H. Wooten,lot 866,,friends,(sign painter),6th ward,1898-12-18,M130,y
+8485,Infant of J.,Brown,,000-00-00,F,N,Austin,Stillborn,,J. J. Gasser,,,friends,,7th ward,1898-12-18,B650,y
+8484,Sadie,Spann,,018-00-00,F,W,,typhoid fever,,F. P. McLaughlin,lot 820,,friends,,7th ward,1898-12-17,S150,y
+8482,Mary,Duffau,,069-00-00,F,W,,valular disease of heart,,G. H. Wooten,old graveyard,,friends,,5th ward,1898-12-16,D100,y
+8481,Waldo,Graves,,000-06-00,M,W,Austin,heart failure,,W. J. Matthews,lot 425,,friends,,6th ward,1898-12-16,G612,y
+8480,Nola,Schulze,,000-01-00,F,W,Austin,inanition,,J. J. Gasser,lot 427,,friends,,3rd ward,1898-12-15,S420,y
+8488,Lawrence,Kendsen,,022-00-00,M,W,Ill,consumption,,H. B. Granbury,lot 821,,friends,,10th ward,1898-12-12,K532,y
+8479,Richard,Schieffer,,043-00-00,M,W,Texas,Gunshot Wound,,J. S. Sturt,,,friends,,6th ward,1898-12-11,S160,y
+8478,J. G.,Thielepape,,084-00-00,M,W,Germany,senile phthisis,,N. O. Brenizer,lot 88,,friends,,,1898-12-05,T410,y
+8477,Dr. Joseph,Wright,,100-00-00,M,W,North Car.,old age,,James H. Gibson,lot 291,,friends,,Travis Co.,1898-12-05,W623,y
+8476,Frist,Benes,,003-00-00,M,W,Austin,hepotic congestion,,E. Mussina,lot 806,,friends,,10th ward,1898-12-04,B520,y
+8475,Cuca,Murildo,,048-00-00,F,M,Mexico,congestions of brain,,R. S. Graves,lot 1,,city,,first ward,1898-12-01,M643,y
+8474,Franklin K.,Evants,,026-00-00,M,W,Tennessee,heart & liver disease,,M. A. Taylor,lot 300,friends,,,3rd ward,1898-11-30,E153,y
+8473,D. H.,Farr,,076-00-00,M,W,,old age,,R. A. McCall,lot 432,,friends,,"Ennis, Tex",1898-11-30,F600,y
+8472,Jennie,Seiders,,006-00-00,F,W,Austin,capilary bronchitis,,B. M. Worsham,lot 792,,friends,,5th ward,1898-11-29,S362,y
+8471,James,Owens,,023-00-00,M,N,Austin,peritonitis,,C. O. Weller,old graveyard,,friends,,6th ward,1898-11-29,O520,y
+8470,Malinda,Murphy,,030-00-00,F,W,Austin,heart failure,,J. C. Egan,lot 158,,friends,,La,1898-11-29,M610,y
+8469,Ella,Maas,,023-00-00,F,W,Austin,phthisis pulmonalis,,Ralph Steiner,old graveyard,,friends,,5th ward,1898-11-28,M200,y
+8467,W. A.,Taliafero,,037-00-00,M,W,,,,,,,,,7th ward,1898-11-27,T416,y
+8466,Infant of Annie,Kallgren,,000-00-00,F,W,Austin,Stillborn,,Joe Wooten,,,friends,,7th ward,1898-11-26,K426,y
+8465,Unknown Mexican,N,,040-00-00,M,M,Mexico,killed by R R train,,Mat Johnson,lot 1,,city,,Travis Co,1898-11-26,,y
+8464,Dan,Thomas,,045-00-00,M,F,,consumption,,E. V. Hamilton,lot 2,,city,,7th ward,1898-11-23,T520,y
+8463,Miss Della,Swanzy,,050-00-00,F,W,Miss,carcinoma of uterus,,Frank Litten,lot 718,,friends,,7th ward,1898-11-22,S520,y
+8462,K. P.,Archer,,072-00-00,M,W,,exhaustion,,B. M. Worsham,lot 821,,friends,,6th ward,1898-11-20,A626,y
+8461,Viola,Bickler,,012-00-00,F,W,Austin,eryoipilas,,N. O. Brinzer,lot 821,,friends,,6th ward,1898-11-19,B246,y
+8460,Will P.,Gammel,,007-00-00,M,W,Austin,diptheria,,O. V. Brinizer,lot 99,friends,,,6th ward,1898-11-17,G540,y
+8483,Ellen,Smith,,011-00-00,F,W,Austin,pneumonia,,F. Litten,lot 503,,friends,,3rd ward,1898-11-16,S530,y
+8459,Infant,Pio,,000-00-07,M,W,Austin,croup,,Joe Wooten,lot 384,,friends,,2nd ward,1898-11-12,P000,y
+8458,Carlotta T.,Dunlap,,002-00-00,F,W,Austin,brain fever,,W. A. Harper,lot 1,,friends,,Ark,1898-11-10,D541,y
+8457,Eugene,Flishman,,032-00-00,M,W,"Houston, Tex",heart disease,,J. A. Stuart,lot 522,,friends,,10th ward,1898-11-09,F425,y
+8455,Infant,Gerard,,000-00-0,F,W,Austin,Stillborn,,H. G. Granbury,,,friends,,3rd ward,1898-11-02,G630,y
+8454,Infant of S.,Primer,,000-00-00,M,W,Austin,Stillborn,,G. H. Wooten,,,friends,,6th ward,1898-11-02,P656,y
+8453,John,Powell,,026-00-00,M,W,,consumption,,H. B. Hadra,lot 821,,friends,,San Antonio,1898-11-02,P400,y
+8456,Mrs. W. L.,Tagne,,043-00-00,F,W,,consumption,,E. V. Hamilton,lot 6,,friends,,9th ward,1898-11-01,T250,y
+8398,Miss M. L. B. H.,McHenry,,024-00-00,F,W,Texas,pulmonary phthisis,,W. D. Gorton,lot 1083,,friends,,6th ward,1898-11-01,M256,y
+8452,Carrie,Scott,,052-00-00,F,N,,cancer of womb,,J. H. Stevens,old graveyard,,friends,,7th ward,1898-10-31,S300,y
+8451,A. L.,Wheless,,027-00-00,M,W,Ill,tuberculosis,,A. N. Denton,lot 1103,,friends,,county,1898-10-30,W420,y
+8450,Infant of Ella,Horst,,000-00-00,F,W,Austin,Stillborn,,J. H. Stevens,,,friends,,7th ward,1898-10-28,H623,y
+8449,Infant of C. G.,Frenzel,,000-00-0,F,W,Austin,Stillborn,,J. S. Wooten,,,friends,,(C. Gustav)5th ward,1898-10-28,F652,y
+8448,Minnie,Empey,,040-00-00,F,W,,septmania,,E. V. Hamilton,lot 411,,friends,,9th ward,1898-10-25,E510,y
+8447,Lisitta (Elizabeth),Heirman,,087-00-00,F,W,Germany,old age,,J. J. Gasser,lot 955,,friends,,8th ward,1898-10-24,H650,y
+8446,Pas,Hernandez,,000-00-04,M,M,Austin,tetanus,,Frank Litten,lot 1,,city,,first ward,1898-10-24,H653,y
+8445,Infant of Charly,Winn,,000-00-0,M,W,Austin,premature birth,,J. P. Cleaver,lot 306,friends,,,7th ward,1898-10-23,W500,y
+8444,Infant of August,Gevin,,000-00-00,M,W,Austin,Stillborn,,R. S. Graves,,,friends,,4th ward,1898-10-23,G150,y
+8443,Fannie O.,Lewis,,026-00-00,F,W,,tuberculosis,,G. H. Wooten,lot 970,,friends,,7th ward,1898-10-22,L200,y
+8442,R. E.,Kane,,030-00-00,M,W,,consumption,,Neal Watt,lot 411,,friends,,10th ward,1898-10-21,K500,y
+8441,Nannie,Wilson,,018-00-00,F,W,not given,gastro enteritis,,S. E. Hudson,lot 112,,friends,,9th ward,1898-10-20,W425,y
+8440,Beatrice,Brown,,007-00-00,F,N,Austin,paralysis,,J. H. Stevens,old graveyard,,friends,,8th ward,1898-10-19,B650,y
+8439,Mrs. Mary,Moutha,,075-00-00,F,W,Sweden,senility rheumatism,,H. B. Granbury,lot 423,,friends,,4th ward,1898-10-17,M300,y
+8438,E. H.,Teague,,033-00-00,M,W,,,,Frank Litten,lot 954,,friends,,first ward,1898-10-13,T200,y
+8437,Caroline A.,Brown,,066-00-00,F,W,,,,Neal Watt,lot 970,,friends,,Travis Co.,1898-10-12,B650,y
+8211,S. M.,Craig,,050-00-00,M,w,not given,consumption,,F. O. Maxwell,lot 188,lot 511,,friends,6th ward,1898-10-07,C620,y
+8146,J. M.,Stokes,,042-00-00,M,W,Miss,Cerebral Hemorrhage,,E. V. Hamilton,,,city,,7th ward,1898-10-04,S320,y
+8231,Geo. P.,Bannaman,,054-00-00,M,W,Scotland,pneumonia,,E. V. Hamilton,lot 1023,,friends,,7th ward,1898-10-02,B500,y
+8436,Mrs. E. B.,Millican,,053-00-00,F,W,,paralysis,,R. O. Smith,lot 2,,friends,,from Lampasas,1898-09-30,M425,y
+8435,Unknown Man,N,,060-00-00,M,W,,killed by R R train,,M. M. Johnson,lot 2,,city,,from county,1898-09-30,,y
+8434,Infant of Hill,Ballinger,,000-00-05,F,W,Austin,trismus nascertum,,S. E. Hudson,lot 1036,,friends,,7th ward,1898-09-30,B452,y
+8433,George,Proctor,,023-00-00,M,W,Ark,dysentery,,E. W. Davis,lot 1046,,friends,,,1898-09-28,P623,y
+8432,Miles,Smith,,035-00-00,M,N,Austin,consumption,,H. N. Granbury,lot 49,,friends,,10th ward,1898-09-26,S530,y
+8431,A. G.,Luck,,079-00-00,M,W,Germany,carcinoma of liver,,J. J. Gasser,lot 17,,friends,,first ward,1898-09-25,L200,y
+8430,Miss Ethel B.,Ford,,021-00-00,F,W,,chronic endecorditis,,G. H. Wooten,not given,,friends,,6th ward,1898-09-21,F630,y
+8429,Miss Emma J.,Hoge,,029-00-00,F,W,Ky,tubercolisis,,H. B. Hill,not given,,friends,(teacher),11th ward,1898-09-21,H200,y
+8428,Elizabeth,Henkes,,040-00-00,F,W,,morphine poisoning,,J. A. Stuart,not given,,friends,,first ward,1898-09-18,H520,y
+8427,Christiana,Babcock,,057-00-00,F,W,Ill,apoplexy,,E. Mussina,lot 1030,,friends,,7th ward,1898-09-14,B200,y
+8426,Mrs. A. E.,Davis,,065-00-00,F,W,,exhauston of (can't read),,B. M. Worsham,lot 954,,friends,,6th ward,1898-09-06,D120,y
+8425,John F.,Knape,,025-00-00,M,W,Germany,apoplexy,,R. S. Graves,lot 761,,city,,8th ward,1898-09-05,K510,y
+8424,Pricilla,Johnson,,056-00-00,F,N,Virginia,physical exhaustion,,E. W. D. Abner,old graveyard,,friends,,7th ward,1898-09-02,J525,y
+8423,Preston,Brown,,023-00-00,M,W,Bastrop Co.,obstruction,,W. A. Harper,lot 2,,city,,2nd ward,1898-09-01,B650,y
+8422,E. B.,McColough,,030-00-00,M,W,,,,,lot 782,,friends,,"from Navasota, Texas",1898-08-30,M242,y
+8421,Dan. A.,Bostick,,036-00-00,M,W,Austin,phthisis pulmonalis,,Frank Litten,lot 19,,friends,,5th ward,1898-08-30,B232,y
+8420,J. P.,Brodin,,002-00-00,M,W,Austin,gastro enteritis,,E. V. Hamilton,lot 834,,friends,,10th ward,1898-08-26,B635,y
+8419,Infant,Miller,,000-00-00,M,W,Austin,Stillborn,,Neal Watt,,,friends,,10th ward,1898-08-25,M460,y
+8418,Infant of John H.,Tobin,,000-00-00,M,W,Austin,premature birth,,G. H. Wooten,lot 497,,friends,,5th ward,1898-08-20,T150,y
+8417,Infant,Westman,,N,F,W,Austin,Asphyxia,,Neal Watt,,,friends,,9th ward,1898-08-20,W235,y
+8416,Carrie,Johns,,025-00-00,F,N,,blood poisoning,,J. H. Stevens,old graveyard,,friends,,,1898-08-19,J520,y
+8415,Mrs. E.,Bremond,,084-00-00,F,W,Pa,senile debilty,,Ralph Steiner,lot 201,,friends,,2nd ward,1898-08-15,B653,y
+8414,Willaminia,Palm,,044-00-00,F,W,,cancer,,T. J. Bennett,lot 985,,friends,,4th ward,1898-08-10,P450,y
+8413,Mollie,Lutz,,054-00-00,F,W,Ind,endocarditis,,G. H. Wooten,old graveyard,,friends,,7th ward,1898-08-09,L320,y
+8412,Dr. R. M.,Swearingen,,060-00-00,M,W,Miss,chronic nipheritis,,A. N. Denton,lot 397,,friends,,2nd ward,1898-08-09,S652,y
+8411,Babe of G. S.,Burham,,000-00-00,M,W,Austin,Stillborn,,Frank Litten,,,friends,,10th ward,1898-08-09,B650,y
+8410,Willie,Womack,,007-00-00,M,W,,gunshot wound,,T. J. Bennett,lot 1008,,friends,,6th ward,1898-08-08,W520,y
+8409,Van,Wallin,,020-00-00,M,W,Austin,drowned,,M. M. Johnson,lot 279,,friends,,7th ward,1898-08-08,W450,y
+8408,Preado,Ling,,044-00-00,F,M,Mexico,tuberculosis,,E. V. Hamilton,lot 1,,city,,7th ward,1898-08-05,L520,y
+7734,Andrez,Gusman,,050-00-00,M,M,Mexico,gunshot wound,,J. A. Stuart,lot 1,,city,,First ward,1898-08-05,G500,y
+8407,Roy,Beyler,,000-14-00,M,W,Mo,Inanition,,R. S. Graves,lot 3,,city,,8th ward,1898-08-02,B460,y
+8406,infant of C. O.,Pettersen,,000-00-00,M,W,Austin,Stillborn,,T. J. Bennett,,,friends,,9th ward,1898-08-02,P362,y
+8405,Pearl,Clawson,,000-00-21,F,W,Austin,enteritis,,C. V. Weller,lot 3,,city,,6th ward,1898-07-31,C425,y
+8404,Edward,Ischi,,035-00-00,M,W,Switzerland,apoplexy,,Joe Wooten,lot 418,,city,,4th ward,1898-07-30,I200,y
+8403,Wm.,Bruck,,059-00-00,M,W,Germany,alcoholism,,E. V. Hamilton,lot 821,,city,,7th ward,1898-07-29,B620,y
+8402,Chris,Salarado,,004-00-00,F,M,San Antonio,entro colitis,,Neal Watt,lot 1,,city,,10th ward,1898-07-28,S463,y
+8401,Joe,Longbein,,028-00-00,M,W,Texas,consumption,,H. B. Granbury,lot 6,,city,,10th ward,1898-07-27,L521,y
+8400,Geo. S.,Peoples,,031-00-00,M,W,Tenn,fracture of skull,,H. B. Hadra,lot 821,,friends,,San Antonio,1898-07-24,P420,y
+8399,B. H.,Dankey,,004-00-00,F,N,,diptheria,,E. W. D. Abner,lot 134,,friends,,7th ward,1898-07-22,D520,y
+8396,Katie,Hotchkiss,,007-00-00,F,E,,pyaemia,,R. W. Kims,lot 488,,friends,,Houston,1898-07-17,H320,y
+8395,Clara A.,Bassette,,035-00-00,F,W,,phthisis pulmonalis,,Frank Litten,lot 477,,friends,,10th ward,1898-07-16,B230,y
+8394,Minnie,Haigler,,031-00-00,F,W,,asthmatic bronchitis,,T. J. Bennett,lot 367,,friends,,10th ward,1898-07-15,H246,y
+8393,Mexican Babe,N,,000-00-00,M,M,Austin,Stillborn,,E. V. Hamilton,,,city,,7th ward,1898-07-14,,y
+8392,Jol.,Brown,,045,M,W,,cirrhosis of liver,,R. S. Graves,lot 438,,friends,,7th ward,1898-07-09,B650,y
+8391,Mary,Childress,,000-09-00,F,W,Austin,Marasmus,,F. F. Griffith,,,city,,10th ward,1898-07-08,C436,y
+8389,infant of Tom,Purnell,,000-00-00,M,W,Austin,premature birth,,A. N. Denton,lot 117,,friends,,7th ward,1898-07-06,P654,y
+8388,Hugh L.,Davis,,052-00-00,M,W,Miss,typhoid fever,,T. J. Bennett,lot 1046,,friends,,4th ward,1898-07-06,D120,y
+8390,Harriett,Black,,039-00-00,F,N,,chronic dysentery,,J. H. Stevens,old graveyard,,friends,,9th ward,1898-07-06,B420,y
+8387,R. R.,Schnieder,,000-10-00,M,W,Austin,gastro enteritis,,S. E. Hudson,lot 3,,city,,10th ward,1898-07-04,S536,y
+8386,E.,Patterson,,090-00-00,F,N,Texas,old age,,R. S. Graves,old graveyard,,city,,8th ward,1898-07-02,P362,y
+8385,Press,Jack,,056-00-00,M,W,,poisoning,,M. M. Johnson,lot 2,,city,,5th ward,1898-06-29,J000,y
+8384,McKinly,Petterson,,000-18-00,M,W,Austin,drowned,,T. F. Bennett,lot 345,,friends,,7th ward,1898-06-26,P362,y
+8383,P. F.,Appell,,067-00-00,M,W,France,heart disease,,H. B. Granbury,State Cemetery,,friends,,7th ward,1898-06-24,A140,y
+8382,Pat,Dickerson,,044-00-00,M,N,,pericardtis,,J. H. Stevens,old graveyard,,friends,,10th ward,1898-06-21,D262,y
+8381,infant of Geo,McDonal,,000-00-01,M,W,Austin,congenital debility,,M. M. Smith,lot 1004,,friends,,5th ward,1898-06-21,M235,y
+8397,Eddy May,Aery,,000-06-00,F,W,Austin,pneumonia,,W. D. Gorton,near fence,,friends,,8th ward,1898-06-20,A600,y
+8380,Cha.,Brandt,,N,M,W,,acute inflamation of liver,,John D. Fields,Hebrew,,,,from Manor,1898-06-20,B653,y
+8379,Julia H.,Smith,,084-00-00,F,W,,,,,lot 199,,friends,,3rd ward,1898-06-17,S530,y
+8378,E. A.,Hanson,,000-04-00,F,W,Austin,Marrusamus,,J. J. Gasser,lot 1103,,friends,,10th ward,1898-06-16,H525,y
+8377,Johnie,Cown,,005-00-00,M,W,Calnel Co.,Hemorrhage,,R. S. Graves,,,city,,10th ward,1898-06-13,C500,y
+8376,Y.,Cardenas,,026-00-00,F,W,Mexico,consumption,,H. B. Granbury,lot 1,,city,,first ward,1898-06-12,C635,y
+8375,Jas.,Kurk,,033-00-00,M,W,,consumption,,E. V. Hamilton,lot 2,,city,,7th ward,1898-06-09,K620,y
+8374,Olivia,Klein,,000-05-00,F,W,Austin,congenital heart disease,,Joe Wooten,lot 141,,friends,,7th ward,1898-06-05,K450,y
+8373,John L.,Hearn,,040-00-00,M,W,Maryland,tetanus,,H. B. Hill,lot 1079,,friends,,3rd ward,1898-06-05,H650,y
+8372,Kizzie,Swenson,,045-00-00,F,W,Austin,,,,lot 375,,friends,,"from Abilene, Texas",1898-06-04,S525,y
+8371,Elbert,Armstrong,,007-00-00,M,W,Texas,diptheria,,H. L. Hillgartner,lot 777,,friends,,6th ward,1898-05-30,A652,y
+8370,H. E.,Levine,,001-00-00,M,W,Austin,entrocolitis,,R. S. Graves,lot 3,,friends,,7th ward,1898-05-29,L150,y
+8369,Eugene W.,Burt,,028-00-00,M,W,Austin,fracture of neck,,R. S. Graves,lot 543,,friends,,8th ward,1898-05-27,B630,y
+8368,Lucas,McIlhenny,,040-00-00,M,W,,consumption,,E. V. Hamilton,lot 6,,friends,,7th ward,1898-05-27,M245,y
+8367,John,Scruggs,,021-00-00,M,W,,typhoid fever,,E. V. Hamilton,State Cemetery,,friends,,7th ward,1898-05-23,S620,y
+8366,O. M.,Roberts,,082-00-00,M,W,South Carolina,cystitis,,C. V. Weller,lot 521,,friends,,6th ward,1898-05-21,R163,y
+8365,Infant of A. J.,Wigthy,,000-00-00,F,W,Austin,Stillborn,,R. S. Graves,,,city,,6th ward,1898-05-20,W230,y
+8364,Van,Sander,,028-00-00,M,W,Austin,drowning,,M. M. Johnson,lot 6,,friends,,10th ward,1898-05-20,S536,y
+8363,Sorendo,Rodisquis (Rodriquez),,070-00-00,M,M,Mexico,consumption,,R. S. Graves,lot 3,,city,,6th ward,1898-05-18,R326,y
+8362,Mrs. E. O.,Petterson,,048-00-00,F,W,Sweden,consumption,,R. S. Graves,lot 1,,city,,8th ward,1898-05-18,P362,y
+8361,R. E.,Wright,,050-00-00,M,W,,drowning,,J. R. Hunter,lot 858,,friends,,Hornsby Bend,1898-05-16,W623,y
+8360,Evan,Campbell,,065-00-00,M,W,KY,cerebral apoplexy,,J. A. Stuart,lot 769,,friends,,2nd ward,1898-05-15,C514,y
+8359,W. A.,Hamilton,,085-00-00,F,W,Tennessee,heart failure,,E. V. Hamilton,lot 710,,friends,,Travis Co,1898-05-15,H543,y
+8358,Adolph,Goodman,,040-00-00,M,W,,cerebral apoplexy,,E. V. Hamilton,lot 186,,friends,,8th ward,1898-05-15,G350,y
+8357,Ellen,Tongs,,069-00-00,F,N,,cancer of uterus,,R. W. Rimmer,lot 91,,friends,,,1898-05-05,T520,y
+8356,Hilda,Wettgrove,,000-02-00,F,W,Austin,tubercular meningitis,,J. J. Gasser,lot 985,,friends,,10th ward,1898-05-03,W326,y
+8352,F. A.,Bagnal,,001-00-00,M,W,,intestinal inf,,H. B. Hill,lot 117,,friends,,7th ward,1898-05-02,B254,y
+8355,Lillie,Armtrong,,017-00-00,F,W,Sweden,overdose of morphine,,M. M. Johnson,lot 1167,,friends,,first ward,1898-04-30,A653,y
+8354,Geo.,Bader,,032-00-00,M,W,,consumption,,E. V. Hamilton,lot 2,,city,,7th ward,1898-04-28,B360,y
+8353,Nannie B.,Donnan,,010-00-00,F,W,Austin,tubercular meningitis,,H. C. Morrow,old graveyard,,friends,,3rd ward,1898-04-22,D500,y
+8351,T. F.,Sweat,,066-00-00,M,W,,opium poisoning,,S. E. Hudson,,lot 219,friends,,8th ward,1898-04-19,S300,y
+8350,F.,Solis,,003-00-00,M,M,San Antonio,menengitis,,R. S. Graves,lot 1,,city,,first ward,1898-04-16,S420,y
+8349,John F.,Wettegrove,,023-00-00,M,W,,Gunshot Wound,,M. M. Johnson,,,friends,,10th ward,1898-04-14,W326,y
+8348,Julius,Hanson,,029-00-00,M,W,Germany,Gunshot Wound,,M. M. Johnson,,,friends,,10th ward,1898-04-14,H525,y
+8347,J. W.,Seiders,,046-00-00,M,W,Austin,Gunshot Wound,,M. M. Johnson,,,friends,,county,1898-04-13,S362,y
+8346,John B.,Rector,,061-00-00,M,W,,,,,lot 787,,friends,,5th ward,1898-04-11,R236,y
+8345,Osceola,Archer,,059-00-00,M,W,,apoplexy,,F. M. McLaughlin,lot 1078,,friends,,2nd ward,1898-04-10,A626,y
+8344,Hanna,Mary,,000-16-00,F,W,Austin,acute pneumonia,,J. J. Gasser,lot 655,,friends,,7th ward,1898-04-10,M600,y
+8343,Wm. P.,Hardeman,,080-00-00,M,W,,paralysis,,A. N. Denton,State Cemetery,,friends,,2nd ward,1898-04-09,H635,y
+8342,Will Lee,Hamilton,,000-02-00,F,N,Austin,stomilitic,,E. W. D. abner,old graveyard,,friends,,7th ward,1898-04-07,H543,y
+8341,Infant,Butcher,,000-05-00,M,W,Austin,gastro enteritis,,H. B. Granbury,Lot 580,,friends,,10th ward,1898-04-04,B326,y
+8340,Caroline,Ake,,080-00-00,F,N,,neuragia of heart,,Frank Litten,old graveyard,,friends,,7th ward,1898-04-03,A200,y
+8339,H. C.,Bengener,,073-00-00,M,W,Germany,heart failure,,F. L. Griffith,lot 269,,friends,,10th ward,1898-04-02,B525,y
+8338,Theo.,Stephan,,043-00-00,M,W,Germany,apoplexy,,J. A. Stuart,(not given),,friends,,8th ward,1898-03-31,S315,y
+8337,D. D.,Doak,,038-00-00,M,W,Texas,phthisis pulmonalis,,R. S. Graves,(not given),,friends,,10th ward,1898-03-28,D200,y
+8336,Abr.,Schapiro,,000-06-00,M,W,Austin,convulsions of bowels,,H. B. Hill,Hebrew,,friends,,10th ward,1898-03-27,S160,y
+8335,Violet,Fullylove,,055-00-00,F,N,,bright's disease of kidneys,,J. W. Mathews,(not given),,friends,,7th ward,1898-03-25,F410,y
+8334,Girtha,Griffith,,000-14-00,F,W,Austin,septicalmus,,H. B. Granbury,(not given),,friends,,10th ward,1898-03-25,G613,y
+8333,C.,Collins,,086-00-00,F,N,New York,acute bronchitis,,J. J. Jones,(not given),,friends,,2nd ward,1898-03-17,C452,y
+8332,Geo. S.,Harris,,060-00-00,M,W,,,,,(not given),,friends,,remains from San Angelo,1898-03-16,H620,y
+8331,M.,Schmeill,,000-00-00,F,W,Austin,Stillborn,,J. J. Gasser,,,friends,,2nd ward,1898-03-14,S540,y
+8330,Infant,Smith,,000-00-00,F,W,Austin,Stillborn,,C. O. Weller,,,friends,,6th ward,1898-03-14,S530,y
+8329,Helen,Woodson,,013-00-00,F,N,Austin,drowning,,M. M. Johnson,(not given),,friends,,county,1898-03-12,W325,y
+8328,F. M.,Ramdell,,056-00-00,M,W,New Yrok,heart failure,,R. M. Clrasy,(not given),,friends,,"Houston, Texas",1898-03-02,R534,y
+8327,Agnes,Schutze,,073-00-00,F,W,Germany,cancer of stomach,,W. D. Gorton,(not given),,friends,,6th ward,1898-03-02,S320,y
+8326,Hulda,Krohn,,022-00-00,F,W,Austin,albaminmsia purrperal convulsions,,J. J. Gasser,(not given),,friends,,6th ward,1898-03-02,K650,y
+8325,Henry,Krause,,075-00-00,M,W,,old age,,M. M. Johnson,lot 2,,city,,2nd ward,1898-02-26,K620,y
+8324,Will,James,,032-00-00,M,W,Austin,heart failure,,M. M. Johnson,lot 390,,friends,,8th ward,1898-02-15,J520,y
+8323,Emily A.,Palm,,076-00-00,F,W,Sweden,,,,,,,,,1898-02-13,P450,y
+8322,C. H.,Cullen,,068-00-00,M,W,Ala,phthisis pulmonalis,,Frank Litten,lot 278,,friends,,St. Elmo,1898-02-13,C450,y
+8321,Miss H. M.,Hainey,,008-00-00,F,W,,old age,,H. P. Luckett,,old graveyard,,friends,Bastrop (age 80?),1898-02-12,H500,y
+8320,G.K. D.,Brookshire,,045-00-00,M,W,Tenn,acute Brights,,W. B. McLaughin,lot 2,,city,(wood hauler),,1898-02-10,B626,y
+8319,Tom,Semens,,033-00-00,M,M,Mexico,consumption,,E. V. Hamilton,lot 1,,city,,7th ward,1898-02-08,S520,y
+8318,Infant of Geo.,Ash,,000-00-00,M,W,Austin,premature birth,,G. H. Wooten,lot 4,,friends,,4th ward,1898-02-06,A200,y
+8317,R. F.,Warnock,,086-00-00,M,W,,old age,,R. S. Graves,lot 2,,city,(horsetrader),10th ward,1898-01-29,W652,y
+8316,Fannie A.,Anderson,,024-00-00,F,W,Alabama,phthisis pulmonalis,,H. B. Granbury,lot 970,,friends,,7th ward,1898-01-27,A536,y
+8315,Gabe,Holder,,057-00-00,M,N,,phthisis pulmonalis,,Frank Litten,old graveyard,,friends,,7th ward,1898-01-25,H436,y
+8314,C. E.,Gilhelm,,078-00-00,F,W,Germany,apoplexy,,J. J. Gasser,lot 478,,friends,,7th ward,1898-01-23,G450,y
+8313,Infant of J. H.,King,,000-00-00,F,W,Austin,Stillborn,,R. S. Graves,,,city,,10th,1898-01-20,K520,y
+8312,Lonie,Hanna,,040-00-00,M,W,,accident,,M. M. Johnson,lot 808,,friends,,7th ward,1898-01-20,H500,y
+8311,Infant of Mrs.,Johnson,,000-00-10,M,W,Austin,marasmus,,A. N. Denton,near fence,,friends,,9th ward,1898-01-19,J525,y
+8310,Nellie Ida,Thiele,,001-00-00,F,W,Austin,congestion of lungs,,J. J. Gasser,lot 228,,friends,,5th ward,1898-01-13,T400,y
+8309,Clara D.,Stringer,,084-00-00,F,W,,marasmus,,A. N. Denton,near fence,,friends,,9th ward,1898-01-09,S365,y
+8308,Gen N. G.,Shelley,,073-00-00,M,W,,senility,,Tho. D. Wooten,lot 101,,friends,,5th ward,1898-01-07,S400,y
+8306,Edward,Hofman,,000-00-21,M,W,Austin,pneumonia,,H. B. Granbury,near fence,,friends,,first ward,1898-01-05,H150,y
+8304,Emanul,Blum,,046-00-00,M,W,Germany,consumption,,E. V. Hamilton,lot 2,,city,,7th ward,1898-01-04,B450,y
+8303,Jessie A.,Slack,,030-00-00,M,W,Texas,R. R. accident,,M. M. Johnson,lot 6,,friends,,first ward,1898-01-03,S420,y
+8302,Frank,Skinner,,040-00-00,M,W,Georgia,nervous prostruction,,E. V. Hamilton,lot 2,,city,,7th ward,1898-01-02,S560,y
+8301,Mrs. E. E.,Platt,,069-00-00,F,W,,general debility,,H. B. Hill,lot 175,,friends,,5th ward,1898-01-01,P430,y
+8300,Jane,Story,,075-00-00,F,N,,paralysis,,J. H. Stevens,old graveyard,,friends,,7th ward,1897-12-30,S360,y
+8299,Marcella,Sanches,,000-18-00,F,M,Texas,entro colitis,,R. S. Graves,lot 1,,city,,first ward,1897-12-28,S520,y
+8298,Mollie D.,Armstrong,,042-00-00,F,W,Austin,Bright's Disease,,F. M. McLaughlin,,,friends,,6th ward,1897-12-28,A652,y
+8297,Herman,Schuller,,044-00-00,M,W,Germany,uremic convulsions,,H. B. Granbury,lot 821,,friends,,10th ward,1897-12-23,S460,y
+8296,Isaac,Stein,,065-00-00,M,W,France,apoplexy,,J. A. Stuart,lot 32,,friends,,10th ward,1897-12-22,S350,y
+8295,Pauline,Goldbaum,,056-00-00,F,W,,cerebral apoplexy,,G. Wooten,Hebrew Cemetery,,friends,,,1897-12-19,G431,y
+8294,Wm. F.,Scaggs,,068-00-00,M,W,Alabama,cholera morbus,,R. S. Graves,(not given),,friends,,7th ward,1897-12-18,S000,y
+8293,M. M.,Amstead,,004-00-00,F,W,Austin,marasmus,,S. E. Hudson,lot 153,,friends,,4th ward,1897-12-16,A523,y
+8292,Infant,Gorden,,000-16-00,M,N,Austin,malassinulation,,C. O. Weller,old graveyard,,friends,,6th ward,1897-12-15,G635,y
+8290,Elnora,Whitis,,003-00-00,F,W,Austin,injuries from burn,,G. H. Wooten,(not given),,friends,,6th ward,1897-12-05,W320,y
+8289,P. F.,De Lopes,,039-00-00,F,M,Mexico,phthisis pulmonalis,,Frank Litten,lot 1,,city,,first ward,1897-12-05,D412,y
+8305,B. W.,Bell,,084-00-00,M,W,Texas,general debility,,H. B. Hill,lot 6,,friends,,6th ward,1897-12-04,B400,y
+8288,John D.,Wende,,075-00-00,M,W,Germany,pneumonia,,A. N. Denton,lot 1080,,friends,,9th ward,1897-12-03,W530,y
+8287,Elena,Acosta,,034-00-00,F,M,Mexico,enteritis,,Frank Litten,lot 1,,city,,9th ward,1897-12-02,A230,y
+8281,John F.,Rankin,,044-00-00,M,W,,gunshot wound,,J. A. Stuart,lot 1068,,friends,,2nd ward,1897-11-28,R525,y
+8283,Wesley,Givens,,025-00-00,M,N,Austin,pulmonary tuberculosis,,W. A. Harper,(not noted),,,,8th ward,1897-11-27,G152,y
+8284,Georgiana,Brown,,063-00-00,F,W,Tennessee,carcinoma of uterus,,Frank H. Litten,lot 287,,friends,,4th ward,1897-11-26,B650,y
+8282,Paul,Barnhart,,001-00-00,M,W,Frio Co,,,,lot 27,,friends,,"remains brought from Pearsall, Texas",1897-11-24,B656,y
+8286,Frankie,Clark,,020-00-00,F,W,Austin,typhoid fever,,T. J. Bennett,(not noted),,,,Govalle,1897-11-24,C462,y
+8285,Adalio,Cardenos,,025-00-00,M,M,Mexico,consumption,,R. S. Graves,lot 1,,city,,9th ward,1897-11-23,C635,y
+8280,Emma,Christmas,,091-00-00,F,W,South Carolina,old age,,T. J. Bennett,,,friends,,7th ward,1897-11-23,C623,y
+8279,Vivian E.,Flinn,,015-00-00,M,W,,paralysis of heart,,H. R. Allen,lot 1082,,friends,,Indiana,1897-11-20,F450,y
+8278,infant of George,Hearn,,000-00-00,M,W,Austin,Stillborn,,H. B. Granbury,,,friends,,8th ward,1897-11-19,H650,y
+8277,Alice,Patterson,,072-00-00,F,W,Sweden,old age,,E. V. Hamilton,lot 821,,friends,,7th ward,1897-11-18,P362,y
+8276,Tennnie,Carter,,013-00-00,M,N,Austin,typhoid fever,,H. B. Granbury,old graveyard,,friends,,7th ward,1897-11-17,C636,y
+8275,Percy,Johnson,,019-00-00,M,N,Austin,Gunshot Wound,,J. A. Stuart,,,friends,,8th ward,1897-11-14,J525,y
+8274,Silvania,Ewings,,064-00-00,F,N,Miss,burn,,J. H. Stevens,old graveyard,,friends,,7th ward,1897-11-14,E520,y
+8273,John,Miller,,027-00-00,M,N,Austin,chronic tuberculosis,,G. H. Wooten,old graveyard,,friends,,7th ward,1897-11-13,M460,y
+8272,Wm.,Hinds,,000-16-00,M,W,Texas,entro colitis,,R. S. Graves,lot 3,,city,,10th ward,1897-11-13,H532,y
+8271,Francis L.,Butcher,,026-00-00,F,W,England,pulmonary tuberculosis,,G. H. Wooten,lot 1008,,friends,,6th ward,1897-11-13,B326,y
+8270,Wm,Kollinsky,,051-00-00,M,W,Germany,consumption,,E. V. Hamilton,lot 2,,city,,7th ward,1897-11-10,K452,y
+8291,Mrs. L. P.,Votaw,,035-00-00,F,W,Georgia,heart failure,,R. S. Graves,lot 821,,friends,,6th ward,1897-11-09,V300,y
+8269,Tho.,Bradley,,057-00-00,M,W,Canada,pneumonia,,E. V. Hamilton,lot 2,,city,,7th ward,1897-11-08,B634,y
+8268,S. C.,Cooper,,078-00-00,M,W,,,,Neal Watt,lot 144,,friends,,10th ward,1897-11-08,C160,y
+8267,John,Manville,,070-00-00,M,W,,phthisis,,E. V. Hamilton,lot 2,,city,,7th ward,1897-11-07,M140,y
+8266,Langle,White,,038-00-00,M,W,America,consumption,,E. V. Hamilton,lot 2,,city,,7th ward,1897-11-06,W300,y
+8265,A.,Belsthner,,055-00-00,M,W,,cancer of bladder,,W. B. McLaughlin,lot 2,,city,,5th ward,1897-11-01,B423,y
+8264,James,Gallaher,,050-00-00,M,W,England,overdose of laudnam,,M. M. Johnson,lot 2,,city,,first ward,1897-11-01,G460,y
+8262,Mrs. D.,Mathews,,073-00-00,F,W,Tennessee,dysentery,,Frank Litten,lot 448,,friends,,7th ward,1897-10-30,M320,y
+8261,Baby,Mason,,000-00-00,M,W,Austin,premature,,E. V. Hamilton,lot 3,,friends,,7th ward,1897-10-29,M250,y
+8260,Rena,Reeves,,022-00-00,F,W,Texas,overdose of morphine,,M. M. Johnson,lot 1167,,friends,,1st ward,1897-10-27,R120,y
+8259,Miss Fannie B.,Carr,,036-00-00,F,W,Austin,,,H. B. Granbury,lot 156,,friends,,2nd ward,1897-10-27,C600,y
+8258,John B.,McKnight,,021-00-00,M,W,Texas,ureamia,,B. E. Hadra,lot 75,,friends,,San Antonio,1897-10-23,M252,y
+8257,John,Solis,,023-00-00,M,M,Mexico,phthisis,,E. V. Hamilton,lot 1,,city,,2nd ward,1897-10-23,S420,y
+8256,Gem,Algers,,002-00-00,M,W,Austin,spinal meningitis,,G. H. Wooten,lot 1023,,friends,,6th ward,1897-10-22,A426,y
+8255,infant of R. L.,Hilgartin,,000-00-08,M,W,Austin,premature birth,,H. B. Hill,lot 194,,friends,,3rd ward,1897-10-21,H426,y
+8254,Carlos,Garcia,,022-00-00,M,M,Mexico,typhoid fever,,W. J. Mathews,lot 1,,city,,1st ward,1897-10-20,G620,y
+8253,Charity,Stamps,,055-00-00,F,N,,disease of heart,,Frank Litten,old graveyard,,friends,,1st ward,1897-10-20,S351,y
+8252,Carrie F.,Graves,,049-00-00,F,W,Miss,uraemia,,C. O. Weller,lot 44,,friends,,6th ward,1897-10-19,G612,y
+8251,N. B.,Thrasher,,049-00-00,M,W,Arkansas,cirrhosis of liver,,F. P. McLaughlin,lot 502,,friends,,4th ward,1897-10-18,T626,y
+8250,Sophia,Johnson,,070-00-00,F,W,Miss,broken ankle,,W. F. Killian,lot 289,,friends,,Manchaca,1897-10-17,J525,y
+8248,Algot,Rydin,,N,M,W,Sweden,tuberculosis,,G. H. WOoten,lot 380,,friends,,Travis Co.,1897-10-15,R350,y
+8249,Nancy,Denthem,,079-00-00,F,W,,old age,,E. V. Hamilton,lot 2,,county,,7th ward,1897-10-15,D535,y
+8247,Sophia F.,Zink,,069-00-00,F,W,Germany,meningitis,,F. P. McLaughlin,lot 377,,friends,,1st ward,1897-10-13,Z520,y
+8246,Eddie,Staging,,009-00-00,M,W,Austin,foreign body in trachea,,Ralph Steiner,lot 1062,,friends,,3rd ward,1897-10-12,S325,y
+8245,Jennie,Sawyer,,019-00-00,F,W,Texas,typhoid fever,,E. V. Hamilton,lot 1023,,friends,,Travis Co.,1897-10-11,S600,y
+8244,Katie,Rogers,,005-00-00,F,W,Austin,gastritis,,W. J. Mathews,lot 1023,,friends,,7th ward,1897-10-11,R262,y
+8243,L.,Henjeks,,052-00-00,M,W,Germany,inflamation of bowels,,R. S. Graves,lot 1024,,friends,,7th ward,1897-10-10,H520,y
+8242,Augusta,von Rosenberg,,072-00-00,F,W,Germany,apoplexy,,H. C. Morrow,lot 157,,friends,,5th ward,1897-10-08,V562,y
+8240,Emma M.,Lenard,,034-00-00,F,W,,pulmonary consumption,,S. E. Hudson,lot 1030,,friends,,7th ward,1897-10-07,L563,y
+8241,Sophia,Niffanker,,000-06-00,F,W,Austin,colitis,,E. V. Hamilton,lot 3,,city,,7th ward,1897-10-07,N152,y
+8239,John,Stelfox,,080-00-00,M,W,,dengue fever,,F. P. McLaughlin,lot 948,,friends,,5th ward,1897-10-06,S341,y
+8236,J. L.,Sullivan,,070-00-00,M,W,North Carolina,tuberculosis,,W. J. Mathews,lot 821,,friends,,Govalle,1897-10-04,S415,y
+8238,L.,Riley,,078-00-00,M,W,Georgia,consumption,,E. V. Hamilton,lot 2,,city,,7th ward,1897-10-04,R400,y
+8237,Mary M.,Lamar,,063-00-00,F,W,Georgia,prostration,,J. A. Davis,lot 1024,,friends,,10th ward,1897-10-04,L560,y
+8235,Hannah,Baumert,,000-01-00,F,W,Astuin,dysentery,,E. V. Hamilton,near fence,,friends,,10th ward,1897-09-29,B563,y
+8233,Ella,Murphy,,028-00-00,F,W,Waco,phthisis pulmonalis,,Ralph Steiner,lot 903,,friends,,7th ward,1897-09-23,M610,y
+8232,Caleb,Taylor,,074-00-00,M,N,Ky,senility,,Geo. T. Taylor,lot 51,,friends,,"Los Angeles, Cal.",1897-09-19,T460,y
+8229,infant of J. A.,Newsom,,000-07-00,M,W,Austin,congestion,,A. Fields,lot 174,,friends,,Burnet Co.,1897-09-16,N250,y
+8230,infant of Jesi,Wilson,,000-00-00,F,W,Austin,premature birth,,T. J. Bennett,,,friends,,9th ward,1897-09-14,W425,y
+8228,Bessie Lee,Jones,,000-05-00,F,N,Austin,cholera infantum,,J. H. Stevens,old graveyard,,friends,,7th ward,1897-09-13,J520,y
+8227,F. B.,Morrison,,014-00-00,M,W,Alabama,heart disease,,R. S. Graves,lot 2,,city,,9th ward,1897-09-08,M625,y
+8226,Louise,Ananda,,023-00-00,F,M,Texas,typhoid fever,,R. S. Graves,lot 1,,city,,first ward,1897-09-07,A530,y
+8225,Eliza,McGary,,028-00-00,F,N,Texas,heart disease,,M. M. Johnson,old graveyard,,,,first ward,1897-09-05,M260,y
+8224,Jennette,Putnam,,028-00-00,F,W,Switzerland,enteric fever,,S. E. Hudson,lot 821,,friends,,8th ward,1897-09-04,P350,y
+8223,George,Link,,025-00-00,M,W,Austin,phthisis pulmonalis,,R. S. Graves,lot 820,,friends,,9th ward,1897-09-03,L520,y
+8222,infant of Geo,Millegan,,000-00-00,M,N,Austin,Stillborn,,Frank Litten,,,friends,,7th ward,1897-09-03,M425,y
+8221,John,Esler,,041-00-00,M,W,Germany,rail rail juginis,,E. V. Hamilton,lot 2,,city,,7th ward,1897-09-01,E246,y
+8220,Alford,Norris,,046-00-00,M,N,Tennessee,dysentery,,J. H. Stevens,old graveyard,,,,9th ward,1897-08-30,N620,y
+8218,M. E.,Stehman,,026-00-00,F,W,,puerpueral convulsions,,J. W. Percy,lot 821,,friends,,,1897-08-25,S350,y
+8219,Guadalupe,Lysendecker,,001-00-00,F,M,,entro colitis,,R. S. Graves,lot 1,,city,,first ward,1897-08-25,L253,y
+8216,Jeremiah,Sheehan,,078-00-00,M,W,,apoplexy,,J. W. McLaughlin,,,friends,,,1897-08-24,S500,y
+8217,A. S.,McCall,,074-00-00,F,W,,cancer,,J. W. McLaughlin,,old graveyard,friends,,,1897-08-24,M240,y
+8214,infant of W. H.,Stehmen,,000-00-00,M,W,Austin,Stillborn,,J. W. McLaughlin,,,friends,,,1897-08-23,S350,y
+8215,Julia,Flores,,000-03-00,F,M,Austin,cholera infantum,,Frank Litten,lot 1,,city,,first ward,1897-08-23,F462,y
+8213,John C.,Erickson,,077-00-00,M,W,Sweden,old age,,N. O. Brenizer,lot 821,,friends,,7th ward,1897-08-19,E625,y
+8212,L. A.,Halphin,,028-00-00,M,W,,consumption,,J. W. McLaughlin,lot 188,,friends,,,1897-08-17,H415,y
+8210,R. G.,Spann,,026-00-00,M,W,,typhoid fever,,T. J. Bennett,lot 820,,friends,,7th ward,1897-08-17,S150,y
+8208,Maggie,Hornberger,,028-00-00,F,W,Austin,typhoid fever,,J. E. Bealle,lot 183,,friends,,"Hockley, Tex",1897-08-12,H651,y
+8209,Catherine,Noland,,074-00-00,F,N,Va,heart disease,,"J. S. Stuart, JC",old graveyard,,friends,,9th ward,1897-08-12,N453,y
+8207,Infanta of G. F.,Gray,,000-00-00,F,W,Llano,premature birth,,J. McLaughlin,lot 820,,friends,,9th ward,1897-08-11,G600,y
+8206,Louis T.,Gale,,002-00-00,M,W,Austin,gastro enteritis,,H. B. Granbury,lot 820,,friends,,10th ward,1897-08-10,G400,y
+8205,Carrie,Bunton,,001-00-00,F,N,Austin,whooping cough,,J. H. Stevens,old graveyard,,friends,,8th ward,1897-08-07,B535,y
+8204,Malinda,Baker,,074-00-00,F,W,,old age,,H. B. Granbury,lot 820,,friends,,10th ward,1897-08-06,B260,y
+8203,B. L. E.,Kallgren,,000-05-00,F,W,Austin,chronic dysentery,,G. H. Wooten,lot 490,,friends,,7th ward,1897-08-05,K426,y
+8202,N. H.,Phelps,,075-00-00,M,W,,overdose of morphine,,M. M. Johnson,lot 2,,city,,6th ward,1897-08-05,P412,y
+8201,Chas.,Ehlenfield,,054-00-00,M,W,Germany,rheumatism,,H. B. Granbury,lot 820,,friends,,7th ward,1897-08-03,E451,y
+8200,Geo. T.,Graham,,050-00-00,M,W,,,,J. F. McGee,lot 102,,friends,,"From Byrd, Texas",1897-08-03,G650,y
+8199,August,Waechter,,068-00-00,M,W,Germany,uremia,,E. V. Hamilton,lot 820,,friends,,7th ward,1897-08-02,W236,y
+8198,J. M.,Hay,,071-00-00,M,W,,typhoid fever,,N. O. Brenizer,lot 574,,friends,,8th ward,1897-08-02,H000,y
+8197,Rosita,Flores,,001-00-00,F,M,Austin,gastro enteritis,,H. B. Granbury,,,city,,first ward,1897-07-29,F462,y
+8196,Mrs. Ethel,Potter,,028-00-00,F,W,Austin,consumption,,W. J. Mathews,lot 807,,friends,,10th ward,1897-07-27,P360,y
+8195,J. V.,Davis,,055-00-00,M,W,,bright's disease,,T. J. Bennett,lot 1081,,friends,,7th ward,1897-07-25,D120,y
+8194,William,Walton,,076-00-00,M,W,,cancer of face,,J. J. Jones,lot 381,,friends,,2nd ward,1897-07-23,W435,y
+8193,Artiatonia,Garza,,000-10-00,M,M,Austin,cholera infantum,,H. B. Hill,,,city,,10th ward,1897-07-20,G620,y
+8192,Idela L.,Benedict,,010-00-00,F,W,Texas,consumption,,H. B. Granbury,lot 1039,,friends,,6th ward,1897-07-19,B532,y
+8191,Minnie G.,Murphy,,031-00-00,F,W,Texas,phthisis pulmonalis,,Ralph Steiner,lot 1039,,friends,,11th ward,1897-07-18,M610,y
+8190,Infant of Thad,Thompson,,000-00-02,F,W,Austin,morbus convulsions,,J. M. McLaughlin,lot 708,,friends,,4th ward,1897-07-15,T512,y
+8189,S. A.,Turnquist,,049-00-00,M,W,Sweden,heart failure,,J. A. Davis,lot 446,,friends,,7th ward,1897-07-14,T652,y
+8188,E. H.,Holman,,090-00-00,F,W,,paralysis,,J. W. McLaughlin,old graveyard,,friends,,7th ward,1897-07-13,H450,y
+8187,Sarah,Cook,,067-00-00,F,W,,tuberculosis,,T. D. Wooten,lot 820,,friends,,7th ward,1897-07-13,C000,y
+8186,Edd,Word,,023-00-00,M,N,Austin,consumption,,H. B. Granbury,old graveyard,,friends,,2nd ward,1897-07-11,W630,y
+8185,Emil,Blomquist,,027-00-00,F,W,Sweden,typhoid fever,,W. McLaughlin,lot 809,,friends,,2nd ward,1897-06-22,B452,y
+8184,Dave,Baldwin,,050-00-00,M,W,,consumption,,M. M. Johnson,lot 806,,friends,,7th ward,1897-06-21,B435,y
+8182,Mamie M.,Heuss,,004-00-00,F,W,Austin,acute nephritis,,W. J. Mathews,lot 809,,friends,,7th ward,1897-06-20,H200,y
+8183,Rebecca,Bledsoe,,073-00-00,F,W,MO,Heart failure,,N. A. Denton,lot 512,,friends,,,1897-06-20,B432,y
+8181,Infant of John,Klein,,000-01-00,M,W,Austin,indegestion,,J. A. Davis,lot 546,,friends,,6th ward,1897-06-17,K450,y
+8180,Mrs. B. L.,Moody,,N,F,W,,,,,lot 341,,friends,,remains from Smithville,1897-06-16,M300,y
+8179,Elizabeth,Pannell,,030-00-00,F,W,Travis Co.,typhoid fever,,Neal Watt,lot 1008,,friends,,10th ward,1897-06-15,P540,y
+8178,Infant of Mary,Buck,,000-11-00,M,N,Austin,cholera infantum,,H. B. Granbury,old graveyard,,friends,,9th ward,1897-06-14,B200,y
+8177,Amelia,Norris,,088-00-00,F,W,KY,old age,,F. B. Pettaway,lot 808,,friends,,11th ward,1897-06-10,N620,y
+8176,Melton B.,Hage,,000-14-00,M,W,Austin,chronic dysentery,,G. H. Wooten,lot 579,,friends,,11th ward,1897-06-04,H200,y
+8175,Alice,Hopkins,,022-00-00,F,W,Austin,consumption,,F. McLaughlin,lot 319,,friends,,3rd ward,1897-06-03,H125,y
+8174,Infant of Fred,George,,000-03-00,M,W,Austin,gastritis,,B. M. Worsham,lot 526,,friends,,6th ward,1897-06-03,G620,y
+8173,Austin,McGary,,041-00-00,F,W,Texas,,,B. E. Hadra,lot 439,,friends,,San Antonio,1897-06-03,M260,y
+8172,Infant of J. K.,Mosley,,N,M,W,Austin,,,,,,,,,1897-06-02,M240,y
+8171,Victor,SChmidt,,061-00-00,M,W,Germany,organic cardic disease,,Joe Wooten,lot 507,,friends,,7th ward,1897-05-31,S530,y
+8170,infant of Ben,Bruner,,000-03-00,M,W,Austin,unknown,,C. O. Weller,near fence,,friends,,6th ward,1897-05-28,B656,y
+8169,Infant,Ramberg,,000-00-00,F,W,Austin,Stillborn,,E. V. Hamilton,,,friends,,7th ward,1897-05-25,R516,y
+8168,S. P.,Simpson,,062-00-00,M,W,,apoplexy,,Wm. Price,lot 1064,,friends,,California,1897-05-23,S512,y
+8167,R. S.,Grant,,063-00-00,M,W,,,,F. P. McLaughlin,lot 269,,friends,,7th ward,1897-05-21,G653,y
+8166,Marie,Tarrence,,006-00-00,F,W,Austin,strychnine poisoning,,W. R. Roberson,lot 718,,friends,,Llano,1897-05-16,T652,y
+8165,infant of Jim,Brown,,000-00-0,F,N,Austin,Stillborn,,R. M. Sweringen,,,friends,,7th ward,1897-05-15,B650,y
+8164,Wm. G.,Maynard,,063-00-00,M,W,,Marasmus,,Tho. D. Wooten,,,friends,,5th ward,1897-05-10,M630,y
+8163,Mrs.,Luckey,,N,F,W,,phthisis pulmonalis,,M. A. Taylor,lot 820,,friends,,10th ward,1897-05-10,L200,y
+8162,infant of John,Quist,,000-00-00,M,W,Austin,premature,,Tho. D. Wooten,near fence,,friends,,7th ward,1897-05-07,Q300,y
+8161,infant of R. B.,Brown,,000-06-00,F,W,Austin,,,J. H. Wooten,lot 135,,friends,,7th ward,1897-05-06,B650,y
+8160,Amanda,Hodges,,N,F,N,,chronic broncitis,,J. H. Stevenson,old graveyard,,friends,,"Littig, Tex",1897-05-05,H320,y
+8159,Sarah F.,Holman,,073-00-00,F,W,Tennessee,softening of the brain,,M. A. taylor,lot 22,,friends,,3rd ward,1897-05-05,H450,y
+8158,Anna,Rembrandt,,024-00-00,F,W,Germany,peritonitis,,W. J. Mathews,lot 820,,friends,,7th ward,1897-05-02,R516,y
+8157,Fannie,Colley,,017-00-00,F,N,Austin,blood poisoning,,N. O. Brenizer,old graveyard,,friends,,2nd ward,1897-04-29,C400,y
+8156,infant of Alf. W.,Lucky,,000-00-00,M,W,Austin,Stillborn,,M. A. Taylor,,,friends,,10th ward,1897-04-28,L200,y
+8154,Edward,Gevers,,028-00-00,M,W,Austin,consumption,,W. J. Mathews,lot 473,,friends,,9th ward,1897-04-22,G162,y
+8155,Henry O.,Brady,,003-00-00,M,W,Austin,burned,,A. N. Denton,lot 438,,friends,,9th ward,1897-04-22,B630,y
+8153,Adolph,Messer,,062-00-00,M,W,Germany,endocaritis dilation,,J. J. Gasser,lot 144,,friends,,3rd ward,1897-04-22,M260,y
+8152,Z. A.,Anderson,,026-00-00,M,W,Travis Co.,rheumatism,,R. M. Swearingen,lot 1002,,friends,,9th ward,1897-04-18,A536,y
+8151,Edna,Harris,,023-00-00,F,W,,acute meningitis,,W. A. Harper,lot 395,,friends,,2nd ward,1897-04-12,H620,y
+8150,infant of C.,Luna,,000-00-10,M,M,Austin,inanition,,H. B. Granbury,old graveyard,,city,,1st ward,1897-04-11,L500,y
+8149,J.,Ballinger,,083-00-00,M,W,Kentucky,paralysis,,Frank Litten,lot 1039,,friends,,7th ward,1897-04-08,B452,y
+8148,Mrs. R. H.,Ward,,042-00-00,M,W,Austin,LaGrippe,,F. P. McLaughlin,lot 1006,,friends,,4th ward,1897-04-05,W630,y
+8147,Fanny,Wright,,000-01-00,F,N,Austin,bronchitis,,J. H. Stevens,old graveyard,,friends,,7th ward,1897-03-30,W623,y
